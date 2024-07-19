@@ -1,0 +1,190 @@
+.rtl .metric .icon {
+	float:left;	
+}
+.rtl .panel.panel-headline .panel-heading a {
+    float: left;
+}
+.rtl .review-box .review-avg-rating {
+	float:right;
+	margin-right:0;
+	margin-left:20px;	
+}
+.rtl .review-box .review-avg-rating ul {
+    margin-bottom:0;
+}
+.rtl .review-content-box .review-content-meta, .rtl .review-box .review-author-name h4  {
+    float: right;
+	width:100%;
+}
+.rtl .sidebar .nav i {
+    margin-right: 0;
+	margin-left: 10px;
+}
+.rtl .rating-stars-box .rating-stars label {
+	margin-right:0;
+	margin-left:10px;	
+}
+.rtl .rating-stars-box .rating-stars ul {
+	float:right;	
+}
+.rtl footer {
+    right: auto;
+	left: 10px;
+}
+.rtl #wrapper .sidebar {
+    width: 260px;
+    float: right;
+    left: auto;
+	right: 0;
+}
+.rtl #wrapper .main {
+	left:auto;
+	right:0;
+	float:left;	
+}
+.rtl .change-psw .modal-header h2 {
+	float:right;	
+}
+.rtl .sidebar .nav > li > a[data-toggle="collapse"] .icon-submenu {
+	float:left;	
+}
+.rtl .sidebar .nav > li.welcome-text img {
+    margin-right: 0;
+    float: right;
+	margin-left: 10px;
+}	
+.rtl .sidebar .nav > li > a {
+	border-left: none;
+	border-right: 5px solid transparent;
+}
+.rtl .sidebar .nav .nav > li > a {
+	padding-left: 20px;
+	padding-right: 60px;
+}
+.rtl .sidebar .nav > li > a:focus, .rtl .sidebar .nav > li > a.active {
+    border-left-color: #252c35;
+	border-right-color: #E52D27;
+}
+.rtl .sidebar .nav > li > a .badge {
+	float:left;	
+}
+.rtl .dashboard-main .profile-details li .profile-meta {
+    padding-left: 0;
+	padding-right: 60px;
+}
+.rtl .dashboard-main .profile-details li i {
+	margin-right: 0;
+	margin-left: 15px;
+	float:right;	
+}
+.rtl .profile-meta ul li i.icon {
+    float: right;
+    margin-left: 10px;
+	margin-right: 0;
+}
+.rtl .profile-meta ul li {
+	float:right;	
+}
+.rtl .ad-listing.on-profile .content-area .price {
+	right:auto;
+	left:3px;	
+}
+.rtl .ad-listing.on-profile .content-area h3 {
+    padding-right: 0;
+	padding-left: 110px;
+}
+.rtl .ad-listing.on-profile .content-area .ad-details ul li {
+    margin-right: 0;
+	margin-left: 20px;
+    padding-right: 10px;
+	padding-left: 20px;
+    border-right: none;
+	border-left: 1px solid #ddd;
+	line-height: 20px;
+}
+.rtl .ad-listing.on-profile .content-area .ad-details ul li:last-child {
+	border-left:none;
+	margin-left:0;
+	padding-left:0;
+}
+.rtl .sidebar .profile-widget ul.widget-listing-details li span i {
+    margin-left: 10px;
+	margin-right: 0;
+}
+.rtl .dashboard-table tr td .is-ad-featured {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.rtl .dashboard-table tr td .ad-date {
+    margin-left: 10px;
+	margin-right: 0;
+}
+.rtl .dashboard-table tr td .ad-actions .navbar-nav .dropdown-menu {
+    right: auto;
+    left: 0;
+}
+.rtl .dropdown-menu > li i {
+    margin-right: 0;
+	margin-left: 6px;
+}
+.rtl .form-published-search {
+    float: left;
+}
+.rtl .on-backend .review-content-box .review-content-meta {
+    width: 66%;
+    float: right;
+} 
+.rtl .on-backend .rating-stars-box {
+    position: relative;
+    overflow: hidden;
+    width: 34%;
+}
+.rtl .on-backend .rating-stars-box .rating-stars {
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}
+.rtl .on-backend .rating-stars-box .rating-stars label {
+	display:inline-block;	
+}
+.rtl .on-backend .rating-stars-box .rating-stars ul {
+	float:left;	
+}
+.rtl .navbar-default .brand {
+	float:right;	
+}
+.rtl .navbar-btn {
+    float: right;
+}
+.rtl .navbar-btn button i {
+	transform:rotate(180deg);	
+}
+.rtl .navbar-default .navbar-btn.post-btn {
+	float:left;	
+}
+.rtl.layout-fullwidth #wrapper .sidebar {
+    left: auto;
+	right: -260px;
+}
+.rtl .alert-icon {
+    margin-right: 0;
+	margin-left: 15px;
+}
+.rtl .review-form .review-star-box li {
+    width: 32.5%;
+}
+.rtl .rating-container .rating-stars {
+	float:right;	
+}
+@media screen and (max-width: 1024px) {
+.rtl #wrapper .sidebar {
+	left: -260px;
+}
+.rtl .navbar-btn button.btn-toggle-fullwidth i::before{
+	content: "\f118";
+	}
+	
+	.rtl.layout-fullwidth .navbar-btn button.btn-toggle-fullwidth i::before{
+	content: "\f11d";
+	}
+}

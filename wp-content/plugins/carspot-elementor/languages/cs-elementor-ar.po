@@ -1,0 +1,2493 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: Carspot Elementor Widgets\n"
+"POT-Creation-Date: 2022-04-19 12:05+0500\n"
+"PO-Revision-Date: 2022-04-19 12:05+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: carspot-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: carspot-elementor.php:58
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "\"%1$s\" يتطلب تثبيت \"%2$s\" وتنشيطه."
+
+#: carspot-elementor.php:59 carspot-elementor.php:71
+msgid "Carspot Elementor Widgets "
+msgstr "أدوات عنصر أو سيارة "
+
+#: carspot-elementor.php:60 carspot-elementor.php:84
+msgid "Elementor "
+msgstr "مصمم الصفحات"
+
+#: carspot-elementor.php:70 carspot-elementor.php:83
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "يتطلب \"%1$s\" إصدار \"%2$s\" %3$s أو أكبر."
+
+#: carspot-elementor.php:72
+msgid "Elementor"
+msgstr "مصمم الصفحات"
+
+#: carspot-elementor.php:85
+msgid "PHP"
+msgstr "Php"
+
+#: plugin.php:124
+msgid "Carspot Widgets"
+msgstr "أدوات كارسبوت"
+
+#: shortcodes-html.php:27 shortcodes-html.php:29 shortcodes-html.php:124
+#: shortcodes-html.php:180 shortcodes-html.php:182 shortcodes-html.php:2369
+#: shortcodes-html.php:2375 shortcodes-html.php:2641 shortcodes-html.php:2643
+#: shortcodes-html.php:2761 shortcodes-html.php:2762 shortcodes-html.php:3854
+#: shortcodes-html.php:6259 shortcodes-html.php:6261 shortcodes-html.php:6460
+#: shortcodes-html.php:6463
+msgid "Image Not Found"
+msgstr "لم يتم العثور علي الصورة"
+
+#: shortcodes-html.php:540
+msgid "Do you want to make this ad <strong> featured </strong>!"
+msgstr "هل تريد ان تجعل هذا الإعلان <strong> </strong> مميزه!"
+
+#: shortcodes-html.php:552
+msgid "This is a FREE ad. You may upgrade it now! See our PACKAGES"
+msgstr "هذا إعلان مجاني. يمكنك ترقيته الآن! شاهد باقاتنا"
+
+#: shortcodes-html.php:554 shortcodes-html.php:562
+msgid "Packages. "
+msgstr "الباقات."
+
+#: shortcodes-html.php:560
+msgid ""
+"If you want to make it <strong>Featured</strong> then please have a look on"
+msgstr ""
+"إذا كنت تريد ان تجعل من <strong> المميز </strong> ثم الرجاء إلقاء نظره علي"
+
+#: shortcodes-html.php:569
+msgid "This ad is already FEATURED"
+msgstr "الإعلان مميز مسبقا"
+
+#: shortcodes-html.php:579
+msgid "Bump it up on the top of the list!"
+msgstr "ترقية الإعلان لأعلي القائمة."
+
+#: shortcodes-html.php:592
+msgid "Select Your Country"
+msgstr "اختر المدينة"
+
+#: shortcodes-html.php:593
+msgid "Select Your State"
+msgstr "اختار فئة"
+
+#: shortcodes-html.php:594
+msgid "Select Your City"
+msgstr "اختر مدينتك"
+
+#: shortcodes-html.php:595
+msgid "Select Your Town"
+msgstr "اختر مدينتك"
+
+#: shortcodes-html.php:627
+msgid "PDF Brochure:"
+msgstr "كتيب PDF"
+
+#: shortcodes-html.php:627 shortcodes-html.php:1002
+msgid "You can upload "
+msgstr "يمكنك تحميل فقط"
+
+#: shortcodes-html.php:627
+msgid " pdf brochures with size "
+msgstr " كتيبات pdf مع حجم "
+
+#: shortcodes-html.php:654
+msgid "Price Type"
+msgstr "نوع السعر"
+
+#: shortcodes-html.php:656
+msgid "None"
+msgstr "لا شيء"
+
+#: shortcodes-html.php:657
+msgid "Fixed"
+msgstr "ثابت"
+
+#: shortcodes-html.php:658
+msgid "Negotiable"
+msgstr "قابل للتفاوض"
+
+#: shortcodes-html.php:659
+msgid "Price on call"
+msgstr "السعر عند الاتصال"
+
+#: shortcodes-html.php:660
+msgid "Free"
+msgstr "مجاني"
+
+#: shortcodes-html.php:661
+msgid "No price"
+msgstr "سعر غير محدد"
+
+#: shortcodes-html.php:669
+msgid "Price"
+msgstr "السعر"
+
+#: shortcodes-html.php:669
+msgid "only"
+msgstr "قيمه العدد الصحيح فقط بدون مسافات."
+
+#: shortcodes-html.php:670
+msgid "Can't be empty and only integers allowed."
+msgstr "لا يمكن أن تكون فارغة، الأعداد الصحيحة فقط."
+
+#: shortcodes-html.php:679
+msgid "Photos for your ad"
+msgstr "صور لإعلانك"
+
+#: shortcodes-html.php:679
+msgid "Only allowed jpg, png and jpeg and max file will not more than"
+msgstr "يسمح فقط jpg ، وبابوا نيو غينيا والحياة الjpeg وملف ماكس لا أكثر من"
+
+#: shortcodes-html.php:685
+msgid "Youtube Video Link"
+msgstr "رابط فيديو يوتيوب"
+
+#: shortcodes-html.php:691
+msgid "Tags"
+msgstr "الوسوم"
+
+#: shortcodes-html.php:691
+msgid "Comma(,) sepataed"
+msgstr "فصل فاصله"
+
+#: shortcodes-html.php:716 shortcodes-html.php:892 shortcodes-html.php:917
+#: shortcodes-html.php:942 shortcodes-html.php:953 shortcodes-html.php:1070
+#: shortcodes-html.php:1079 shortcodes-html.php:1136 shortcodes-html.php:1140
+msgid "This field is required."
+msgstr "هذا الحقل مطلوب."
+
+#: shortcodes-html.php:773
+msgid "Drag pin for your pin-point location."
+msgstr "حرك العلامة للإشارة إلى موقعك"
+
+#: shortcodes-html.php:882 widgets/ads_google_map.php:98
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: shortcodes-html.php:886 widgets/ads_google_map.php:107
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: shortcodes-html.php:914
+msgid "ON"
+msgstr "تشغيل"
+
+#: shortcodes-html.php:915
+msgid "OFF"
+msgstr "إيقاف"
+
+#: shortcodes-html.php:941 widgets/contact_us.php:61
+msgid "Address"
+msgstr "العنوان"
+
+#: shortcodes-html.php:942
+msgid "Search Location"
+msgstr "بحث"
+
+#: shortcodes-html.php:1002
+msgid "Upload Video: "
+msgstr "تحميل الفيديو: "
+
+#: shortcodes-html.php:1002
+msgid " videos (mp4, ogg, webm) with size "
+msgstr " أشرطة الفيديو (mp4، ogg، webm) مع حجم "
+
+#: shortcodes-html.php:1004
+msgid "Drop video here or click to upload"
+msgstr "إسقاط الفيديو هنا أو انقر لتحميل"
+
+#: shortcodes-html.php:1020
+msgid "VIN Number"
+msgstr "رقم VIN"
+
+#: shortcodes-html.php:1041
+msgid "Choose Stamp"
+msgstr "اختر طابع"
+
+#: shortcodes-html.php:1069 widgets/about-us-fancy.php:175
+#: widgets/ad_post.php:106 widgets/apps-classic.php:122
+#: widgets/apps-classic.php:155 widgets/apps-simple.php:70
+#: widgets/apps-simple.php:103 widgets/apps-simple.php:136
+#: widgets/call_to_action.php:53 widgets/call_to_action_two.php:53
+#: widgets/fun_facts.php:95 widgets/process_cycle.php:105
+#: widgets/process_cycle.php:139 widgets/process_cycle.php:173
+#: widgets/testimonial.php:99 widgets/testimonial_two.php:99
+#: widgets/why_us.php:99
+msgid "Title"
+msgstr "العنوان"
+
+#: shortcodes-html.php:1070
+msgid "Enter title"
+msgstr "ادخل عنوان اسئله وأجوبه التطبيق."
+
+#: shortcodes-html.php:1078
+msgid "Select suitable category for your ad"
+msgstr "حدد التصنيف المناسب لإعلانك"
+
+#: shortcodes-html.php:1080 shortcodes-html.php:4842
+msgid "Select Option"
+msgstr "‫الرجاء الاختيار"
+
+#: shortcodes-html.php:1116
+msgid "Ad Description"
+msgstr "وصف الإعلان المميز"
+
+#: shortcodes-html.php:1116
+msgid "Enter long description for your project"
+msgstr "صِف اعلانك وصفاً واضحاً ومفصلاً"
+
+#: shortcodes-html.php:1128
+msgid "User Information"
+msgstr "معلومات المستخدم"
+
+#: shortcodes-html.php:1135
+msgid "Your Name"
+msgstr "اسمك"
+
+#: shortcodes-html.php:1139
+msgid "Mobile Number"
+msgstr "رقم الطلب"
+
+#: shortcodes-html.php:1151
+msgid "Post My Ad"
+msgstr "علي وظيفة الإعلان."
+
+#: shortcodes-html.php:1175
+msgid "Drop files here to upload"
+msgstr "إسقاط الملفات هنا للتحميل"
+
+#: shortcodes-html.php:1176
+msgid "Your browser does not support drag'n'drop file uploads."
+msgstr "المتصفح الخاص بك لا يدعم السحب والافلات لرفع الملفات."
+
+#: shortcodes-html.php:1177
+msgid ""
+"Please use the fallback form below to upload your files like in the olden "
+"days."
+msgstr "الرجاء استخدام النموذج الاحتياطي أدناه لتحميل ملفاتك."
+
+#: shortcodes-html.php:1178
+msgid ""
+"File is too big ({{ filesize }}MiB). Max filesize: {{ maxFilesize }}MiB."
+msgstr ""
+"الحجم كبير جدا.  ({{filesize}}MiB). حجم الملف الاقصي: {{maxFilesize}}MiB."
+
+#: shortcodes-html.php:1179
+msgid "You can't upload files of this type."
+msgstr "لا يمكنك تحميل صور من هذا النوع."
+
+#: shortcodes-html.php:1180
+msgid "Server responded with {{ statusCode }} code."
+msgstr "تم رد الخادم باستخدام رمز {{statusCode}}."
+
+#: shortcodes-html.php:1181
+msgid "Cancel upload"
+msgstr "إلغاء الرفع"
+
+#: shortcodes-html.php:1182
+msgid "Are you sure you want to cancel this upload?"
+msgstr "هل أنت متأكد من  أنك تريد الغاء الرفع؟"
+
+#: shortcodes-html.php:1183
+msgid "Remove file"
+msgstr "إزالة الملف"
+
+#: shortcodes-html.php:1184
+msgid "You can not upload any more files."
+msgstr "لا يمكنك تحميل أي ملفات أخرى."
+
+#: shortcodes-html.php:1185
+msgid "Images are required."
+msgstr "تصاویر باید انتخاب شود"
+
+#: shortcodes-html.php:1186
+msgid "Logo is required."
+msgstr "الشعار مطلوب."
+
+#: shortcodes-html.php:1192
+msgid "Videos are required."
+msgstr "مقاطع الفيديو مطلوبة."
+
+#: shortcodes-html.php:1694
+msgid "Featured"
+msgstr "مميز"
+
+#: shortcodes-html.php:1806
+msgid "Previous point on map"
+msgstr "النقطة السابقة علي الخريطة"
+
+#: shortcodes-html.php:1806
+msgid "Prev"
+msgstr "السابق"
+
+#: shortcodes-html.php:1807
+msgid "Next point on map"
+msgstr "النقطة التالية علي الخريطة"
+
+#: shortcodes-html.php:1807
+msgid "Next"
+msgstr "التالي >>"
+
+#: shortcodes-html.php:2069
+msgid "app image"
+msgstr "صوره التطبيق"
+
+#: shortcodes-html.php:2199
+msgid "Avatar"
+msgstr "الصورة الشخصية"
+
+#: shortcodes-html.php:2209
+msgid "comments"
+msgstr "التعليقات"
+
+#: shortcodes-html.php:2214
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: shortcodes-html.php:2554 shortcodes-html.php:2556 shortcodes-html.php:2562
+#: shortcodes-html.php:2564
+msgid "car image"
+msgstr "صوره السيارة"
+
+#: shortcodes-html.php:2836
+msgid "View All"
+msgstr "عرض الكل"
+
+#: shortcodes-html.php:2957 shortcodes-html.php:2961
+msgid "clients"
+msgstr "زبائن"
+
+#: shortcodes-html.php:3067 shortcodes-html.php:3077
+msgid "imag not found"
+msgstr "لم يتم العثور على imag"
+
+#: shortcodes-html.php:3074
+msgid "vs"
+msgstr "‫vs"
+
+#: shortcodes-html.php:3519 shortcodes-html.php:3521 shortcodes-html.php:3643
+#: shortcodes-html.php:3645
+msgid "Package Validity"
+msgstr "صلاحيه الباقة"
+
+#: shortcodes-html.php:3519 shortcodes-html.php:3643
+msgid "Lifetime"
+msgstr "الفترة الزمنية"
+
+#: shortcodes-html.php:3521 shortcodes-html.php:3645
+msgid "Days"
+msgstr "أيام"
+
+#: shortcodes-html.php:3525 shortcodes-html.php:3530 shortcodes-html.php:3535
+#: shortcodes-html.php:3649 shortcodes-html.php:3654 shortcodes-html.php:3659
+msgid "Unlimited"
+msgstr "غير محدود"
+
+#: shortcodes-html.php:3526 shortcodes-html.php:3650 widgets/ads.php:98
+#: widgets/ads_google_map.php:58 widgets/ads_slider.php:103
+msgid "Simple Ads"
+msgstr "إعلانات عادية"
+
+#: shortcodes-html.php:3531 shortcodes-html.php:3655 widgets/ads.php:97
+#: widgets/ads_google_map.php:57 widgets/ads_slider.php:102
+msgid "Featured Ads"
+msgstr "إعلانات مميزة"
+
+#: shortcodes-html.php:3536 shortcodes-html.php:3660
+msgid "Bump-up Ads"
+msgstr "حرك الإعلان لاعلى القائمة"
+
+#: shortcodes-html.php:3579 shortcodes-html.php:3679
+msgid "Select Plan"
+msgstr "اختر خطة"
+
+#: shortcodes-html.php:4130 shortcodes-html.php:4132 shortcodes-html.php:4644
+#: shortcodes-html.php:4646 widgets/search_bar_minimal.php:72
+#: widgets/search_fancy.php:110 widgets/search_modern.php:73
+msgid "Select Make"
+msgstr "- تحديد -"
+
+#: shortcodes-html.php:4139 shortcodes-html.php:4141 shortcodes-html.php:4654
+#: shortcodes-html.php:4656
+msgid "Select Year"
+msgstr "السنة"
+
+#: shortcodes-html.php:4148 widgets/search_bar_minimal.php:150
+#: widgets/search_bar_minimal.php:159 widgets/search_tab_advance.php:132
+#: widgets/search_tab_advance.php:141
+msgid "Body Type"
+msgstr "وارد"
+
+#: shortcodes-html.php:4150 shortcodes-html.php:5312
+#: widgets/search_bar_minimal.php:167 widgets/search_tab_advance.php:163
+msgid "Select Body Type"
+msgstr "حدد نوع الخريطة"
+
+#: shortcodes-html.php:4158 shortcodes-html.php:4664 shortcodes-html.php:4857
+#: shortcodes-html.php:5180 shortcodes-html.php:5903
+msgid "Search Now"
+msgstr "ابحث الان"
+
+#: shortcodes-html.php:4199 shortcodes-html.php:4639 shortcodes-html.php:4835
+msgid "What Are You Looking For..."
+msgstr "عن ماذا تبحث..."
+
+#: shortcodes-html.php:4326 shortcodes-html.php:4967 shortcodes-html.php:5166
+#: shortcodes-html.php:5168 shortcodes-html.php:5276
+msgid "Select Make : Any make"
+msgstr "حدد الصنع: اي جعل"
+
+#: shortcodes-html.php:4331
+msgid "Audi A4 For Sale...."
+msgstr "اودي A4 للبيع...."
+
+#: shortcodes-html.php:4335 shortcodes-html.php:4976 shortcodes-html.php:5175
+msgid "Select Year : Any Year"
+msgstr "اختر السنه: اي سنه"
+
+#: shortcodes-html.php:4340 shortcodes-html.php:4465 shortcodes-html.php:4981
+msgid "Search"
+msgstr "بحث..."
+
+#: shortcodes-html.php:4428
+msgid "image"
+msgstr "صورة"
+
+#: shortcodes-html.php:4455 widgets/ad_by_make.php:127 widgets/ads.php:202
+#: widgets/ads_google_map.php:147 widgets/ads_slider.php:149
+#: widgets/cat_classic.php:111 widgets/cats_fancy.php:128
+#: widgets/expert_reviews.php:111 widgets/reviews.php:107
+#: widgets/search_bar_minimal.php:92 widgets/search_tab_classified.php:167
+msgid "Select Category"
+msgstr "اختر تصنيف"
+
+#: shortcodes-html.php:4461
+msgid "Eg Honda Civic , Audi , Ford..."
+msgstr "علي سبيل المثال هوندا سيفيك, اودي, فورد..."
+
+#: shortcodes-html.php:4624
+msgid "Search Car In Details"
+msgstr "البحث في تفاصيل السيارة"
+
+#: shortcodes-html.php:4627
+msgid "Search Car By Type"
+msgstr "البحث عن السيارات حسب النوع"
+
+#: shortcodes-html.php:4638 shortcodes-html.php:5162 shortcodes-html.php:5878
+#: widgets/search_bar_minimal.php:46 widgets/search_creative.php:46
+#: widgets/search_simple.php:46
+msgid "Keyword"
+msgstr "كلمة البحث"
+
+#: shortcodes-html.php:5154 shortcodes-html.php:5870 shortcodes-html.php:5961
+#: shortcodes-html.php:6192 shortcodes-html.php:6557
+msgid "image not found"
+msgstr "لم يتم العثور علي الصورة"
+
+#: shortcodes-html.php:5163 shortcodes-html.php:5879
+msgid "What are you looking for..."
+msgstr "عن ماذا تبحث..."
+
+#: shortcodes-html.php:5173 shortcodes-html.php:5282
+msgid "Select Manufacturing Year"
+msgstr "تحديد سنه التصنيع"
+
+#: shortcodes-html.php:5185 shortcodes-html.php:5908
+msgid "Image not found"
+msgstr "الصورة غير موجودة"
+
+#: shortcodes-html.php:5288
+msgid "Select Condition"
+msgstr "الحالة"
+
+#: shortcodes-html.php:5294
+msgid "Select Tag"
+msgstr "اختيار الوسم"
+
+#: shortcodes-html.php:5300
+msgid "Select Ad Type"
+msgstr "تحديد نوع الإعلان"
+
+#: shortcodes-html.php:5306
+msgid "Select Warranty"
+msgstr "حدد الضمان"
+
+#: shortcodes-html.php:5318
+msgid "Select Transmission"
+msgstr "اختر الإرسال"
+
+#: shortcodes-html.php:5324
+msgid "Select Engine Size"
+msgstr "حدد حجم المحرك"
+
+#: shortcodes-html.php:5330
+msgid "Select Engine Type"
+msgstr "حدد نوع المحرك"
+
+#: shortcodes-html.php:5336
+msgid "Select Assemble"
+msgstr "حدد تجميع"
+
+#: shortcodes-html.php:5342
+msgid "Select Color"
+msgstr "إختر لون"
+
+#: shortcodes-html.php:5348
+msgid "Select Insurance"
+msgstr "حدد التأمين"
+
+#: shortcodes-html.php:5354
+msgid "Select Feature"
+msgstr "اختر الميزة"
+
+#: shortcodes-html.php:5360
+msgid "Select Country"
+msgstr "اختر الدولة"
+
+#: shortcodes-html.php:5366
+msgid "Choose Price"
+msgstr "اختر السعر"
+
+#: shortcodes-html.php:5372
+msgid "Choose Location With Radius"
+msgstr "اختيار الموقع مع نصف القطر"
+
+#: shortcodes-html.php:5378 widgets/search_side_form_two.php:619
+msgid "KM"
+msgstr "اختر المسافة في (كم)"
+
+#: shortcodes-html.php:5380 widgets/search_side_form_two.php:618
+msgid "Miles"
+msgstr "ميل"
+
+#: shortcodes-html.php:5427
+msgid "From"
+msgstr "من"
+
+#: shortcodes-html.php:5429
+msgid "Year From"
+msgstr "السنة من"
+
+#: shortcodes-html.php:5432
+msgid "To"
+msgstr "إلى"
+
+#: shortcodes-html.php:5434
+msgid "Year To"
+msgstr "من السنة إلى"
+
+#: shortcodes-html.php:5811
+msgid "Search location"
+msgstr "نطاق البحث"
+
+#: shortcodes-html.php:5812
+msgid "Select Radius"
+msgstr "حدد نصف القطر"
+
+#: shortcodes-html.php:5814
+msgid "5"
+msgstr "الشبكة 5"
+
+#: shortcodes-html.php:5815
+msgid "10"
+msgstr "10"
+
+#: shortcodes-html.php:5816
+msgid "15"
+msgstr "15"
+
+#: shortcodes-html.php:5817
+msgid "20"
+msgstr "20"
+
+#: shortcodes-html.php:5818
+msgid "25"
+msgstr "٢٥"
+
+#: shortcodes-html.php:5819
+msgid "35"
+msgstr "٣٥"
+
+#: shortcodes-html.php:5820
+msgid "50"
+msgstr "50"
+
+#: shortcodes-html.php:5821
+msgid "100"
+msgstr "100"
+
+#: shortcodes-html.php:5822
+msgid "150"
+msgstr "150"
+
+#: shortcodes-html.php:5823
+msgid "200"
+msgstr "200"
+
+#: shortcodes-html.php:5824
+msgid "300"
+msgstr "300"
+
+#: shortcodes-html.php:5825
+msgid "500"
+msgstr "500"
+
+#: shortcodes-html.php:5826
+msgid "1000"
+msgstr "1000"
+
+#: shortcodes-html.php:6009 shortcodes-html.php:6132 shortcodes-html.php:6371
+msgid "Image Not Available"
+msgstr "الصورة غير متوفرة"
+
+#: shortcodes-html.php:6738 shortcodes-html.php:6905 shortcodes-html.php:7074
+msgid "Reviews"
+msgstr "التقييمات"
+
+#: shortcodes-html.php:7129
+msgid "Sign in with Facebook"
+msgstr "فيسبوك"
+
+#: shortcodes-html.php:7133 shortcodes-html.php:7220
+msgid "Google logo"
+msgstr "شعار جوجل"
+
+#: shortcodes-html.php:7133
+msgid "Sign in with Google"
+msgstr "الدخول مع جوجل"
+
+#: shortcodes-html.php:7140 shortcodes-html.php:7228
+msgid "OR"
+msgstr "أو"
+
+#: shortcodes-html.php:7170
+msgid "Forgot Your Password ?"
+msgstr "هل نسيت كلمه المرور ؟"
+
+#: shortcodes-html.php:7216
+msgid "Sign up with Facebook"
+msgstr "صفحه التسجيل"
+
+#: shortcodes-html.php:7220
+msgid "Sign up with Google"
+msgstr "اشترك مع غوغل"
+
+#: shortcodes-html.php:7245
+msgid "You did not get the e-mail? RESEND NOW"
+msgstr "لم تحصل علي البريد الكتروني ؟ أعاده إرسال الآن"
+
+#: shortcodes-html.php:7245
+msgid "Resend now."
+msgstr "إعاده إرسال الآن."
+
+#: shortcodes-html.php:7251
+msgid "You still haven’t received the e-mail? Contact the Administrator"
+msgstr "الم تستلم البريد الكتروني بعد ؟ اتصل بالمسؤول"
+
+#: shortcodes-html.php:7251
+msgid "You still haven’t received the e-mail? Contact the Administrator."
+msgstr "الم تستلم البريد الكتروني بعد ؟ اتصل بالمسؤول."
+
+#: widgets/about-us-fancy.php:17
+msgid "About Us Modern/Fancy"
+msgstr "عن لنا الحديثة / نزوة"
+
+#: widgets/about-us-fancy.php:46 widgets/about-us-simple.php:46
+#: widgets/about-us.php:46
+msgid "About Us"
+msgstr "معلومات عنا"
+
+#: widgets/about-us-fancy.php:54 widgets/about-us-simple.php:71
+#: widgets/about-us.php:83 widgets/buy_sell.php:103 widgets/buy_sell.php:176
+#: widgets/call_to_action_three.php:124 widgets/call_to_action_three.php:196
+#: widgets/car_inspection.php:154 widgets/quote.php:61
+#: widgets/search_fancy.php:81 widgets/search_tab_advance.php:150
+#: widgets/search_tab_classified.php:176 widgets/services_classic.php:78
+msgid "Image"
+msgstr "صوره"
+
+#: widgets/about-us-fancy.php:56 widgets/about-us-simple.php:73
+#: widgets/about-us.php:85 widgets/our_team.php:125
+msgid "Recommended Size For Image should be 555x296.png"
+msgstr "يجب أن يكون الحجم الموصى به للصورة 555x296.png"
+
+#: widgets/about-us-fancy.php:68 widgets/about-us-simple.php:53
+#: widgets/about-us.php:54 widgets/ad_by_location.php:79
+#: widgets/ad_by_make.php:78 widgets/ads.php:66 widgets/ads_slider.php:66
+#: widgets/advertisement_72-_90.php:66 widgets/apps-classic.php:73
+#: widgets/apps-simple.php:53 widgets/blog.php:66 widgets/buy_salse_hero.php:53
+#: widgets/buy_salse_hero.php:116 widgets/cat_classic.php:66
+#: widgets/cats_fancy.php:67 widgets/compare_posts.php:66
+#: widgets/expert_reviews.php:66 widgets/faq.php:66 widgets/faq.php:139
+#: widgets/our_team.php:73 widgets/packages.php:66
+#: widgets/packages_style_two.php:73 widgets/popular_cats.php:66
+#: widgets/process_cycle.php:66 widgets/reviews.php:66
+#: widgets/search_creative.php:53 widgets/search_fancy.php:53
+#: widgets/search_make_models.php:53 widgets/search_modern.php:53
+#: widgets/search_modern_two.php:62 widgets/search_side_form.php:53
+#: widgets/search_side_form_two.php:53 widgets/search_simple.php:53
+#: widgets/search_tab_advance.php:53 widgets/services.php:66
+#: widgets/services_classic.php:61 widgets/services_modern.php:87
+#: widgets/services_simple.php:66 widgets/services_three.php:66
+#: widgets/services_two.php:66 widgets/services_with_facts.php:66
+#: widgets/shop_products.php:66 widgets/shop_slider.php:66
+#: widgets/shop_tabs.php:66 widgets/testimonial.php:66
+#: widgets/testimonial_two.php:66 widgets/textblock.php:66
+#: widgets/why_us.php:66
+msgid "Section Title"
+msgstr "عنوان القسم"
+
+#: widgets/about-us-fancy.php:71 widgets/about-us-simple.php:55
+#: widgets/about-us.php:56
+msgid "About Car Spot Dealership"
+msgstr "حول وكالة سبوت السيارة"
+
+#: widgets/about-us-fancy.php:72 widgets/about-us-simple.php:56
+#: widgets/about-us.php:57
+msgid "About Carspot Dealership"
+msgstr "حول وكالة كارسبوت"
+
+#: widgets/about-us-fancy.php:79 widgets/about-us-simple.php:63
+#: widgets/about-us.php:74 widgets/ad_by_location.php:88
+#: widgets/ad_by_make.php:87 widgets/ads.php:74 widgets/ads_slider.php:77
+#: widgets/advertisement_72-_90.php:77 widgets/blog.php:77
+#: widgets/buy_salse_hero.php:61 widgets/buy_salse_hero.php:124
+#: widgets/buy_sell.php:95 widgets/buy_sell.php:168
+#: widgets/car_inspection.php:69 widgets/car_inspection_two.php:69
+#: widgets/cat_classic.php:77 widgets/cats_fancy.php:78
+#: widgets/compare_posts.php:77 widgets/expert_reviews.php:77
+#: widgets/faq.php:77 widgets/faq.php:147 widgets/our_team.php:84
+#: widgets/packages.php:77 widgets/packages_style_two.php:84
+#: widgets/popular_cats.php:77 widgets/process_cycle.php:77
+#: widgets/reviews.php:77 widgets/services.php:77
+#: widgets/services_classic.php:70 widgets/services_modern.php:96
+#: widgets/services_simple.php:77 widgets/services_three.php:77
+#: widgets/services_two.php:77 widgets/services_with_facts.php:77
+#: widgets/shop_products.php:77 widgets/shop_slider.php:77
+#: widgets/shop_tabs.php:77 widgets/testimonial.php:77
+#: widgets/testimonial_two.php:77 widgets/textblock.php:77
+#: widgets/why_us.php:77
+msgid "Section Description"
+msgstr "وصف القسم"
+
+#: widgets/about-us-fancy.php:90 widgets/services_three.php:91
+msgid "Service"
+msgstr "الخدمة"
+
+#: widgets/about-us-fancy.php:99 widgets/services.php:17
+#: widgets/services_classic.php:46 widgets/services_modern.php:80
+msgid "Services"
+msgstr "خدمات"
+
+#: widgets/about-us-fancy.php:105
+msgid "Extend the life of the car"
+msgstr "إطالة عمر السيارة"
+
+#: widgets/about-us-fancy.php:116 widgets/about-us-fancy.php:123
+#: widgets/about-us-fancy.php:125 widgets/textblock.php:91
+msgid "Content"
+msgstr "صورة خلفية محتوى الصورة"
+
+#: widgets/about-us-fancy.php:127
+msgid "Your Content here"
+msgstr "المحتوى الخاص بك هنا"
+
+#: widgets/about-us-fancy.php:135 widgets/about-us-fancy.php:195
+#: widgets/fun_facts.php:17 widgets/fun_facts.php:69
+#: widgets/services_with_facts.php:168
+msgid "Fun Facts"
+msgstr "حقائق ممتعة"
+
+#: widgets/about-us-fancy.php:142 widgets/fun_facts.php:53
+msgid "Column"
+msgstr "عمود"
+
+#: widgets/about-us-fancy.php:146 widgets/fun_facts.php:58
+msgid "3 Col"
+msgstr "3 أعمدة"
+
+#: widgets/about-us-fancy.php:147 widgets/fun_facts.php:59
+msgid "4 Col"
+msgstr "4 عقيد"
+
+#: widgets/about-us-fancy.php:156 widgets/about-us.php:120
+#: widgets/services_classic.php:113
+msgid "Icon"
+msgstr "أيقونة"
+
+#: widgets/about-us-fancy.php:165 widgets/fun_facts.php:87
+msgid "Numbers"
+msgstr "أرقام"
+
+#: widgets/about-us-fancy.php:168
+msgid "Eter only numeric"
+msgstr "Eter رقمي فقط"
+
+#: widgets/about-us-fancy.php:177
+msgid "Some Title"
+msgstr "بعض العنوان"
+
+#: widgets/about-us-fancy.php:178
+msgid "Enter Title here."
+msgstr "ادخل العنوان هنا"
+
+#: widgets/about-us-fancy.php:185 widgets/about-us-fancy.php:187
+#: widgets/fun_facts.php:103
+msgid "Color Title"
+msgstr "لون العنوان"
+
+#: widgets/about-us-fancy.php:188
+msgid "Enter Color Title"
+msgstr "أدخل عنوان اللون"
+
+#: widgets/about-us-fancy.php:202
+msgid "Your Title"
+msgstr "لقبك"
+
+#: widgets/about-us-fancy.php:203
+msgid "Your Color Title"
+msgstr "عنوان اللون الخاص بك"
+
+#: widgets/about-us-simple.php:17
+msgid "About Us Simple"
+msgstr "عن الشركة (جديد)"
+
+#: widgets/about-us-simple.php:84 widgets/about-us.php:97
+#: widgets/car_inspection.php:142 widgets/car_inspection_two.php:144
+#: widgets/services_classic.php:90 widgets/services_modern.php:117
+msgid "Select Image Position"
+msgstr "تحديد موضع الصورة"
+
+#: widgets/about-us-simple.php:88 widgets/call_to_action_three.php:140
+#: widgets/car_inspection.php:145 widgets/car_inspection_two.php:148
+#: widgets/compare_posts.php:128 widgets/services_classic.php:95
+#: widgets/services_modern.php:122
+msgid "Right Side"
+msgstr "الجانب الأيمن"
+
+#: widgets/about-us-simple.php:89 widgets/call_to_action_three.php:68
+#: widgets/car_inspection.php:146 widgets/car_inspection_two.php:149
+#: widgets/compare_posts.php:127 widgets/services_classic.php:94
+#: widgets/services_modern.php:121
+msgid "Left Side"
+msgstr "الجانب الأيسر"
+
+#: widgets/about-us-simple.php:100 widgets/about-us.php:160
+#: widgets/car_inspection.php:169 widgets/car_inspection_two.php:186
+#: widgets/services_classic.php:156
+msgid "Animation"
+msgstr "مربع التمرير سرعة الحركة (مللي ثانية)"
+
+#: widgets/about-us-simple.php:107 widgets/about-us.php:167
+#: widgets/buy_sell.php:61 widgets/buy_sell.php:134
+#: widgets/car_inspection.php:176 widgets/car_inspection_two.php:193
+#: widgets/services.php:214 widgets/services_classic.php:163
+#: widgets/services_simple.php:210 widgets/services_two.php:214
+#: widgets/services_with_facts.php:175
+msgid "Animation Effects"
+msgstr "تاثيرات الحركة"
+
+#: widgets/about-us.php:17
+msgid "About Us Classic"
+msgstr "نبذه عنا كلاسيك"
+
+#: widgets/about-us.php:65 widgets/buy_sell.php:53 widgets/buy_sell.php:126
+#: widgets/car_inspection.php:53 widgets/car_inspection_two.php:53
+#: widgets/clients_slider.php:53 widgets/services_classic.php:53
+msgid "Your Tagline"
+msgstr "(الشعار) الخط"
+
+#: widgets/about-us.php:101
+msgid "Right"
+msgstr "يمين"
+
+#: widgets/about-us.php:102
+msgid "Left"
+msgstr "يسار"
+
+#: widgets/about-us.php:113
+msgid "What We Do"
+msgstr "ما نقوم به"
+
+#: widgets/about-us.php:127 widgets/services.php:99 widgets/services.php:151
+#: widgets/services_classic.php:123 widgets/services_modern.php:176
+#: widgets/services_simple.php:99 widgets/services_simple.php:149
+#: widgets/services_two.php:99 widgets/services_two.php:151
+#: widgets/services_with_facts.php:133
+msgid "Title Of Service"
+msgstr "هذا هو عنوان."
+
+#: widgets/about-us.php:135 widgets/call_to_action_three.php:91
+#: widgets/call_to_action_three.php:163 widgets/call_to_action_two.php:61
+#: widgets/process_cycle.php:113 widgets/process_cycle.php:147
+#: widgets/process_cycle.php:181 widgets/services.php:107
+#: widgets/services.php:159 widgets/services_classic.php:131
+#: widgets/services_modern.php:184 widgets/services_simple.php:107
+#: widgets/services_simple.php:157 widgets/services_three.php:119
+#: widgets/services_two.php:107 widgets/services_two.php:159
+#: widgets/services_with_facts.php:141 widgets/testimonial.php:107
+#: widgets/testimonial_two.php:107 widgets/why_us.php:107
+msgid "Description"
+msgstr "الوصف"
+
+#: widgets/about-us.php:143 widgets/ad_post.php:148
+msgid "Items"
+msgstr "العناصر"
+
+#: widgets/about-us.php:150
+msgid "Some Description"
+msgstr "الوصف:"
+
+#: widgets/about-us.php:151
+msgid ""
+"We have the right caring, experience and dedicated professional for you."
+msgstr "لدينا الرعاية المناسبة والخبرة والمهنية مكرسة لك."
+
+#: widgets/ad_by_location.php:17
+msgid "Ads By Location"
+msgstr "الإعلانات حسب الموقع"
+
+#: widgets/ad_by_location.php:46 widgets/ad_by_make.php:46 widgets/ads.php:46
+#: widgets/ads_slider.php:46 widgets/advertisement_72-_90.php:46
+#: widgets/apps-classic.php:46 widgets/apps-simple.php:46 widgets/blog.php:46
+#: widgets/cat_classic.php:46 widgets/cats_fancy.php:46
+#: widgets/clients_slider.php:46 widgets/compare_posts.php:46
+#: widgets/contact_us.php:46 widgets/expert_reviews.php:46 widgets/faq.php:46
+#: widgets/fun_facts.php:46 widgets/our_team.php:53 widgets/packages.php:46
+#: widgets/packages_style_two.php:53 widgets/popular_cats.php:46
+#: widgets/process_cycle.php:46 widgets/quote.php:46 widgets/reviews.php:46
+#: widgets/search_bar_simple.php:46 widgets/search_fancy.php:46
+#: widgets/search_make_models.php:46 widgets/search_modern.php:46
+#: widgets/search_modern_two.php:46 widgets/search_side_form.php:46
+#: widgets/search_side_form_two.php:46 widgets/search_tab_classified.php:46
+#: widgets/services.php:46 widgets/services_simple.php:46
+#: widgets/services_three.php:46 widgets/services_two.php:46
+#: widgets/services_with_facts.php:46 widgets/shop_products.php:46
+#: widgets/shop_slider.php:46 widgets/shop_tabs.php:46 widgets/signin.php:46
+#: widgets/signup.php:46 widgets/testimonial.php:46
+#: widgets/testimonial_two.php:46 widgets/textblock.php:46
+#: widgets/why_us.php:46
+msgid "Basic"
+msgstr "أساسي"
+
+#: widgets/ad_by_location.php:53 widgets/ad_by_make.php:53
+#: widgets/cats_fancy.php:103
+msgid "Category link Page"
+msgstr "التصنيف"
+
+#: widgets/ad_by_location.php:57 widgets/ad_by_make.php:57
+#: widgets/cats_fancy.php:108
+msgid "Search Page"
+msgstr "بحث"
+
+#: widgets/ad_by_location.php:58 widgets/ad_by_make.php:58
+#: widgets/cats_fancy.php:109
+msgid "Category Page"
+msgstr "التصنيف"
+
+#: widgets/ad_by_location.php:65 widgets/ad_by_make.php:65 widgets/ads.php:53
+#: widgets/ads_slider.php:53 widgets/advertisement_72-_90.php:53
+#: widgets/blog.php:53 widgets/cat_classic.php:53 widgets/cats_fancy.php:54
+#: widgets/compare_posts.php:53 widgets/expert_reviews.php:53
+#: widgets/faq.php:53 widgets/our_team.php:60 widgets/packages.php:53
+#: widgets/packages_style_two.php:60 widgets/popular_cats.php:53
+#: widgets/process_cycle.php:53 widgets/reviews.php:53 widgets/services.php:53
+#: widgets/services_simple.php:53 widgets/services_three.php:53
+#: widgets/services_two.php:53 widgets/services_with_facts.php:53
+#: widgets/shop_products.php:53 widgets/shop_slider.php:53
+#: widgets/shop_tabs.php:53 widgets/testimonial.php:53
+#: widgets/testimonial_two.php:53 widgets/textblock.php:53
+#: widgets/why_us.php:53
+msgid "Header Style"
+msgstr "اختار شكل رأس الصفحة"
+
+#: widgets/ad_by_location.php:69
+msgid "Section Header Style"
+msgstr "نمط راس المقطع"
+
+#: widgets/ad_by_location.php:70 widgets/ad_by_make.php:69 widgets/ads.php:57
+#: widgets/ads_slider.php:57 widgets/advertisement_72-_90.php:57
+#: widgets/blog.php:57 widgets/cat_classic.php:57 widgets/cats_fancy.php:58
+#: widgets/compare_posts.php:57 widgets/expert_reviews.php:57
+#: widgets/faq.php:57 widgets/our_team.php:64 widgets/packages.php:57
+#: widgets/packages_style_two.php:64 widgets/popular_cats.php:57
+#: widgets/process_cycle.php:57 widgets/reviews.php:57 widgets/services.php:57
+#: widgets/services_simple.php:57 widgets/services_three.php:57
+#: widgets/services_two.php:57 widgets/services_with_facts.php:57
+#: widgets/shop_products.php:57 widgets/shop_slider.php:57
+#: widgets/shop_tabs.php:57 widgets/testimonial.php:57
+#: widgets/testimonial_two.php:57 widgets/textblock.php:57
+#: widgets/why_us.php:57
+msgid "No Header"
+msgstr "لا ترويسة"
+
+#: widgets/ad_by_location.php:71 widgets/ad_by_make.php:70 widgets/ads.php:58
+#: widgets/ads_slider.php:58 widgets/advertisement_72-_90.php:58
+#: widgets/blog.php:58 widgets/cat_classic.php:58 widgets/cats_fancy.php:59
+#: widgets/compare_posts.php:58 widgets/expert_reviews.php:58
+#: widgets/faq.php:58 widgets/our_team.php:65 widgets/packages.php:58
+#: widgets/packages_style_two.php:65 widgets/popular_cats.php:58
+#: widgets/process_cycle.php:58 widgets/reviews.php:58 widgets/services.php:58
+#: widgets/services_simple.php:58 widgets/services_three.php:58
+#: widgets/services_two.php:58 widgets/services_with_facts.php:58
+#: widgets/shop_products.php:58 widgets/shop_slider.php:58
+#: widgets/shop_tabs.php:58 widgets/testimonial.php:58
+#: widgets/testimonial_two.php:58 widgets/textblock.php:58
+#: widgets/why_us.php:58
+msgid "Classic"
+msgstr "كلاسيك"
+
+#: widgets/ad_by_location.php:72 widgets/ad_by_make.php:71 widgets/ads.php:59
+#: widgets/ads_slider.php:59 widgets/advertisement_72-_90.php:59
+#: widgets/blog.php:59 widgets/cat_classic.php:59 widgets/cats_fancy.php:60
+#: widgets/compare_posts.php:59 widgets/expert_reviews.php:59
+#: widgets/faq.php:59 widgets/our_team.php:66 widgets/packages.php:59
+#: widgets/packages_style_two.php:66 widgets/popular_cats.php:59
+#: widgets/process_cycle.php:59 widgets/reviews.php:59 widgets/services.php:59
+#: widgets/services_simple.php:59 widgets/services_three.php:59
+#: widgets/services_two.php:59 widgets/services_with_facts.php:59
+#: widgets/shop_products.php:59 widgets/shop_slider.php:59
+#: widgets/shop_tabs.php:59 widgets/testimonial.php:59
+#: widgets/testimonial_two.php:59 widgets/textblock.php:59
+#: widgets/why_us.php:59
+msgid "Regular"
+msgstr "مظبوط"
+
+#: widgets/ad_by_location.php:82 widgets/ad_by_make.php:81
+msgid "Put your title here"
+msgstr "ضع عنوانك هنا"
+
+#: widgets/ad_by_location.php:91 widgets/ad_by_make.php:90
+msgid "Put your description here"
+msgstr "ضع وصفك هنا"
+
+#: widgets/ad_by_location.php:100
+msgid "Location"
+msgstr " الموقع"
+
+#: widgets/ad_by_location.php:108
+msgid "Location Name"
+msgstr "اسم الموقع"
+
+#: widgets/ad_by_location.php:117
+msgid "Location Background Image"
+msgstr "صوره خلفيه الموقع"
+
+#: widgets/ad_by_location.php:129
+msgid "Select Locations"
+msgstr "حدد المواقع"
+
+#: widgets/ad_by_make.php:17
+msgid "Ads By Make(New)"
+msgstr "الإعلانات بواسطة جعل جديد"
+
+#: widgets/ad_by_make.php:98 widgets/ads.php:181 widgets/ads.php:211
+#: widgets/ads_google_map.php:118 widgets/ads_slider.php:141
+#: widgets/ads_slider.php:158 widgets/blog.php:127 widgets/cat_classic.php:103
+#: widgets/cat_classic.php:128 widgets/cats_fancy.php:120
+#: widgets/cats_fancy.php:150 widgets/expert_reviews.php:103
+#: widgets/expert_reviews.php:120 widgets/faq.php:115
+#: widgets/popular_cats.php:91 widgets/reviews.php:99 widgets/reviews.php:116
+#: widgets/search_bar_minimal.php:101 widgets/search_side_form.php:172
+#: widgets/search_tab_classified.php:190 widgets/shop_products.php:152
+#: widgets/shop_slider.php:152 widgets/shop_tabs.php:152
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: widgets/ad_by_make.php:106 widgets/ads_google_map.php:126
+#: widgets/blog.php:135 widgets/popular_cats.php:99
+#: widgets/search_fancy.php:130 widgets/search_make_models.php:73
+#: widgets/search_make_models.php:81 widgets/search_modern.php:93
+#: widgets/search_side_form.php:192 widgets/search_tab_advance.php:74
+#: widgets/search_tab_classified.php:108 widgets/shop_products.php:160
+#: widgets/shop_slider.php:160 widgets/shop_tabs.php:160
+msgid "Category"
+msgstr "التصنيف"
+
+#: widgets/ad_by_make.php:115 widgets/ads_google_map.php:135
+#: widgets/cats_fancy.php:137
+msgid "Category Image"
+msgstr "صورة الفئة"
+
+#: widgets/ad_post.php:19 widgets/ad_post.php:55
+msgid "Ad Post Form Type"
+msgstr "نوع نموذج إضافة الإعلان"
+
+#: widgets/ad_post.php:48 widgets/call_to_action.php:46
+#: widgets/call_to_action_three.php:46 widgets/call_to_action_two.php:46
+#: widgets/car_images.php:46 widgets/car_inspection.php:46
+#: widgets/car_inspection_two.php:46
+msgid "General"
+msgstr "عام"
+
+#: widgets/ad_post.php:59
+msgid "Select Post Form"
+msgstr "اختر نموذج النشر"
+
+#: widgets/ad_post.php:60
+msgid "Default Form"
+msgstr "قيم النموذج الافتراضية"
+
+#: widgets/ad_post.php:61
+msgid "Categories Based Form"
+msgstr "نموذج التصنيفات"
+
+#: widgets/ad_post.php:69
+msgid "Extra Fields Section Title"
+msgstr "عنوان قسم الحقول الإضافية"
+
+#: widgets/ad_post.php:77
+msgid "Tip Section Title"
+msgstr "عنوان قسم الإرشاد"
+
+#: widgets/ad_post.php:80
+msgid "Safety Tips for Buyers"
+msgstr "نصائح السلامة للمشترين"
+
+#: widgets/ad_post.php:81
+msgid "Put safety tip section title"
+msgstr "وضع عنوان قسم تلميح الأمان"
+
+#: widgets/ad_post.php:87
+msgid "Tips Description"
+msgstr "وصف الإرشادات"
+
+#: widgets/ad_post.php:98
+msgid "Extra Fileds"
+msgstr "اضافيه fileds"
+
+#: widgets/ad_post.php:114
+msgid "Slug"
+msgstr "سبيكة"
+
+#: widgets/ad_post.php:117
+msgid ""
+"This should be unique and if you change it the pervious data of this field "
+"will be lost"
+msgstr ""
+"هذا ينبغي أن يكون فريداً، وإذا قمت بتغيير ذلك ستفقد البيانات السابق لهذا الحقل"
+
+#: widgets/ad_post.php:123
+msgid "Type"
+msgstr "النوع"
+
+#: widgets/ad_post.php:127
+msgid "Please select"
+msgstr "يرجى الإختيار"
+
+#: widgets/ad_post.php:128
+msgid "Textfield"
+msgstr "حقل النص"
+
+#: widgets/ad_post.php:129
+msgid "Select/List"
+msgstr "تحديد تخطيط القائمة"
+
+#: widgets/ad_post.php:136
+msgid "Values for Select/List"
+msgstr "القيم للتحديد/قائمة"
+
+#: widgets/ad_post.php:139
+msgid "Like: value1,value2,value3"
+msgstr "مثل: value1, value2, قيمه 3 عائد"
+
+#: widgets/ad_post.php:167
+msgid "Safety Tips"
+msgstr "نصائح السلامة"
+
+#: widgets/ad_post.php:175
+msgid "Add Tips"
+msgstr "إضافة تلميحات"
+
+#: widgets/ad_post.php:183 widgets/faq.php:164
+msgid "Tips"
+msgstr "نصائح"
+
+#: widgets/ad_post.php:188
+msgid "Use a safe location to meet seller"
+msgstr "استخدام مكان آمن لمقابلة البائع"
+
+#: widgets/ads.php:17
+msgid "ADS Carspot"
+msgstr "ADS Carspot"
+
+#: widgets/ads.php:85 widgets/ads_slider.php:90
+msgid "Ads Settings"
+msgstr "الاعلانات"
+
+#: widgets/ads.php:92 widgets/ads_google_map.php:53 widgets/ads_slider.php:97
+msgid "Ads Type"
+msgstr "النوع"
+
+#: widgets/ads.php:96 widgets/ads_slider.php:101
+msgid "Select Ads Type"
+msgstr "الرجاء تحديد نوع التصنيف"
+
+#: widgets/ads.php:105 widgets/shop_products.php:110
+#: widgets/shop_slider.php:110 widgets/shop_tabs.php:110
+msgid "Order By"
+msgstr "ترتيب حسب"
+
+#: widgets/ads.php:109 widgets/shop_products.php:114
+#: widgets/shop_slider.php:114 widgets/shop_tabs.php:114
+msgid "Select Ads order"
+msgstr "الطلب #"
+
+#: widgets/ads.php:110 widgets/shop_products.php:115
+#: widgets/shop_slider.php:115 widgets/shop_tabs.php:115
+msgid "Oldest"
+msgstr "الأقدم"
+
+#: widgets/ads.php:111 widgets/shop_products.php:116
+#: widgets/shop_slider.php:116 widgets/shop_tabs.php:116
+msgid "Latest"
+msgstr "أحدث قسم الإعلانات"
+
+#: widgets/ads.php:112 widgets/shop_products.php:117
+#: widgets/shop_slider.php:117 widgets/shop_tabs.php:117
+msgid "Random"
+msgstr "مجرد عدد عشوائي التي تم إنشاؤها من قبلك لأمن التطبيق"
+
+#: widgets/ads.php:120 widgets/ads_slider.php:110
+msgid "Layout Type"
+msgstr "النوع"
+
+#: widgets/ads.php:124 widgets/ads.php:192 widgets/ads_slider.php:114
+msgid "Select Layout Type"
+msgstr "تحديد نوع التخطيط"
+
+#: widgets/ads.php:125 widgets/ads_slider.php:115
+msgid "Grid 1"
+msgstr "عمود واحد"
+
+#: widgets/ads.php:126 widgets/ads_slider.php:116
+msgid "Grid 2"
+msgstr "الشبكة 2"
+
+#: widgets/ads.php:127 widgets/ads_slider.php:117
+msgid "Grid 3"
+msgstr "الشبكة 3"
+
+#: widgets/ads.php:128 widgets/ads_slider.php:118
+msgid "Grid 4"
+msgstr "الشبكة 4"
+
+#: widgets/ads.php:129 widgets/ads_slider.php:119
+msgid "Grid 5"
+msgstr "الشبكة 5"
+
+#: widgets/ads.php:130
+msgid "Grid 6"
+msgstr "الشبكة 6"
+
+#: widgets/ads.php:131
+msgid "Grid 7"
+msgstr "الشبكة 7"
+
+#: widgets/ads.php:132 widgets/car_inspection.php:120
+#: widgets/car_inspection_two.php:121 widgets/search_side_form.php:71
+#: widgets/search_side_form_two.php:71
+msgid "List"
+msgstr "Grid Categories"
+
+#: widgets/ads.php:133
+msgid "List 4"
+msgstr "القائمة 4"
+
+#: widgets/ads.php:141 widgets/ads_google_map.php:65 widgets/ads_slider.php:127
+#: widgets/blog.php:88 widgets/shop_products.php:98 widgets/shop_slider.php:98
+#: widgets/shop_tabs.php:98
+msgid "Number fo Ads"
+msgstr "حدد الحد الأقصى لعدد الإعلانات القريبة"
+
+#: widgets/ads.php:153 widgets/blog.php:100 widgets/buy_salse_hero.php:69
+#: widgets/buy_salse_hero.php:132 widgets/buy_sell.php:70
+#: widgets/buy_sell.php:143 widgets/call_to_action.php:61
+#: widgets/call_to_action_three.php:99 widgets/call_to_action_three.php:171
+#: widgets/call_to_action_two.php:69 widgets/call_to_action_two.php:94
+#: widgets/car_inspection.php:77 widgets/car_inspection_two.php:77
+#: widgets/compare_posts.php:88 widgets/search_creative.php:70
+#: widgets/search_modern_two.php:82 widgets/search_side_form.php:92
+#: widgets/search_side_form_two.php:92 widgets/shop_products.php:124
+#: widgets/shop_slider.php:124 widgets/shop_tabs.php:124 widgets/why_us.php:115
+msgid "Button Title"
+msgstr "عنوان الزر والرابط"
+
+#: widgets/ads.php:156 widgets/blog.php:102 widgets/buy_salse_hero.php:71
+#: widgets/buy_salse_hero.php:134 widgets/buy_sell.php:72
+#: widgets/buy_sell.php:145 widgets/call_to_action.php:63
+#: widgets/call_to_action_three.php:101 widgets/call_to_action_three.php:173
+#: widgets/call_to_action_two.php:71 widgets/call_to_action_two.php:96
+#: widgets/car_inspection.php:79 widgets/car_inspection_two.php:79
+#: widgets/compare_posts.php:90 widgets/search_creative.php:73
+#: widgets/search_modern_two.php:85 widgets/search_side_form.php:95
+#: widgets/search_side_form_two.php:94 widgets/shop_products.php:127
+#: widgets/shop_slider.php:126 widgets/shop_tabs.php:126 widgets/signup.php:56
+#: widgets/why_us.php:118
+msgid "Button title here"
+msgstr "عنوان الزر هنا"
+
+#: widgets/ads.php:163 widgets/blog.php:103 widgets/blog.php:110
+#: widgets/buy_salse_hero.php:72 widgets/buy_salse_hero.php:79
+#: widgets/buy_salse_hero.php:135 widgets/buy_salse_hero.php:142
+#: widgets/buy_sell.php:73 widgets/buy_sell.php:80 widgets/buy_sell.php:146
+#: widgets/buy_sell.php:153 widgets/call_to_action.php:64
+#: widgets/call_to_action.php:71 widgets/call_to_action_three.php:102
+#: widgets/call_to_action_three.php:109 widgets/call_to_action_three.php:174
+#: widgets/call_to_action_three.php:181 widgets/call_to_action_two.php:72
+#: widgets/call_to_action_two.php:79 widgets/call_to_action_two.php:97
+#: widgets/call_to_action_two.php:104 widgets/car_inspection.php:80
+#: widgets/car_inspection.php:87 widgets/car_inspection_two.php:80
+#: widgets/car_inspection_two.php:87 widgets/compare_posts.php:91
+#: widgets/compare_posts.php:98 widgets/search_creative.php:74
+#: widgets/search_creative.php:81 widgets/search_modern_two.php:86
+#: widgets/search_modern_two.php:93 widgets/search_side_form.php:96
+#: widgets/search_side_form.php:103 widgets/search_side_form_two.php:95
+#: widgets/search_side_form_two.php:102 widgets/shop_products.php:128
+#: widgets/shop_products.php:134 widgets/shop_slider.php:127
+#: widgets/shop_slider.php:134 widgets/shop_tabs.php:127
+#: widgets/shop_tabs.php:134 widgets/signup.php:64 widgets/why_us.php:119
+#: widgets/why_us.php:126
+msgid "Button Link"
+msgstr "رابط الزر"
+
+#: widgets/ads.php:166 widgets/blog.php:112 widgets/buy_salse_hero.php:81
+#: widgets/buy_salse_hero.php:145 widgets/buy_sell.php:83
+#: widgets/buy_sell.php:155 widgets/call_to_action.php:73
+#: widgets/call_to_action_three.php:111 widgets/call_to_action_three.php:183
+#: widgets/call_to_action_two.php:81 widgets/call_to_action_two.php:106
+#: widgets/car_inspection.php:90 widgets/car_inspection_two.php:89
+#: widgets/compare_posts.php:101 widgets/search_creative.php:84
+#: widgets/search_modern_two.php:96 widgets/search_side_form.php:106
+#: widgets/search_side_form_two.php:105 widgets/shop_products.php:137
+#: widgets/shop_slider.php:137 widgets/shop_tabs.php:137 widgets/signup.php:67
+#: widgets/why_us.php:129
+msgid "https://your-link.com"
+msgstr "https://themeforest.net/user/scriptsbundle/"
+
+#: widgets/ads.php:188
+msgid "Want to show ads fom all categories?"
+msgstr "هل تريد عرض الإعلانات على جميع الفئات؟"
+
+#: widgets/ads.php:193 widgets/cats_fancy.php:94
+#: widgets/search_side_form_two.php:170 widgets/search_side_form_two.php:197
+#: widgets/search_side_form_two.php:224 widgets/search_side_form_two.php:251
+#: widgets/search_side_form_two.php:278 widgets/search_side_form_two.php:305
+#: widgets/search_side_form_two.php:332 widgets/search_side_form_two.php:359
+#: widgets/search_side_form_two.php:386 widgets/search_side_form_two.php:413
+#: widgets/search_side_form_two.php:440 widgets/search_side_form_two.php:468
+#: widgets/search_side_form_two.php:495 widgets/search_side_form_two.php:522
+#: widgets/search_side_form_two.php:549 widgets/search_side_form_two.php:576
+#: widgets/search_side_form_two.php:603 widgets/services_with_facts.php:179
+msgid "Yes"
+msgstr "نعم"
+
+#: widgets/ads.php:194 widgets/cats_fancy.php:95
+#: widgets/search_side_form_two.php:171 widgets/search_side_form_two.php:198
+#: widgets/search_side_form_two.php:225 widgets/search_side_form_two.php:252
+#: widgets/search_side_form_two.php:279 widgets/search_side_form_two.php:306
+#: widgets/search_side_form_two.php:333 widgets/search_side_form_two.php:360
+#: widgets/search_side_form_two.php:387 widgets/search_side_form_two.php:414
+#: widgets/search_side_form_two.php:441 widgets/search_side_form_two.php:469
+#: widgets/search_side_form_two.php:496 widgets/search_side_form_two.php:523
+#: widgets/search_side_form_two.php:550 widgets/search_side_form_two.php:577
+#: widgets/search_side_form_two.php:604 widgets/services_with_facts.php:180
+msgid "No"
+msgstr "لا"
+
+#: widgets/ads_google_map.php:17
+msgid "ADs - Google Map"
+msgstr "إعلانات - خريطة جوجل"
+
+#: widgets/ads_google_map.php:46
+msgid "Ads Setting"
+msgstr "إعداد الإعلانات"
+
+#: widgets/ads_google_map.php:79
+msgid "Map"
+msgstr "لا توجد خريطة"
+
+#: widgets/ads_google_map.php:86
+msgid "Map Zoom"
+msgstr "تكبير الخريطة"
+
+#: widgets/ads_google_map.php:101
+msgid "Put your latitude here"
+msgstr "ضع خط العرض الخاص بك هنا"
+
+#: widgets/ads_google_map.php:110
+msgid "Put your longitude here"
+msgstr "ضع خط طولك هنا"
+
+#: widgets/ads_slider.php:17
+msgid "ADs - Slider"
+msgstr "الإعلانات--المتزلج"
+
+#: widgets/ads_with_tabs.php:17
+msgid "ADs - With Tabs"
+msgstr "الإعلانات-مع علامات التبويب"
+
+#: widgets/advertisement_72-_90.php:17 widgets/advertisement_72-_90.php:90
+msgid "Advertisement"
+msgstr "إعلانات"
+
+#: widgets/advertisement_72-_90.php:97
+msgid "Banner Ad 720x90"
+msgstr "راية الاعلانيه 720x90"
+
+#: widgets/apps-classic.php:17
+msgid "Apps - Classic"
+msgstr "خيارات API للتطبيقات"
+
+#: widgets/apps-classic.php:53 widgets/car_inspection_two.php:157
+msgid "Main Image"
+msgstr "نص الزر"
+
+#: widgets/apps-classic.php:65 widgets/search_creative.php:62
+#: widgets/search_fancy.php:61 widgets/search_make_models.php:61
+#: widgets/search_modern.php:62 widgets/search_modern_two.php:53
+#: widgets/search_side_form.php:61 widgets/search_side_form_two.php:61
+#: widgets/search_simple.php:62
+msgid "Section Tagline"
+msgstr "Section Tagline"
+
+#: widgets/apps-classic.php:84
+msgid "Key Points"
+msgstr "النقاط الرئيسية"
+
+#: widgets/apps-classic.php:92
+msgid "Points"
+msgstr "النقاط"
+
+#: widgets/apps-classic.php:100
+msgid "Add Points"
+msgstr "إضافة نقاط"
+
+#: widgets/apps-classic.php:115 widgets/apps-simple.php:63
+msgid "Android"
+msgstr "أندرويد"
+
+#: widgets/apps-classic.php:130 widgets/apps-classic.php:163
+#: widgets/apps-simple.php:78 widgets/apps-simple.php:111
+#: widgets/apps-simple.php:144
+msgid "Tag Line"
+msgstr "خط العلامات"
+
+#: widgets/apps-classic.php:138 widgets/apps-classic.php:171
+#: widgets/apps-simple.php:86 widgets/apps-simple.php:119
+#: widgets/apps-simple.php:152
+msgid "Download Link"
+msgstr "رابط التحميل"
+
+#: widgets/apps-classic.php:148 widgets/apps-simple.php:96
+msgid "IOS"
+msgstr "دائره الرقابه الداخليه"
+
+#: widgets/apps-simple.php:17
+msgid "Apps - Simple"
+msgstr "تطبيقات--بسيطه"
+
+#: widgets/apps-simple.php:129
+msgid "Window"
+msgstr "نافذة"
+
+#: widgets/blog.php:17
+msgid "Blog Posts"
+msgstr "المدونة"
+
+#: widgets/blog.php:144 widgets/popular_cats.php:116
+#: widgets/shop_products.php:169 widgets/shop_slider.php:169
+#: widgets/shop_tabs.php:169
+msgid "Select Categories"
+msgstr "اختار فئة"
+
+#: widgets/buy_salse_hero.php:17
+msgid "Buy Or Sale Main Banner"
+msgstr "بيع أو شراء الراية الرئيسية"
+
+#: widgets/buy_salse_hero.php:46
+msgid "Looking For"
+msgstr "أبحث عن"
+
+#: widgets/buy_salse_hero.php:94 widgets/buy_salse_hero.php:157
+#: widgets/call_to_action_three.php:53 widgets/search_side_form.php:130
+#: widgets/services_with_facts.php:88
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: widgets/buy_salse_hero.php:109
+msgid "Want To Hire"
+msgstr "تريد استئجار"
+
+#: widgets/buy_sell.php:17
+msgid "Car Buy & Sell"
+msgstr "بيع وشراء السيارات"
+
+#: widgets/buy_sell.php:46
+msgid "Buy Section"
+msgstr "قسم الشراء"
+
+#: widgets/buy_sell.php:106 widgets/buy_sell.php:179
+msgid "Recommended image size should be 715x215 .png "
+msgstr "وينبغي ان يكون حجم الصورة الموصي بها 715x215. png"
+
+#: widgets/buy_sell.php:119
+msgid "Sell Section"
+msgstr "حفظ المقطع"
+
+#: widgets/call_to_action.php:17
+msgid "Call to Action"
+msgstr "الثمن عند الاتصال"
+
+#: widgets/call_to_action_three.php:17
+msgid "Call to Action Three"
+msgstr "دعوة إلى العمل الثالث"
+
+#: widgets/call_to_action_three.php:56 widgets/call_to_action_three.php:127
+#: widgets/call_to_action_three.php:199 widgets/search_side_form.php:133
+msgid "Recommended Size For Image should be 1280x800.png"
+msgstr "يجب أن يكون الحجم الموصى به للصورة 1280x800.png"
+
+#: widgets/call_to_action_three.php:75
+msgid "Left Side Tagline"
+msgstr "خط طاغ جانبي أيسر"
+
+#: widgets/call_to_action_three.php:83
+msgid "Left Side Title"
+msgstr "عنوان الجانب الأيسر"
+
+#: widgets/call_to_action_three.php:147
+msgid "Right Side Tagline"
+msgstr "خط علام الجانب الأيمن"
+
+#: widgets/call_to_action_three.php:155
+msgid "Right Side Title"
+msgstr "عنوان الجانب الأيمن"
+
+#: widgets/call_to_action_two.php:17
+msgid "Call to Action Two"
+msgstr "الدعوة إلى الإجراء الثاني"
+
+#: widgets/car_images.php:17 widgets/car_inspection.php:17
+msgid "Car Inspection"
+msgstr "قائمه التفتيش"
+
+#: widgets/car_inspection.php:61 widgets/car_inspection_two.php:61
+#: widgets/clients_slider.php:61
+msgid "Your Heading"
+msgstr "حول"
+
+#: widgets/car_inspection.php:104 widgets/car_inspection_two.php:105
+msgid "Inspection List"
+msgstr "قائمه التفتيش"
+
+#: widgets/car_inspection.php:112 widgets/car_inspection_two.php:113
+msgid "Add Inspection List"
+msgstr "قائمة العملات"
+
+#: widgets/car_inspection.php:135 widgets/car_inspection_two.php:137
+msgid "Inspection Image"
+msgstr "صوره التفتيش"
+
+#: widgets/car_inspection.php:156 widgets/car_inspection_two.php:159
+msgid "Recommended Size For Image should be 685x429.png"
+msgstr "يجب أن يكون الحجم الموصى به للصورة 685x429.png"
+
+#: widgets/car_inspection_two.php:17
+msgid "Car Inspection Two"
+msgstr "سيارة التفتيش اثنين"
+
+#: widgets/car_inspection_two.php:170
+msgid "Small Image"
+msgstr "صورة صغيرة"
+
+#: widgets/car_inspection_two.php:173
+msgid "Recommended Size For Image should be small"
+msgstr "يجب أن يكون الحجم الموصى به للصورة صغيرًا"
+
+#: widgets/cat_classic.php:17
+msgid "Categories - Classic"
+msgstr "التصنيفات"
+
+#: widgets/cat_classic.php:88
+msgid "Sub cats limit"
+msgstr "البحث عن النص الفرعي"
+
+#: widgets/cat_classic.php:120 widgets/fun_facts.php:77
+#: widgets/popular_cats.php:108 widgets/process_cycle.php:97
+#: widgets/process_cycle.php:131 widgets/process_cycle.php:165
+#: widgets/services.php:115 widgets/services.php:167
+#: widgets/services_modern.php:158 widgets/services_simple.php:115
+#: widgets/services_simple.php:165 widgets/services_two.php:115
+#: widgets/services_two.php:167
+msgid "Icons"
+msgstr "إضافة الرموز الاجتماعية لهذا الملف"
+
+#: widgets/cats_fancy.php:17
+msgid "Ads By Make"
+msgstr "الإعلانات حسب الصنع"
+
+#: widgets/cats_fancy.php:89
+msgid "Enable hover animation"
+msgstr "تمكين حركه التحويم"
+
+#: widgets/cats_fancy.php:93 widgets/cats_fancy.php:107
+msgid "Select an option"
+msgstr "حدد اختيارا"
+
+#: widgets/cats_fancy.php:140
+msgid "Image size must be 94x90 px"
+msgstr "يجب أن يكون حجم الصورة 94 × 90 بكسل"
+
+#: widgets/clients_slider.php:17
+msgid "Clients or Partners Slider"
+msgstr "العملاء أو الشركاء المنزلق"
+
+#: widgets/clients_slider.php:71
+msgid "Clients Or Partner"
+msgstr "العملاء أو الشركاء"
+
+#: widgets/clients_slider.php:79
+msgid "Client URL"
+msgstr "ادخل معرف العميل الخاص بك بأي بال هنا"
+
+#: widgets/clients_slider.php:87
+msgid "Client logo"
+msgstr "ادخل معرف العميل الخاص بك بأي بال هنا"
+
+#: widgets/clients_slider.php:90
+msgid "Image size must be 200x130 px"
+msgstr "يجب أن يكون حجم الصورة 200x130 بكسل"
+
+#: widgets/clients_slider.php:100
+msgid "Add Clients"
+msgstr "العملاء أو الشركاء-كلاسيك"
+
+#: widgets/compare_posts.php:17
+msgid "Comparison Post"
+msgstr "مقارنه مشاركه"
+
+#: widgets/compare_posts.php:116
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: widgets/compare_posts.php:123
+msgid "Sidebar Postion"
+msgstr "الشريط الجانبي postion"
+
+#: widgets/compare_posts.php:129
+msgid "No Side"
+msgstr "لا الجانب"
+
+#: widgets/compare_posts.php:139
+msgid "Make Comparison"
+msgstr "لجعل حزمه شراء الاعلانيه المميزة."
+
+#: widgets/compare_posts.php:147
+msgid "First Car"
+msgstr "الزر الأول"
+
+#: widgets/compare_posts.php:156
+msgid "Second Car"
+msgstr "ثانية"
+
+#: widgets/compare_posts.php:165
+msgid "Comparison"
+msgstr "مقایسه"
+
+#: widgets/contact_us.php:17
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: widgets/contact_us.php:53
+msgid "Contact form 7 shortcode"
+msgstr "نموذج الاتصال 7 الرمز القصير"
+
+#: widgets/contact_us.php:69
+msgid "Phone"
+msgstr "الهاتف"
+
+#: widgets/contact_us.php:77
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: widgets/expert_reviews.php:17
+msgid "Expert Reviews"
+msgstr "التقييمات"
+
+#: widgets/expert_reviews.php:88
+msgid "Number of Ads Want To Show"
+msgstr "عرض الإعلانات"
+
+#: widgets/faq.php:17 widgets/faq.php:91
+msgid "FAQ"
+msgstr "التعليمات"
+
+#: widgets/faq.php:99
+msgid "Question"
+msgstr "سؤال"
+
+#: widgets/faq.php:107
+msgid "Answer"
+msgstr "إجابة"
+
+#: widgets/faq.php:132
+msgid "Saftey Tips"
+msgstr "نصائح صفيه"
+
+#: widgets/faq.php:156
+msgid "Add Tip"
+msgstr "اضف جديد"
+
+#: widgets/fun_facts.php:57
+msgid "Select Col"
+msgstr "اختر"
+
+#: widgets/fun_facts.php:111
+msgid "Fun Fact"
+msgstr "حقيقة ممتعة"
+
+#: widgets/our_team.php:20
+msgid "Team Members"
+msgstr "أعضاء الفريق"
+
+#: widgets/our_team.php:98
+msgid "Add Team"
+msgstr "أسئلة متكررة"
+
+#: widgets/our_team.php:106
+msgid "Name Of Member"
+msgstr "اسم العضو"
+
+#: widgets/our_team.php:114
+msgid "Desgination Of Member"
+msgstr "أزاله الأعضاء"
+
+#: widgets/our_team.php:122
+msgid "Team MemberImage"
+msgstr "صوره عضو الفريق"
+
+#: widgets/our_team.php:135
+msgid "Facebook Link"
+msgstr "فيسبوك"
+
+#: widgets/our_team.php:143
+msgid "Twitter Link"
+msgstr "رابط تويتر"
+
+#: widgets/our_team.php:151
+msgid "Google Plus Link"
+msgstr "رابط جوجل +"
+
+#: widgets/our_team.php:159
+msgid "LinkedIn Link"
+msgstr "رابط لينكيدين"
+
+#: widgets/our_team.php:167
+msgid "Add Team Members"
+msgstr "أضافه أعضاء الفريق"
+
+#: widgets/packages.php:17 widgets/packages.php:91 widgets/packages.php:108
+#: widgets/packages_style_two.php:98
+msgid "Packages"
+msgstr "الباقات"
+
+#: widgets/packages.php:99 widgets/packages_style_two.php:106
+#: widgets/packages_style_two.php:115
+msgid "Select package"
+msgstr "اختر باقة"
+
+#: widgets/packages_style_two.php:20
+msgid "Packages Style 2"
+msgstr "نمط الحزم 2"
+
+#: widgets/popular_cats.php:17
+msgid "Popular - Categories"
+msgstr "شائعة - تصنيفات"
+
+#: widgets/process_cycle.php:17
+msgid "Process Cycle"
+msgstr "عملية الدفع"
+
+#: widgets/process_cycle.php:90 widgets/process_cycle.php:158
+msgid "Step 1"
+msgstr "الخطوة الاولى"
+
+#: widgets/process_cycle.php:124
+msgid "Step 2"
+msgstr "الخطوة الثانية"
+
+#: widgets/profile.php:17 widgets/profile.php:46
+msgid "User Profile"
+msgstr "ملف تعريفي للمستخدم"
+
+#: widgets/profile.php:53
+msgid "Prolfile Layout"
+msgstr "تصميم الملف الشخصي"
+
+#: widgets/profile.php:57
+msgid "Profile 1"
+msgstr "x الملف الشصخصي 1"
+
+#: widgets/quote.php:17
+msgid "Quote From"
+msgstr "اقتبس من"
+
+#: widgets/quote.php:53
+msgid "Quote Form shortcode"
+msgstr "الرمز القصير لنموذج الاقتباس"
+
+#: widgets/reviews.php:17
+msgid "Reviews Post"
+msgstr "استعراض المشاركات"
+
+#: widgets/reviews.php:88
+msgid "No Of Reviews Per Page"
+msgstr "عدد التعليقات للصفحة الواحدة"
+
+#: widgets/search_bar_minimal.php:17
+msgid "Minimal Search Bar"
+msgstr "شريط البحث"
+
+#: widgets/search_bar_minimal.php:53
+msgid "Field Heading"
+msgstr "حول"
+
+#: widgets/search_bar_minimal.php:61
+msgid "Placeholder Title"
+msgstr "العنصر النائب"
+
+#: widgets/search_bar_minimal.php:79 widgets/search_fancy.php:117
+#: widgets/search_modern.php:80 widgets/search_side_form.php:179
+#: widgets/search_tab_advance.php:61
+msgid "Do you want to show?"
+msgstr "هل تريد إظهار"
+
+#: widgets/search_bar_minimal.php:83 widgets/search_fancy.php:121
+#: widgets/search_modern.php:84 widgets/search_side_form.php:183
+#: widgets/search_tab_advance.php:65 widgets/search_tab_classified.php:99
+msgid "yes"
+msgstr "نعم"
+
+#: widgets/search_bar_minimal.php:84 widgets/search_fancy.php:122
+#: widgets/search_modern.php:85 widgets/search_side_form.php:184
+#: widgets/search_tab_advance.php:66 widgets/search_tab_classified.php:100
+msgid "no"
+msgstr "لا"
+
+#: widgets/search_bar_minimal.php:117 widgets/search_bar_minimal.php:134
+#: widgets/search_make_models.php:106 widgets/search_make_models.php:123
+#: widgets/search_modern.php:118 widgets/search_modern.php:135
+#: widgets/search_side_form.php:217 widgets/search_side_form.php:233
+#: widgets/search_tab_advance.php:99 widgets/search_tab_advance.php:116
+msgid "Years"
+msgstr "سنوات"
+
+#: widgets/search_bar_minimal.php:125 widgets/search_make_models.php:114
+#: widgets/search_modern.php:126 widgets/search_side_form.php:225
+#: widgets/search_tab_advance.php:107
+msgid "Select Years"
+msgstr "حدد السنوات"
+
+#: widgets/search_bar_simple.php:17
+msgid "Simple Search Bar"
+msgstr "شريط بحث بسيط"
+
+#: widgets/search_creative.php:17
+msgid "Home - Hero Section"
+msgstr "بطل قسم الخط التاجي"
+
+#: widgets/search_creative.php:56 widgets/search_fancy.php:64
+#: widgets/search_make_models.php:64 widgets/search_modern.php:56
+#: widgets/search_modern_two.php:56 widgets/search_simple.php:56
+#, php-format
+msgid "%count% for total ads."
+msgstr "%count % عدد الإعلانات الإجمالي."
+
+#: widgets/search_fancy.php:17
+msgid "Search - Fancy"
+msgstr "البحث--براعة"
+
+#: widgets/search_fancy.php:73
+msgid "Slider"
+msgstr "إعدادات المنزلق المميزة"
+
+#: widgets/search_fancy.php:84
+msgid "Recommended Size For Image should be 1280x600.png"
+msgstr "يجب أن يكون الحجم الموصى به للصورة 1280x600.png"
+
+#: widgets/search_fancy.php:94
+msgid "Add Slider Image"
+msgstr "تحميل / إضافة صورة"
+
+#: widgets/search_fancy.php:139 widgets/search_make_models.php:90
+#: widgets/search_modern.php:102 widgets/search_side_form.php:201
+#: widgets/search_tab_advance.php:83 widgets/search_tab_classified.php:117
+msgid "Select Make ( All or Selective )"
+msgstr "Select Category ( All or Selective )"
+
+#: widgets/search_make_models.php:17
+msgid "Search with Make Model & Years"
+msgstr "البحث مع نموذج جعل وسنهات"
+
+#: widgets/search_modern.php:17
+msgid "Search - Modern"
+msgstr "بحث-حديث"
+
+#: widgets/search_modern_two.php:17
+msgid "Home - Search Modern Two"
+msgstr "الرئيسية - البحث الحديث الثاني"
+
+#: widgets/search_modern_two.php:70
+msgid "Bottom car image"
+msgstr "أسفل صوره السيارة"
+
+#: widgets/search_side_form.php:17
+msgid "Search Side Form"
+msgstr "نموذج جانب البحث"
+
+#: widgets/search_side_form.php:64 widgets/search_side_form_two.php:64
+msgid "Text below the main heading."
+msgstr "النص الموجود أسفل العنوان الرئيسي."
+
+#: widgets/search_side_form.php:79 widgets/search_side_form_two.php:79
+msgid "Features List"
+msgstr "قائمة الميزات"
+
+#: widgets/search_side_form.php:118 widgets/search_side_form_two.php:117
+msgid "Floating car image"
+msgstr "صوره السيارة العائمة"
+
+#: widgets/search_side_form.php:146 widgets/search_side_form.php:161
+#: widgets/search_side_form_two.php:132 widgets/search_side_form_two.php:147
+msgid "Form Detail"
+msgstr "تفاصيل النموذج"
+
+#: widgets/search_side_form.php:153 widgets/search_side_form_two.php:139
+msgid "No of posts"
+msgstr "حدد المقالات"
+
+#: widgets/search_side_form_two.php:17
+msgid "Search Side Form Two"
+msgstr "البحث عن جانب النموذج الثاني"
+
+#: widgets/search_side_form_two.php:158
+msgid "Filters"
+msgstr "الفلاتر"
+
+#: widgets/search_side_form_two.php:166
+msgid "Do you want to show Category on Form?"
+msgstr "هل تريد إظهار الفئة في النموذج؟"
+
+#: widgets/search_side_form_two.php:181
+msgid "Label for Category Field"
+msgstr "تسمية حقل الفئة"
+
+#: widgets/search_side_form_two.php:193
+msgid "Do you want to show Year on Form?"
+msgstr "هل تريد إظهار السنة في النموذج؟"
+
+#: widgets/search_side_form_two.php:208
+msgid "Label for Year Field"
+msgstr "تسمية حقل السنة"
+
+#: widgets/search_side_form_two.php:220
+msgid "Do you want to show Tags on Form?"
+msgstr "هل تريد إظهار العلامات في النموذج؟"
+
+#: widgets/search_side_form_two.php:235
+msgid "Label for Tag Field"
+msgstr "تسمية لحقل العلامة"
+
+#: widgets/search_side_form_two.php:247
+msgid "Do you want to show Condition on Form?"
+msgstr "هل تريد إظهار الشرط في النموذج؟"
+
+#: widgets/search_side_form_two.php:262
+msgid "Label for Condition Field"
+msgstr "تسمية لحقل الشرط"
+
+#: widgets/search_side_form_two.php:274
+msgid "Do you want to show Type on Form?"
+msgstr "هل تريد إظهار النوع في النموذج؟"
+
+#: widgets/search_side_form_two.php:289
+msgid "Label for Type Field"
+msgstr "تسمية لحقل النوع"
+
+#: widgets/search_side_form_two.php:301
+msgid "Do you want to show Warranty on Form?"
+msgstr "هل تريد إظهار الضمان في النموذج؟"
+
+#: widgets/search_side_form_two.php:316
+msgid "Label for Warranty Field"
+msgstr "تسمية حقل الضمان"
+
+#: widgets/search_side_form_two.php:328
+msgid "Do you want to show Body Type on Form?"
+msgstr "هل تريد إظهار نوع النص الأساسي في النموذج؟"
+
+#: widgets/search_side_form_two.php:343
+msgid "Label for Body Type Field"
+msgstr "تسمية لحقل نوع النص الأساسي"
+
+#: widgets/search_side_form_two.php:355
+msgid "Do you want to show Transmission on Form?"
+msgstr "هل تريد إظهار الإرسال على النموذج؟"
+
+#: widgets/search_side_form_two.php:370
+msgid "Label for Transmission Field"
+msgstr "تسمية حقل الإرسال"
+
+#: widgets/search_side_form_two.php:382
+msgid "Do you want to show Engine size on Form?"
+msgstr "هل تريد إظهار حجم المحرك في النموذج؟"
+
+#: widgets/search_side_form_two.php:397
+msgid "Label for Engine size Field"
+msgstr "تسمية لحقل حجم المحرك"
+
+#: widgets/search_side_form_two.php:409
+msgid "Do you want to show Engine Type on Form?"
+msgstr "هل تريد إظهار نوع المحرك في النموذج؟"
+
+#: widgets/search_side_form_two.php:424
+msgid "Label for Engine Type Field"
+msgstr "تسمية لحقل نوع المحرك"
+
+#: widgets/search_side_form_two.php:436
+msgid "Do you want to show Assembly on Form?"
+msgstr "هل تريد إظهار التجميع في النموذج؟"
+
+#: widgets/search_side_form_two.php:451
+msgid "Label for Assembly Field"
+msgstr "تسمية لحقل التجميع"
+
+#: widgets/search_side_form_two.php:464
+msgid "Do you want to show Color on Form?"
+msgstr "هل تريد إظهار اللون في النموذج؟"
+
+#: widgets/search_side_form_two.php:479
+msgid "Label for Color Field"
+msgstr "تسمية لحقل اللون"
+
+#: widgets/search_side_form_two.php:491
+msgid "Do you want to show Insurance on Form?"
+msgstr "هل تريد إظهار التأمين على النموذج؟"
+
+#: widgets/search_side_form_two.php:506
+msgid "Label for Insurance Field"
+msgstr "تسمية لميدان التأمين"
+
+#: widgets/search_side_form_two.php:518
+msgid "Do you want to show Features on Form?"
+msgstr "هل تريد إظهار الميزات في النموذج؟"
+
+#: widgets/search_side_form_two.php:533
+msgid "Label for Features Field"
+msgstr "تسمية حقل الميزات"
+
+#: widgets/search_side_form_two.php:545
+msgid "Do you want to show Countires on Form?"
+msgstr "هل تريد إظهار Countires على النموذج؟"
+
+#: widgets/search_side_form_two.php:560
+msgid "Label for Countires Field"
+msgstr "تسمية حقل Countires"
+
+#: widgets/search_side_form_two.php:572
+msgid "Do you want to show Price Range on Form?"
+msgstr "هل تريد إظهار النطاق السعري في النموذج؟"
+
+#: widgets/search_side_form_two.php:587
+msgid "Label for Price Range Field"
+msgstr "تسمية حقل نطاق السعر"
+
+#: widgets/search_side_form_two.php:599 widgets/search_side_form_two.php:614
+msgid "Do you want to show Radius on Form?"
+msgstr "هل تريد إظهار نصف القطر على النموذج؟"
+
+#: widgets/search_side_form_two.php:632
+msgid "Label for Radius Field"
+msgstr "تسمية لحقل نصف قطر"
+
+#: widgets/search_simple.php:17
+msgid "Search - Simple"
+msgstr "بحث-بسيط"
+
+#: widgets/search_tab_advance.php:17
+msgid "Advance Search - Tabs"
+msgstr "البحث المسبق-علامات التبويب"
+
+#: widgets/search_tab_advance.php:46
+msgid "Car By Detail"
+msgstr "السيارة بالتفصيل"
+
+#: widgets/search_tab_advance.php:153 widgets/search_tab_classified.php:179
+msgid "Recommended Size For Image should be 250x112.png"
+msgstr "يجب أن يكون الحجم الموصى به للصورة 250x112.png"
+
+#: widgets/search_tab_classified.php:17
+msgid "Classifed Search - Tabs"
+msgstr "البحث الراقي-علامات التبويب"
+
+#: widgets/search_tab_classified.php:53
+msgid "First Tab Heading"
+msgstr "عنوان علامة التبويب الأول"
+
+#: widgets/search_tab_classified.php:61
+msgid "Second Tab Heading"
+msgstr "عنوان علامة التبويب الثاني"
+
+#: widgets/search_tab_classified.php:72
+msgid "General Tab"
+msgstr "علامة التبويب عام"
+
+#: widgets/search_tab_classified.php:79
+msgid "Keyword Field Title"
+msgstr "عنوان حقل الكلمة الرئيسية"
+
+#: widgets/search_tab_classified.php:87
+msgid "Category Field Title"
+msgstr "عنوان حقل الفئة"
+
+#: widgets/search_tab_classified.php:95
+msgid "Show category with their childs?"
+msgstr "هل تظهر الفئة مع أطفالهم؟"
+
+#: widgets/search_tab_classified.php:130
+msgid "Price Field Title"
+msgstr "عنوان حقل السعر"
+
+#: widgets/search_tab_classified.php:138
+msgid "Minimum Price"
+msgstr "السعر الرخیص"
+
+#: widgets/search_tab_classified.php:141
+msgid "0"
+msgstr "0"
+
+#: widgets/search_tab_classified.php:147
+msgid "Maximum Price"
+msgstr "السعر الثمین"
+
+#: widgets/search_tab_classified.php:150
+msgid "999999999"
+msgstr "999999999"
+
+#: widgets/search_tab_classified.php:159
+msgid "Category Tab"
+msgstr "علامة تبويب الفئة"
+
+#: widgets/services.php:91 widgets/services_simple.php:91
+#: widgets/services_two.php:91
+msgid "Service Left"
+msgstr "خدمة لليسار"
+
+#: widgets/services.php:125 widgets/services.php:177
+#: widgets/services_classic.php:139 widgets/services_modern.php:192
+#: widgets/services_simple.php:123 widgets/services_simple.php:173
+#: widgets/services_three.php:127 widgets/services_two.php:125
+#: widgets/services_two.php:177 widgets/services_with_facts.php:149
+#: widgets/services_with_facts.php:212
+msgid "Select Services"
+msgstr "اختر الخدمات"
+
+#: widgets/services.php:143 widgets/services_simple.php:141
+#: widgets/services_two.php:143
+msgid "Service Right"
+msgstr "حق الخدمة"
+
+#: widgets/services.php:195 widgets/services.php:202
+#: widgets/services_simple.php:191 widgets/services_simple.php:198
+#: widgets/services_three.php:99 widgets/services_two.php:195
+#: widgets/services_two.php:202
+msgid "Service Image"
+msgstr "صوره الخدمة"
+
+#: widgets/services_classic.php:17
+msgid "Services Classic"
+msgstr "خدمات كلاسيك"
+
+#: widgets/services_classic.php:64
+msgid "For color "
+msgstr "للون "
+
+#: widgets/services_classic.php:64
+msgid "warp text within this tag"
+msgstr "التفاف النص داخل هذه العلامة"
+
+#: widgets/services_classic.php:105 widgets/services_with_facts.php:104
+msgid "Services We Offer"
+msgstr "الخدمات التي نقدمها"
+
+#: widgets/services_modern.php:17
+msgid "Services Modern"
+msgstr "الخدمات الحديثة"
+
+#: widgets/services_modern.php:46
+msgid "Background Images"
+msgstr "صور الخلفية"
+
+#: widgets/services_modern.php:53
+msgid "Background Image Left Side"
+msgstr "الجانب الأيسر"
+
+#: widgets/services_modern.php:65
+msgid "Background Image Right Side"
+msgstr "صوره خلفيه الجانب الأيمن"
+
+#: widgets/services_modern.php:90
+msgid "For color {color}warp text within this tag{/color}"
+msgstr "لـ {color} نص اللواء في هذه العلامة{/color}"
+
+#: widgets/services_modern.php:104
+msgid "Car Image"
+msgstr "صوره السيارة"
+
+#: widgets/services_modern.php:107
+msgid "Recommended Size For Image should be 715x215.png"
+msgstr "يجب ان يكون حجم الموصي بها للصورة 715x215. png"
+
+#: widgets/services_modern.php:129
+msgid "Car Animation Effects"
+msgstr "تاثيرات الرسوم المتحركة للسيارة"
+
+#: widgets/services_modern.php:138
+msgid "Services Box Animation"
+msgstr "خدمات مربع الرسوم المتحركة"
+
+#: widgets/services_modern.php:150
+msgid "Services List"
+msgstr "قائمه الخدمات"
+
+#: widgets/services_modern.php:168
+msgid "Count"
+msgstr "عد"
+
+#: widgets/services_simple.php:17
+msgid "Services Simple"
+msgstr "خدمات بسيطه"
+
+#: widgets/services_three.php:17
+msgid "Services Style 3"
+msgstr "نمط الخدمات 3"
+
+#: widgets/services_three.php:111
+msgid "Service Title"
+msgstr "عنوان الخدمة"
+
+#: widgets/services_two.php:17
+msgid "Services Style 2"
+msgstr "نمط الخدمات 2"
+
+#: widgets/services_with_facts.php:17
+msgid "Services With Facts"
+msgstr "الخدمات مع الحقائق"
+
+#: widgets/services_with_facts.php:91
+msgid "Recommended Size For Image should be 1920x717.png"
+msgstr "يجب أن يكون الحجم الموصى به للصورة 1920x717.png"
+
+#: widgets/services_with_facts.php:112
+msgid "Icon Image"
+msgstr "صورة الأيقونة"
+
+#: widgets/services_with_facts.php:115
+msgid "Image size must be 64x64 px"
+msgstr "يجب أن يكون حجم الصورة 64X64 بكسل"
+
+#: widgets/services_with_facts.php:125
+msgid "Services Count"
+msgstr "عدد الخدمات"
+
+#: widgets/services_with_facts.php:188
+msgid "Total Numbers in counter"
+msgstr "مجموع الأرقام في العداد"
+
+#: widgets/services_with_facts.php:196
+msgid "Text below the numbers"
+msgstr "النص أسفل الأرقام"
+
+#: widgets/services_with_facts.php:204
+msgid "Colored Text"
+msgstr "نص ملون"
+
+#: widgets/shop_products.php:17
+msgid "Shop Products"
+msgstr "منتجات المحلات"
+
+#: widgets/shop_products.php:91 widgets/shop_slider.php:91
+msgid "Products"
+msgstr "المنتجات"
+
+#: widgets/shop_slider.php:17
+msgid "Shop Products Slider"
+msgstr "فقط حدد الحزمة لا تسوق المنتجات."
+
+#: widgets/shop_tabs.php:17
+msgid "Shop Tabs"
+msgstr "متجر مع علامات التبويب"
+
+#: widgets/shop_tabs.php:91
+msgid "Products Settings"
+msgstr "إعدادات المنتجات"
+
+#: widgets/signin.php:17
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+#: widgets/signup.php:17
+msgid "Sign Up"
+msgstr "التسجيل"
+
+#: widgets/signup.php:53
+msgid "Term and Condition"
+msgstr "مصطلح وحالة"
+
+#: widgets/signup.php:57
+msgid "Terms & Condition"
+msgstr "الشروط والشرط"
+
+#: widgets/signup.php:79
+msgid "Terms & Condition Title"
+msgstr "ادخل شروط التطبيق وعنوان الشرط"
+
+#: widgets/signup.php:87
+msgid "Capcha Code"
+msgstr "لم يتم العثور علي التعليمات البرمجية"
+
+#: widgets/signup.php:91
+msgid "Without Capcha"
+msgstr "بدون كابتشا"
+
+#: widgets/signup.php:92
+msgid "With Capcha"
+msgstr "لم يتم العثور علي التعليمات البرمجية"
+
+#: widgets/testimonial.php:17 widgets/testimonial.php:91
+#: widgets/testimonial.php:160 widgets/testimonial_two.php:160
+msgid "Testimonials"
+msgstr "الشهادات - التوصيات"
+
+#: widgets/testimonial.php:115 widgets/testimonial_two.php:115
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+#: widgets/testimonial.php:123 widgets/testimonial_two.php:123
+msgid "User Desgination"
+msgstr "معلومات المستخدم"
+
+#: widgets/testimonial.php:131 widgets/testimonial_two.php:131
+msgid "Rating"
+msgstr "تقييم"
+
+#: widgets/testimonial.php:135 widgets/testimonial_two.php:135
+msgid "Select Rating"
+msgstr "حدد تصنيف"
+
+#: widgets/testimonial.php:136 widgets/testimonial_two.php:136
+msgid "1 Star"
+msgstr "نجمة واحدة"
+
+#: widgets/testimonial.php:137 widgets/testimonial_two.php:137
+msgid "2 Star"
+msgstr "نجمه 2"
+
+#: widgets/testimonial.php:138 widgets/testimonial_two.php:138
+msgid "3 Star"
+msgstr "3 نجوم"
+
+#: widgets/testimonial.php:139 widgets/testimonial_two.php:139
+msgid "4 Star"
+msgstr "4 نجوم"
+
+#: widgets/testimonial.php:140 widgets/testimonial_two.php:140
+msgid "5 Star"
+msgstr "5 نجوم"
+
+#: widgets/testimonial.php:147 widgets/testimonial_two.php:147
+msgid "User Image"
+msgstr "صورة المستخدم"
+
+#: widgets/testimonial.php:150 widgets/testimonial_two.php:150
+msgid "Recommended Size For Image should be 90x90.png"
+msgstr "يجب أن يكون الحجم الموصى به للصورة 90x90.png"
+
+#: widgets/testimonial_two.php:17 widgets/testimonial_two.php:91
+msgid "Testimonials Two"
+msgstr "شهادات اثنين"
+
+#: widgets/textblock.php:17
+msgid "Text Block"
+msgstr ""
+"كتلة المستخدم باستخدام البريد الإلكتروني مع عدد كبير جداً من الأحرف الكبيرة"
+
+#: widgets/textblock.php:98
+msgid "Contents"
+msgstr "المحتويات"
+
+#: widgets/textblock.php:101
+msgid "Default description"
+msgstr "الوصف الافتراضي"
+
+#: widgets/textblock.php:102
+msgid "Type your description here"
+msgstr "اكتب الوصف هنا"
+
+#: widgets/why_us.php:17
+msgid "Why Us"
+msgstr "لماذا نحن"
+
+#: widgets/why_us.php:91
+msgid "Facts"
+msgstr "حقائق"
+
+#: widgets/why_us.php:141
+msgid "Select Facts"
+msgstr "تحديد حقائق"
+
+#. Plugin Name of the plugin/theme
+msgid "Carspot Elementor Widgets"
+msgstr "أدوات عنصر أو سيارة"
+
+#. Theme URI of the plugin/theme
+msgid "http://carspot.scriptsbundle.com/demos/"
+msgstr "http://carspot.scriptsbundle.com/demos/"
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr "هذا البرنامج المساعد ضروري لموضوع المناسبة funcationality."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "حزمه مخطوطات"
+
+#. Author URI of the plugin/theme
+msgid "http://scriptsbundle.com/"
+msgstr "https://www.i3lan.shop"

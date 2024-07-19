@@ -1,0 +1,10 @@
+--> layout change error resolved in pagination
+--> disabled to create agent or agency from backend
+--> admin can now create agent from frontend
+--> property type added below slider
+--> compare button error resolved
+--> image can be deleted from frontend posting
+--> listing not assign to any agent if not selected.
+--> backend map issue resolved
+--> Renew expired Listings
+--> Elemntor Update Issues Fixed...

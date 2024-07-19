@@ -1,0 +1,680 @@
+@media (min-width: 1400px) and (max-width: 1920px) { 
+    /* search-car-brands-start */
+    .search-car-brands .botm-btn .m-option {
+        padding: 10px 35px;
+    }
+    .search-car-brands .botm-btn .srh-now {
+        padding: 10px 99px;
+    }
+    /* search-car-brands-end */
+    /* explore-cars-cities-start */
+    .explore-cars-cities .explore-city-carousel .card .botm-meta {
+        width: 89%;
+    }
+    .explore-cars-cities .explore-city-carousel .card .botm-meta .city-name {
+        width: 94%;
+    }
+    /* explore-cars-cities-end */
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /* hero-top-banner-start */
+    .hero-top-banner .banner-meta {
+        margin-top: 140px;
+    }
+    /* hero-top-banner-end */
+    /* explore-cars-cities-start */
+    .explore-cars-cities .explore-city-carousel .card .botm-meta .city-name {
+        width: 76%;
+    }
+    /* explore-cars-cities-end */
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* hero-top-banner-start */
+    .hero-top-banner {
+        min-height: 301px;
+    }
+    .hero-top-banner .banner-meta {
+        margin-top: 80px;
+    }
+    /* hero-top-banner-end */
+    /* carspot-top-bar-start */
+    .carspot-top-bar .left-cont .choose-location select {
+        padding: 10px 20px 10px 34px;
+    }
+    .carspot-top-bar .left-cont .choose-location .iconify {
+        left: 10px;
+        padding-right: 7px;
+    }
+    .carspot-top-bar .right-cont .carspot-menu ul li {
+        padding: 0px 5px;
+    }
+    .carspot-top-bar .right-cont .carspot-menu ul li.signin {
+        padding: 26px 5px 26px 10px;
+        margin-left: 5px;
+    }
+    .carspot-top-bar .right-cont .carspot-menu ul li.sell-button a {
+        padding: 7px 12px;
+    }
+    /* carspot-top-bar-end */
+    /* sb header start */
+    .sb-carspot .burger-menu {
+        top: 16px;
+    }
+    .sb-carspot .sb-menu ul {
+        background-color: #fff;
+        margin-top: 50px;
+    }
+    .sb-header.sb-carspot .sb-menu > ul > li.signin, 
+    .sb-header.sb-carspot .sb-menu > ul > li.signup {
+        float: unset;
+        padding-left: 0;
+        margin-left: 0;
+        border-left: none;
+    }
+    .sb-header.sb-carspot .sb-menu > ul > li > a {
+        padding: 0px 15px;
+    }
+    /* sb header end */
+    /* search-car-brands-start */
+    .search-car-brands .botm-btn .srh-now {
+        padding: 10px 82px;
+    }
+    /* search-car-brands-end */
+    /* featured-offer-start */
+    .featured-offer .ftd-card .card-meta h4 {
+        font-size: 16px;
+    }
+    /* featured-offer-end */
+    /* explore-cars-cities-start */
+    .explore-cars-cities .explore-city-carousel .card .botm-meta {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .explore-cars-cities .recent-cars-list .list-card .cont-right {
+        width: 140px;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    /* explore-cars-cities-end */
+    /* carspot-footer-start */
+    .carspot-footer .quick-links h4, 
+    .carspot-footer .get-our-apps h4 {
+        font-size: 23px;
+        color: #ffff;
+    }
+    /* carspot-footer-end */
+    /* carspot-search-filter-start */
+    .carspot-search-filter .side-bar {
+        width: 233px;
+    }
+    .carspot-search-filter .side-bar .price-range-slider .irs--flat .irs-min, 
+    .carspot-search-filter .side-bar .price-range-slider .irs--flat .irs-max {
+        padding: 15px 30px;
+    }
+    .carspot-search-filter .side-bar .accordion-item .year-duration .form-group {
+        width: 133px;
+    }
+    /* carspot-search-filter-end */
+    /* cp-singlepage-detail-start */
+    .cp-singlepage-detail .left-cont .cars-dtl-carousel .item img {
+        height: 337px;
+    }
+    .cp-singlepage-detail .right-cont {
+        margin-top: 0px;
+    }
+    .cp-singlepage-detail .carspot-profile-dtl .offer-schedule-btn .offer-btn, 
+    .cp-singlepage-detail .carspot-profile-dtl .offer-schedule-btn .schedule-btn {
+        padding: 10px 14px;
+    }
+    .cp-singlepage-detail .desc-ftd .desc-dtl ul li {
+        width: 49%;
+    }
+    /* cp-singlepage-detail-end */
+}
+@media (min-width: 320px) and (max-width: 991.98px) {
+    /* hero-top-banner-start */
+    .hero-top-banner .banner-carousel {
+        display: none;
+    }
+    .hero-top-banner {
+        min-height: unset;
+        height: 100%;
+    }
+    .hero-top-banner .hero-top-banner-cont {
+        position: unset;
+    }
+    .hero-top-banner .banner-meta {
+        margin-top: 50px;
+    }
+    .hero-top-banner .banner-meta .video-title h6,
+    .hero-top-banner .banner-meta h2 {
+        color: #000;
+    }
+    /* hero-top-banner-end */
+    /* carspot-top-bar-start */
+    .carspot-top-bar .right-cont .carspot-menu ul li:first-child,
+    .carspot-top-bar .right-cont .carspot-menu ul li:nth-child(2),
+    .carspot-top-bar .right-cont .carspot-menu ul li:nth-child(3),
+    .carspot-top-bar .right-cont .carspot-menu ul li:nth-child(4) {
+        display: none;
+    }
+    /* carspot-top-bar-end */
+    /* sb header start */
+    .sb-carspot .burger-menu {
+        top: 16px;
+    }
+    .sb-carspot .sb-menu ul {
+        background-color: #fff;
+        margin-top: 50px;
+    }
+    .sb-header.sb-carspot .sb-menu > ul > li.signin, 
+    .sb-header.sb-carspot .sb-menu > ul > li.signup {
+        float: unset;
+        padding-left: 0;
+        margin-left: 0;
+        border-left: none;
+    }
+    .sb-header.sb-carspot .sb-menu > ul > li > a {
+        padding: 0px 15px;
+    }
+    /* sb header end */
+    /* search-car-brands-start */
+    .search-car-brands .search-car-option {
+        margin-top: 0;
+    }
+    .search-car-brands .srh-car-types {
+        margin-top: 30px;
+    }
+    /* search-car-brands-end */
+    /* explore-cars-cities-start */
+    .explore-cars-cities .recent-cars {
+        margin-top: 30px;
+    }
+    /* explore-cars-cities-end */
+    /* top-cars-categories-start */
+    .top-cars-categories .select-any-car .col-lg-3 .choose-car {
+        padding-left: 0;
+        border-left: none;
+    }
+    /* top-cars-categories-end */
+    /* carspot-footer-start */
+    .carspot-footer .ftr-frst-col p {
+        width: 100%;
+    }
+    /* carspot-footer-end */
+    /* cp-singlepage-detail-start */
+    .cp-singlepage-detail .porsche-ftd-car-dtl {
+        padding-bottom: 22px;
+    }
+    .cp-singlepage-detail .right-cont .title h5 {
+        width: 100%;
+    }
+    .cp-singlepage-detail .porsche-ftd-car-dtl .feturd {
+        z-index: 1;
+    }
+    /* cp-singlepage-detail-end */
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* carspot-top-bar-start */
+    .carspot-top-bar .left-cont .choose-location select {
+        padding: 10px 40px 10px 40px;
+    }
+    .carspot-top-bar .left-cont .choose-location .iconify {
+        left: 15px;
+    }
+    .carspot-top-bar .right-cont .carspot-menu ul li.signin {
+        padding: 26px 10px 26px 10px;
+    }
+    /* carspot-top-bar-end */
+    /* search-car-brands-start */
+    .search-car-brands .botm-btn .m-option {
+        padding: 10px 59px;
+    }
+    .search-car-brands .botm-btn .srh-now {
+        padding: 10px 160px;
+    }
+    /* search-car-brands-end */
+    /* featured-offer-start */
+    .featured-offer .ftd-card .card-meta h4 {
+        font-size: 16px;
+    }
+    /* featured-offer-end */
+    /* explore-cars-cities-start */
+    .explore-cars-cities .explore-city-carousel .card .botm-meta {
+        width: 87%;
+    }
+    /* explore-cars-cities-end */
+    /* carspot-search-filter-start */
+    .carspot-search-filter .filter-switcher .right-cont {
+        padding: 20px;
+        flex-direction: column;
+        height: 100%;
+    }
+    .carspot-search-filter .filter-switcher .right-cont .left-meta {
+        margin-bottom: 10px;
+    }
+    /* carspot-search-filter-end */
+}
+@media (min-width: 576px) and (max-width: 768.98px) {
+    /* carspot-top-bar-start */
+    .carspot-top-bar {
+        padding-bottom: 10px;
+    }
+    .carspot-top-bar .carspot-top-bar-container {
+        display: block;
+        height: 100px;
+    }
+    .carspot-top-bar .carspot-top-bar-container .left-cont {
+        height: 50px;
+    }
+    .carspot-top-bar .left-cont .choose-location select,
+    .carspot-top-bar .right-cont .carspot-menu ul {
+        height: 50px;
+    }
+    .carspot-top-bar .right-cont {
+        float: right;
+    }
+    .carspot-top-bar .right-cont .carspot-menu ul li.signin {
+        padding: 16px 10px 16px 20px;
+        border-left: none;
+    }
+    /* carspot-top-bar-end */
+    /* search-car-brands-start */
+    .search-car-brands .botm-btn .m-option {
+        padding: 10px 30px;
+    }
+    .search-car-brands .botm-btn .srh-now {
+        padding: 10px 99px;
+    }
+    /* search-car-brands-end */
+    /* car-display-banner-start */
+    .car-display-banner .left-cont img {
+        width: 250px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+    /* car-display-banner-end */
+    /* explore-cars-cities-start */
+    .explore-cars-cities .explore-city-carousel .card .botm-meta .city-name {
+        width: 82%;
+    }
+    .explore-cars-cities .used-cars .tab-content {
+        margin-top: 50px;
+    }
+    .explore-cars-cities .used-cars .position-tab {
+        top: 60px;
+        left: 0;
+    }
+    /* explore-cars-cities-end */
+    /* car-comparison-start */
+    .car-comparison .comparison-owl {
+        margin-top: 70px;
+    }
+    .car-comparison .heading-content .top-heading .btn {
+        right: unset;
+        left: 0;
+        top: 120px;
+    }
+    .car-comparison .comparison-owl .owl-nav {
+        top: -52px;
+    }
+    /* car-comparison-end */
+    /* carspot-footer-start */
+    .carspot-footer .quick-links-2 ul {
+        margin-top: 30px;
+    }
+    .carspot-footer .get-our-apps {
+        margin-top: 30px;
+    }
+    /* carspot-footer-end */
+    /* carspot-search-filter-start */
+    .carspot-search-filter .filter-switcher .right-cont {
+        padding: 20px;
+        flex-direction: column;
+        height: 100%;
+    }
+    .carspot-search-filter .filter-switcher .right-cont .left-meta {
+        margin-bottom: 10px;
+    }
+    /* carspot-search-filter-end */
+    /* cp-singlepage-detail-start */
+    .cp-singlepage-detail .left-cont .owl-carousel.cars-dtl-carousel .owl-nav .owl-prev {
+        top: 45%;
+    }
+    .cp-singlepage-detail .desc-ftd .desc-dtl ul li,
+    .cp-singlepage-detail .desc-ftd .car-features ul li {
+        width: 49%;
+    }
+    .cp-singlepage-detail .desc-ftd .desc-dtl ul li:last-child {
+        width: 100%;
+    }
+    /* cp-singlepage-detail-end */
+}
+@media (min-width: 320px) and (max-width: 575.98px) {
+    /* carspot-top-bar-start */
+    .carspot-top-bar .carspot-top-bar-container {
+        display: block;
+        height: 152px;
+    } 
+    .carspot-top-bar .carspot-top-bar-container .left-cont {
+        flex-direction: column;
+        padding: 10px 0;
+    }
+    .carspot-top-bar .left-cont .choose-location select {
+        height: 40px;
+        margin-top: 5px;
+    }
+    .carspot-top-bar .left-cont .choose-location .iconify {
+        top: 22%;
+    }
+    .carspot-top-bar .right-cont {
+        padding: 10px 0;
+    }
+    .carspot-top-bar .right-cont .carspot-menu ul {
+        justify-content: center;
+        height: 40px;
+    }
+    .carspot-top-bar .right-cont .carspot-menu ul li.signin {
+        padding: 12px 10px 12px 20px;
+        margin-left: 0px;
+        border-left: none;
+    }
+    /* carspot-top-bar-end */
+    /* HERO BANNER START */
+    .hero-top-banner .banner-meta h2 {
+        width: 100%;
+    }
+    .hero-top-banner .banner-meta {
+        margin-top: 30px;
+    }
+    /* HERO BANNER END  */
+    /* search-car-brands-start */
+    .search-car-brands .srh-car-types .nav-pills .nav-link.active,
+    .search-car-brands .srh-car-types .nav-pills .nav-link {
+        padding: 10px 11px;
+    }
+    .search-car-brands .car-type-owl.owl-carousel .owl-nav {
+        display: none;
+    }
+    /* search-car-brands-end */
+    /* featured-offer-start */
+    .featured-offer .featured-cars-owl.owl-carousel .owl-nav {
+        display: none;
+    }
+    /* featured-offer-end */
+    /* car-display-banner-start */
+    .car-display-banner .left-cont img {
+        width: 250px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+    /* car-display-banner-end */
+    /* explore-cars-cities-start */
+    .explore-cars-cities .explore-city-carousel .card .botm-meta {
+        width: 90%;
+    }
+    .explore-cars-cities .explore-city-carousel .card .botm-meta .city-name {
+        width: 80%;
+    }
+    .explore-cars-cities .explore-city-carousel .card .botm-meta .arrow {
+        width: 22%;
+    }
+    .explore-cars-cities .explore-city-carousel .owl-nav {
+        display: none;
+    }
+    .explore-cars-cities .used-cars .tab-content {
+        margin-top: 50px;
+    }
+    .explore-cars-cities .used-cars .position-tab {
+        top: 60px;
+        left: 0;
+    }
+    /* explore-cars-cities-start */
+    /* search-car-brands-start */
+    .search-car-brands .nav-tabs .nav-item .nav-link span {
+        font-size: 9px;
+    }
+    .search-car-brands .nav-tabs .nav-item .nav-link {
+        padding: 10px 3px;
+    }
+    .search-car-brands .search-content .irs--flat .irs-min,
+    .search-car-brands .search-content .irs--flat .irs-max,
+    .search-car-brands .search-content .price-range-txt span {
+        visibility: hidden !important;
+    }
+    .search-car-brands .search-content {
+        padding: 20px 15px;
+    }
+    .search-car-brands .botm-btn .m-option {
+        padding: 10px 9px;
+    }
+    .search-car-brands .botm-btn .srh-now {
+        padding: 10px 20px;
+    }
+    /* search-car-brands-end */
+    /* used-cars-sales-start */
+    .used-cars-sales .top-heading {
+        display: block;
+    }
+    .used-cars-sales .top-heading .btn {
+        margin-top: 20px;
+    }
+    /* used-cars-sales-end */
+    /* car-comparison-start */
+    .car-comparison .comparison-owl {
+        margin-top: 70px;
+    }
+    .car-comparison .heading-content .top-heading .btn {
+        right: unset;
+        left: 0;
+        top: 120px;
+        margin-top: 0;
+    }
+    .car-comparison .comparison-owl .owl-nav {
+        top: -52px;
+    }
+    .car-comparison .heading-content p {
+        width: 100%;
+    }
+    .car-comparison .comparison-card .right-item {
+        margin-top: 40px;
+    }
+    .car-comparison .comparison-card .vs {
+        top: 49%;
+    }
+    /* car-comparison-end */
+    /* carspot-footer-start */
+    .carspot-footer .quick-links {
+        margin-top: 30px;
+    }
+    .carspot-footer .quick-links-2 ul {
+        margin-top: 30px;
+    }
+    .carspot-footer .get-our-apps {
+        margin-top: 30px;
+    }
+    .carspot-footer .quick-links ul {
+        margin-bottom: 0;
+    }
+    .carspot-footer .quick-links ul li:last-child {
+        margin-bottom: 0px;
+    }
+    /* carspot-footer-end */
+    /* carspot-search-filter-start */
+    .carspot-search-filter .filter-switcher .right-cont {
+        padding: 20px;
+        flex-direction: column;
+        height: 100%;
+    }
+    .carspot-search-filter .filter-switcher .right-cont .right-meta {
+        flex-direction: column;
+    }
+    .carspot-search-filter .filter-switcher .right-cont .right-meta .refresh {
+        margin: 10px 0;
+    }
+    /* carspot-search-filter-end */
+    /* top-bread-crumb-start */
+    .top-bread-crumb .breadcrumb {
+        justify-content: center;
+    }
+    /* top-bread-crumb-end */
+    /* cp-singlepage-detail-start */
+    .cp-singlepage-detail .left-cont .owl-carousel.cars-dtl-carousel .owl-nav,
+    .cp-singlepage-detail .left-cont .cars-dtl-carousel .item .extra-links {
+        display: none;
+    }
+    .cp-singlepage-detail .desc-ftd .desc-dtl ul li,
+    .cp-singlepage-detail .desc-ftd .car-features ul li {
+        width: 49%;
+    }
+    .cp-singlepage-detail .desc-ftd .desc-dtl ul li:last-child {
+        width: 100%;
+    }
+    .cp-singlepage-detail .desc-ftd .ftd-links {
+        border: none;
+    }
+    .cp-singlepage-detail .desc-ftd .ftd-links ul li a {
+        border: 1px solid #e7e7e7;
+        margin-bottom: 5px;
+    }
+    .cp-singlepage-detail .desc-ftd .ftd-links ul li:first-child a {
+        border-left: 1px solid #e7e7e7;
+        padding-left: 20px;
+    }
+    .cp-singlepage-detail .left-cont .cars-dtl-carousel .item .offer-id {
+        top: 10px;
+        left: 10px;
+    }
+    /* cp-singlepage-detail-end */
+}
+@media (max-width: 399.98px) {
+    /* explore-cars-cities-start */
+    .explore-cars-cities .recent-cars-list .list-card .cont-right p {
+        font-size: 10px;
+    }
+    .explore-cars-cities .recent-cars-list .list-card .cont-right h5 {
+        font-size: 12px;
+    }
+    /* explore-cars-cities-end */
+}
+@media (max-width: 357.98px) {
+    /* car-comparison-start */
+    .car-comparison .comparison-owl {
+        margin-top: 80px;
+    }
+    .car-comparison .heading-content .top-heading .btn {
+        top: 152px;
+    }
+    /* car-comparison-end */
+}
+@media (max-width: 479.98px) {
+    /* carspot-search-filter-start */
+    .carspot-search-filter .filter-switcher {
+        flex-direction: column;
+    }
+    .carspot-search-filter .filter-switcher .left-cont {
+        margin-bottom: 10px;
+    }
+    .carspot-search-filter .filter-switcher .right-cont {
+        padding: 20px;
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        margin-left: 0;
+    }
+    .carspot-search-filter .filter-switcher .right-cont .right-meta {
+        flex-direction: column;
+    }
+    .carspot-search-filter .filter-switcher .right-cont .right-meta .refresh {
+        margin: 10px 0;
+    }
+    .carspot-search-filter .filter-switcher .right-cont .left-meta h5 {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .carspot-search-filter .filter-switcher .right-cont .left-meta h5 span {
+        font-weight: 500;
+    }
+    .carspot-search-filter .right-cont .select2-container {
+        width: 176px !important;
+    }
+    .carspot-search-filter .side-bar .accordion-item .year-duration .form-group {
+        width: 197px;
+    }
+    .carspot-search-filter .filter-switcher .left-cont {
+        width: 100%;
+    }
+    .carspot-search-filter .filter-switcher .left-cont .filter-btn {
+        width: 100%;
+        justify-content: center;
+        border-radius: 5px;
+    }
+    /* carspot-search-filter-end */
+    /* top-bread-crumb-start */
+    .top-bread-crumb .breadcrumb .breadcrumb-item a {
+        color: #000;
+        font-size: 12px;
+    }
+    /* top-bread-crumb-end */
+    /* cp-singlepage-detail-start */
+    .cp-singlepage-detail .right-cont .list-view {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .cp-singlepage-detail .right-cont .list-view b {
+        padding-left: 0;
+        margin-left: 0;
+        border-left: none;
+    }
+    .cp-singlepage-detail .right-cont .carspot-profile-dtl .profile {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .cp-singlepage-detail .carspot-profile-dtl .profile .right-meta {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .cp-singlepage-detail .carspot-profile-dtl .location, 
+    .cp-singlepage-detail .carspot-profile-dtl .number {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .cp-singlepage-detail .carspot-profile-dtl .location .iconify,
+    .cp-singlepage-detail .carspot-profile-dtl .number .iconify {
+        margin-right: 5px;
+    }
+    .cp-singlepage-detail .carspot-profile-dtl .location a {
+        margin-left: 0;
+    }
+    .cp-singlepage-detail .carspot-profile-dtl .location .right,
+    .cp-singlepage-detail .carspot-profile-dtl .number .right {
+        margin-top: 5px;
+        margin-left: 0;
+    }
+    .cp-singlepage-detail .carspot-profile-dtl .offer-schedule-btn {
+        margin-top: 0px;
+    }
+    .cp-singlepage-detail .carspot-profile-dtl .offer-schedule-btn .offer-btn, 
+    .cp-singlepage-detail .carspot-profile-dtl .offer-schedule-btn .schedule-btn {
+        display: block;
+        text-align: center;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .cp-singlepage-detail .desc-ftd .desc-dtl ul li,
+    .cp-singlepage-detail .desc-ftd .car-features ul li {
+        width: 100%;
+    }
+    .cp-singlepage-detail .desc-ftd .other-links ul li {
+        margin-right: 6px;
+    }
+    .cp-singlepage-detail .desc-ftd .other-links ul li a {
+        font-size: 12px;
+    }
+    .cp-singlepage-detail .desc-ftd .desc-dtl ul li:last-child .dtl-item span {
+        white-space: nowrap;
+        width: 167px;
+        overflow: hidden;
+    }
+    /* cp-singlepage-detail-end */
+}

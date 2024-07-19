@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <custom-fields>
+        <!--  Map Countries -->
+        <custom-field action="copy-once">country_county</custom-field>
+        <!--  Add Post -->
+        <custom-field action="copy-once">_carspot_is_feature</custom-field>
+        <custom-field action="copy-once">sb_change_author</custom-field>
+        <custom-field action="copy-once">ad_cat</custom-field>
+        <custom-field action="copy-once">_carspot_ad_price_type</custom-field>
+        <custom-field action="copy-once">ad_avg_hwy</custom-field>
+        <custom-field action="copy-once">ad_avg_city</custom-field>
+        <custom-field action="copy-once">_carspot_ad_condition</custom-field>
+        <custom-field action="copy-once">_carspot_ad_features</custom-field>
+        <custom-field action="copy-once">_carspot_ad_review_stamp</custom-field>
+        <custom-field action="copy-once">_carspot_ad_type</custom-field>
+        <custom-field action="copy-once">_carspot_ad_warranty</custom-field>
+        <custom-field action="copy-once">_carspot_ad_years</custom-field>
+        <custom-field action="copy-once">_carspot_ad_body_types</custom-field>
+        <custom-field action="copy-once">_carspot_ad_transmissions</custom-field>
+        <custom-field action="copy-once">ad_engine_capacities</custom-field>
+        <custom-field action="copy-once">_carspot_ad_engine_types</custom-field>
+        <custom-field action="copy-once">_carspot_ad_assembles</custom-field>
+        <custom-field action="copy-once">_carspot_ad_colors</custom-field>
+        <custom-field action="copy-once">ad_insurance</custom-field>
+        <custom-field action="copy-once">_carspot_ad_yvideo</custom-field>
+        <custom-field action="copy-once">tags_tagsinput</custom-field>
+        <custom-field action="copy-once">ad_country</custom-field>
+        <custom-field action="copy-once">sb_user_name</custom-field>
+        <custom-field action="copy-once">sb_contact_number</custom-field>
+        <custom-field action="copy-once">sb_user_address</custom-field>
+        <custom-field action="copy-once">_carspot_ad_map_lat</custom-field>
+        <custom-field action="copy-once">_carspot_ad_map_long</custom-field>
+        <custom-field action="copy-once">pending_post_msg</custom-field>
+        <custom-field action="copy-once">sb_dynamic_form_templates</custom-field>
+        <custom-field action="copy-once">sb_dynamic_form_templates</custom-field>
+        <!--category template -->
+        <custom-field action="copy-once">_sb_ad_template</custom-field>
+        <!-- reviews -->
+        <custom-field action="copy-once">tab_heading</custom-field>
+        <custom-field action="copy-once">tab_heading_2</custom-field>
+        <custom-field action="copy-once">tab_desc_1</custom-field>
+        <custom-field action="copy-once">tab_desc_2</custom-field>
+        <custom-field action="copy-once">verdict_title</custom-field>
+        <custom-field action="copy-once">verdict_sunnmry</custom-field>
+        <custom-field action="copy-once">youtube_video</custom-field>
+        <custom-field action="copy-once">review_rating_field</custom-field>
+        <custom-field action="copy-once">review_rating</custom-field>
+        <custom-field action="copy-once">verdict</custom-field>
+        <custom-field action="copy-once">custom_term_status</custom-field>
+    </custom-fields>
+    <!-- theme options -->
+    <admin-texts>
+        <key name="carspotAPI">
+            <!-- Social login settings -->
+            <key name="app_register_tagline"/>
+
+            <!-- App Share/Rating -->
+            <key name="allow_app_rating_title"/>
+            <key name="allow_app_share_title"/>
+            <key name="allow_app_share_text"/>
+
+            <!-- About Us -->
+            <key name="other-pages-1-title"/>
+            <key name="other-pages-1-desc"/>
+
+            <!-- Thank You Settings -->
+            <key name="payment_thankyou"/>
+
+            <!-- Menu Settings -->
+            <key name="api-sortable-app-menu">
+                <key name="home"/>
+                <key name="profile"/>
+                <key name="search"/>
+                <key name="inbox_list"/>
+                <key name="sell_your_car"/>
+                <key name="comparison_search"/>
+                <key name="packages"/>
+                <key name="review"/>
+                <key name="about_us"/>
+                <key name="contact_us"/>
+                <key name="dynamic_pages"/>
+                <key name="blog"/>
+                <key name="logout"/>
+                <key name="login"/>
+                <key name="register"/>
+                <key name="language"/>
+            </key>
+
+            <!-- Home Screen Theme -->
+            <key name="home_thme_header_title"/>
+            <key name="home_thme_header_sub_title"/>
+            <key name="total_no_cars_your_area_text"/>
+
+            <!-- Home Screen  -->
+            <key name="sb_home_screen_title"/>
+            <key name="hom_sec_tagline"/>
+            <key name="hom_sec_headline"/>
+            <key name="hom_sec_place_holder"/>
+            <key name="hom_sec_advance_search"/>
+
+            <!-- Body Type  -->
+            <key name="api_home_body_type_section_title"/>
+            <key name="api_home_body_type_ad_post"/>
+
+            <!-- Featured Make  -->
+            <key name="categories-section-title"/>
+            <key name="categories-section-view-all"/>
+
+            <!-- Featured Ads  -->
+            <key name="sb_home_ads_title"/>
+            <key name="sb_home_ads_view_all"/>
+
+            <!-- Latest Ads  -->
+            <key name="sb_home_latest_ads_title"/>
+            <key name="sb_home_latest_ads_title_view_all"/>
+
+            <!-- Ads Location  -->
+            <key name="api_location_title"/>
+
+            <!-- Ads comparison  -->
+            <key name="api_comparison_title"/>
+            <key name="api_comparison_view_all"/>
+            <key name="api_comparison_vs_txt"/>
+
+            <!-- Blog Screen  -->
+            <key name="api_blogNews_title"/>
+
+            <!-- Ads General Settings  -->
+            <key name="report_options"/>
+
+            <!-- Ad post settings  -->
+            <key name="sb_ad_update_notice"/>
+            <key name="sb_feature_desc"/>
+            <key name="sb_ad_post_brochure_label"/>
+            <key name="sb_ad_post_brochure_size_label"/>
+            <key name="sb_advertise_ad_label"/>
+            <key name="sb_ad_post_video_label"/>
+            <key name="sb_ad_upload_video_label"/>
+            <key name="sb_ad_post_video_size_label"/>
+            <key name="sb_ad_post_video_duration_label"/>
+            <key name="sb_ad_post_video_format_msg"/>
+            <key name="sb_ad_post_video_upload_progres"/>
+
+            <!-- Ads Search settings  -->
+            <key name="sb_search_ads_title"/>
+
+            <!-- Ads Rating settings  -->
+            <key name="sb_ad_rating_title"/>
+
+            <!-- Users  -->
+            <key name="sb_new_user_register_checkbox_text"/>
+            <key name="sb_new_user_delete_option_text"/>
+            <key name="sb_user_profile_tab1"/>
+            <key name="sb_user_profile_tab2"/>
+            <key name="sb_user_profile_tab3"/>
+        </key>
+    </admin-texts>
+</wpml-config>

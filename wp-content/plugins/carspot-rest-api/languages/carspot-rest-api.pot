@@ -1,0 +1,4897 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Carspot Apps API\n"
+"POT-Creation-Date: 2022-05-12 17:54+0500\n"
+"PO-Revision-Date: 2022-05-12 17:54+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: classes/ad_message.php:65 classes/ad_message.php:142
+#: classes/settings.php:217
+msgid "Messages"
+msgstr ""
+
+#: classes/ad_message.php:66 classes/ad_message.php:143
+#: classes/settings.php:218
+msgid "Sent Offers"
+msgstr ""
+
+#: classes/ad_message.php:67 classes/ad_message.php:144
+#: classes/settings.php:219
+msgid "Offers on Ads"
+msgstr ""
+
+#: classes/ad_message.php:222
+msgid "No Message Found"
+msgstr ""
+
+#: classes/ad_message.php:297
+msgid "Chat Box"
+msgstr ""
+
+#: classes/ad_message.php:326
+msgid "is typing"
+msgstr ""
+
+#: classes/ad_message.php:331 classes/ad_message.php:559
+msgid "No Chat Found"
+msgstr ""
+
+#: classes/ad_message.php:371 classes/ad_post.php:1299 classes/ad_post.php:1315
+#: classes/ad_post.php:1545 classes/ad_rating.php:63 classes/ad_rating.php:124
+#: classes/register.php:171
+msgid "Something went wrong"
+msgstr ""
+
+#: classes/ad_message.php:381
+msgid "Please Login to send message"
+msgstr ""
+
+#: classes/ad_message.php:419
+msgid "Message sent successfully."
+msgstr ""
+
+#: classes/ad_message.php:421
+msgid "Message not sent, please try again later."
+msgstr ""
+
+#: classes/ad_message.php:424
+msgid "You can not send a message to yourself"
+msgstr ""
+
+#: classes/ad_post.php:116
+msgid "Edit Add"
+msgstr ""
+
+#: classes/ad_post.php:116
+msgid "Add Post"
+msgstr ""
+
+#: classes/ad_post.php:163
+msgid "Ad Title"
+msgstr ""
+
+#: classes/ad_post.php:167
+msgid "Registration Number"
+msgstr ""
+
+#: classes/ad_post.php:173 classes/ad_post.php:177 classes/ad_post.php:181
+#: classes/ad_post.php:184 classes/ads.php:989 classes/ads.php:1799
+msgid "Categories"
+msgstr ""
+
+#: classes/ad_post.php:189
+msgid "Choose Stamp"
+msgstr ""
+
+#: classes/ad_post.php:191
+msgid "VIN Number"
+msgstr ""
+
+#: classes/ad_post.php:196 classes/ad_post.php:533 classes/ad_post.php:2163
+#: classes/ad_post.php:2166 inc/options-init.php:1727
+msgid "Price Type"
+msgstr ""
+
+#: classes/ad_post.php:198 classes/ad_post.php:2170 classes/ad_post.php:2177
+msgid "Ad Price"
+msgstr ""
+
+#: classes/ad_post.php:199 functions.php:757
+msgid "Mileage"
+msgstr ""
+
+#: classes/ad_post.php:201
+msgid "Average in Highway"
+msgstr ""
+
+#: classes/ad_post.php:202
+msgid "Average in City"
+msgstr ""
+
+#: classes/ad_post.php:205 classes/ads.php:768 classes/ads.php:994
+msgid "Condition"
+msgstr ""
+
+#: classes/ad_post.php:207 classes/ads.php:779 classes/ads.php:992
+#: classes/ads.php:1000
+msgid "Ad Type"
+msgstr ""
+
+#: classes/ad_post.php:209 classes/ads.php:774 classes/ads.php:997
+msgid "Warranty"
+msgstr ""
+
+#: classes/ad_post.php:214 classes/ad_post.php:216 classes/ads.php:1002
+#: classes/payment.php:257
+msgid "Year"
+msgstr ""
+
+#: classes/ad_post.php:222 classes/ad_post.php:224 classes/ads.php:1005
+#: inc/options-init.php:1158 inc/options-init.php:1167
+msgid "Body Type"
+msgstr ""
+
+#: classes/ad_post.php:229 classes/ad_post.php:231 classes/ads.php:1008
+msgid "Transmission"
+msgstr ""
+
+#: classes/ad_post.php:237 classes/ad_post.php:239
+msgid "Capacity"
+msgstr ""
+
+#: classes/ad_post.php:245 classes/ad_post.php:247 classes/ads.php:805
+#: classes/ads.php:1014
+msgid "Engine Type"
+msgstr ""
+
+#: classes/ad_post.php:251 classes/ads.php:1017
+msgid "Assembly"
+msgstr ""
+
+#: classes/ad_post.php:254 classes/ads.php:1020
+msgid "Colour"
+msgstr ""
+
+#: classes/ad_post.php:257 classes/ads.php:820 classes/ads.php:1023
+msgid "Insurance"
+msgstr ""
+
+#: classes/ad_post.php:260 classes/ad_post.php:532 classes/ad_post.php:2194
+#: classes/ad_post.php:2196
+msgid "Tags Comma(,) separated"
+msgstr ""
+
+#: classes/ad_post.php:261 classes/ad_post.php:2200 classes/ad_post.php:2202
+msgid "Youtube Video Link"
+msgstr ""
+
+#: classes/ad_post.php:263 classes/ads.php:147
+msgid "Features"
+msgstr ""
+
+#: classes/ad_post.php:282 classes/ads.php:325 inc/options-init.php:290
+msgid "Description"
+msgstr ""
+
+#: classes/ad_post.php:287
+msgid "On"
+msgstr ""
+
+#: classes/ad_post.php:288
+msgid "Off"
+msgstr ""
+
+#: classes/ad_post.php:296 classes/ads.php:322
+msgid "Bidding"
+msgstr ""
+
+#: classes/ad_post.php:300
+msgid "Bidding Time"
+msgstr ""
+
+#: classes/ad_post.php:305 classes/ads.php:280 classes/ads.php:295
+#: classes/profile.php:411 classes/profile.php:675 classes/settings.php:414
+#: functions.php:2217
+msgid "Name"
+msgstr ""
+
+#: classes/ad_post.php:311 classes/profile.php:412 classes/register.php:187
+#: functions.php:2223
+msgid "Phone Number"
+msgstr ""
+
+#: classes/ad_post.php:319 classes/ads.php:135 classes/ads.php:1036
+#: classes/profile.php:463 functions.php:704 functions.php:2231
+#: inc/options-init.php:1395
+msgid "Location"
+msgstr ""
+
+#: classes/ad_post.php:345 classes/ads.php:1038 classes/profile.php:413
+#: classes/profile.php:432 functions.php:2251
+msgid "Address"
+msgstr ""
+
+#: classes/ad_post.php:349 classes/profile.php:433 functions.php:2255
+msgid "Latitude"
+msgstr ""
+
+#: classes/ad_post.php:350 classes/profile.php:434 functions.php:2256
+msgid "Longitude"
+msgstr ""
+
+#: classes/ad_post.php:356
+msgid "select images to upload"
+msgstr ""
+
+#: classes/ad_post.php:361 classes/ad_post.php:1329
+msgid "you can not upload more images"
+msgstr ""
+
+#: classes/ad_post.php:363 classes/ad_post.php:1360
+msgid "your can upload"
+msgstr ""
+
+#: classes/ad_post.php:363 classes/ad_post.php:1331 classes/ad_post.php:1360
+msgid "more image"
+msgstr ""
+
+#: classes/ad_post.php:374
+msgid "Post Ad"
+msgstr ""
+
+#: classes/ad_post.php:390 classes/ad_post.php:396
+msgid "Bump it up on the top of the list. Ads remaining: Unlimited"
+msgstr ""
+
+#: classes/ad_post.php:399
+msgid "Bump it up on the top of the list. Ads remaining: "
+msgstr ""
+
+#: classes/ad_post.php:427 classes/ad_post.php:498 classes/profile.php:554
+#: classes/settings.php:93
+msgid "Confirmation"
+msgstr ""
+
+#: classes/ad_post.php:428
+msgid "Are you sure you want to bumup this ad."
+msgstr ""
+
+#: classes/ad_post.php:429 classes/ad_post.php:500 classes/ad_post.php:529
+#: classes/ad_rating.php:329 classes/ads.php:332 classes/ads.php:355
+#: classes/ads.php:362 classes/ads.php:365 classes/ads.php:368
+#: classes/ads.php:1065 classes/comparison.php:115 classes/posts.php:194
+#: classes/profile.php:521 classes/profile.php:535 classes/profile.php:549
+#: classes/profile.php:567 classes/profile.php:2381 classes/settings.php:58
+#: classes/settings.php:95 classes/settings.php:121 classes/settings.php:261
+msgid "Cancel"
+msgstr ""
+
+#: classes/ad_post.php:430 classes/ad_post.php:501 classes/profile.php:550
+#: classes/profile.php:568 classes/profile.php:2380 classes/settings.php:96
+#: classes/settings.php:260
+msgid "Confirm"
+msgstr ""
+
+#: classes/ad_post.php:456
+msgid "If you want to make it feature then please have a look on"
+msgstr ""
+
+#: classes/ad_post.php:465
+msgid "Featured ads remaining: Unlimited"
+msgstr ""
+
+#: classes/ad_post.php:468
+msgid "Featured ads remaining: "
+msgstr ""
+
+#: classes/ad_post.php:499
+msgid "Are you sure you want to make this ad featured."
+msgstr ""
+
+#: classes/ad_post.php:525
+msgid "Select Images"
+msgstr ""
+
+#: classes/ad_post.php:526
+msgid "User Information"
+msgstr ""
+
+#: classes/ad_post.php:527
+msgid "You can re-arange image by draging them."
+msgstr ""
+
+#: classes/ad_post.php:528 classes/ad_rating.php:328 classes/ads.php:1064
+#: classes/bid.php:205 classes/comparison.php:114 classes/login.php:127
+#: classes/posts.php:193 classes/register.php:238 classes/settings.php:112
+msgid "Submit"
+msgstr ""
+
+#: classes/ad_post.php:530
+msgid "Youtube video link"
+msgstr ""
+
+#: classes/ad_post.php:531
+msgid "Please Fill All The Required Fields"
+msgstr ""
+
+#: classes/ad_post.php:534 classes/ads.php:283 classes/ads.php:831
+#: classes/ads.php:837 classes/ads.php:1029
+msgid "Price"
+msgstr ""
+
+#: classes/ad_post.php:535
+msgid "Next Step"
+msgstr ""
+
+#: classes/ad_post.php:536
+msgid "Please Select"
+msgstr ""
+
+#: classes/ad_post.php:571 inc/options-init.php:1820
+msgid "Title of select Brochure"
+msgstr ""
+
+#: classes/ad_post.php:577 inc/options-init.php:1828
+msgid "Maximum size should be 5 MB"
+msgstr ""
+
+#: classes/ad_post.php:611 inc/options-init.php:1873
+msgid "Select Vidoe"
+msgstr ""
+
+#: classes/ad_post.php:617 inc/options-init.php:1887
+msgid "Maximum size should be 10 MB"
+msgstr ""
+
+#: classes/ad_post.php:623
+msgid "Maximum duration should be 10 minutes"
+msgstr ""
+
+#: classes/ad_post.php:647
+msgid "Please wait video upload is in progress"
+msgstr ""
+
+#: classes/ad_post.php:654 inc/options-init.php:1880
+msgid "Upload Video"
+msgstr ""
+
+#: classes/ad_post.php:680
+msgid "Only mp4 format supported"
+msgstr ""
+
+#: classes/ad_post.php:692
+msgid "No Result Found"
+msgstr ""
+
+#: classes/ad_post.php:750
+msgid "Adons"
+msgstr ""
+
+#: classes/ad_post.php:769 classes/ad_post.php:2528
+msgid "Add To Cart"
+msgstr ""
+
+#: classes/ad_post.php:773 classes/ad_post.php:2526
+msgid "Remove"
+msgstr ""
+
+#: classes/ad_post.php:836 classes/ad_post.php:2292 classes/ads.php:356
+#: classes/ads.php:734 classes/ads.php:985 classes/woo-commerce.php:101
+#: classes/woo-commerce.php:126 functions.php:1652 functions.php:1829
+msgid "Select Option"
+msgstr ""
+
+#: classes/ad_post.php:918 classes/login.php:174
+msgid "Editing Not Alloded In Demo"
+msgstr ""
+
+#: classes/ad_post.php:937
+msgid "You have no more ads to post"
+msgstr ""
+
+#: classes/ad_post.php:944
+msgid "Your package has expired"
+msgstr ""
+
+#: classes/ad_post.php:1224
+msgid "Ad Marked As Featured."
+msgstr ""
+
+#: classes/ad_post.php:1250
+msgid "And Marked As Bumped Ad."
+msgstr ""
+
+#: classes/ad_post.php:1256
+msgid "Ad Updated Successfully."
+msgstr ""
+
+#: classes/ad_post.php:1258
+msgid "Ad Posted Successfully"
+msgstr ""
+
+#: classes/ad_post.php:1312
+msgid "Image deleted successfully."
+msgstr ""
+
+#: classes/ad_post.php:1331 classes/ad_post.php:1667 classes/ad_post.php:1846
+msgid "you can upload"
+msgstr ""
+
+#: classes/ad_post.php:1358
+msgid "your can not upload more images"
+msgstr ""
+
+#: classes/ad_post.php:1482
+msgid "your upload ad limit is "
+msgstr ""
+
+#: classes/ad_post.php:1487
+msgid "Minimum image dimension should be"
+msgstr ""
+
+#: classes/ad_post.php:1550
+msgid "Maximum size less than 10 MB"
+msgstr ""
+
+#: classes/ad_post.php:1582
+msgid "Video Uploaded Successfully"
+msgstr ""
+
+#: classes/ad_post.php:1637 classes/ad_post.php:1734 classes/ad_post.php:1815
+msgid "Something Missing"
+msgstr ""
+
+#: classes/ad_post.php:1649
+msgid "Video deleted successfully"
+msgstr ""
+
+#: classes/ad_post.php:1652
+msgid "Video not Delete"
+msgstr ""
+
+#: classes/ad_post.php:1665 classes/ad_post.php:1844
+msgid "you can not upload more Brochures"
+msgstr ""
+
+#: classes/ad_post.php:1667
+msgid "more videos"
+msgstr ""
+
+#: classes/ad_post.php:1762
+msgid "Brochure Uploaded Successfully"
+msgstr ""
+
+#: classes/ad_post.php:1827
+msgid "Brochure deleted successfully."
+msgstr ""
+
+#: classes/ad_post.php:1830
+msgid "Brochure not Deleted"
+msgstr ""
+
+#: classes/ad_post.php:1846
+msgid "More Brochure"
+msgstr ""
+
+#: classes/ad_post.php:1975 classes/ad_post.php:2531
+msgid "Amount In Cart"
+msgstr ""
+
+#: classes/ad_post.php:2187 classes/ad_post.php:2189
+msgid "Images"
+msgstr ""
+
+#: classes/ad_post.php:2525
+msgid "Added To Cart Successfully."
+msgstr ""
+
+#: classes/ad_post.php:2527
+msgid "Removed From Cart."
+msgstr ""
+
+#: classes/ad_post.php:2529
+msgid "Nothing In Cart."
+msgstr ""
+
+#: classes/ad_post.php:2819 classes/ads.php:930 classes/comparison.php:210
+msgid "Select an option"
+msgstr ""
+
+#: classes/ad_rating.php:68
+msgid "Ad author can't post rating"
+msgstr ""
+
+#: classes/ad_rating.php:71
+msgid "You've posted rating already"
+msgstr ""
+
+#: classes/ad_rating.php:92
+msgid "Your rating has been updated"
+msgstr ""
+
+#: classes/ad_rating.php:118
+msgid "Your rating has been posted"
+msgstr ""
+
+#: classes/ad_rating.php:128
+msgid "Only ad author can reply rating"
+msgstr ""
+
+#: classes/ad_rating.php:152
+msgid "Your reply has been updated"
+msgstr ""
+
+#: classes/ad_rating.php:179
+msgid "Your reply has been posted"
+msgstr ""
+
+#: classes/ad_rating.php:184
+msgid "Something went please try again."
+msgstr ""
+
+#: classes/ad_rating.php:244 classes/posts.php:195 classes/posts.php:199
+#: classes/posts.php:255 classes/posts.php:303 classes/posts.php:452
+#: classes/profile.php:1972 classes/profile.php:1985
+msgid "Reply"
+msgstr ""
+
+#: classes/ad_rating.php:299
+msgid "Ad Rating and Reviews"
+msgstr ""
+
+#: classes/ad_rating.php:313
+msgid "Ad Rating Here"
+msgstr ""
+
+#: classes/ad_rating.php:314
+msgid "Rating Comments"
+msgstr ""
+
+#: classes/ad_rating.php:316 classes/profile.php:2012
+msgid "You can not edit it later."
+msgstr ""
+
+#: classes/ad_rating.php:319
+msgid "You can't rate this ad"
+msgstr ""
+
+#: classes/ad_rating.php:320
+msgid "Be the first one to rate this ad"
+msgstr ""
+
+#: classes/ad_rating.php:321
+msgid "No rating found."
+msgstr ""
+
+#: classes/ad_rating.php:322 classes/profile.php:2013
+msgid "Submit Your Rating"
+msgstr ""
+
+#: classes/ad_rating.php:323 classes/comparison.php:110
+#: classes/comparison.php:111 classes/posts.php:106 classes/posts.php:107
+#: classes/posts.php:189 classes/reviews.php:94 classes/reviews.php:95
+#: classes/reviews.php:184
+msgid "Load More"
+msgstr ""
+
+#: classes/ad_rating.php:327
+msgid "Your reply text here"
+msgstr ""
+
+#: classes/ads.php:71
+msgid "'Invalid post id'"
+msgstr ""
+
+#: classes/ads.php:106 classes/ads.php:987 classes/profile.php:515
+#: functions.php:211
+msgid "Featured"
+msgstr ""
+
+#: classes/ads.php:125 classes/ads.php:425
+msgid "Overview"
+msgstr ""
+
+#: classes/ads.php:144
+msgid "Fuel Economy"
+msgstr ""
+
+#: classes/ads.php:144
+msgid "City MPG"
+msgstr ""
+
+#: classes/ads.php:144
+msgid "Highway MPG"
+msgstr ""
+
+#: classes/ads.php:229
+msgid "Record Found"
+msgstr ""
+
+#: classes/ads.php:234
+msgid "No Record Found"
+msgstr ""
+
+#: classes/ads.php:242
+#, php-format
+msgid "See %d photos."
+msgstr ""
+
+#: classes/ads.php:244
+msgid "Share"
+msgstr ""
+
+#: classes/ads.php:245
+msgid "Add To Favourites"
+msgstr ""
+
+#: classes/ads.php:246
+msgid "Report"
+msgstr ""
+
+#: classes/ads.php:248
+msgid "View Messages"
+msgstr ""
+
+#: classes/ads.php:248
+msgid "Send Message"
+msgstr ""
+
+#: classes/ads.php:251 classes/ads.php:366 classes/ads.php:367
+msgid "Call Now"
+msgstr ""
+
+#: classes/ads.php:252
+msgid "Pdf Brochure"
+msgstr ""
+
+#: classes/ads.php:268
+msgid "Click To View Phone Number"
+msgstr ""
+
+#: classes/ads.php:271 classes/ads.php:285 classes/ads.php:299
+#: classes/profile.php:678 classes/profile.php:757 classes/settings.php:417
+msgid "Message"
+msgstr ""
+
+#: classes/ads.php:276 classes/ads.php:286
+msgid "Make Offer"
+msgstr ""
+
+#: classes/ads.php:277
+msgid "Make an offer for"
+msgstr ""
+
+#: classes/ads.php:281 classes/ads.php:296 classes/profile.php:410
+#: classes/profile.php:676 classes/settings.php:415 inc/options-init.php:1595
+msgid "Email"
+msgstr ""
+
+#: classes/ads.php:282 classes/ads.php:297 classes/profile.php:677
+msgid "Phone"
+msgstr ""
+
+#: classes/ads.php:292
+msgid "Schedule Drive"
+msgstr ""
+
+#: classes/ads.php:293
+msgid "Schedule test drive"
+msgstr ""
+
+#: classes/ads.php:298
+msgid "Set Date"
+msgstr ""
+
+#: classes/ads.php:300 classes/profile.php:679
+msgid "Request Schedule"
+msgstr ""
+
+#: classes/ads.php:306
+msgid "Financing Calculator"
+msgstr ""
+
+#: classes/ads.php:307
+msgid "Vehicle price ($ )"
+msgstr ""
+
+#: classes/ads.php:308
+msgid "Rate (%)"
+msgstr ""
+
+#: classes/ads.php:309
+msgid "Period (month)"
+msgstr ""
+
+#: classes/ads.php:310
+msgid "Down Payment ($ )"
+msgstr ""
+
+#: classes/ads.php:312
+msgid "Calculate"
+msgstr ""
+
+#: classes/ads.php:313
+msgid "Reset"
+msgstr ""
+
+#: classes/ads.php:314
+msgid "Monthly Installment:"
+msgstr ""
+
+#: classes/ads.php:315
+msgid "Total Interest:"
+msgstr ""
+
+#: classes/ads.php:316
+msgid "Total Amount to Pay:"
+msgstr ""
+
+#: classes/ads.php:319
+msgid "Bid Now"
+msgstr ""
+
+#: classes/ads.php:319
+msgid "View Bids"
+msgstr ""
+
+#: classes/ads.php:321 classes/ads.php:323
+msgid "Bid Statistics"
+msgstr ""
+
+#: classes/ads.php:324 classes/profile.php:682
+msgid "Get Direction"
+msgstr ""
+
+#: classes/ads.php:329 inc/options-init.php:2247
+msgid "Block User"
+msgstr ""
+
+#: classes/ads.php:330
+msgid "Block User?"
+msgstr ""
+
+#: classes/ads.php:331
+msgid ""
+"Are you sure you want to block user. You will not see this user ads anywhere."
+msgstr ""
+
+#: classes/ads.php:333
+msgid "Confrim"
+msgstr ""
+
+#: classes/ads.php:349
+msgid "Biddings"
+msgstr ""
+
+#: classes/ads.php:350
+msgid "Be the first bidder"
+msgstr ""
+
+#: classes/ads.php:352 classes/bid.php:203
+msgid "Bid Amount"
+msgstr ""
+
+#: classes/ads.php:353
+msgid "Bid description here"
+msgstr ""
+
+#: classes/ads.php:354 classes/ads.php:361 classes/ads.php:364
+#: classes/profile.php:556
+msgid "Send"
+msgstr ""
+
+#: classes/ads.php:357
+msgid "Why are you reporting this ad?"
+msgstr ""
+
+#: classes/ads.php:360 classes/ads.php:363
+msgid "You message here."
+msgstr ""
+
+#: classes/ads.php:373 classes/phone-verification.php:115
+#: classes/phone-verification.php:118 classes/profile.php:544
+msgid "Not verified"
+msgstr ""
+
+#: classes/ads.php:380 classes/phone-verification.php:115
+#: classes/phone-verification.php:118 classes/profile.php:544
+msgid "verified"
+msgstr ""
+
+#: classes/ads.php:387 classes/settings.php:136 inc/options-init.php:250
+msgid "Share this"
+msgstr ""
+
+#: classes/ads.php:388 classes/profile.php:1363
+msgid "Waiting for admin approval."
+msgstr ""
+
+#: classes/ads.php:404
+msgid "Related Posts"
+msgstr ""
+
+#: classes/ads.php:419
+msgid "Video"
+msgstr ""
+
+#: classes/ads.php:420
+msgid "Location On Map"
+msgstr ""
+
+#: classes/ads.php:421
+msgid "Bid Stats"
+msgstr ""
+
+#: classes/ads.php:424
+msgid "Bids"
+msgstr ""
+
+#: classes/ads.php:447
+msgid "This ad is expired."
+msgstr ""
+
+#: classes/ads.php:480 classes/ads.php:567 classes/profile.php:953
+#: classes/profile.php:1101
+msgid "Invalid Form Submission"
+msgstr ""
+
+#: classes/ads.php:491 classes/ads.php:532 classes/profile.php:964
+#: classes/profile.php:1010 classes/settings.php:441
+msgid "All fields are required"
+msgstr ""
+
+#: classes/ads.php:493 classes/ads.php:534 classes/login.php:49
+#: classes/profile.php:805 classes/profile.php:966 classes/profile.php:1012
+#: classes/profile.php:2295 classes/settings.php:443
+msgid "Something went wrong."
+msgstr ""
+
+#: classes/ads.php:496 classes/ads.php:537
+msgid "Email sent successfully."
+msgstr ""
+
+#: classes/ads.php:497
+msgid "Someone make an offer for your ad"
+msgstr ""
+
+#: classes/ads.php:498 classes/ads.php:540
+msgid "You have been contacted for test drive of your car"
+msgstr ""
+
+#: classes/ads.php:516 classes/ads.php:559
+msgid "Email sent to author successfully."
+msgstr ""
+
+#: classes/ads.php:539
+msgid "Car test drive query"
+msgstr ""
+
+#: classes/ads.php:597
+msgid "You have added already."
+msgstr ""
+
+#: classes/ads.php:600
+msgid "Added to your favourites."
+msgstr ""
+
+#: classes/ads.php:635
+msgid "You can't report your own ad"
+msgstr ""
+
+#: classes/ads.php:638
+msgid "You have reported already."
+msgstr ""
+
+#: classes/ads.php:647
+msgid "Reported successfully."
+msgstr ""
+
+#: classes/ads.php:651
+msgid "The ad you have reported has been removed."
+msgstr ""
+
+#: classes/ads.php:655
+msgid "Successfully reported."
+msgstr ""
+
+#: classes/ads.php:785
+msgid "Ad Years"
+msgstr ""
+
+#: classes/ads.php:790
+msgid "Ad Body Types"
+msgstr ""
+
+#: classes/ads.php:795
+msgid "Transmissions"
+msgstr ""
+
+#: classes/ads.php:800
+msgid "Engine Capacities"
+msgstr ""
+
+#: classes/ads.php:810
+msgid "Assembles"
+msgstr ""
+
+#: classes/ads.php:815
+msgid "Colors"
+msgstr ""
+
+#: classes/ads.php:829 classes/ads.php:835 classes/ads.php:1026
+msgid "Min Price"
+msgstr ""
+
+#: classes/ads.php:829 classes/ads.php:835 classes/ads.php:1026
+msgid "Max Price"
+msgstr ""
+
+#: classes/ads.php:836
+msgid "Currency"
+msgstr ""
+
+#: classes/ads.php:986
+msgid "Simple"
+msgstr ""
+
+#: classes/ads.php:988
+msgid "Search"
+msgstr ""
+
+#: classes/ads.php:988
+msgid "Type keyword"
+msgstr ""
+
+#: classes/ads.php:1011
+msgid "Engine Size"
+msgstr ""
+
+#: classes/ads.php:1027 classes/ads.php:1067
+msgid "From"
+msgstr ""
+
+#: classes/ads.php:1027 classes/ads.php:1068
+msgid "To"
+msgstr ""
+
+#: classes/ads.php:1030
+msgid "Mileage (Km)"
+msgstr ""
+
+#: classes/ads.php:1040
+msgid "Select Distance (KM)"
+msgstr ""
+
+#: classes/ads.php:1042 classes/ads.php:1830
+msgid "DESC"
+msgstr ""
+
+#: classes/ads.php:1043 classes/ads.php:1831
+msgid "ASC"
+msgstr ""
+
+#: classes/ads.php:1044 classes/ads.php:1832
+msgid "Price: High to Low"
+msgstr ""
+
+#: classes/ads.php:1045 classes/ads.php:1833
+msgid "Price: Low to High"
+msgstr ""
+
+#: classes/ads.php:1049
+msgid "500"
+msgstr ""
+
+#: classes/ads.php:1054
+msgid "100000"
+msgstr ""
+
+#: classes/ads.php:1062 classes/settings.php:63
+msgid "Search Here"
+msgstr ""
+
+#: classes/ads.php:1063
+msgid "Search Now"
+msgstr ""
+
+#: classes/ads.php:1069
+msgid "select option"
+msgstr ""
+
+#: classes/ads.php:1070
+msgid "select location"
+msgstr ""
+
+#: classes/ads.php:1802 functions.php:149
+msgid "Save Ad"
+msgstr ""
+
+#: classes/ads.php:1812 classes/profile.php:483 classes/profile.php:572
+#: classes/profile.php:1457 classes/profile.php:1465 classes/profile.php:1728
+#: classes/profile.php:1734 classes/woo-commerce.php:64
+#: inc/options-init.php:1139 inc/options-init.php:1268
+#: inc/options-init.php:1277 inc/options-init.php:2021
+msgid "Featured Ads"
+msgstr ""
+
+#: classes/ads.php:1823
+msgid "No of Ads Found"
+msgstr ""
+
+#: classes/ads.php:1863 functions.php:750
+msgid "Category"
+msgstr ""
+
+#: classes/ads.php:1871
+msgid "No Ads Found"
+msgstr ""
+
+#: classes/ads.php:1940 classes/ads.php:1996
+msgid "Your package has been expired"
+msgstr ""
+
+#: classes/ads.php:1941
+msgid ""
+"Your package has been expired, please subscribe the package to make it "
+"feature AD. "
+msgstr ""
+
+#: classes/ads.php:1944 classes/ads.php:1964 classes/ads.php:2000
+#: classes/ads.php:2020
+msgid "Buy"
+msgstr ""
+
+#: classes/ads.php:1946 classes/ads.php:1953
+msgid "Click Here To make this ad featured."
+msgstr ""
+
+#: classes/ads.php:1950 classes/ads.php:1957
+msgid "Make Featured"
+msgstr ""
+
+#: classes/ads.php:1960
+msgid "To make ad featured buy package."
+msgstr ""
+
+#: classes/ads.php:1961
+msgid "Please purchase package to make it this  ad featured. "
+msgstr ""
+
+#: classes/ads.php:1997
+msgid ""
+"Your package has been expired, please subscribe package to bump up this ad. "
+msgstr ""
+
+#: classes/ads.php:2002 classes/ads.php:2009
+msgid "Click Here To bump up."
+msgstr ""
+
+#: classes/ads.php:2006 classes/ads.php:2013
+msgid "Bump up"
+msgstr ""
+
+#: classes/ads.php:2016
+msgid "To bump up ad please purchase package."
+msgstr ""
+
+#: classes/ads.php:2017
+msgid "Please purchase package to bump up this ad. "
+msgstr ""
+
+#: classes/ads.php:2058 functions.php:2189
+msgid "Your package has been expired."
+msgstr ""
+
+#: classes/ads.php:2069
+msgid "This ad has been featured successfully."
+msgstr ""
+
+#: classes/ads.php:2072
+msgid "Get package in order to make it feature."
+msgstr ""
+
+#: classes/ads.php:2075
+msgid "Ad already featured."
+msgstr ""
+
+#: classes/ads.php:2078
+msgid "You must be Ad owner to make it feature."
+msgstr ""
+
+#: classes/bid.php:120
+msgid "Posted An Offer"
+msgstr ""
+
+#: classes/bid.php:197
+msgid "No top bidder yet. Be the first one."
+msgstr ""
+
+#: classes/bid.php:204 classes/comparison.php:109 classes/posts.php:105
+#: classes/posts.php:188 classes/profile.php:2010 classes/reviews.php:93
+#: classes/reviews.php:183
+msgid "Comments"
+msgstr ""
+
+#: classes/bid.php:216
+msgid "You can not bid on your item."
+msgstr ""
+
+#: classes/bid.php:223
+msgid "Be the first one to bid on this ad."
+msgstr ""
+
+#: classes/bid.php:261
+msgid "Total"
+msgstr ""
+
+#: classes/bid.php:261
+msgid "Highest"
+msgstr ""
+
+#: classes/bid.php:261
+msgid "Lowest"
+msgstr ""
+
+#: classes/bid.php:295
+msgid "All Fields Are Required"
+msgstr ""
+
+#: classes/bid.php:303
+msgid "Ad author can't post bid"
+msgstr ""
+
+#: classes/bid.php:323
+msgid "Updated successfully."
+msgstr ""
+
+#: classes/bid.php:329
+msgid "Posted successfully."
+msgstr ""
+
+#: classes/comparison.php:68 classes/comparison.php:83
+#: classes/comparison.php:299 classes/comparison.php:313 classes/home.php:446
+#: classes/posts.php:87 classes/reviews.php:76
+msgid "Read More"
+msgstr ""
+
+#: classes/comparison.php:97 classes/posts.php:94 classes/reviews.php:82
+msgid "no posts found"
+msgstr ""
+
+#: classes/comparison.php:107 inc/options-init.php:1143
+#: inc/options-init.php:1428 inc/options-init.php:1444
+#: inc/options-init.php:1453
+msgid "Comparison"
+msgstr ""
+
+#: classes/comparison.php:108
+msgid "V/s"
+msgstr ""
+
+#: classes/comparison.php:112 classes/posts.php:197
+msgid "Comment reply"
+msgstr ""
+
+#: classes/comparison.php:113
+msgid "post your reply"
+msgstr ""
+
+#: classes/comparison.php:206
+msgid "Comparison Details"
+msgstr ""
+
+#: classes/comparison.php:207
+msgid "Select Car's"
+msgstr ""
+
+#: classes/comparison.php:208 classes/comparison.php:209
+msgid "you want to compare"
+msgstr ""
+
+#: classes/comparison.php:211
+msgid "Compare"
+msgstr ""
+
+#: classes/home.php:32 inc/options-init.php:1069 inc/options-init.php:1078
+msgid "Home Screen"
+msgstr ""
+
+#: classes/home.php:50 inc/options-init.php:864
+msgid "Automotive Car Dealer"
+msgstr ""
+
+#: classes/home.php:51 inc/options-init.php:870
+msgid "More than 17,000 business listed"
+msgstr ""
+
+#: classes/home.php:52 inc/options-init.php:876
+msgid "17,288"
+msgstr ""
+
+#: classes/home.php:53 inc/options-init.php:882
+msgid "Used cars for sale in you Town search now"
+msgstr ""
+
+#: classes/home.php:129 classes/home.php:359 classes/profile.php:510
+msgid "Ads"
+msgstr ""
+
+#: classes/home.php:218 inc/options-init.php:1294 inc/options-init.php:1359
+#: inc/options-init.php:1461
+msgid "View All"
+msgstr ""
+
+#: classes/home.php:221
+msgid "View All Categories"
+msgstr ""
+
+#: classes/home.php:379 inc/options-init.php:1142 inc/options-init.php:1494
+#: inc/options-init.php:1519
+msgid "Blog/News"
+msgstr ""
+
+#: classes/login.php:47 classes/login.php:73
+msgid "Login Successful"
+msgstr ""
+
+#: classes/login.php:54
+msgid "Invalid Login Details"
+msgstr ""
+
+#: classes/login.php:70
+msgid "Please verify your email address to login."
+msgstr ""
+
+#: classes/login.php:123
+msgid "Welcome Back"
+msgstr ""
+
+#: classes/login.php:124
+msgid "Your Email Address"
+msgstr ""
+
+#: classes/login.php:125
+msgid "Your Password"
+msgstr ""
+
+#: classes/login.php:126
+msgid "Forgot Password"
+msgstr ""
+
+#: classes/login.php:128 classes/register.php:199
+msgid "OR"
+msgstr ""
+
+#: classes/login.php:129 classes/register.php:200
+msgid "Continue with Facebook"
+msgstr ""
+
+#: classes/login.php:130 classes/register.php:201
+msgid "Continue with Google"
+msgstr ""
+
+#: classes/login.php:131
+msgid "Not a Member Yet? Register with us."
+msgstr ""
+
+#: classes/login.php:132
+msgid "Remember me"
+msgstr ""
+
+#: classes/login.php:134
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: classes/login.php:135
+msgid "Reset My Account"
+msgstr ""
+
+#: classes/login.php:137
+msgid "Guest Login"
+msgstr ""
+
+#: classes/login.php:138 classes/settings.php:149
+msgid "Guest"
+msgstr ""
+
+#: classes/login.php:187 inc/email-templates.php:255
+msgid "Email is not resgistered with us."
+msgstr ""
+
+#: classes/login.php:225
+msgid "Account Confirmation"
+msgstr ""
+
+#: classes/login.php:226
+msgid "Please enter your confirmation code below."
+msgstr ""
+
+#: classes/login.php:227
+msgid "Confirmation Code Here"
+msgstr ""
+
+#: classes/login.php:228
+msgid "Confirm Account"
+msgstr ""
+
+#: classes/login.php:229 classes/register.php:239
+msgid "Back"
+msgstr ""
+
+#: classes/login.php:245 classes/profile.php:1559 classes/profile.php:1594
+#: classes/profile.php:1635
+msgid "Invalid Access"
+msgstr ""
+
+#: classes/login.php:250
+msgid "Please enter the confirmation code."
+msgstr ""
+
+#: classes/login.php:258
+msgid "You eneter invalid confirmation code."
+msgstr ""
+
+#: classes/login.php:267
+msgid "You account confirmed successfully."
+msgstr ""
+
+#: classes/login.php:270
+msgid "Invalid Access or token code."
+msgstr ""
+
+#: classes/logout.php:33
+msgid "You are logout successfully."
+msgstr ""
+
+#: classes/payment.php:30
+msgid "Package Id not found"
+msgstr ""
+
+#: classes/payment.php:41 classes/payment.php:44 classes/payment.php:47
+#: classes/payment.php:222
+msgid "Order placed successfully."
+msgstr ""
+
+#: classes/payment.php:52 classes/payment.php:178
+msgid "Invalid Payment Token"
+msgstr ""
+
+#: classes/payment.php:73
+msgid "Payment verified successfully."
+msgstr ""
+
+#: classes/payment.php:84
+msgid "Something went wrong. Please check back later."
+msgstr ""
+
+#: classes/payment.php:106
+msgid "Please check api settings"
+msgstr ""
+
+#: classes/payment.php:113
+msgid "Payment has not been verified. Status is "
+msgstr ""
+
+#: classes/payment.php:131
+msgid "Payment amount doesn't matched."
+msgstr ""
+
+#: classes/payment.php:138
+msgid "Payment currency doesn't matched."
+msgstr ""
+
+#: classes/payment.php:145
+msgid "Sale not completed"
+msgstr ""
+
+#: classes/payment.php:152
+msgid "Payment Made successfully."
+msgstr ""
+
+#: classes/payment.php:158
+msgid "Payment not found!"
+msgstr ""
+
+#: classes/payment.php:161 classes/payment.php:165
+msgid "Unknown error occurred!"
+msgstr ""
+
+#: classes/payment.php:174
+msgid "Stripe secret key not setup"
+msgstr ""
+
+#: classes/payment.php:203
+msgid "You order has been placed."
+msgstr ""
+
+#: classes/payment.php:206
+msgid "Payment not confirmed"
+msgstr ""
+
+#: classes/payment.php:219
+msgid "Something Went Wrong in payu."
+msgstr ""
+
+#: classes/payment.php:224
+msgid "Something Went Wrong."
+msgstr ""
+
+#: classes/payment.php:249
+msgid "Checkout Process"
+msgstr ""
+
+#: classes/payment.php:250
+msgid "PayStack Checkout Process"
+msgstr ""
+
+#: classes/payment.php:254
+msgid "Card Number"
+msgstr ""
+
+#: classes/payment.php:255
+msgid "Expiry Date"
+msgstr ""
+
+#: classes/payment.php:256
+msgid "Month"
+msgstr ""
+
+#: classes/payment.php:259
+msgid "CVC Number"
+msgstr ""
+
+#: classes/payment.php:260
+msgid "Checkout"
+msgstr ""
+
+#: classes/payment.php:263
+msgid "The card number that you entered is invalid"
+msgstr ""
+
+#: classes/payment.php:264
+msgid "The expiration date that you entered is invalid"
+msgstr ""
+
+#: classes/payment.php:265
+msgid "The CVC code that you entered is invalid"
+msgstr ""
+
+#: classes/payment.php:266
+msgid "The card details that you entered are invalid"
+msgstr ""
+
+#: classes/payment.php:406
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: classes/payment.php:409
+msgid "Pay"
+msgstr ""
+
+#: classes/payment.php:415 classes/payment.php:467 classes/payment.php:478
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: classes/payment.php:420
+msgid "Order number:"
+msgstr ""
+
+#: classes/payment.php:425
+msgid "Date:"
+msgstr ""
+
+#: classes/payment.php:431
+msgid "Email:"
+msgstr ""
+
+#: classes/payment.php:437
+msgid "Total:"
+msgstr ""
+
+#: classes/payment.php:443
+msgid "Payment method:"
+msgstr ""
+
+#: classes/payment.php:473 inc/options-init.php:796
+msgid "Thank You For Your Order"
+msgstr ""
+
+#: classes/payment.php:474
+msgid "Continue"
+msgstr ""
+
+#: classes/phone-verification.php:29
+msgid ""
+"Please go to edit profile and update valid phone number "
+"+CountrycodePhonenumber."
+msgstr ""
+
+#: classes/phone-verification.php:41 classes/phone-verification.php:69
+msgid "You can't resend the verification code before"
+msgstr ""
+
+#: classes/phone-verification.php:41 classes/phone-verification.php:69
+msgid "seconds."
+msgstr ""
+
+#: classes/phone-verification.php:56
+msgid "Verification code has been sent."
+msgstr ""
+
+#: classes/phone-verification.php:59
+msgid "Server not responding."
+msgstr ""
+
+#: classes/phone-verification.php:102
+msgid "Code not found."
+msgstr ""
+
+#: classes/phone-verification.php:108
+msgid "Phone number has been verified."
+msgstr ""
+
+#: classes/phone-verification.php:111
+msgid "Invalid code that you entered."
+msgstr ""
+
+#: classes/phone-verification.php:136
+msgid "Your verification code is"
+msgstr ""
+
+#: classes/phone-verification.php:146 classes/phone-verification.php:149
+msgid "Something went wrong please check later"
+msgstr ""
+
+#: classes/posts.php:104 classes/settings.php:357 inc/options-init.php:826
+msgid "Blog"
+msgstr ""
+
+#: classes/posts.php:108 classes/reviews.php:96 classes/reviews.php:190
+msgid "Post your comments here"
+msgstr ""
+
+#: classes/posts.php:109 classes/reviews.php:97 classes/reviews.php:191
+msgid "Your comment here"
+msgstr ""
+
+#: classes/posts.php:110 classes/reviews.php:98 classes/reviews.php:192
+msgid "Post Comment"
+msgstr ""
+
+#: classes/posts.php:111 classes/reviews.php:99 classes/reviews.php:193
+msgid "Cancel Comment"
+msgstr ""
+
+#: classes/posts.php:178 classes/reviews.php:173
+msgid "Comment are closed"
+msgstr ""
+
+#: classes/posts.php:180 classes/reviews.php:175
+msgid "No Comment Found"
+msgstr ""
+
+#: classes/posts.php:187 classes/reviews.php:182
+msgid "Blog Details"
+msgstr ""
+
+#: classes/posts.php:191
+msgid "Your Comment"
+msgstr ""
+
+#: classes/posts.php:192
+msgid "Post your comment"
+msgstr ""
+
+#: classes/posts.php:198
+msgid "Post your reply"
+msgstr ""
+
+#: classes/posts.php:200
+msgid "Please login first to post comment."
+msgstr ""
+
+#: classes/posts.php:201
+msgid "Please write something."
+msgstr ""
+
+#: classes/posts.php:390
+msgid "Comment Posted Successfully."
+msgstr ""
+
+#: classes/posts.php:392
+msgid "Comment sent for approval."
+msgstr ""
+
+#: classes/posts.php:397
+msgid "Some Error Ocuured While Posting Ad"
+msgstr ""
+
+#: classes/posts.php:399
+msgid "You are posting too fast. Please slow down."
+msgstr ""
+
+#: classes/profile.php:37 classes/profile.php:154
+msgid "Something went wrong while uploading image."
+msgstr ""
+
+#: classes/profile.php:48 classes/profile.php:99
+msgid "Profile image updated successfully"
+msgstr ""
+
+#: classes/profile.php:51
+msgid "You must be login to update the profile image."
+msgstr ""
+
+#: classes/profile.php:160
+msgid "Store image updated successfully"
+msgstr ""
+
+#: classes/profile.php:163
+msgid "You must be login to update the Store image."
+msgstr ""
+
+#: classes/profile.php:217 classes/register.php:35
+msgid "Please enter name."
+msgstr ""
+
+#: classes/profile.php:221
+msgid "Please enter phone number."
+msgstr ""
+
+#: classes/profile.php:283 classes/profile.php:519 classes/profile.php:539
+#: classes/profile.php:571 classes/profile.php:1745
+msgid "Edit Profile"
+msgstr ""
+
+#: classes/profile.php:284
+msgid "Profile Updated."
+msgstr ""
+
+#: classes/profile.php:317
+msgid "Editing Not Allowed In Demo"
+msgstr ""
+
+#: classes/profile.php:327
+msgid "Please enter current password"
+msgstr ""
+
+#: classes/profile.php:331
+msgid "Please enter new password"
+msgstr ""
+
+#: classes/profile.php:335
+msgid "Password confirm password mismatched"
+msgstr ""
+
+#: classes/profile.php:341
+msgid "Password successfully chnaged"
+msgstr ""
+
+#: classes/profile.php:344
+msgid "Invalid old password"
+msgstr ""
+
+#: classes/profile.php:410
+msgid "Enter Email"
+msgstr ""
+
+#: classes/profile.php:411
+msgid "Enter Name"
+msgstr ""
+
+#: classes/profile.php:412
+msgid "Enter phone number"
+msgstr ""
+
+#: classes/profile.php:413
+msgid "Enter address"
+msgstr ""
+
+#: classes/profile.php:427
+msgid "Dealer's Detail"
+msgstr ""
+
+#: classes/profile.php:428
+msgid "Company Name"
+msgstr ""
+
+#: classes/profile.php:429
+msgid "Website URL"
+msgstr ""
+
+#: classes/profile.php:430
+msgid "License No.  (For Admin Only)"
+msgstr ""
+
+#: classes/profile.php:430
+msgid "License No."
+msgstr ""
+
+#: classes/profile.php:431
+msgid "Opening Hours"
+msgstr ""
+
+#: classes/profile.php:437
+msgid "Store Front Image"
+msgstr ""
+
+#: classes/profile.php:438
+msgid "About Yourself"
+msgstr ""
+
+#: classes/profile.php:439
+msgid "Facebook Link"
+msgstr ""
+
+#: classes/profile.php:440
+msgid "Twitter Link"
+msgstr ""
+
+#: classes/profile.php:441
+msgid "LinkedIn Profile"
+msgstr ""
+
+#: classes/profile.php:442
+msgid "Youtube Channel"
+msgstr ""
+
+#: classes/profile.php:460 functions.php:613 functions.php:1416
+#: functions.php:1438 inc/options-init.php:1739
+msgid "Free"
+msgstr ""
+
+#: classes/profile.php:460
+msgid "Paid"
+msgstr ""
+
+#: classes/profile.php:461
+msgid "Package Type"
+msgstr ""
+
+#: classes/profile.php:462
+msgid "Account Type"
+msgstr ""
+
+#: classes/profile.php:464 inc/categories-images.php:44
+#: inc/categories-images.php:58 inc/categories-images.php:136
+msgid "Image"
+msgstr ""
+
+#: classes/profile.php:470 classes/settings.php:130
+msgid "Never"
+msgstr ""
+
+#: classes/profile.php:471
+msgid "Expiry date"
+msgstr ""
+
+#: classes/profile.php:473
+msgid "Blocked Users"
+msgstr ""
+
+#: classes/profile.php:473
+msgid "Click Here"
+msgstr ""
+
+#: classes/profile.php:476 classes/profile.php:481 classes/profile.php:486
+#: classes/woo-commerce.php:42
+msgid "Unlimited"
+msgstr ""
+
+#: classes/profile.php:477 classes/profile.php:1732 inc/options-init.php:1147
+msgid "Simple Ads"
+msgstr ""
+
+#: classes/profile.php:496
+msgid "Bump Ads"
+msgstr ""
+
+#: classes/profile.php:509 classes/profile.php:538 classes/profile.php:1710
+msgid "My Profile"
+msgstr ""
+
+#: classes/profile.php:511
+msgid "My"
+msgstr ""
+
+#: classes/profile.php:512 classes/profile.php:1536 functions.php:215
+msgid "Active"
+msgstr ""
+
+#: classes/profile.php:513
+msgid "Pendind"
+msgstr ""
+
+#: classes/profile.php:514 classes/profile.php:1537 functions.php:217
+msgid "Expired"
+msgstr ""
+
+#: classes/profile.php:516 classes/profile.php:1538 functions.php:219
+msgid "Sold"
+msgstr ""
+
+#: classes/profile.php:517
+msgid "Favourite"
+msgstr ""
+
+#: classes/profile.php:520
+msgid "Update"
+msgstr ""
+
+#: classes/profile.php:522
+msgid "Are you sure ?"
+msgstr ""
+
+#: classes/profile.php:523 classes/settings.php:57
+msgid "Ok"
+msgstr ""
+
+#: classes/profile.php:524
+msgid "Select Image"
+msgstr ""
+
+#: classes/profile.php:525
+msgid "Forgot your password"
+msgstr ""
+
+#: classes/profile.php:526
+msgid "Change Password?"
+msgstr ""
+
+#: classes/profile.php:527
+msgid "Old Password"
+msgstr ""
+
+#: classes/profile.php:528
+msgid "New Password"
+msgstr ""
+
+#: classes/profile.php:529
+msgid "Confirm New Password"
+msgstr ""
+
+#: classes/profile.php:530
+msgid "Password Not Matched"
+msgstr ""
+
+#: classes/profile.php:532
+msgid "Add Photo!"
+msgstr ""
+
+#: classes/profile.php:533
+msgid "Take Photo"
+msgstr ""
+
+#: classes/profile.php:534
+msgid "Choose From Gallery"
+msgstr ""
+
+#: classes/profile.php:536
+msgid "camera Not Available"
+msgstr ""
+
+#: classes/profile.php:548
+msgid "Verify Your Code"
+msgstr ""
+
+#: classes/profile.php:551
+msgid "Resend"
+msgstr ""
+
+#: classes/profile.php:555
+msgid "Send SMS verification code."
+msgstr ""
+
+#: classes/profile.php:557
+msgid "Cancel."
+msgstr ""
+
+#: classes/profile.php:564
+msgid "Delete Account?"
+msgstr ""
+
+#: classes/profile.php:565
+msgid "Are you sure you want to delete the account."
+msgstr ""
+
+#: classes/profile.php:570 classes/settings.php:345 classes/settings.php:346
+#: inc/options-init.php:816
+msgid "Profile"
+msgstr ""
+
+#: classes/profile.php:573 classes/profile.php:1341
+msgid "My Ads"
+msgstr ""
+
+#: classes/profile.php:574
+msgid "Pending Ads"
+msgstr ""
+
+#: classes/profile.php:575
+msgid "Favorite Ads"
+msgstr ""
+
+#: classes/profile.php:576 classes/profile.php:1408 classes/profile.php:1416
+#: classes/profile.php:1725
+msgid "Expired Ads"
+msgstr ""
+
+#: classes/profile.php:577 classes/profile.php:1433 classes/profile.php:1440
+#: classes/profile.php:1722
+msgid "Sold Ads"
+msgstr ""
+
+#: classes/profile.php:612
+msgid "User does not exists"
+msgstr ""
+
+#: classes/profile.php:655 classes/profile.php:674 classes/profile.php:764
+#: inc/options-init.php:2285
+msgid "Contact"
+msgstr ""
+
+#: classes/profile.php:666 functions.php:2511
+msgid "Facebook"
+msgstr ""
+
+#: classes/profile.php:667 functions.php:2512
+msgid "Twitter"
+msgstr ""
+
+#: classes/profile.php:668 functions.php:2513
+msgid "Linkedin"
+msgstr ""
+
+#: classes/profile.php:669
+msgid "Youtube"
+msgstr ""
+
+#: classes/profile.php:700 classes/profile.php:702
+msgid "Rating Average"
+msgstr ""
+
+#: classes/profile.php:705
+msgid "Ratings"
+msgstr ""
+
+#: classes/profile.php:707
+msgid "Member Since"
+msgstr ""
+
+#: classes/profile.php:709
+msgid "Working Hours"
+msgstr ""
+
+#: classes/profile.php:718
+msgid "No inventory found."
+msgstr ""
+
+#: classes/profile.php:737
+msgid "No Review Found"
+msgstr ""
+
+#: classes/profile.php:750
+msgid "Review Title"
+msgstr ""
+
+#: classes/profile.php:753
+msgid "Yes"
+msgstr ""
+
+#: classes/profile.php:754
+msgid "No"
+msgstr ""
+
+#: classes/profile.php:756
+msgid "Will you Recommend this vendor?"
+msgstr ""
+
+#: classes/profile.php:758
+msgid "Submit Review"
+msgstr ""
+
+#: classes/profile.php:762 inc/options-init.php:2273
+msgid "Inventory"
+msgstr ""
+
+#: classes/profile.php:763 classes/settings.php:361 inc/options-init.php:822
+#: inc/options-init.php:2279
+msgid "Review"
+msgstr ""
+
+#: classes/profile.php:808
+msgid "Dealer Ratings"
+msgstr ""
+
+#: classes/profile.php:817
+msgid "No Rating Found"
+msgstr ""
+
+#: classes/profile.php:877
+msgid "Recommended"
+msgstr ""
+
+#: classes/profile.php:877
+msgid "Not Recommended"
+msgstr ""
+
+#: classes/profile.php:878
+msgid "Has"
+msgstr ""
+
+#: classes/profile.php:879
+msgid "this vendor on"
+msgstr ""
+
+#: classes/profile.php:912
+msgid "Dealer Reply"
+msgstr ""
+
+#: classes/profile.php:970
+msgid "You have been contacted via profile on "
+msgstr ""
+
+#: classes/profile.php:971 classes/settings.php:449
+msgid "Someone has contacted you over "
+msgstr ""
+
+#: classes/profile.php:991
+msgid "Email sent to dealer successfully."
+msgstr ""
+
+#: classes/profile.php:1027 classes/profile.php:2051
+msgid "You can't rate yourself."
+msgstr ""
+
+#: classes/profile.php:1068
+msgid "New Rating"
+msgstr ""
+
+#: classes/profile.php:1070
+msgid "Got new Rating"
+msgstr ""
+
+#: classes/profile.php:1090 classes/profile.php:2101
+msgid "You've rated this user."
+msgstr ""
+
+#: classes/profile.php:1098
+msgid "You must be login to submit review"
+msgstr ""
+
+#: classes/profile.php:1155 classes/profile.php:1347 classes/profile.php:1372
+#: classes/profile.php:1397 classes/profile.php:1422 classes/profile.php:1446
+#: classes/profile.php:1473 classes/profile.php:1520 classes/profile.php:1888
+#: classes/profile.php:2200
+msgid "No ad found"
+msgstr ""
+
+#: classes/profile.php:1366 classes/profile.php:1719
+msgid "Inactive Ads"
+msgstr ""
+
+#: classes/profile.php:1388
+msgid "Active Ads"
+msgstr ""
+
+#: classes/profile.php:1492
+msgid "Ad removed successfully."
+msgstr ""
+
+#: classes/profile.php:1494
+msgid "There'is some problem, please try again later."
+msgstr ""
+
+#: classes/profile.php:1504 classes/profile.php:1512
+msgid "Favourite Ads"
+msgstr ""
+
+#: classes/profile.php:1539 classes/profile.php:1545
+msgid "Edit"
+msgstr ""
+
+#: classes/profile.php:1540 classes/profile.php:1546
+msgid "Delete"
+msgstr ""
+
+#: classes/profile.php:1570
+msgid "Ad Status Updated"
+msgstr ""
+
+#: classes/profile.php:1572 classes/profile.php:1613
+msgid "Some error occured."
+msgstr ""
+
+#: classes/profile.php:1575 classes/profile.php:1616 classes/profile.php:1650
+msgid "Invalid Post Id"
+msgstr ""
+
+#: classes/profile.php:1601
+msgid "You can't delete this ad."
+msgstr ""
+
+#: classes/profile.php:1611
+msgid "Ad Deleted Successfully"
+msgstr ""
+
+#: classes/profile.php:1645
+msgid "Added To Favourites"
+msgstr ""
+
+#: classes/profile.php:1647
+msgid "Already Added To Favourites"
+msgstr ""
+
+#: classes/profile.php:1682 classes/profile.php:1711
+msgid "View Profile"
+msgstr ""
+
+#: classes/profile.php:1716
+msgid "All Ads"
+msgstr ""
+
+#: classes/profile.php:1731
+msgid "Expiry Ads"
+msgstr ""
+
+#: classes/profile.php:1738 classes/profile.php:1740
+msgid "Package Expire"
+msgstr ""
+
+#: classes/profile.php:1738
+msgid "Never Expire"
+msgstr ""
+
+#: classes/profile.php:1743
+msgid "View My Profile"
+msgstr ""
+
+#: classes/profile.php:1746
+msgid "Manage your "
+msgstr ""
+
+#: classes/profile.php:1747
+msgid "account settings"
+msgstr ""
+
+#: classes/profile.php:1754
+msgid "Not Verified"
+msgstr ""
+
+#: classes/profile.php:1758
+msgid "Verified"
+msgstr ""
+
+#: classes/profile.php:1786 classes/profile.php:2373 classes/register.php:192
+msgid "Individual"
+msgstr ""
+
+#: classes/profile.php:1995 classes/profile.php:2000
+msgid "Be the first one to rate this user."
+msgstr ""
+
+#: classes/profile.php:1995 classes/profile.php:2000
+msgid "Currently no rating available.."
+msgstr ""
+
+#: classes/profile.php:2004
+msgid "User Rating"
+msgstr ""
+
+#: classes/profile.php:2007
+msgid "Rate Here"
+msgstr ""
+
+#: classes/profile.php:2008
+msgid "Rating"
+msgstr ""
+
+#: classes/profile.php:2061
+msgid "You already replied to this user."
+msgstr ""
+
+#: classes/profile.php:2067
+msgid "You're reply has been posted."
+msgstr ""
+
+#: classes/profile.php:2103
+msgid "You already rated this user."
+msgstr ""
+
+#: classes/profile.php:2161
+msgid "Nearby option turned on"
+msgstr ""
+
+#: classes/profile.php:2161
+msgid "Nearby option turned of"
+msgstr ""
+
+#: classes/profile.php:2194
+msgid "Near By ads"
+msgstr ""
+
+#: classes/profile.php:2232
+msgid "Order #"
+msgstr ""
+
+#: classes/profile.php:2233
+msgid "Package(s)"
+msgstr ""
+
+#: classes/profile.php:2234
+msgid "Status"
+msgstr ""
+
+#: classes/profile.php:2235 functions.php:752
+msgid "Date"
+msgstr ""
+
+#: classes/profile.php:2236
+msgid "Order total"
+msgstr ""
+
+#: classes/profile.php:2260
+msgid "No Order Found"
+msgstr ""
+
+#: classes/profile.php:2262
+msgid "Packages History"
+msgstr ""
+
+#: classes/profile.php:2301
+msgid "Admin can not delete his account from here."
+msgstr ""
+
+#: classes/profile.php:2308
+msgid "You account has been delete successfully."
+msgstr ""
+
+#: classes/profile.php:2367 classes/profile.php:2372
+msgid "Please select your user type"
+msgstr ""
+
+#: classes/profile.php:2368
+msgid ""
+"NOTE: Please note that you cannot change it later so please make it sure if "
+"you are a dealer or individual"
+msgstr ""
+
+#: classes/profile.php:2374 classes/register.php:193
+msgid "Dealer"
+msgstr ""
+
+#: classes/profile.php:2378
+msgid "Save"
+msgstr ""
+
+#: classes/profile.php:2379
+msgid "Are you sure you want to save?"
+msgstr ""
+
+#: classes/register.php:22
+msgid "Please fill out all fields."
+msgstr ""
+
+#: classes/register.php:39
+msgid "Please enter email."
+msgstr ""
+
+#: classes/register.php:43
+msgid "Please enter password."
+msgstr ""
+
+#: classes/register.php:47 classes/register.php:168
+msgid "Please select user type."
+msgstr ""
+
+#: classes/register.php:52
+msgid "Email Already Exists."
+msgstr ""
+
+#: classes/register.php:103
+msgid "Registered successfully."
+msgstr ""
+
+#: classes/register.php:110
+msgid "Registered successfully. Please verify your email address."
+msgstr ""
+
+#: classes/register.php:119
+msgid " Verification Email sent. Please verify your email address to login."
+msgstr ""
+
+#: classes/register.php:163
+msgid "User Type Updated Successfully. Need to changed after verify"
+msgstr ""
+
+#: classes/register.php:166
+msgid "User Type Updated Successfully"
+msgstr ""
+
+#: classes/register.php:184 classes/settings.php:54
+msgid "Register With Us!"
+msgstr ""
+
+#: classes/register.php:185
+msgid "Full Name"
+msgstr ""
+
+#: classes/register.php:186 classes/register.php:237
+msgid "Email Address"
+msgstr ""
+
+#: classes/register.php:188
+msgid "Password"
+msgstr ""
+
+#: classes/register.php:191
+msgid "Select User Type"
+msgstr ""
+
+#: classes/register.php:195
+msgid "User Type"
+msgstr ""
+
+#: classes/register.php:198 inc/options-init.php:829
+msgid "Register"
+msgstr ""
+
+#: classes/register.php:202
+msgid "Already Have Account? Login Here"
+msgstr ""
+
+#: classes/register.php:209
+msgid "Agree With Our Term and Conditions."
+msgstr ""
+
+#: classes/register.php:235
+msgid "Forgot Password?"
+msgstr ""
+
+#: classes/register.php:236
+msgid "Please enter your email address below."
+msgstr ""
+
+#: classes/register.php:252
+msgid "Set your password"
+msgstr ""
+
+#: classes/register.php:253
+msgid "Enter current password"
+msgstr ""
+
+#: classes/register.php:254
+msgid "Enter New password"
+msgstr ""
+
+#: classes/register.php:255
+msgid "Confirm new password"
+msgstr ""
+
+#: classes/register.php:256
+msgid "Change password"
+msgstr ""
+
+#: classes/reviews.php:92
+msgid "Reviews"
+msgstr ""
+
+#: classes/reviews.php:185
+msgid "Gallery"
+msgstr ""
+
+#: classes/reviews.php:186
+msgid "Verdict"
+msgstr ""
+
+#: classes/reviews.php:187
+msgid "video review"
+msgstr ""
+
+#: classes/reviews.php:188
+msgid "summary"
+msgstr ""
+
+#: classes/settings.php:55
+msgid "Error"
+msgstr ""
+
+#: classes/settings.php:56
+msgid "Internet not found"
+msgstr ""
+
+#: classes/settings.php:60
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: classes/settings.php:61
+msgid "Alert!"
+msgstr ""
+
+#: classes/settings.php:66
+msgid "Please wait!"
+msgstr ""
+
+#: classes/settings.php:94
+msgid "Are you sure you want to do this."
+msgstr ""
+
+#: classes/settings.php:99
+msgid "Please login first."
+msgstr ""
+
+#: classes/settings.php:111
+msgid "Select distance in (KM)"
+msgstr ""
+
+#: classes/settings.php:113
+msgid "Clear"
+msgstr ""
+
+#: classes/settings.php:118
+msgid "GPS Settings"
+msgstr ""
+
+#: classes/settings.php:119
+msgid "GPS is not enabled. Do you want to go to settings menu?"
+msgstr ""
+
+#: classes/settings.php:120
+msgid "Settings"
+msgstr ""
+
+#: classes/settings.php:125 inc/options-init.php:227
+msgid "App Store Rating"
+msgstr ""
+
+#: classes/settings.php:129
+msgid "Maybe Later"
+msgstr ""
+
+#: classes/settings.php:169 inc/options-init.php:2441
+msgid "Select Your Language"
+msgstr ""
+
+#: classes/settings.php:233
+msgid "Select or Search Language"
+msgstr ""
+
+#: classes/settings.php:234
+msgid "Close"
+msgstr ""
+
+#: classes/settings.php:259
+msgid "Select Date"
+msgstr ""
+
+#: classes/settings.php:328 inc/options-init.php:815
+msgid "Home"
+msgstr ""
+
+#: classes/settings.php:347
+msgid "Advanced Search"
+msgstr ""
+
+#: classes/settings.php:348
+msgid "Advanced Search Result"
+msgstr ""
+
+#: classes/settings.php:349
+msgid "Support"
+msgstr ""
+
+#: classes/settings.php:350
+msgid "Inbox"
+msgstr ""
+
+#: classes/settings.php:351
+msgid "Offers"
+msgstr ""
+
+#: classes/settings.php:352
+msgid "Chat"
+msgstr ""
+
+#: classes/settings.php:353
+msgid "Sell"
+msgstr ""
+
+#: classes/settings.php:354
+msgid "Edit Ad"
+msgstr ""
+
+#: classes/settings.php:355
+msgid "Ad Detail"
+msgstr ""
+
+#: classes/settings.php:356 classes/woo-commerce.php:144
+#: inc/options-init.php:821
+msgid "Packages"
+msgstr ""
+
+#: classes/settings.php:358
+msgid "Blog Detail"
+msgstr ""
+
+#: classes/settings.php:359
+msgid "Camparison Search"
+msgstr ""
+
+#: classes/settings.php:360
+msgid "Comparison Detail"
+msgstr ""
+
+#: classes/settings.php:362
+msgid "Review Detail"
+msgstr ""
+
+#: classes/settings.php:363 inc/options-init.php:276 inc/options-init.php:285
+#: inc/options-init.php:823
+msgid "About Us"
+msgstr ""
+
+#: classes/settings.php:364 classes/settings.php:402 classes/settings.php:418
+#: inc/options-init.php:824
+msgid "Contact Us"
+msgstr ""
+
+#: classes/settings.php:403
+msgid "Please use the contact form below to contact us."
+msgstr ""
+
+#: classes/settings.php:416 inc/options-init.php:257
+msgid "Subject"
+msgstr ""
+
+#: classes/settings.php:448
+msgid "You have been contacted via contact form "
+msgstr ""
+
+#: classes/settings.php:467
+msgid "Message sent successfully"
+msgstr ""
+
+#: classes/settings.php:474
+msgid "Something went wrong please try again."
+msgstr ""
+
+#: classes/users.php:148
+msgid "Unblock"
+msgstr ""
+
+#: classes/users.php:155
+msgid "Blocked Users List"
+msgstr ""
+
+#: classes/users.php:158
+msgid "No user in block list"
+msgstr ""
+
+#: classes/users.php:189
+msgid "User blocked successfully. You can unblock this user from profile."
+msgstr ""
+
+#: classes/users.php:192
+msgid "Something went wrong or user already in blok list."
+msgstr ""
+
+#: classes/users.php:196
+msgid "You can not block yourself."
+msgstr ""
+
+#: classes/users.php:229
+msgid "User unblocked successfully."
+msgstr ""
+
+#: classes/users.php:232
+msgid "Something went wrong or user already unbloked."
+msgstr ""
+
+#: classes/woo-commerce.php:46
+msgid "Validity"
+msgstr ""
+
+#: classes/woo-commerce.php:49
+msgid "Lifetime"
+msgstr ""
+
+#: classes/woo-commerce.php:51
+msgid "Days"
+msgstr ""
+
+#: classes/woo-commerce.php:53
+msgid "Regular Listings"
+msgstr ""
+
+#: classes/woo-commerce.php:76
+msgid "Bump up Ads"
+msgstr ""
+
+#: classes/woo-commerce.php:100
+msgid "Select Plan"
+msgstr ""
+
+#: classes/woo-commerce.php:106
+msgid "InApp purchase not available for this product."
+msgstr ""
+
+#: classes/woo-commerce.php:113 classes/woo-commerce.php:117
+#: classes/woo-commerce.php:121
+msgid "No Product Found"
+msgstr ""
+
+#: classes/woo-commerce.php:146
+msgid "something went wrong while billing your account."
+msgstr ""
+
+#: classes/woo-commerce.php:172 classes/woo-commerce.php:183
+msgid "InApp Purchases"
+msgstr ""
+
+#: classes/woo-commerce.php:175
+msgid "Play Market app is not installed."
+msgstr ""
+
+#: classes/woo-commerce.php:176
+msgid "One Time Purchase not Supported on your Device."
+msgstr ""
+
+#: classes/woo-commerce.php:284
+msgid "InApp Purchase Settings For Android and IOS Apps"
+msgstr ""
+
+#: classes/woo-commerce.php:294
+msgid "Android Product Code"
+msgstr ""
+
+#: classes/woo-commerce.php:296
+msgid "Enter you android product code here."
+msgstr ""
+
+#: classes/woo-commerce.php:300
+msgid ""
+"Please enter product code for the andrid product. Leave empty if you dont't "
+"have any. Only enter in case you have bought android app."
+msgstr ""
+
+#: classes/woo-commerce.php:303
+msgid "IOS Product Code"
+msgstr ""
+
+#: classes/woo-commerce.php:305
+msgid "Enter you ios product code here."
+msgstr ""
+
+#: classes/woo-commerce.php:308
+msgid ""
+"Please enter product code for the andrid product. Leave empty if you dont't "
+"have any. Only enter in case you have bought ios app."
+msgstr ""
+
+#: classes/woo-commerce.php:311
+msgid ""
+"Please make sure you have created the **** product while create packages in "
+"AppStore/PlayStore accounts."
+msgstr ""
+
+#: functions.php:608
+msgid "Price On Call"
+msgstr ""
+
+#: functions.php:1004 functions.php:1085
+msgid "No ads found"
+msgstr ""
+
+#: functions.php:1274
+msgid "Last Login:"
+msgstr ""
+
+#: functions.php:1411 functions.php:1433 inc/options-init.php:1735
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:1413 functions.php:1435 inc/options-init.php:1736
+msgid "Negotiable"
+msgstr ""
+
+#: functions.php:1414 functions.php:1436 inc/options-init.php:1737
+msgid "Price on call"
+msgstr ""
+
+#: functions.php:1415 functions.php:1437
+msgid "Auction"
+msgstr ""
+
+#: functions.php:1417 functions.php:1439 inc/options-init.php:1740
+msgid "No price"
+msgstr ""
+
+#: functions.php:2034
+msgid "second"
+msgstr ""
+
+#: functions.php:2035
+msgid "minute"
+msgstr ""
+
+#: functions.php:2036
+msgid "hour"
+msgstr ""
+
+#: functions.php:2037
+msgid "day"
+msgstr ""
+
+#: functions.php:2038
+msgid "month"
+msgstr ""
+
+#: functions.php:2039
+msgid "year"
+msgstr ""
+
+#: functions.php:2052
+msgid "(s) ago"
+msgstr ""
+
+#: functions.php:2183
+msgid "Please subscribe package for ad posting."
+msgstr ""
+
+#: functions.php:2514
+msgid "Google+"
+msgstr ""
+
+#: functions.php:2534
+msgid "Stripe"
+msgstr ""
+
+#: functions.php:2535
+msgid "PayPal"
+msgstr ""
+
+#: functions.php:2536
+msgid "Bank Transfer"
+msgstr ""
+
+#: functions.php:2537
+msgid "Cash On Delivery"
+msgstr ""
+
+#: functions.php:2538
+msgid "Payment By Check"
+msgstr ""
+
+#: functions.php:2540
+msgid "InApp Purchase"
+msgstr ""
+
+#: functions.php:2717 functions.php:2750
+msgid "InApp Code (Android)"
+msgstr ""
+
+#: functions.php:2719 functions.php:2754
+msgid ""
+"Put your android inapp product code for innapp purchase for Category Based "
+"Procing"
+msgstr ""
+
+#: functions.php:2723 functions.php:2762
+msgid "InApp Code (ios)"
+msgstr ""
+
+#: functions.php:2725 functions.php:2766
+msgid ""
+"Put your ios inapp product code for innapp purchase for Category Based "
+"Procing"
+msgstr ""
+
+#: inc/categories-images.php:47 inc/categories-images.php:58
+#: inc/categories-images.php:123
+msgid "Upload/Add image"
+msgstr ""
+
+#: inc/categories-images.php:58 inc/categories-images.php:124
+msgid "Remove image"
+msgstr ""
+
+#: inc/categories-images.php:145
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/cpt.php:6
+msgctxt "Post Type General Name"
+msgid "App Pages"
+msgstr ""
+
+#: inc/cpt.php:7
+msgctxt "Post Type Singular Name"
+msgid "App Page"
+msgstr ""
+
+#: inc/cpt.php:8 inc/options-init.php:193
+msgid "App Pages"
+msgstr ""
+
+#: inc/cpt.php:9 inc/cpt.php:35
+msgid "App Page"
+msgstr ""
+
+#: inc/cpt.php:10
+msgid "Item Archives"
+msgstr ""
+
+#: inc/cpt.php:11
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/cpt.php:12
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/cpt.php:13
+msgid "All Items"
+msgstr ""
+
+#: inc/cpt.php:14
+msgid "Add New Item"
+msgstr ""
+
+#: inc/cpt.php:15
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt.php:16
+msgid "New Item"
+msgstr ""
+
+#: inc/cpt.php:17
+msgid "Edit Item"
+msgstr ""
+
+#: inc/cpt.php:18
+msgid "Update Item"
+msgstr ""
+
+#: inc/cpt.php:19
+msgid "View Item"
+msgstr ""
+
+#: inc/cpt.php:20
+msgid "View Items"
+msgstr ""
+
+#: inc/cpt.php:21
+msgid "Search Item"
+msgstr ""
+
+#: inc/cpt.php:22 inc/notifications.php:90
+msgid "Not found"
+msgstr ""
+
+#: inc/cpt.php:23 inc/notifications.php:91
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/cpt.php:24 inc/notifications.php:92
+msgid "Featured Image"
+msgstr ""
+
+#: inc/cpt.php:25 inc/notifications.php:93
+msgid "Set featured image"
+msgstr ""
+
+#: inc/cpt.php:26 inc/notifications.php:94
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/cpt.php:27 inc/notifications.php:95
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/cpt.php:28
+msgid "Insert into item"
+msgstr ""
+
+#: inc/cpt.php:29 inc/notifications.php:97
+msgid "Uploaded to this item"
+msgstr ""
+
+#: inc/cpt.php:30
+msgid "Items list"
+msgstr ""
+
+#: inc/cpt.php:31
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/cpt.php:32
+msgid "Filter items list"
+msgstr ""
+
+#: inc/cpt.php:36
+msgid "App Page is design to set the app layouts"
+msgstr ""
+
+#: inc/email-templates.php:10
+msgid "New Ad"
+msgstr ""
+
+#: inc/email-templates.php:11
+msgid "Got new ad"
+msgstr ""
+
+#: inc/email-templates.php:66
+msgid "New Message"
+msgstr ""
+
+#: inc/email-templates.php:68
+msgid "Got new message on ad"
+msgstr ""
+
+#: inc/email-templates.php:96
+msgid "Ad Reported"
+msgstr ""
+
+#: inc/email-templates.php:97
+msgid "Users reported this ad, please check it. "
+msgstr ""
+
+#: inc/email-templates.php:196
+msgid "Password reset sent, check your email inbox"
+msgstr ""
+
+#: inc/email-templates.php:199 inc/email-templates.php:251
+msgid "Email server not responding"
+msgstr ""
+
+#: inc/email-templates.php:222
+msgid "Your new password"
+msgstr ""
+
+#: inc/email-templates.php:223
+msgid "Your new password is: "
+msgstr ""
+
+#: inc/email-templates.php:247
+msgid "Email sent"
+msgstr ""
+
+#: inc/notifications.php:74
+msgctxt "Post Type General Name"
+msgid "Notifications"
+msgstr ""
+
+#: inc/notifications.php:75
+msgctxt "Post Type Singular Name"
+msgid "Notification"
+msgstr ""
+
+#: inc/notifications.php:76
+msgid "Push Notifications"
+msgstr ""
+
+#: inc/notifications.php:77
+msgid "Push Notification"
+msgstr ""
+
+#: inc/notifications.php:78
+msgid "Notifications Archives"
+msgstr ""
+
+#: inc/notifications.php:79
+msgid "Notification Attributes"
+msgstr ""
+
+#: inc/notifications.php:80
+msgid "Parent Notification:"
+msgstr ""
+
+#: inc/notifications.php:81
+msgid "All Notifications"
+msgstr ""
+
+#: inc/notifications.php:82 inc/notifications.php:83
+msgid "Add New Notification"
+msgstr ""
+
+#: inc/notifications.php:84
+msgid "New Notification"
+msgstr ""
+
+#: inc/notifications.php:85
+msgid "Edit Notification"
+msgstr ""
+
+#: inc/notifications.php:86
+msgid "Update Notification"
+msgstr ""
+
+#: inc/notifications.php:87
+msgid "View Notification"
+msgstr ""
+
+#: inc/notifications.php:88
+msgid "View Notifications"
+msgstr ""
+
+#: inc/notifications.php:89
+msgid "Search Notification"
+msgstr ""
+
+#: inc/notifications.php:96
+msgid "Insert into Notification"
+msgstr ""
+
+#: inc/notifications.php:98
+msgid "Notifications list"
+msgstr ""
+
+#: inc/notifications.php:99
+msgid "Notifications list navigation"
+msgstr ""
+
+#: inc/notifications.php:100
+msgid "Filter Notifications list"
+msgstr ""
+
+#: inc/notifications.php:103
+msgid "Notification"
+msgstr ""
+
+#: inc/notifications.php:104
+msgid "Notification Type Description"
+msgstr ""
+
+#: inc/notifications.php:297
+msgid "Are you Sure you want to send push notifications"
+msgstr ""
+
+#: inc/options-init.php:12 inc/options-init.php:14
+msgid "Carspot Apps API Options"
+msgstr ""
+
+#: inc/options-init.php:18
+msgid "Apps API Options"
+msgstr ""
+
+#: inc/options-init.php:51
+msgid "Like us on Facebook"
+msgstr ""
+
+#: inc/options-init.php:59
+msgid "App Settings"
+msgstr ""
+
+#: inc/options-init.php:67
+msgid "Make App Open"
+msgstr ""
+
+#: inc/options-init.php:68
+msgid "Make App Open For Public"
+msgstr ""
+
+#: inc/options-init.php:75
+msgid "Logo"
+msgstr ""
+
+#: inc/options-init.php:77
+msgid "Site Logo image for the site."
+msgstr ""
+
+#: inc/options-init.php:78
+msgid "Dimensions: 230 x 40"
+msgstr ""
+
+#: inc/options-init.php:85
+msgid "Language and Color"
+msgstr ""
+
+#: inc/options-init.php:93
+msgid "RTL"
+msgstr ""
+
+#: inc/options-init.php:94
+msgid "Make app RTL"
+msgstr ""
+
+#: inc/options-init.php:100
+msgid "App Language"
+msgstr ""
+
+#: inc/options-init.php:101
+msgid "List of available languages."
+msgstr ""
+
+#: inc/options-init.php:101
+msgid "If you have selected RTL put language code here like for arabic ar"
+msgstr ""
+
+#: inc/options-init.php:108
+msgid "Select App Colour"
+msgstr ""
+
+#: inc/options-init.php:109
+msgid "Pick a title color for the app (default: #fb236a)."
+msgstr ""
+
+#: inc/options-init.php:117
+msgid "Social Login Settings"
+msgstr ""
+
+#: inc/options-init.php:125
+msgid "Facebook Login/Register"
+msgstr ""
+
+#: inc/options-init.php:126 inc/options-init.php:133
+msgid "Show or hide google button."
+msgstr ""
+
+#: inc/options-init.php:132
+msgid "Google Login/Register"
+msgstr ""
+
+#: inc/options-init.php:139
+msgid "Apple Login/Register"
+msgstr ""
+
+#: inc/options-init.php:140
+msgid "Show or hide Apple button."
+msgstr ""
+
+#: inc/options-init.php:146
+msgid "Tagline"
+msgstr ""
+
+#: inc/options-init.php:147
+msgid "Show or hide register tagline."
+msgstr ""
+
+#: inc/options-init.php:148
+msgid "Over 25000 classified ads listing."
+msgstr ""
+
+#: inc/options-init.php:153
+msgid "Enable Social Profiles"
+msgstr ""
+
+#: inc/options-init.php:154
+msgid "for display"
+msgstr ""
+
+#: inc/options-init.php:161
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/options-init.php:169
+msgid "Enable Scroll On Featured Ads"
+msgstr ""
+
+#: inc/options-init.php:170
+msgid "Turn on/off auto scroll on the featured ads slider"
+msgstr ""
+
+#: inc/options-init.php:176
+msgid "Slider Scroll Speed"
+msgstr ""
+
+#: inc/options-init.php:179
+msgid "Enter value in milisecons 1000 is 1 second"
+msgstr ""
+
+#: inc/options-init.php:184
+msgid "Slider Loop scroll"
+msgstr ""
+
+#: inc/options-init.php:187
+msgid ""
+"Enter value in milisecons 1000 is 1 second. Once end starts again after X "
+"number of seconds"
+msgstr ""
+
+#: inc/options-init.php:204
+msgid "Select Pages"
+msgstr ""
+
+#: inc/options-init.php:211
+msgid "App Share/Rating"
+msgstr ""
+
+#: inc/options-init.php:219
+msgid "App Rating"
+msgstr ""
+
+#: inc/options-init.php:220
+msgid "Show app rating icon on the top."
+msgstr ""
+
+#: inc/options-init.php:226
+msgid "Rating Title"
+msgstr ""
+
+#: inc/options-init.php:229
+msgid "Rating title in the popup."
+msgstr ""
+
+#: inc/options-init.php:234
+msgid "App URL"
+msgstr ""
+
+#: inc/options-init.php:237
+msgid "Enter app URL for app rating. URL is required"
+msgstr ""
+
+#: inc/options-init.php:242
+msgid "App Share"
+msgstr ""
+
+#: inc/options-init.php:243
+msgid "Show app share icon on the top."
+msgstr ""
+
+#: inc/options-init.php:249
+msgid "Share Popup Title"
+msgstr ""
+
+#: inc/options-init.php:252
+msgid "title in the popup."
+msgstr ""
+
+#: inc/options-init.php:260
+msgid "App share subject. Not required."
+msgstr ""
+
+#: inc/options-init.php:265
+msgid "App Share URL"
+msgstr ""
+
+#: inc/options-init.php:268
+msgid "Enter app share URL for app sharing. URL is required."
+msgstr ""
+
+#: inc/options-init.php:284
+msgid "Main Title"
+msgstr ""
+
+#: inc/options-init.php:295
+msgid "Show Accordians "
+msgstr ""
+
+#: inc/options-init.php:296
+msgid "This show accordians on your app about us page."
+msgstr ""
+
+#: inc/options-init.php:304
+msgid "Slides Options"
+msgstr ""
+
+#: inc/options-init.php:305
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: inc/options-init.php:306
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: inc/options-init.php:309
+msgid "This is a title"
+msgstr ""
+
+#: inc/options-init.php:310
+msgid "Description Here"
+msgstr ""
+
+#: inc/options-init.php:311
+msgid "Give us a link!"
+msgstr ""
+
+#: inc/options-init.php:438
+msgid "Analytics Settings"
+msgstr ""
+
+#: inc/options-init.php:447
+msgid "App Analytics"
+msgstr ""
+
+#: inc/options-init.php:448
+msgid "Below you can setup analytics for the app."
+msgstr ""
+
+#: inc/options-init.php:453
+msgid "Make Analytics"
+msgstr ""
+
+#: inc/options-init.php:454
+msgid "Trun ads on or off."
+msgstr ""
+
+#: inc/options-init.php:460
+msgid "Analytics ID"
+msgstr ""
+
+#: inc/options-init.php:463
+msgid "Put analytics id here i.e."
+msgstr ""
+
+#: inc/options-init.php:468
+msgid "Firebase Settings"
+msgstr ""
+
+#: inc/options-init.php:477
+msgid "Puch Nofifications"
+msgstr ""
+
+#: inc/options-init.php:478
+msgid "Below you can setup Puch Nofifications for the app."
+msgstr ""
+
+#: inc/options-init.php:483
+msgid "Firebase API KEY"
+msgstr ""
+
+#: inc/options-init.php:485
+msgid "Put firebase api key"
+msgstr ""
+
+#: inc/options-init.php:492
+msgid "App Key Settings"
+msgstr ""
+
+#: inc/options-init.php:500
+msgid "Android Key Settings"
+msgstr ""
+
+#: inc/options-init.php:511 inc/options-init.php:537 inc/options-init.php:548
+#: inc/options-init.php:586 inc/options-init.php:597 inc/options-init.php:608
+#: inc/options-init.php:638 inc/options-init.php:649 inc/options-init.php:680
+#: inc/options-init.php:691 inc/options-init.php:758 inc/options-init.php:777
+msgid "Alert"
+msgstr ""
+
+#: inc/options-init.php:512
+msgid ""
+"Once added be carefull editing next time. Those Key Should Be Same In App "
+"Header."
+msgstr ""
+
+#: inc/options-init.php:519 inc/options-init.php:568 inc/options-init.php:628
+#: inc/options-init.php:747
+msgid "Info"
+msgstr ""
+
+#: inc/options-init.php:520
+msgid ""
+"Below section is only for if you have purchased Android App. Then turn it on "
+"and enter the purchase code in below text field that will appears."
+msgstr ""
+
+#: inc/options-init.php:525
+msgid "For Android App"
+msgstr ""
+
+#: inc/options-init.php:527 inc/options-init.php:739
+msgid "If you have purchased the android app."
+msgstr ""
+
+#: inc/options-init.php:533
+msgid "Enter You Android Purchase Code Here"
+msgstr ""
+
+#: inc/options-init.php:535
+msgid ""
+"Your android item purchase code got from codecanyon. You have purchased the "
+"item seprately."
+msgstr ""
+
+#: inc/options-init.php:538 inc/options-init.php:549 inc/options-init.php:587
+#: inc/options-init.php:598 inc/options-init.php:609 inc/options-init.php:639
+#: inc/options-init.php:650 inc/options-init.php:681 inc/options-init.php:692
+msgid ""
+"Once added be carefull editing next time. This key Should be same in app "
+"header."
+msgstr ""
+
+#: inc/options-init.php:545
+msgid "Enter Your Android Secret Code Here"
+msgstr ""
+
+#: inc/options-init.php:551 inc/options-init.php:600
+msgid "Just a random number generated by you for app security."
+msgstr ""
+
+#: inc/options-init.php:557
+msgid "IOS Key Settings"
+msgstr ""
+
+#: inc/options-init.php:569
+msgid ""
+"Below section is only for if you have purchased IOS App. Then turn it on and "
+"enter the purchase code in below text field that will appears."
+msgstr ""
+
+#: inc/options-init.php:574
+msgid "For IOS App"
+msgstr ""
+
+#: inc/options-init.php:576
+msgid "If you have purchased the ios app."
+msgstr ""
+
+#: inc/options-init.php:582
+msgid "Enter You IOS Purchase Code Here"
+msgstr ""
+
+#: inc/options-init.php:584
+msgid ""
+"Your IOS item purchase code got from codecanyon. You have purchased the item "
+"seprately."
+msgstr ""
+
+#: inc/options-init.php:594
+msgid "Enter Your IOS Secret Code Here"
+msgstr ""
+
+#: inc/options-init.php:605
+msgid "Enter Your Youtube Key"
+msgstr ""
+
+#: inc/options-init.php:617
+msgid "Stripe Settings"
+msgstr ""
+
+#: inc/options-init.php:629
+msgid "Below section is Other API and Payment settings"
+msgstr ""
+
+#: inc/options-init.php:634
+msgid "Enter Your Stripe Publishable key Here"
+msgstr ""
+
+#: inc/options-init.php:636
+msgid "This will use in app"
+msgstr ""
+
+#: inc/options-init.php:645
+msgid "Enter Your Stripe Secret key Here"
+msgstr ""
+
+#: inc/options-init.php:647
+msgid "This will use at server for varification"
+msgstr ""
+
+#: inc/options-init.php:658
+msgid "Paypal Settings"
+msgstr ""
+
+#: inc/options-init.php:667
+msgid "Paypal Mode"
+msgstr ""
+
+#: inc/options-init.php:669
+msgid "Live"
+msgstr ""
+
+#: inc/options-init.php:670
+msgid "Sandbox"
+msgstr ""
+
+#: inc/options-init.php:677
+msgid "Enter Your Paypal Key"
+msgstr ""
+
+#: inc/options-init.php:683
+msgid "Enter you paypal client id here"
+msgstr ""
+
+#: inc/options-init.php:688
+msgid "Enter Your Paypal Secret"
+msgstr ""
+
+#: inc/options-init.php:694
+msgid "Enter you paypal Secret id here"
+msgstr ""
+
+#: inc/options-init.php:699
+msgid "Merchant Name"
+msgstr ""
+
+#: inc/options-init.php:701
+msgid "Enter the merchant name"
+msgstr ""
+
+#: inc/options-init.php:706
+msgid "Account Currency"
+msgstr ""
+
+#: inc/options-init.php:708
+msgid "Currency name i.e. USD Supported currency list here: "
+msgstr ""
+
+#: inc/options-init.php:713
+msgid "Privecy Url"
+msgstr ""
+
+#: inc/options-init.php:715 inc/options-init.php:722
+msgid "Example link "
+msgstr ""
+
+#: inc/options-init.php:720
+msgid "Agreement Url"
+msgstr ""
+
+#: inc/options-init.php:728
+msgid "InApp Purchase Settings"
+msgstr ""
+
+#: inc/options-init.php:737
+msgid "Android InApp Purchase"
+msgstr ""
+
+#: inc/options-init.php:748
+msgid ""
+"Go to Application then you will see Development tools option on the left "
+"side of menu. Click this option now navigate to Services &APIs. Now you will "
+"Licensing & in-app billing section copy the key from here."
+msgstr ""
+
+#: inc/options-init.php:754
+msgid "Your Android InApp Secret Code Here"
+msgstr ""
+
+#: inc/options-init.php:756 inc/options-init.php:775
+msgid ""
+"Enter the secret code you got from store. While copy paste please make sure "
+"there is no white space."
+msgstr ""
+
+#: inc/options-init.php:759 inc/options-init.php:778
+msgid "Once added be carefull editing next time."
+msgstr ""
+
+#: inc/options-init.php:765
+msgid "AppStore InApp Purchase"
+msgstr ""
+
+#: inc/options-init.php:767
+msgid "If you have purchased the AppStore app."
+msgstr ""
+
+#: inc/options-init.php:773
+msgid "Your AppStore InApp Secret Code Here"
+msgstr ""
+
+#: inc/options-init.php:786
+msgid "Thank You Settings"
+msgstr ""
+
+#: inc/options-init.php:795
+msgid "Thank You Title"
+msgstr ""
+
+#: inc/options-init.php:803
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/options-init.php:811
+msgid "Menu Title Control"
+msgstr ""
+
+#: inc/options-init.php:812
+msgid ""
+"Chnage menu title to what you want. If you want to hide any menu item make "
+"it empty."
+msgstr ""
+
+#: inc/options-init.php:817
+msgid "Advance Search"
+msgstr ""
+
+#: inc/options-init.php:818
+msgid "Inbox List"
+msgstr ""
+
+#: inc/options-init.php:819
+msgid "Sell Your Car"
+msgstr ""
+
+#: inc/options-init.php:820
+msgid "Comparison Search"
+msgstr ""
+
+#: inc/options-init.php:825
+msgid "Dynamic Pages"
+msgstr ""
+
+#: inc/options-init.php:827
+msgid "Logout"
+msgstr ""
+
+#: inc/options-init.php:828
+msgid "Login"
+msgstr ""
+
+#: inc/options-init.php:830
+msgid "Select Language"
+msgstr ""
+
+#: inc/options-init.php:839
+msgid "Select Dynamic Page"
+msgstr ""
+
+#: inc/options-init.php:840
+msgid "Select/sort Pages"
+msgstr ""
+
+#: inc/options-init.php:841
+msgid "It will replace the Dynamic Pages from above menu"
+msgstr ""
+
+#: inc/options-init.php:846
+msgid "Show Message Count"
+msgstr ""
+
+#: inc/options-init.php:848
+msgid "Turn on/off Show Message Count in menu."
+msgstr ""
+
+#: inc/options-init.php:857
+msgid "Home Screen Themes"
+msgstr ""
+
+#: inc/options-init.php:863
+msgid "Home theme main title"
+msgstr ""
+
+#: inc/options-init.php:869
+msgid "Home theme sub title"
+msgstr ""
+
+#: inc/options-init.php:875
+msgid "Nomber of used cars in your area"
+msgstr ""
+
+#: inc/options-init.php:881
+msgid "User cars in your Town"
+msgstr ""
+
+#: inc/options-init.php:888
+msgid "Home theme banner image"
+msgstr ""
+
+#: inc/options-init.php:895
+msgid "Select Home Theme"
+msgstr ""
+
+#: inc/options-init.php:896
+msgid "Select your home screen."
+msgstr ""
+
+#: inc/options-init.php:897
+msgid "Only Home Screen 1 work with sortable options."
+msgstr ""
+
+#: inc/options-init.php:900
+msgid "Home Screen 0"
+msgstr ""
+
+#: inc/options-init.php:904
+msgid "Home Screen 1"
+msgstr ""
+
+#: inc/options-init.php:908
+msgid "Home Screen 2"
+msgstr ""
+
+#: inc/options-init.php:912
+msgid "Home Screen 3"
+msgstr ""
+
+#: inc/options-init.php:916
+msgid "Home Screen 4"
+msgstr ""
+
+#: inc/options-init.php:920
+msgid "Home Screen 5"
+msgstr ""
+
+#: inc/options-init.php:924
+msgid "Home Screen 6"
+msgstr ""
+
+#: inc/options-init.php:928
+msgid "Home Screen 7"
+msgstr ""
+
+#: inc/options-init.php:932
+msgid "Home Screen 8"
+msgstr ""
+
+#: inc/options-init.php:936
+msgid "Home Screen 9"
+msgstr ""
+
+#: inc/options-init.php:940
+msgid "Home Screen 10"
+msgstr ""
+
+#: inc/options-init.php:950
+msgid "Body Type Section Views"
+msgstr ""
+
+#: inc/options-init.php:957
+msgid "Choose view for Body Type Section"
+msgstr ""
+
+#: inc/options-init.php:958
+msgid "Body Type Section View"
+msgstr ""
+
+#: inc/options-init.php:961
+msgid "Body Type View 1"
+msgstr ""
+
+#: inc/options-init.php:965
+msgid "Body Type View 2"
+msgstr ""
+
+#: inc/options-init.php:969
+msgid "Body Type View 3"
+msgstr ""
+
+#: inc/options-init.php:973
+msgid "Body Type View 4"
+msgstr ""
+
+#: inc/options-init.php:977
+msgid "Body Type View 5"
+msgstr ""
+
+#: inc/options-init.php:981
+msgid "Body Type View 6"
+msgstr ""
+
+#: inc/options-init.php:985
+msgid "Body Type View 7"
+msgstr ""
+
+#: inc/options-init.php:995
+msgid "Feature Listing Section Views"
+msgstr ""
+
+#: inc/options-init.php:1002
+msgid "Choose view for Feature Listing Section"
+msgstr ""
+
+#: inc/options-init.php:1003
+msgid "Feature Listing Section View"
+msgstr ""
+
+#: inc/options-init.php:1006
+msgid "Feature Listing View 1"
+msgstr ""
+
+#: inc/options-init.php:1010
+msgid "Feature Listing View 2"
+msgstr ""
+
+#: inc/options-init.php:1014
+msgid "Feature Listing View 3"
+msgstr ""
+
+#: inc/options-init.php:1018
+msgid "Feature Listing View 4"
+msgstr ""
+
+#: inc/options-init.php:1022
+msgid "Feature Listing View 5"
+msgstr ""
+
+#: inc/options-init.php:1026
+msgid "Feature Listing View 6"
+msgstr ""
+
+#: inc/options-init.php:1036
+msgid "Body Make Section Views"
+msgstr ""
+
+#: inc/options-init.php:1043
+msgid "Choose view for Body Make Section"
+msgstr ""
+
+#: inc/options-init.php:1044
+msgid "Body Make Section View"
+msgstr ""
+
+#: inc/options-init.php:1047
+msgid "Body Make View 1"
+msgstr ""
+
+#: inc/options-init.php:1051
+msgid "Body Make View 2"
+msgstr ""
+
+#: inc/options-init.php:1055
+msgid "Body Make View 3"
+msgstr ""
+
+#: inc/options-init.php:1077
+msgid "Screen Title"
+msgstr ""
+
+#: inc/options-init.php:1079
+msgid "Set the title for homescreen"
+msgstr ""
+
+#: inc/options-init.php:1085
+msgid "Home screen Background"
+msgstr ""
+
+#: inc/options-init.php:1087
+msgid "Image for Home screen"
+msgstr ""
+
+#: inc/options-init.php:1088
+msgid "Dimensions: 800 x 800"
+msgstr ""
+
+#: inc/options-init.php:1094
+msgid "Home screen Tagline"
+msgstr ""
+
+#: inc/options-init.php:1095
+msgid "Find Adds"
+msgstr ""
+
+#: inc/options-init.php:1100
+msgid "Home screen Headline"
+msgstr ""
+
+#: inc/options-init.php:1101
+msgid "Search From 1500+ Adds"
+msgstr ""
+
+#: inc/options-init.php:1106
+msgid "Home screen Place Holder"
+msgstr ""
+
+#: inc/options-init.php:1107
+msgid "Search Keywords..."
+msgstr ""
+
+#: inc/options-init.php:1112
+msgid "Home screen below search bar text"
+msgstr ""
+
+#: inc/options-init.php:1113
+msgid "Advance search"
+msgstr ""
+
+#: inc/options-init.php:1119
+msgid "Sort Home Screen Options"
+msgstr ""
+
+#: inc/options-init.php:1124
+msgid "Home Sortable"
+msgstr ""
+
+#: inc/options-init.php:1126
+msgid "Sort home sections here"
+msgstr ""
+
+#: inc/options-init.php:1133
+msgid "Sortable Sections"
+msgstr ""
+
+#: inc/options-init.php:1134
+msgid "Only Home Screen 1 work with this sortable options."
+msgstr ""
+
+#: inc/options-init.php:1135
+msgid "Sort section layouts on homescreen"
+msgstr ""
+
+#: inc/options-init.php:1137
+msgid "Body Types"
+msgstr ""
+
+#: inc/options-init.php:1138 inc/options-init.php:1146
+msgid "Category Icons"
+msgstr ""
+
+#: inc/options-init.php:1140 inc/options-init.php:1326
+#: inc/options-init.php:1342 inc/options-init.php:1365
+msgid "Latest Ads"
+msgstr ""
+
+#: inc/options-init.php:1141
+msgid "Locations Icons"
+msgstr ""
+
+#: inc/options-init.php:1169
+msgid "Show body type slider"
+msgstr ""
+
+#: inc/options-init.php:1175
+msgid "Body Type Section Title"
+msgstr ""
+
+#: inc/options-init.php:1176
+msgid "Separate string with sign like Featured|Types"
+msgstr ""
+
+#: inc/options-init.php:1177
+msgid "Featured|Types"
+msgstr ""
+
+#: inc/options-init.php:1191
+msgid "Body Type Multi Select Option"
+msgstr ""
+
+#: inc/options-init.php:1192
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: inc/options-init.php:1198
+msgid "Ad Post Button Title"
+msgstr ""
+
+#: inc/options-init.php:1199
+msgid "sell you car button text below the body type boxes."
+msgstr ""
+
+#: inc/options-init.php:1200
+msgid "Sell your car"
+msgstr ""
+
+#: inc/options-init.php:1209 inc/options-init.php:1218
+msgid "Featured Makes"
+msgstr ""
+
+#: inc/options-init.php:1220
+msgid "Show featured makes slider"
+msgstr ""
+
+#: inc/options-init.php:1226
+msgid "Makes Section Title"
+msgstr ""
+
+#: inc/options-init.php:1227
+msgid "Featured|Makes"
+msgstr ""
+
+#: inc/options-init.php:1228 inc/options-init.php:1286
+#: inc/options-init.php:1351
+msgid "Separate string with sign like Featured|Makes"
+msgstr ""
+
+#: inc/options-init.php:1234
+msgid "Makes Section View All"
+msgstr ""
+
+#: inc/options-init.php:1235
+msgid "View All Makes"
+msgstr ""
+
+#: inc/options-init.php:1241
+msgid "Makes Columns"
+msgstr ""
+
+#: inc/options-init.php:1242
+msgid "Select number of info columns"
+msgstr ""
+
+#: inc/options-init.php:1244
+msgid "3 Column"
+msgstr ""
+
+#: inc/options-init.php:1245
+msgid "4 Columns"
+msgstr ""
+
+#: inc/options-init.php:1256
+msgid "Makes Multi Select Option"
+msgstr ""
+
+#: inc/options-init.php:1257
+msgid "Select makes you want to show"
+msgstr ""
+
+#: inc/options-init.php:1279
+msgid "Show featured ads slider"
+msgstr ""
+
+#: inc/options-init.php:1285 inc/options-init.php:2028
+msgid "Featured Ads Section Title"
+msgstr ""
+
+#: inc/options-init.php:1293
+msgid "Featured Ads View All Title"
+msgstr ""
+
+#: inc/options-init.php:1300 inc/options-init.php:2035
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/options-init.php:1301 inc/options-init.php:1366
+#: inc/options-init.php:1540
+msgid "On homepage"
+msgstr ""
+
+#: inc/options-init.php:1302 inc/options-init.php:2037
+msgid "Select Number of featured posts"
+msgstr ""
+
+#: inc/options-init.php:1312
+msgid "Featured Ads Position"
+msgstr ""
+
+#: inc/options-init.php:1314 inc/options-init.php:2316
+msgid "Top"
+msgstr ""
+
+#: inc/options-init.php:1315
+msgid "Middle"
+msgstr ""
+
+#: inc/options-init.php:1316 inc/options-init.php:2317
+msgid "Bottom"
+msgstr ""
+
+#: inc/options-init.php:1336
+msgid "Latest Ads Section"
+msgstr ""
+
+#: inc/options-init.php:1344
+msgid "Show latest ads slider"
+msgstr ""
+
+#: inc/options-init.php:1350
+msgid "Latest Ads Section Title"
+msgstr ""
+
+#: inc/options-init.php:1358
+msgid "Latest Ads View All Title"
+msgstr ""
+
+#: inc/options-init.php:1367
+msgid "Select Number of latest ads"
+msgstr ""
+
+#: inc/options-init.php:1379
+msgid "Ads Locations"
+msgstr ""
+
+#: inc/options-init.php:1389
+msgid "Locations icons Section"
+msgstr ""
+
+#: inc/options-init.php:1397
+msgid "Show Location on home page"
+msgstr ""
+
+#: inc/options-init.php:1404
+msgid "Location Section Title"
+msgstr ""
+
+#: inc/options-init.php:1405
+msgid "Separate string with sign like Explore|city"
+msgstr ""
+
+#: inc/options-init.php:1406
+msgid "Explore|city"
+msgstr ""
+
+#: inc/options-init.php:1420
+msgid "Select Locations Categories"
+msgstr ""
+
+#: inc/options-init.php:1421
+msgid "Select locations you want to show"
+msgstr ""
+
+#: inc/options-init.php:1438
+msgid "Comparison section. (You must on Home Sortable to show comparison)"
+msgstr ""
+
+#: inc/options-init.php:1446
+msgid "Show Comparison"
+msgstr ""
+
+#: inc/options-init.php:1452
+msgid "Comparison Section Title"
+msgstr ""
+
+#: inc/options-init.php:1454
+msgid "Separate string with sign like Top|Comparison"
+msgstr ""
+
+#: inc/options-init.php:1460
+msgid "Comparison Section View All"
+msgstr ""
+
+#: inc/options-init.php:1467
+msgid "Comparison V/s text"
+msgstr ""
+
+#: inc/options-init.php:1468
+msgid "V/S"
+msgstr ""
+
+#: inc/options-init.php:1477
+msgid "Comparison Cars"
+msgstr ""
+
+#: inc/options-init.php:1478
+msgid "Select 1st car for comparison"
+msgstr ""
+
+#: inc/options-init.php:1487
+msgid "Comparison V/S Car"
+msgstr ""
+
+#: inc/options-init.php:1488
+msgid "Select second car for comparison"
+msgstr ""
+
+#: inc/options-init.php:1504
+msgid "Blog and news section. (You must on Home Sortable to show blogs)"
+msgstr ""
+
+#: inc/options-init.php:1510
+msgid "News/Blog"
+msgstr ""
+
+#: inc/options-init.php:1512
+msgid "Show News/Blog ads slider"
+msgstr ""
+
+#: inc/options-init.php:1518
+msgid "Blog/News Setion Title"
+msgstr ""
+
+#: inc/options-init.php:1532
+msgid "Select Categories"
+msgstr ""
+
+#: inc/options-init.php:1533
+msgid ""
+"Select categories to show in the blog/news section. Leave empty if you want "
+"to show from all."
+msgstr ""
+
+#: inc/options-init.php:1539
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/options-init.php:1541
+msgid "Select max number of Posts to show"
+msgstr ""
+
+#: inc/options-init.php:1556
+msgid "Ad's General Settings"
+msgstr ""
+
+#: inc/options-init.php:1564
+msgid "Package Mode"
+msgstr ""
+
+#: inc/options-init.php:1565
+msgid ""
+"You can select only one package type at a time. Changing package type will "
+"conflict your previous settings."
+msgstr ""
+
+#: inc/options-init.php:1567
+msgid "Category Based"
+msgstr ""
+
+#: inc/options-init.php:1568
+msgid "Packages Based"
+msgstr ""
+
+#: inc/options-init.php:1575
+msgid "Report ad Options"
+msgstr ""
+
+#: inc/options-init.php:1581
+msgid "Ad Report Limit"
+msgstr ""
+
+#: inc/options-init.php:1582
+msgid "Only integer value without spaces."
+msgstr ""
+
+#: inc/options-init.php:1588
+msgid "Action on Ad Report Limit"
+msgstr ""
+
+#: inc/options-init.php:1596
+msgid "Email where you want to get notify."
+msgstr ""
+
+#: inc/options-init.php:1604
+msgid "Default Image"
+msgstr ""
+
+#: inc/options-init.php:1606
+msgid "If there is no image of ad then this will be show."
+msgstr ""
+
+#: inc/options-init.php:1607
+msgid "Dimensions: 300 x 225"
+msgstr ""
+
+#: inc/options-init.php:1613
+msgid "Set Image Sizes for listings"
+msgstr ""
+
+#: inc/options-init.php:1615 inc/options-init.php:1629
+msgid "Default"
+msgstr ""
+
+#: inc/options-init.php:1616 inc/options-init.php:1630
+msgid "Size 2"
+msgstr ""
+
+#: inc/options-init.php:1617
+msgid "Size 3"
+msgstr ""
+
+#: inc/options-init.php:1618
+msgid "Size 4"
+msgstr ""
+
+#: inc/options-init.php:1619
+msgid "Size 5"
+msgstr ""
+
+#: inc/options-init.php:1622 inc/options-init.php:1633
+msgid "Change with caution we only recommend default."
+msgstr ""
+
+#: inc/options-init.php:1627
+msgid "Set Image Sizes for Ad Details"
+msgstr ""
+
+#: inc/options-init.php:1638
+msgid "Message Settings"
+msgstr ""
+
+#: inc/options-init.php:1639
+msgid ""
+"Send message notification through firebase when receive new message on ad."
+msgstr ""
+
+#: inc/options-init.php:1646
+msgid "Ad Post Settings"
+msgstr ""
+
+#: inc/options-init.php:1655
+msgid "Turn On Category Template"
+msgstr ""
+
+#: inc/options-init.php:1661
+msgid "Strict image mode"
+msgstr ""
+
+#: inc/options-init.php:1662
+msgid "Not allowed less than 760x410"
+msgstr ""
+
+#: inc/options-init.php:1668
+msgid "Ad image set limit"
+msgstr ""
+
+#: inc/options-init.php:1700
+msgid "Ad image max size"
+msgstr ""
+
+#: inc/options-init.php:1728
+msgid "Display Price type option."
+msgstr ""
+
+#: inc/options-init.php:1744
+msgid "Price Types"
+msgstr ""
+
+#: inc/options-init.php:1757
+msgid "Update Ad Notice"
+msgstr ""
+
+#: inc/options-init.php:1763
+msgid "Allow make featured ad"
+msgstr ""
+
+#: inc/options-init.php:1764 inc/options-init.php:1771
+msgid "on ad post."
+msgstr ""
+
+#: inc/options-init.php:1770
+msgid "Featured ad description"
+msgstr ""
+
+#: inc/options-init.php:1779
+msgid "Allow Pdf Brochure on ad"
+msgstr ""
+
+#: inc/options-init.php:1780
+msgid "Pdf Brochure on ad post."
+msgstr ""
+
+#: inc/options-init.php:1786
+msgid "Brochure limit in MB"
+msgstr ""
+
+#: inc/options-init.php:1812
+msgid "Brochure Upload limit"
+msgstr ""
+
+#: inc/options-init.php:1813 inc/options-init.php:1849
+#: inc/options-init.php:1857 inc/options-init.php:1865
+msgid "Only numeric value"
+msgstr ""
+
+#: inc/options-init.php:1821
+msgid "Select Brochure"
+msgstr ""
+
+#: inc/options-init.php:1827
+msgid "Message for Brochure size"
+msgstr ""
+
+#: inc/options-init.php:1834
+msgid "Title of Advertise an ad"
+msgstr ""
+
+#: inc/options-init.php:1835
+msgid "Advertise an ad"
+msgstr ""
+
+#: inc/options-init.php:1841
+msgid "Allow Video on ad"
+msgstr ""
+
+#: inc/options-init.php:1842
+msgid "video on ad post."
+msgstr ""
+
+#: inc/options-init.php:1848
+msgid "Video limit in MB"
+msgstr ""
+
+#: inc/options-init.php:1856
+msgid "Video duration in seconds"
+msgstr ""
+
+#: inc/options-init.php:1864
+msgid "Video Upload Limit"
+msgstr ""
+
+#: inc/options-init.php:1872
+msgid "Title of select video"
+msgstr ""
+
+#: inc/options-init.php:1879
+msgid "Title of Upload video"
+msgstr ""
+
+#: inc/options-init.php:1886
+msgid "Message for video size"
+msgstr ""
+
+#: inc/options-init.php:1893
+msgid "Message for video duration"
+msgstr ""
+
+#: inc/options-init.php:1894
+msgid "Maximum duration should be 60 seconds"
+msgstr ""
+
+#: inc/options-init.php:1900
+msgid "Allowed video Quality"
+msgstr ""
+
+#: inc/options-init.php:1914
+msgid "Message for video format"
+msgstr ""
+
+#: inc/options-init.php:1915
+msgid "only mp4 format supported"
+msgstr ""
+
+#: inc/options-init.php:1921
+msgid "Allow Video Trim"
+msgstr ""
+
+#: inc/options-init.php:1922
+msgid "video Trim Yes/No."
+msgstr ""
+
+#: inc/options-init.php:1929
+msgid "Allow Video compress"
+msgstr ""
+
+#: inc/options-init.php:1930
+msgid "video compress Yes/No."
+msgstr ""
+
+#: inc/options-init.php:1937
+msgid "Select Compression Level"
+msgstr ""
+
+#: inc/options-init.php:1939
+msgid "Low"
+msgstr ""
+
+#: inc/options-init.php:1940
+msgid "Medium"
+msgstr ""
+
+#: inc/options-init.php:1948
+msgid "Message for video uploading"
+msgstr ""
+
+#: inc/options-init.php:1949
+msgid "Please wait video uploading is in progress"
+msgstr ""
+
+#: inc/options-init.php:1956
+msgid "Allow immatriculationapi"
+msgstr ""
+
+#: inc/options-init.php:1957
+msgid "Allow search from immatriculationapi.com"
+msgstr ""
+
+#: inc/options-init.php:1963
+msgid "User name for API"
+msgstr ""
+
+#: inc/options-init.php:1964
+msgid "tomberapic"
+msgstr ""
+
+#: inc/options-init.php:1970
+msgid "Allow Registration Field"
+msgstr ""
+
+#: inc/options-init.php:1971
+msgid "Show Registration Field Yes/No."
+msgstr ""
+
+#: inc/options-init.php:1978
+msgid "Placeholder for API field"
+msgstr ""
+
+#: inc/options-init.php:1979
+msgid "AA-123-BB ou 1234AA75"
+msgstr ""
+
+#: inc/options-init.php:1986
+msgid "Ad View Settings"
+msgstr ""
+
+#: inc/options-init.php:1996 inc/options-init.php:2004
+msgid "Advertisement"
+msgstr ""
+
+#: inc/options-init.php:1997 inc/options-init.php:2005
+msgid "720 x 90"
+msgstr ""
+
+#: inc/options-init.php:1998
+msgid "Above the Ad description"
+msgstr ""
+
+#: inc/options-init.php:2006
+msgid "Below the Ad description"
+msgstr ""
+
+#: inc/options-init.php:2012
+msgid "Ad Search Settings"
+msgstr ""
+
+#: inc/options-init.php:2036
+msgid "On ad details page"
+msgstr ""
+
+#: inc/options-init.php:2047
+msgid "Provide search page price slider min. value"
+msgstr ""
+
+#: inc/options-init.php:2048 inc/options-init.php:2056
+msgid "This must be numeric without any comma or full stop."
+msgstr ""
+
+#: inc/options-init.php:2055
+msgid "Provide search page price slider max. value"
+msgstr ""
+
+#: inc/options-init.php:2065
+msgid "Ad Rating Settings"
+msgstr ""
+
+#: inc/options-init.php:2074
+msgid "Rating on ad"
+msgstr ""
+
+#: inc/options-init.php:2080
+msgid "Allow update the rating"
+msgstr ""
+
+#: inc/options-init.php:2087
+msgid "Rating section title"
+msgstr ""
+
+#: inc/options-init.php:2094
+msgid "Email to Author on rating"
+msgstr ""
+
+#: inc/options-init.php:2101
+msgid "Email to Author on reply"
+msgstr ""
+
+#: inc/options-init.php:2108
+msgid "Rating show at most"
+msgstr ""
+
+#: inc/options-init.php:2121
+msgid "Woo Products"
+msgstr ""
+
+#: inc/options-init.php:2136
+msgid "Select Products"
+msgstr ""
+
+#: inc/options-init.php:2141
+msgid "Select Payment Packages"
+msgstr ""
+
+#: inc/options-init.php:2149
+msgid "Payment Methods For Android App"
+msgstr ""
+
+#: inc/options-init.php:2150
+msgid "Select the payment methods you want to add."
+msgstr ""
+
+#: inc/options-init.php:2160
+msgid "Payment Methods IOS App"
+msgstr ""
+
+#: inc/options-init.php:2161
+msgid "Note ios only uses InApp Purchase"
+msgstr ""
+
+#: inc/options-init.php:2171
+msgid "Users"
+msgstr ""
+
+#: inc/options-init.php:2179
+msgid "Phone verfication"
+msgstr ""
+
+#: inc/options-init.php:2181
+msgid ""
+"If phone verification is on then system put verified batch to ad details on "
+"number so other can see this number is verified."
+msgstr ""
+
+#: inc/options-init.php:2186
+msgid "Resend security code"
+msgstr ""
+
+#: inc/options-init.php:2187
+msgid "In seconds"
+msgstr ""
+
+#: inc/options-init.php:2188
+msgid "Only integer value without spaces, 30 means 30-seconds"
+msgstr ""
+
+#: inc/options-init.php:2195
+msgid "Change phone number while ad posting."
+msgstr ""
+
+#: inc/options-init.php:2196
+msgid ""
+"If off then only user profile number will be display and can not be "
+"changeable."
+msgstr ""
+
+#: inc/options-init.php:2202
+msgid "Welcome Email to User"
+msgstr ""
+
+#: inc/options-init.php:2208
+msgid "New user email verification"
+msgstr ""
+
+#: inc/options-init.php:2210
+msgid ""
+"If verfication on then please update your new user email template by "
+"verification link."
+msgstr ""
+
+#: inc/options-init.php:2218
+msgid "Select Page"
+msgstr ""
+
+#: inc/options-init.php:2219
+msgid "Terms and Conditions"
+msgstr ""
+
+#: inc/options-init.php:2220
+msgid "Specially for General Data Protection Regulation (GDPR)"
+msgstr ""
+
+#: inc/options-init.php:2225
+msgid "Term and Condition Text"
+msgstr ""
+
+#: inc/options-init.php:2227
+msgid ""
+"Terms and Condition text next to checkbox. Leave empty if you want to show "
+"default text"
+msgstr ""
+
+#: inc/options-init.php:2232
+msgid "Show Delete button"
+msgstr ""
+
+#: inc/options-init.php:2234
+msgid ""
+"Show delete button on user profile. Due to General Data Protection "
+"Regulation (GDPR) policy. Note: This will delete the entire data from the "
+"database and can not be recovered."
+msgstr ""
+
+#: inc/options-init.php:2240
+msgid "Delete Popup Text"
+msgstr ""
+
+#: inc/options-init.php:2242
+msgid "Popup text after delete link clicked."
+msgstr ""
+
+#: inc/options-init.php:2249
+msgid "Allow users to block anyone and stop seeing his ads."
+msgstr ""
+
+#: inc/options-init.php:2255
+msgid "Default user picture"
+msgstr ""
+
+#: inc/options-init.php:2257 inc/options-init.php:2266
+msgid "Dimensions: 200 x 200"
+msgstr ""
+
+#: inc/options-init.php:2264
+msgid "Default guest picture"
+msgstr ""
+
+#: inc/options-init.php:2272
+msgid "User profile tab one text"
+msgstr ""
+
+#: inc/options-init.php:2278
+msgid "User profile tab two text"
+msgstr ""
+
+#: inc/options-init.php:2284
+msgid "User profile tab three text"
+msgstr ""
+
+#: inc/options-init.php:2290
+msgid "Show address field in Profile"
+msgstr ""
+
+#: inc/options-init.php:2292
+msgid "Show address field in profile for individual user."
+msgstr ""
+
+#: inc/options-init.php:2297
+msgid "Admob Settings"
+msgstr ""
+
+#: inc/options-init.php:2305
+msgid "Want to turn on AdMob banners"
+msgstr ""
+
+#: inc/options-init.php:2307 inc/options-init.php:2335
+msgid "YES"
+msgstr ""
+
+#: inc/options-init.php:2308 inc/options-init.php:2336
+msgid "NO"
+msgstr ""
+
+#: inc/options-init.php:2309 inc/options-init.php:2337
+msgid "When you turn this on you have to provide more detail"
+msgstr ""
+
+#: inc/options-init.php:2314
+msgid "Select Banner Postion"
+msgstr ""
+
+#: inc/options-init.php:2325
+msgid "Banner ad ID"
+msgstr ""
+
+#: inc/options-init.php:2328
+msgid "Please provide Banner id"
+msgstr ""
+
+#: inc/options-init.php:2333
+msgid "Want to turn on interstitial ads"
+msgstr ""
+
+#: inc/options-init.php:2342
+msgid "Interstitial ad interval"
+msgstr ""
+
+#: inc/options-init.php:2344
+msgid ""
+"Please provide interstitial ads interval in miliseconds eg. 1000 "
+"milliseconds  = 1 second"
+msgstr ""
+
+#: inc/options-init.php:2349
+msgid "Interstitial ad ID"
+msgstr ""
+
+#: inc/options-init.php:2352
+msgid "Please provide Interstitial ad id"
+msgstr ""
+
+#: inc/options-init.php:2358
+msgid "Email Templates"
+msgstr ""
+
+#: inc/options-init.php:2366
+msgid "App Contact Form"
+msgstr ""
+
+#: inc/options-init.php:2375
+msgid "Contact App Subject"
+msgstr ""
+
+#: inc/options-init.php:2376
+msgid "%site_name% , %app_name% will be translated accordingly."
+msgstr ""
+
+#: inc/options-init.php:2377
+msgid "A New Contact Email Reveived - "
+msgstr ""
+
+#: inc/options-init.php:2382
+msgid "Contact App FROM"
+msgstr ""
+
+#: inc/options-init.php:2383
+msgid "NAME valid@email.com is compulsory as we gave in default."
+msgstr ""
+
+#: inc/options-init.php:2389
+msgid "Contact Email Receive On"
+msgstr ""
+
+#: inc/options-init.php:2390
+msgid ""
+"Send the contact email on custom select email. If no email is enter then it "
+"will send to site admin."
+msgstr ""
+
+#: inc/options-init.php:2395
+msgid "Contact App Email"
+msgstr ""
+
+#: inc/options-init.php:2396
+msgid ""
+"%site_name% , %app_name%, %sender_name%, %sender_email%, %sender_subject%, "
+"%sender_desc%  will be translated accordingly."
+msgstr ""
+
+#: inc/options-init.php:2408
+msgid "WPML Settings"
+msgstr ""
+
+#: inc/options-init.php:2416
+msgid "WPML"
+msgstr ""
+
+#: inc/options-init.php:2424
+msgid "Enable WPML"
+msgstr ""
+
+#: inc/options-init.php:2425 inc/options-init.php:2432
+msgid "Note: Before enable this switch WPML plugin must be active."
+msgstr ""
+
+#: inc/options-init.php:2431
+msgid "Display Languages in Menu"
+msgstr ""
+
+#: inc/options-init.php:2439
+msgid "Select Your Language Title"
+msgstr ""
+
+#: inc/options-init.php:2440
+msgid "Set the title for Select Your Language"
+msgstr ""
+
+#: inc/options-init.php:2448
+msgid "Languages"
+msgstr ""
+
+#: inc/options-init.php:2457
+msgid "Duplicate"
+msgstr ""
+
+#: inc/options-init.php:2458
+msgid ""
+"Enable this option to duplicate post in all other languages after successful "
+"publish."
+msgstr ""
+
+#: inc/options-init.php:2459
+msgid "Note: Disable means the posts publish only in the current language."
+msgstr ""
+
+#: inc/options-init.php:2466
+msgid "Display Posts)"
+msgstr ""
+
+#: inc/options-init.php:2467
+msgid ""
+"Enable this option to display all other languages post in current language."
+msgstr ""
+
+#: inc/options-init.php:2468
+msgid "Note: Disable means to display only current language post."
+msgstr ""
+
+#: inc/options-init.php:2476
+msgid "WPML logo"
+msgstr ""
+
+#: inc/options-init.php:2478
+msgid "Upload WPML logo for your App."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Carspot Apps API"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://codecanyon.net/user/scriptsbundle"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the Carspot android and ios apps."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr ""

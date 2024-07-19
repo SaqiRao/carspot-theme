@@ -1,0 +1,4966 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: Carspot Apps API\n"
+"POT-Creation-Date: 2022-05-12 17:54+0500\n"
+"PO-Revision-Date: 2022-05-12 17:54+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: classes/ad_message.php:65 classes/ad_message.php:142
+#: classes/settings.php:217
+msgid "Messages"
+msgstr "الرسائل"
+
+#: classes/ad_message.php:66 classes/ad_message.php:143
+#: classes/settings.php:218
+msgid "Sent Offers"
+msgstr "العروض المرسلة"
+
+#: classes/ad_message.php:67 classes/ad_message.php:144
+#: classes/settings.php:219
+msgid "Offers on Ads"
+msgstr "العروض علي الإعلانات"
+
+#: classes/ad_message.php:222
+msgid "No Message Found"
+msgstr "لم يتمّ إيجاد رسائل حتى الآن"
+
+#: classes/ad_message.php:297
+msgid "Chat Box"
+msgstr "صندوق الدردشه"
+
+#: classes/ad_message.php:326
+msgid "is typing"
+msgstr "هو الكتابة"
+
+#: classes/ad_message.php:331 classes/ad_message.php:559
+msgid "No Chat Found"
+msgstr "لم يتمّ إيجاد محادثات حتى الآن"
+
+#: classes/ad_message.php:371 classes/ad_post.php:1299 classes/ad_post.php:1315
+#: classes/ad_post.php:1545 classes/ad_rating.php:63 classes/ad_rating.php:124
+#: classes/register.php:171
+msgid "Something went wrong"
+msgstr "حدث خطأ ما"
+
+#: classes/ad_message.php:381
+msgid "Please Login to send message"
+msgstr "يرجى تسجيل الدخول لإرسال رسالة"
+
+#: classes/ad_message.php:419
+msgid "Message sent successfully."
+msgstr "تم إرسال الرسالة بنجاح."
+
+#: classes/ad_message.php:421
+msgid "Message not sent, please try again later."
+msgstr "لم يتم إرسال الرسالة ، الرجاء المحاولة مره أخرى لاحقا."
+
+#: classes/ad_message.php:424
+msgid "You can not send a message to yourself"
+msgstr "لا يمكنك إرسال رسالة إلى نفسك"
+
+#: classes/ad_post.php:116
+msgid "Edit Add"
+msgstr "تحرير أضافه"
+
+#: classes/ad_post.php:116
+msgid "Add Post"
+msgstr "إضافة مشاركة"
+
+#: classes/ad_post.php:163
+msgid "Ad Title"
+msgstr "عنوان الاعلان"
+
+#: classes/ad_post.php:167
+msgid "Registration Number"
+msgstr "رقم التسجيل"
+
+#: classes/ad_post.php:173 classes/ad_post.php:177 classes/ad_post.php:181
+#: classes/ad_post.php:184 classes/ads.php:989 classes/ads.php:1799
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: classes/ad_post.php:189
+msgid "Choose Stamp"
+msgstr "اختر طابع"
+
+#: classes/ad_post.php:191
+msgid "VIN Number"
+msgstr "رقم VIN"
+
+#: classes/ad_post.php:196 classes/ad_post.php:533 classes/ad_post.php:2163
+#: classes/ad_post.php:2166 inc/options-init.php:1727
+msgid "Price Type"
+msgstr "نوع السعر"
+
+#: classes/ad_post.php:198 classes/ad_post.php:2170 classes/ad_post.php:2177
+msgid "Ad Price"
+msgstr "سعر الإعلان"
+
+#: classes/ad_post.php:199 functions.php:757
+msgid "Mileage"
+msgstr "عدد الأميال"
+
+#: classes/ad_post.php:201
+msgid "Average in Highway"
+msgstr "الطريق السريع"
+
+#: classes/ad_post.php:202
+msgid "Average in City"
+msgstr "متوسط"
+
+#: classes/ad_post.php:205 classes/ads.php:768 classes/ads.php:994
+msgid "Condition"
+msgstr "الحالة"
+
+#: classes/ad_post.php:207 classes/ads.php:779 classes/ads.php:992
+#: classes/ads.php:1000
+msgid "Ad Type"
+msgstr "نوع الإعلان"
+
+#: classes/ad_post.php:209 classes/ads.php:774 classes/ads.php:997
+msgid "Warranty"
+msgstr "الضمان"
+
+#: classes/ad_post.php:214 classes/ad_post.php:216 classes/ads.php:1002
+#: classes/payment.php:257
+msgid "Year"
+msgstr "السنة"
+
+#: classes/ad_post.php:222 classes/ad_post.php:224 classes/ads.php:1005
+#: inc/options-init.php:1158 inc/options-init.php:1167
+msgid "Body Type"
+msgstr "وارد"
+
+#: classes/ad_post.php:229 classes/ad_post.php:231 classes/ads.php:1008
+msgid "Transmission"
+msgstr "ناقل الحركة"
+
+#: classes/ad_post.php:237 classes/ad_post.php:239
+msgid "Capacity"
+msgstr "السعـة"
+
+#: classes/ad_post.php:245 classes/ad_post.php:247 classes/ads.php:805
+#: classes/ads.php:1014
+msgid "Engine Type"
+msgstr "نوع المحرك"
+
+#: classes/ad_post.php:251 classes/ads.php:1017
+msgid "Assembly"
+msgstr "الجمعيه"
+
+#: classes/ad_post.php:254 classes/ads.php:1020
+msgid "Colour"
+msgstr "لون"
+
+#: classes/ad_post.php:257 classes/ads.php:820 classes/ads.php:1023
+msgid "Insurance"
+msgstr "تامين الإعلانات"
+
+#: classes/ad_post.php:260 classes/ad_post.php:532 classes/ad_post.php:2194
+#: classes/ad_post.php:2196
+msgid "Tags Comma(,) separated"
+msgstr "العلامات فاصله (،) مفصوله"
+
+#: classes/ad_post.php:261 classes/ad_post.php:2200 classes/ad_post.php:2202
+msgid "Youtube Video Link"
+msgstr "رابط فيديو يوتيوب"
+
+#: classes/ad_post.php:263 classes/ads.php:147
+msgid "Features"
+msgstr "الميزات"
+
+#: classes/ad_post.php:282 classes/ads.php:325 inc/options-init.php:290
+msgid "Description"
+msgstr "الوصف"
+
+#: classes/ad_post.php:287
+msgid "On"
+msgstr "تشغيل"
+
+#: classes/ad_post.php:288
+msgid "Off"
+msgstr "إيقاف"
+
+#: classes/ad_post.php:296 classes/ads.php:322
+msgid "Bidding"
+msgstr "العطاءات"
+
+#: classes/ad_post.php:300
+msgid "Bidding Time"
+msgstr "وقت المزايدة"
+
+#: classes/ad_post.php:305 classes/ads.php:280 classes/ads.php:295
+#: classes/profile.php:411 classes/profile.php:675 classes/settings.php:414
+#: functions.php:2217
+msgid "Name"
+msgstr "الاسم"
+
+#: classes/ad_post.php:311 classes/profile.php:412 classes/register.php:187
+#: functions.php:2223
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: classes/ad_post.php:319 classes/ads.php:135 classes/ads.php:1036
+#: classes/profile.php:463 functions.php:704 functions.php:2231
+#: inc/options-init.php:1395
+msgid "Location"
+msgstr "الموقع"
+
+#: classes/ad_post.php:345 classes/ads.php:1038 classes/profile.php:413
+#: classes/profile.php:432 functions.php:2251
+msgid "Address"
+msgstr "العنوان"
+
+#: classes/ad_post.php:349 classes/profile.php:433 functions.php:2255
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: classes/ad_post.php:350 classes/profile.php:434 functions.php:2256
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: classes/ad_post.php:356
+msgid "select images to upload"
+msgstr "حدد الصور المراد تحميلها"
+
+#: classes/ad_post.php:361 classes/ad_post.php:1329
+msgid "you can not upload more images"
+msgstr "لا يمكنك تحميل المزيد من الصور"
+
+#: classes/ad_post.php:363 classes/ad_post.php:1360
+msgid "your can upload"
+msgstr "يمكن تحميل الخاص بك"
+
+#: classes/ad_post.php:363 classes/ad_post.php:1331 classes/ad_post.php:1360
+msgid "more image"
+msgstr "صوره أكثر"
+
+#: classes/ad_post.php:374
+msgid "Post Ad"
+msgstr "الإعلان"
+
+#: classes/ad_post.php:390 classes/ad_post.php:396
+msgid "Bump it up on the top of the list. Ads remaining: Unlimited"
+msgstr "نتوء عليه اعلي القائمة. الإعلانات المتبقية: غير محدود"
+
+#: classes/ad_post.php:399
+msgid "Bump it up on the top of the list. Ads remaining: "
+msgstr "نتوء عليه اعلي القائمة. الإعلانات المتبقية:"
+
+#: classes/ad_post.php:427 classes/ad_post.php:498 classes/profile.php:554
+#: classes/settings.php:93
+msgid "Confirmation"
+msgstr "تأكيد"
+
+#: classes/ad_post.php:428
+msgid "Are you sure you want to bumup this ad."
+msgstr "هل أنت متاكد من انك تريد ان تلعثم هذا الإعلان."
+
+#: classes/ad_post.php:429 classes/ad_post.php:500 classes/ad_post.php:529
+#: classes/ad_rating.php:329 classes/ads.php:332 classes/ads.php:355
+#: classes/ads.php:362 classes/ads.php:365 classes/ads.php:368
+#: classes/ads.php:1065 classes/comparison.php:115 classes/posts.php:194
+#: classes/profile.php:521 classes/profile.php:535 classes/profile.php:549
+#: classes/profile.php:567 classes/profile.php:2381 classes/settings.php:58
+#: classes/settings.php:95 classes/settings.php:121 classes/settings.php:261
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: classes/ad_post.php:430 classes/ad_post.php:501 classes/profile.php:550
+#: classes/profile.php:568 classes/profile.php:2380 classes/settings.php:96
+#: classes/settings.php:260
+msgid "Confirm"
+msgstr "تأكيد"
+
+#: classes/ad_post.php:456
+msgid "If you want to make it feature then please have a look on"
+msgstr "إذا كنت تريد أن تجعلها مميزة المرجو إلقاء نظرة على"
+
+#: classes/ad_post.php:465
+msgid "Featured ads remaining: Unlimited"
+msgstr "الإعلانات المميزة المتبقية: غير محدود"
+
+#: classes/ad_post.php:468
+msgid "Featured ads remaining: "
+msgstr "الإعلانات المميزة المتبقية: غير محدود"
+
+#: classes/ad_post.php:499
+msgid "Are you sure you want to make this ad featured."
+msgstr "هل تريد بالتاكيد جعل هذا الإعلان مميزا."
+
+#: classes/ad_post.php:525
+msgid "Select Images"
+msgstr "اختيار الصور"
+
+#: classes/ad_post.php:526
+msgid "User Information"
+msgstr "معلومات المستخدم"
+
+#: classes/ad_post.php:527
+msgid "You can re-arange image by draging them."
+msgstr "يمكنك أعاده arange الصورة عن طريق draging لهم."
+
+#: classes/ad_post.php:528 classes/ad_rating.php:328 classes/ads.php:1064
+#: classes/bid.php:205 classes/comparison.php:114 classes/login.php:127
+#: classes/posts.php:193 classes/register.php:238 classes/settings.php:112
+msgid "Submit"
+msgstr "إرسال"
+
+#: classes/ad_post.php:530
+msgid "Youtube video link"
+msgstr "رابط فيديو يوتيوب"
+
+#: classes/ad_post.php:531
+msgid "Please Fill All The Required Fields"
+msgstr "يرجى ملء جميع الحقول المطلوبة."
+
+#: classes/ad_post.php:534 classes/ads.php:283 classes/ads.php:831
+#: classes/ads.php:837 classes/ads.php:1029
+msgid "Price"
+msgstr "السعر"
+
+#: classes/ad_post.php:535
+msgid "Next Step"
+msgstr "الخطوة التالية"
+
+#: classes/ad_post.php:536
+msgid "Please Select"
+msgstr "الرجاء الإختيار"
+
+#: classes/ad_post.php:571 inc/options-init.php:1820
+msgid "Title of select Brochure"
+msgstr "عنوان من حدد كتيب"
+
+#: classes/ad_post.php:577 inc/options-init.php:1828
+msgid "Maximum size should be 5 MB"
+msgstr "يجب أن يكون الحجم الأقصى 5 ميغابايت"
+
+#: classes/ad_post.php:611 inc/options-init.php:1873
+msgid "Select Vidoe"
+msgstr "حدد فيدو"
+
+#: classes/ad_post.php:617 inc/options-init.php:1887
+msgid "Maximum size should be 10 MB"
+msgstr "يجب أن يكون الحد الأقصى للحجم 10 ميغابايت"
+
+#: classes/ad_post.php:623
+msgid "Maximum duration should be 10 minutes"
+msgstr "يجب أن تكون المدة القصوى 10 دقيقة"
+
+#: classes/ad_post.php:647
+msgid "Please wait video upload is in progress"
+msgstr "الرجاء الانتظار تحميل الفيديو قيد التقدم"
+
+#: classes/ad_post.php:654 inc/options-init.php:1880
+msgid "Upload Video"
+msgstr "تحميل فيديو"
+
+#: classes/ad_post.php:680
+msgid "Only mp4 format supported"
+msgstr "فقط mp4 شكل معتمد"
+
+#: classes/ad_post.php:692
+msgid "No Result Found"
+msgstr "لم يتم العثور على نتائج"
+
+#: classes/ad_post.php:750
+msgid "Adons"
+msgstr "تعزيز عملك مع adons"
+
+#: classes/ad_post.php:769 classes/ad_post.php:2528
+msgid "Add To Cart"
+msgstr "إضافة لسلة المشتريات"
+
+#: classes/ad_post.php:773 classes/ad_post.php:2526
+msgid "Remove"
+msgstr "حذف"
+
+#: classes/ad_post.php:836 classes/ad_post.php:2292 classes/ads.php:356
+#: classes/ads.php:734 classes/ads.php:985 classes/woo-commerce.php:101
+#: classes/woo-commerce.php:126 functions.php:1652 functions.php:1829
+msgid "Select Option"
+msgstr "‫الرجاء الاختيار"
+
+#: classes/ad_post.php:918 classes/login.php:174
+msgid "Editing Not Alloded In Demo"
+msgstr "تحرير لا alloded في العرض التوضيحي"
+
+#: classes/ad_post.php:937
+msgid "You have no more ads to post"
+msgstr "ليس لديك المزيد من الإعلانات لنشر"
+
+#: classes/ad_post.php:944
+msgid "Your package has expired"
+msgstr "انتهت مدة صلاحية الباقة الخاصة بك."
+
+#: classes/ad_post.php:1224
+msgid "Ad Marked As Featured."
+msgstr "الإعلان الذي تم وضع علامة عليه كمميز."
+
+#: classes/ad_post.php:1250
+msgid "And Marked As Bumped Ad."
+msgstr "امتیازدهی"
+
+#: classes/ad_post.php:1256
+msgid "Ad Updated Successfully."
+msgstr "تم تحديث الإعلان بنجاح."
+
+#: classes/ad_post.php:1258
+msgid "Ad Posted Successfully"
+msgstr "تم نشر الإعلان بنجاح."
+
+#: classes/ad_post.php:1312
+msgid "Image deleted successfully."
+msgstr "تم النشر بنجاح."
+
+#: classes/ad_post.php:1331 classes/ad_post.php:1667 classes/ad_post.php:1846
+msgid "you can upload"
+msgstr "يمكنك تحميل"
+
+#: classes/ad_post.php:1358
+msgid "your can not upload more images"
+msgstr "الخاص بك لا يمكن تحميل المزيد من الصور"
+
+#: classes/ad_post.php:1482
+msgid "your upload ad limit is "
+msgstr "حد إعلان التحميل الخاص بك هو"
+
+#: classes/ad_post.php:1487
+msgid "Minimum image dimension should be"
+msgstr "يجب ان يكون البعد الصورة الحد الأدنى"
+
+#: classes/ad_post.php:1550
+msgid "Maximum size less than 10 MB"
+msgstr "الحد الأقصى للحجم أقل من 10 ميغابايت"
+
+#: classes/ad_post.php:1582
+msgid "Video Uploaded Successfully"
+msgstr "تم تحميل الفيديو بنجاح"
+
+#: classes/ad_post.php:1637 classes/ad_post.php:1734 classes/ad_post.php:1815
+msgid "Something Missing"
+msgstr "شيء مفقود"
+
+#: classes/ad_post.php:1649
+msgid "Video deleted successfully"
+msgstr "تم حذف الفيديو بنجاح"
+
+#: classes/ad_post.php:1652
+msgid "Video not Delete"
+msgstr "الفيديو لا يحذف"
+
+#: classes/ad_post.php:1665 classes/ad_post.php:1844
+msgid "you can not upload more Brochures"
+msgstr "لا يمكنك تحميل المزيد من الكتيبات"
+
+#: classes/ad_post.php:1667
+msgid "more videos"
+msgstr "المزيد من أشرطة الفيديو"
+
+#: classes/ad_post.php:1762
+msgid "Brochure Uploaded Successfully"
+msgstr "تم تحميل الكتيب الدعائي بنجاح"
+
+#: classes/ad_post.php:1827
+msgid "Brochure deleted successfully."
+msgstr "تم حذف البحث الموجز بنجاح."
+
+#: classes/ad_post.php:1830
+msgid "Brochure not Deleted"
+msgstr "لم يتم حذف الكتيب الموجز"
+
+#: classes/ad_post.php:1846
+msgid "More Brochure"
+msgstr "المزيد من الكتيب"
+
+#: classes/ad_post.php:1975 classes/ad_post.php:2531
+msgid "Amount In Cart"
+msgstr "المبلغ في عربة التسوق"
+
+#: classes/ad_post.php:2187 classes/ad_post.php:2189
+msgid "Images"
+msgstr "الصور"
+
+#: classes/ad_post.php:2525
+msgid "Added To Cart Successfully."
+msgstr "تمت الإضافة لعربة التسوق"
+
+#: classes/ad_post.php:2527
+msgid "Removed From Cart."
+msgstr "تم الحذف من عربة التسوق"
+
+#: classes/ad_post.php:2529
+msgid "Nothing In Cart."
+msgstr "عربة التسوق فارغة"
+
+#: classes/ad_post.php:2819 classes/ads.php:930 classes/comparison.php:210
+msgid "Select an option"
+msgstr "حدد اختيارا"
+
+#: classes/ad_rating.php:68
+msgid "Ad author can't post rating"
+msgstr "لا يمكن لمؤلف الإعلان نشر التقييم."
+
+#: classes/ad_rating.php:71
+msgid "You've posted rating already"
+msgstr "لقد قمت بنشر التقييم بالفعل."
+
+#: classes/ad_rating.php:92
+msgid "Your rating has been updated"
+msgstr "تم تحديث تقييمك."
+
+#: classes/ad_rating.php:118
+msgid "Your rating has been posted"
+msgstr "تم نشر تقييمك"
+
+#: classes/ad_rating.php:128
+msgid "Only ad author can reply rating"
+msgstr "يمكن للمؤلف الإعلاني فقط الرد علي التصنيف"
+
+#: classes/ad_rating.php:152
+msgid "Your reply has been updated"
+msgstr "تم تحديث ردك."
+
+#: classes/ad_rating.php:179
+msgid "Your reply has been posted"
+msgstr "تم نشر الرد الخاص بك."
+
+#: classes/ad_rating.php:184
+msgid "Something went please try again."
+msgstr "ذهب شيء من فضلك حاول مره أخرى."
+
+#: classes/ad_rating.php:244 classes/posts.php:195 classes/posts.php:199
+#: classes/posts.php:255 classes/posts.php:303 classes/posts.php:452
+#: classes/profile.php:1972 classes/profile.php:1985
+msgid "Reply"
+msgstr "الرد"
+
+#: classes/ad_rating.php:299
+msgid "Ad Rating and Reviews"
+msgstr "تقييم الإعلانات والتعليقات"
+
+#: classes/ad_rating.php:313
+msgid "Ad Rating Here"
+msgstr "تصنيف الإعلانات هنا"
+
+#: classes/ad_rating.php:314
+msgid "Rating Comments"
+msgstr "تقييم التعليقات"
+
+#: classes/ad_rating.php:316 classes/profile.php:2012
+msgid "You can not edit it later."
+msgstr "لا يمكنك تعديله في وقت لاحق."
+
+#: classes/ad_rating.php:319
+msgid "You can't rate this ad"
+msgstr "لا يمكنك تصنيف هذا الإعلان"
+
+#: classes/ad_rating.php:320
+msgid "Be the first one to rate this ad"
+msgstr "كن أول من يقيم هذا الإعلان"
+
+#: classes/ad_rating.php:321
+msgid "No rating found."
+msgstr "لم يتم العثور علي تصنيف."
+
+#: classes/ad_rating.php:322 classes/profile.php:2013
+msgid "Submit Your Rating"
+msgstr "تقديم تقييمك"
+
+#: classes/ad_rating.php:323 classes/comparison.php:110
+#: classes/comparison.php:111 classes/posts.php:106 classes/posts.php:107
+#: classes/posts.php:189 classes/reviews.php:94 classes/reviews.php:95
+#: classes/reviews.php:184
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: classes/ad_rating.php:327
+msgid "Your reply text here"
+msgstr "نص الرد هنا"
+
+#: classes/ads.php:71
+msgid "'Invalid post id'"
+msgstr "' معرف آخر غير صالح '"
+
+#: classes/ads.php:106 classes/ads.php:987 classes/profile.php:515
+#: functions.php:211
+msgid "Featured"
+msgstr "مميز"
+
+#: classes/ads.php:125 classes/ads.php:425
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#: classes/ads.php:144
+msgid "Fuel Economy"
+msgstr "الاقتصاد في استهلاك الوقود"
+
+#: classes/ads.php:144
+msgid "City MPG"
+msgstr "مدينه ميلا في الغالون"
+
+#: classes/ads.php:144
+msgid "Highway MPG"
+msgstr "معدل الاستهلاك خارج المدينة"
+
+#: classes/ads.php:229
+msgid "Record Found"
+msgstr "تم العثور على سجل"
+
+#: classes/ads.php:234
+msgid "No Record Found"
+msgstr "لا يوجد سجلات "
+
+#: classes/ads.php:242
+#, php-format
+msgid "See %d photos."
+msgstr "راجع صور %s."
+
+#: classes/ads.php:244
+msgid "Share"
+msgstr "شارك"
+
+#: classes/ads.php:245
+msgid "Add To Favourites"
+msgstr "أضافه للمفضلة"
+
+#: classes/ads.php:246
+msgid "Report"
+msgstr "تقرير"
+
+#: classes/ads.php:248
+msgid "View Messages"
+msgstr "الرسائل"
+
+#: classes/ads.php:248
+msgid "Send Message"
+msgstr "إرسال رسالة"
+
+#: classes/ads.php:251 classes/ads.php:366 classes/ads.php:367
+msgid "Call Now"
+msgstr "إتصل الآن"
+
+#: classes/ads.php:252
+msgid "Pdf Brochure"
+msgstr "كتيب PDF"
+
+#: classes/ads.php:268
+msgid "Click To View Phone Number"
+msgstr "انقر لعرض رقم الهاتف"
+
+#: classes/ads.php:271 classes/ads.php:285 classes/ads.php:299
+#: classes/profile.php:678 classes/profile.php:757 classes/settings.php:417
+msgid "Message"
+msgstr "إظهار عدد الرسائل"
+
+#: classes/ads.php:276 classes/ads.php:286
+msgid "Make Offer"
+msgstr "إعرض سعرك"
+
+#: classes/ads.php:277
+msgid "Make an offer for"
+msgstr "تقديم عرض"
+
+#: classes/ads.php:281 classes/ads.php:296 classes/profile.php:410
+#: classes/profile.php:676 classes/settings.php:415 inc/options-init.php:1595
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: classes/ads.php:282 classes/ads.php:297 classes/profile.php:677
+msgid "Phone"
+msgstr "الهاتف"
+
+#: classes/ads.php:292
+msgid "Schedule Drive"
+msgstr "جدوله محرك الاقراص"
+
+#: classes/ads.php:293
+msgid "Schedule test drive"
+msgstr "جدولة اختبار القيادة"
+
+#: classes/ads.php:298
+msgid "Set Date"
+msgstr "التاريخ:"
+
+#: classes/ads.php:300 classes/profile.php:679
+msgid "Request Schedule"
+msgstr "جدول الطلبات"
+
+#: classes/ads.php:306
+msgid "Financing Calculator"
+msgstr "حاسبه التمويل"
+
+#: classes/ads.php:307
+msgid "Vehicle price ($ )"
+msgstr "سعر السيارة ($)"
+
+#: classes/ads.php:308
+msgid "Rate (%)"
+msgstr "السعر (%)"
+
+#: classes/ads.php:309
+msgid "Period (month)"
+msgstr "الفترة (الشهر)"
+
+#: classes/ads.php:310
+msgid "Down Payment ($ )"
+msgstr "الدفعة الاولي (بالدولار)"
+
+#: classes/ads.php:312
+msgid "Calculate"
+msgstr "أحسب"
+
+#: classes/ads.php:313
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: classes/ads.php:314
+msgid "Monthly Installment:"
+msgstr "القسط monthly:"
+
+#: classes/ads.php:315
+msgid "Total Interest:"
+msgstr "الفائدة الاجماليه:"
+
+#: classes/ads.php:316
+msgid "Total Amount to Pay:"
+msgstr "المبلغ الإجمالي للدفع:"
+
+#: classes/ads.php:319
+msgid "Bid Now"
+msgstr "المزايدة الآن"
+
+#: classes/ads.php:319
+msgid "View Bids"
+msgstr "عرض المزايدات"
+
+#: classes/ads.php:321 classes/ads.php:323
+msgid "Bid Statistics"
+msgstr "إحصائيات عروض الأسعار"
+
+#: classes/ads.php:324 classes/profile.php:682
+msgid "Get Direction"
+msgstr "الحصول على الإتجاه"
+
+#: classes/ads.php:329 inc/options-init.php:2247
+msgid "Block User"
+msgstr ""
+"كتلة المستخدم باستخدام البريد الإلكتروني مع عدد كبير جداً من الأحرف الكبيرة"
+
+#: classes/ads.php:330
+msgid "Block User?"
+msgstr "حظر هذا المستخدم"
+
+#: classes/ads.php:331
+msgid ""
+"Are you sure you want to block user. You will not see this user ads anywhere."
+msgstr ""
+"هل تريد بالتاكيد حظر المستخدم. لن تشاهد إعلانات المستخدمين هذه في اي مكان."
+
+#: classes/ads.php:333
+msgid "Confrim"
+msgstr "توكيد ذلك"
+
+#: classes/ads.php:349
+msgid "Biddings"
+msgstr "عطاءات"
+
+#: classes/ads.php:350
+msgid "Be the first bidder"
+msgstr "كن المزايد الأول"
+
+#: classes/ads.php:352 classes/bid.php:203
+msgid "Bid Amount"
+msgstr "فروقات المزايده"
+
+#: classes/ads.php:353
+msgid "Bid description here"
+msgstr "وصف المزايدة هنا"
+
+#: classes/ads.php:354 classes/ads.php:361 classes/ads.php:364
+#: classes/profile.php:556
+msgid "Send"
+msgstr "إرسال"
+
+#: classes/ads.php:357
+msgid "Why are you reporting this ad?"
+msgstr "هل أنت متاكد من انك تريد ان تلعثم هذا الإعلان."
+
+#: classes/ads.php:360 classes/ads.php:363
+msgid "You message here."
+msgstr "أنت الرسالة هنا."
+
+#: classes/ads.php:373 classes/phone-verification.php:115
+#: classes/phone-verification.php:118 classes/profile.php:544
+msgid "Not verified"
+msgstr "غير موثق"
+
+#: classes/ads.php:380 classes/phone-verification.php:115
+#: classes/phone-verification.php:118 classes/profile.php:544
+msgid "verified"
+msgstr "مَضْبُوط ; مُبَرْهَن ; مُثْبَت ; مُحَقّق ; مُدَقّق ; مُدَلّل عَلَيْه ; مُصَدَّق"
+
+#: classes/ads.php:387 classes/settings.php:136 inc/options-init.php:250
+msgid "Share this"
+msgstr "شارك هذا"
+
+#: classes/ads.php:388 classes/profile.php:1363
+msgid "Waiting for admin approval."
+msgstr "ממתין לאישור המנהלים"
+
+#: classes/ads.php:404
+msgid "Related Posts"
+msgstr "مقالات ذات صلة"
+
+#: classes/ads.php:419
+msgid "Video"
+msgstr "فيديو"
+
+#: classes/ads.php:420
+msgid "Location On Map"
+msgstr "خريطة الموقع"
+
+#: classes/ads.php:421
+msgid "Bid Stats"
+msgstr "إحصائيات عروض الأسعار"
+
+#: classes/ads.php:424
+msgid "Bids"
+msgstr "عرض المزايدات"
+
+#: classes/ads.php:447
+msgid "This ad is expired."
+msgstr "انتهت مدة صلاحية الإعلان المميز"
+
+#: classes/ads.php:480 classes/ads.php:567 classes/profile.php:953
+#: classes/profile.php:1101
+msgid "Invalid Form Submission"
+msgstr "تقديم نموذج غير صالح"
+
+#: classes/ads.php:491 classes/ads.php:532 classes/profile.php:964
+#: classes/profile.php:1010 classes/settings.php:441
+msgid "All fields are required"
+msgstr "جميع الحقول مطلوبة"
+
+#: classes/ads.php:493 classes/ads.php:534 classes/login.php:49
+#: classes/profile.php:805 classes/profile.php:966 classes/profile.php:1012
+#: classes/profile.php:2295 classes/settings.php:443
+msgid "Something went wrong."
+msgstr "حدث خطأ ما!"
+
+#: classes/ads.php:496 classes/ads.php:537
+msgid "Email sent successfully."
+msgstr "شكرا، تم إرسال البريد الإلكتروني بنجاح"
+
+#: classes/ads.php:497
+msgid "Someone make an offer for your ad"
+msgstr "شخص ما يقدم عرضا لإعلانك"
+
+#: classes/ads.php:498 classes/ads.php:540
+msgid "You have been contacted for test drive of your car"
+msgstr "تم الاتصال بك لاختبار قياده سيارتك"
+
+#: classes/ads.php:516 classes/ads.php:559
+msgid "Email sent to author successfully."
+msgstr "تم إرسال البريد الكتروني إلى الكاتب بنجاح."
+
+#: classes/ads.php:539
+msgid "Car test drive query"
+msgstr "سيارة اختبار محرك البحث"
+
+#: classes/ads.php:597
+msgid "You have added already."
+msgstr "لقد قمت بإضافته مسبقاً."
+
+#: classes/ads.php:600
+msgid "Added to your favourites."
+msgstr "تمت الإضافه الى المفضلة."
+
+#: classes/ads.php:635
+msgid "You can't report your own ad"
+msgstr "لا يمكنك الإبلاغ عن إعلانك"
+
+#: classes/ads.php:638
+msgid "You have reported already."
+msgstr "لقد قمت بإضافته مسبقاً."
+
+#: classes/ads.php:647
+msgid "Reported successfully."
+msgstr "تم الإبلاغ عنها بنجاح."
+
+#: classes/ads.php:651
+msgid "The ad you have reported has been removed."
+msgstr "تمت أزاله الإعلان الذي قمت بالإبلاغ عنه."
+
+#: classes/ads.php:655
+msgid "Successfully reported."
+msgstr "تم الإبلاغ عنه بنجاح."
+
+#: classes/ads.php:785
+msgid "Ad Years"
+msgstr "السنوات الاعلانيه"
+
+#: classes/ads.php:790
+msgid "Ad Body Types"
+msgstr "أنواع النص الإعلاني"
+
+#: classes/ads.php:795
+msgid "Transmissions"
+msgstr "أجهزة نقل الحركة"
+
+#: classes/ads.php:800
+msgid "Engine Capacities"
+msgstr "سعة المحرك"
+
+#: classes/ads.php:810
+msgid "Assembles"
+msgstr "تجميع"
+
+#: classes/ads.php:815
+msgid "Colors"
+msgstr "الألوان"
+
+#: classes/ads.php:829 classes/ads.php:835 classes/ads.php:1026
+msgid "Min Price"
+msgstr "اقل سعر"
+
+#: classes/ads.php:829 classes/ads.php:835 classes/ads.php:1026
+msgid "Max Price"
+msgstr "أقصى سعر"
+
+#: classes/ads.php:836
+msgid "Currency"
+msgstr "العملة"
+
+#: classes/ads.php:986
+msgid "Simple"
+msgstr "بسيط"
+
+#: classes/ads.php:988
+msgid "Search"
+msgstr "بحث"
+
+#: classes/ads.php:988
+msgid "Type keyword"
+msgstr "اكتب الكلمة الرئيسية"
+
+#: classes/ads.php:1011
+msgid "Engine Size"
+msgstr "حجم المحرك"
+
+#: classes/ads.php:1027 classes/ads.php:1067
+msgid "From"
+msgstr "من"
+
+#: classes/ads.php:1027 classes/ads.php:1068
+msgid "To"
+msgstr "إلى"
+
+#: classes/ads.php:1030
+msgid "Mileage (Km)"
+msgstr "المسافة المقطوعة (كم)"
+
+#: classes/ads.php:1040
+msgid "Select Distance (KM)"
+msgstr "اختار فئة"
+
+#: classes/ads.php:1042 classes/ads.php:1830
+msgid "DESC"
+msgstr "تنازلي"
+
+#: classes/ads.php:1043 classes/ads.php:1831
+msgid "ASC"
+msgstr "تصاعدي"
+
+#: classes/ads.php:1044 classes/ads.php:1832
+msgid "Price: High to Low"
+msgstr "السعر : الأغلى إلى الأرخص"
+
+#: classes/ads.php:1045 classes/ads.php:1833
+msgid "Price: Low to High"
+msgstr "السعر : الأرخص إلي الأغلى"
+
+#: classes/ads.php:1049
+msgid "500"
+msgstr "500"
+
+#: classes/ads.php:1054
+msgid "100000"
+msgstr "100000"
+
+#: classes/ads.php:1062 classes/settings.php:63
+msgid "Search Here"
+msgstr "ابحث هنا"
+
+#: classes/ads.php:1063
+msgid "Search Now"
+msgstr "ابحث الان"
+
+#: classes/ads.php:1069
+msgid "select option"
+msgstr "المحمل"
+
+#: classes/ads.php:1070
+msgid "select location"
+msgstr "اختر الموقع الجغرافى"
+
+#: classes/ads.php:1802 functions.php:149
+msgid "Save Ad"
+msgstr "حفظ الاعلان"
+
+#: classes/ads.php:1812 classes/profile.php:483 classes/profile.php:572
+#: classes/profile.php:1457 classes/profile.php:1465 classes/profile.php:1728
+#: classes/profile.php:1734 classes/woo-commerce.php:64
+#: inc/options-init.php:1139 inc/options-init.php:1268
+#: inc/options-init.php:1277 inc/options-init.php:2021
+msgid "Featured Ads"
+msgstr "إعلانات مميزة"
+
+#: classes/ads.php:1823
+msgid "No of Ads Found"
+msgstr "غير موجود"
+
+#: classes/ads.php:1863 functions.php:750
+msgid "Category"
+msgstr "التصنيف"
+
+#: classes/ads.php:1871
+msgid "No Ads Found"
+msgstr "لا توجد إعلانات."
+
+#: classes/ads.php:1940 classes/ads.php:1996
+msgid "Your package has been expired"
+msgstr "إنتهت صلاحيته الباقة الخاصة بك."
+
+#: classes/ads.php:1941
+msgid ""
+"Your package has been expired, please subscribe the package to make it "
+"feature AD. "
+msgstr ""
+"انتهت صلاحية الفورفي الخاص بك ، يرجى الاشتراك في فورفي جديد لجعل إعلاناتك "
+"مميزة."
+
+#: classes/ads.php:1944 classes/ads.php:1964 classes/ads.php:2000
+#: classes/ads.php:2020
+msgid "Buy"
+msgstr "شراء"
+
+#: classes/ads.php:1946 classes/ads.php:1953
+msgid "Click Here To make this ad featured."
+msgstr "انقر هنا لجعل هذا الإعلان مميزا."
+
+#: classes/ads.php:1950 classes/ads.php:1957
+msgid "Make Featured"
+msgstr "إجعلها مميزة"
+
+#: classes/ads.php:1960
+msgid "To make ad featured buy package."
+msgstr "لجعل حزمه شراء الاعلانيه المميزة."
+
+#: classes/ads.php:1961
+msgid "Please purchase package to make it this  ad featured. "
+msgstr "يرجى شراء حزمه لجعله هذا الإعلان المميز."
+
+#: classes/ads.php:1997
+msgid ""
+"Your package has been expired, please subscribe package to bump up this ad. "
+msgstr ""
+"انتهت صلاحية الفورفي الخاص بك ، يرجى الاشتراك في فورفي جديد لجعل إعلاناتك "
+"مميزة."
+
+#: classes/ads.php:2002 classes/ads.php:2009
+msgid "Click Here To bump up."
+msgstr "اضغط هنا"
+
+#: classes/ads.php:2006 classes/ads.php:2013
+msgid "Bump up"
+msgstr "نتوء الإعلانات"
+
+#: classes/ads.php:2016
+msgid "To bump up ad please purchase package."
+msgstr "لعرض الإعلان يرجى شراء الحزمة."
+
+#: classes/ads.php:2017
+msgid "Please purchase package to bump up this ad. "
+msgstr "يرجى شراء حزمه لعثرة هذا الإعلان."
+
+#: classes/ads.php:2058 functions.php:2189
+msgid "Your package has been expired."
+msgstr "إنتهت صلاحيته الباقة الخاصة بك."
+
+#: classes/ads.php:2069
+msgid "This ad has been featured successfully."
+msgstr "وقد ظهر هذا الإعلان بنجاح."
+
+#: classes/ads.php:2072
+msgid "Get package in order to make it feature."
+msgstr "اشترك في الفورفي لجعله مميز"
+
+#: classes/ads.php:2075
+msgid "Ad already featured."
+msgstr "انقر هنا لجعل هذا الإعلان مميزا."
+
+#: classes/ads.php:2078
+msgid "You must be Ad owner to make it feature."
+msgstr "يجب ان تكون مالك الإعلان لجعله ميزه."
+
+#: classes/bid.php:120
+msgid "Posted An Offer"
+msgstr "نشرت عرضا"
+
+#: classes/bid.php:197
+msgid "No top bidder yet. Be the first one."
+msgstr "لا يوجد مزايد اعلي بعد كن أول واحد."
+
+#: classes/bid.php:204 classes/comparison.php:109 classes/posts.php:105
+#: classes/posts.php:188 classes/profile.php:2010 classes/reviews.php:93
+#: classes/reviews.php:183
+msgid "Comments"
+msgstr "التعليقات"
+
+#: classes/bid.php:216
+msgid "You can not bid on your item."
+msgstr "لا يمكنك محاولة علي البند الخاص بك."
+
+#: classes/bid.php:223
+msgid "Be the first one to bid on this ad."
+msgstr "كن أول من عرض علي هذا الإعلان."
+
+#: classes/bid.php:261
+msgid "Total"
+msgstr "المجموع"
+
+#: classes/bid.php:261
+msgid "Highest"
+msgstr "أعلى"
+
+#: classes/bid.php:261
+msgid "Lowest"
+msgstr "أدنى"
+
+#: classes/bid.php:295
+msgid "All Fields Are Required"
+msgstr "جميع الحقول مطلوبة."
+
+#: classes/bid.php:303
+msgid "Ad author can't post bid"
+msgstr "لا يمكن للمؤلف الإعلاني نشر التصنيف"
+
+#: classes/bid.php:323
+msgid "Updated successfully."
+msgstr "تم تحديث الإعلان بنجاح."
+
+#: classes/bid.php:329
+msgid "Posted successfully."
+msgstr "تم النشر بنجاح."
+
+#: classes/comparison.php:68 classes/comparison.php:83
+#: classes/comparison.php:299 classes/comparison.php:313 classes/home.php:446
+#: classes/posts.php:87 classes/reviews.php:76
+msgid "Read More"
+msgstr "المزيد"
+
+#: classes/comparison.php:97 classes/posts.php:94 classes/reviews.php:82
+msgid "no posts found"
+msgstr "لم يتم العثور علي وظائف"
+
+#: classes/comparison.php:107 inc/options-init.php:1143
+#: inc/options-init.php:1428 inc/options-init.php:1444
+#: inc/options-init.php:1453
+msgid "Comparison"
+msgstr "مقایسه"
+
+#: classes/comparison.php:108
+msgid "V/s"
+msgstr "TGMPA v%s"
+
+#: classes/comparison.php:112 classes/posts.php:197
+msgid "Comment reply"
+msgstr "رد التعليق"
+
+#: classes/comparison.php:113
+msgid "post your reply"
+msgstr "أضف ردك"
+
+#: classes/comparison.php:206
+msgid "Comparison Details"
+msgstr "تفاصيل المقارنة"
+
+#: classes/comparison.php:207
+msgid "Select Car's"
+msgstr "اختر السيارة"
+
+#: classes/comparison.php:208 classes/comparison.php:209
+msgid "you want to compare"
+msgstr "تريد مقارنتها"
+
+#: classes/comparison.php:211
+msgid "Compare"
+msgstr "مقارنة"
+
+#: classes/home.php:32 inc/options-init.php:1069 inc/options-init.php:1078
+msgid "Home Screen"
+msgstr "الرئيسية"
+
+#: classes/home.php:50 inc/options-init.php:864
+msgid "Automotive Car Dealer"
+msgstr "تاجر سيارات السيارات"
+
+#: classes/home.php:51 inc/options-init.php:870
+msgid "More than 17,000 business listed"
+msgstr "أكثر من 17,000 الاعمال المدرجة"
+
+#: classes/home.php:52 inc/options-init.php:876
+msgid "17,288"
+msgstr "17,288"
+
+#: classes/home.php:53 inc/options-init.php:882
+msgid "Used cars for sale in you Town search now"
+msgstr "السيارات المستعملة للبيع في البحث بلدة لك الآن"
+
+#: classes/home.php:129 classes/home.php:359 classes/profile.php:510
+msgid "Ads"
+msgstr "إعلانات"
+
+#: classes/home.php:218 inc/options-init.php:1294 inc/options-init.php:1359
+#: inc/options-init.php:1461
+msgid "View All"
+msgstr "عرض الكل"
+
+#: classes/home.php:221
+msgid "View All Categories"
+msgstr "عرض كل الفئات"
+
+#: classes/home.php:379 inc/options-init.php:1142 inc/options-init.php:1494
+#: inc/options-init.php:1519
+msgid "Blog/News"
+msgstr "مقال/أخبار"
+
+#: classes/login.php:47 classes/login.php:73
+msgid "Login Successful"
+msgstr "تمت عملية تسجيل الدخول بنجاح"
+
+#: classes/login.php:54
+msgid "Invalid Login Details"
+msgstr "تفاصيل تسجيل الدخول غير صالحه"
+
+#: classes/login.php:70
+msgid "Please verify your email address to login."
+msgstr "يرجى التحقق من عنوان البريد الكتروني الخاص بك لتسجيل الدخول."
+
+#: classes/login.php:123
+msgid "Welcome Back"
+msgstr "تسجيل الدخول"
+
+#: classes/login.php:124
+msgid "Your Email Address"
+msgstr "عنوان بريدك الإلكتروني"
+
+#: classes/login.php:125
+msgid "Your Password"
+msgstr "كلمة المرور"
+
+#: classes/login.php:126
+msgid "Forgot Password"
+msgstr "نسيت كلمة المرور"
+
+#: classes/login.php:128 classes/register.php:199
+msgid "OR"
+msgstr "أو"
+
+#: classes/login.php:129 classes/register.php:200
+msgid "Continue with Facebook"
+msgstr "تابع مع فيسبوك"
+
+#: classes/login.php:130 classes/register.php:201
+msgid "Continue with Google"
+msgstr "تابع مع جوجل"
+
+#: classes/login.php:131
+msgid "Not a Member Yet? Register with us."
+msgstr "ليس عضوا بعد ؟ سجل معنا."
+
+#: classes/login.php:132
+msgid "Remember me"
+msgstr "تذكرني"
+
+#: classes/login.php:134
+msgid "Forgot Your Password?"
+msgstr "نسيت كلمة السر .؟"
+
+#: classes/login.php:135
+msgid "Reset My Account"
+msgstr "ملفي الشخصي"
+
+#: classes/login.php:137
+msgid "Guest Login"
+msgstr "تسجيل دخول الضيوف"
+
+#: classes/login.php:138 classes/settings.php:149
+msgid "Guest"
+msgstr "زائر"
+
+#: classes/login.php:187 inc/email-templates.php:255
+msgid "Email is not resgistered with us."
+msgstr "البريد الإلكتروني غير مسجل معنا برجاء التسجيل."
+
+#: classes/login.php:225
+msgid "Account Confirmation"
+msgstr "تأكيد الحساب"
+
+#: classes/login.php:226
+msgid "Please enter your confirmation code below."
+msgstr "الرجاء إدخال رمز التاكيد الخاص بك أدناه."
+
+#: classes/login.php:227
+msgid "Confirmation Code Here"
+msgstr "رمز التاكيد هنا"
+
+#: classes/login.php:228
+msgid "Confirm Account"
+msgstr "تأكيد"
+
+#: classes/login.php:229 classes/register.php:239
+msgid "Back"
+msgstr "رجوع"
+
+#: classes/login.php:245 classes/profile.php:1559 classes/profile.php:1594
+#: classes/profile.php:1635
+msgid "Invalid Access"
+msgstr "وصول غير صالح"
+
+#: classes/login.php:250
+msgid "Please enter the confirmation code."
+msgstr "الرجاء إدخال رسالتك."
+
+#: classes/login.php:258
+msgid "You eneter invalid confirmation code."
+msgstr "قمت بقياس رمز التاكيد غير صالح."
+
+#: classes/login.php:267
+msgid "You account confirmed successfully."
+msgstr "تم تاكيد الحساب بنجاح."
+
+#: classes/login.php:270
+msgid "Invalid Access or token code."
+msgstr "الوصول غير صالح أو رمز الرمز المميز."
+
+#: classes/logout.php:33
+msgid "You are logout successfully."
+msgstr "يتم الخروج بنجاح."
+
+#: classes/payment.php:30
+msgid "Package Id not found"
+msgstr "لم يتم العثور علي معرف الحزمة"
+
+#: classes/payment.php:41 classes/payment.php:44 classes/payment.php:47
+#: classes/payment.php:222
+msgid "Order placed successfully."
+msgstr "وضع النظام بنجاح."
+
+#: classes/payment.php:52 classes/payment.php:178
+msgid "Invalid Payment Token"
+msgstr "رمز دفع غير صالح"
+
+#: classes/payment.php:73
+msgid "Payment verified successfully."
+msgstr "تم التحقق من الدفع بنجاح."
+
+#: classes/payment.php:84
+msgid "Something went wrong. Please check back later."
+msgstr "حدث خطا ما يرجى التحقق مره أخرى في وقت لاحق."
+
+#: classes/payment.php:106
+msgid "Please check api settings"
+msgstr "الرجاء التحقق من إعدادات api"
+
+#: classes/payment.php:113
+msgid "Payment has not been verified. Status is "
+msgstr "لم يتم التحقق من الدفع. الحالة"
+
+#: classes/payment.php:131
+msgid "Payment amount doesn't matched."
+msgstr "مبلغ الدفع غير مطابق."
+
+#: classes/payment.php:138
+msgid "Payment currency doesn't matched."
+msgstr "عمله الدفع لا تتطابق."
+
+#: classes/payment.php:145
+msgid "Sale not completed"
+msgstr "لم يكتمل البيع"
+
+#: classes/payment.php:152
+msgid "Payment Made successfully."
+msgstr "تم الدفع بنجاح."
+
+#: classes/payment.php:158
+msgid "Payment not found!"
+msgstr "لم يتم العثور علي الدفع!"
+
+#: classes/payment.php:161 classes/payment.php:165
+msgid "Unknown error occurred!"
+msgstr "حدث خطا غير معروف!"
+
+#: classes/payment.php:174
+msgid "Stripe secret key not setup"
+msgstr "شريط المفتاح السري لا الاعداد"
+
+#: classes/payment.php:203
+msgid "You order has been placed."
+msgstr "كنت قد وضعت النظام."
+
+#: classes/payment.php:206
+msgid "Payment not confirmed"
+msgstr "طريقة الدفع:"
+
+#: classes/payment.php:219
+msgid "Something Went Wrong in payu."
+msgstr "حدث خطا ما في payu."
+
+#: classes/payment.php:224
+msgid "Something Went Wrong."
+msgstr "حدث خطأ ما!"
+
+#: classes/payment.php:249
+msgid "Checkout Process"
+msgstr "عملية الدفع"
+
+#: classes/payment.php:250
+msgid "PayStack Checkout Process"
+msgstr "عمليه الخروج paystack"
+
+#: classes/payment.php:254
+msgid "Card Number"
+msgstr "رقم البطاقة"
+
+#: classes/payment.php:255
+msgid "Expiry Date"
+msgstr "تاريخ الانتهاء"
+
+#: classes/payment.php:256
+msgid "Month"
+msgstr "شهر"
+
+#: classes/payment.php:259
+msgid "CVC Number"
+msgstr "رقم cvc"
+
+#: classes/payment.php:260
+msgid "Checkout"
+msgstr "الدفع"
+
+#: classes/payment.php:263
+msgid "The card number that you entered is invalid"
+msgstr "رقم البطاقة التي قمت بإدخالها غير صالح"
+
+#: classes/payment.php:264
+msgid "The expiration date that you entered is invalid"
+msgstr "تاريخ انتهاء الصلاحية الذي قمت بإدخاله غير صالح"
+
+#: classes/payment.php:265
+msgid "The CVC code that you entered is invalid"
+msgstr "رمز cvc الذي قمت بإدخاله غير صالح"
+
+#: classes/payment.php:266
+msgid "The card details that you entered are invalid"
+msgstr "تفاصيل البطاقة التي قمت بإدخالها غير صالحه"
+
+#: classes/payment.php:406
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"للأسف، لا يمكن معالجة طلبك نظرا لأن المصرف / التاجر الأصلي قد رفض معاملتك. "
+"الرجاء محاولة الشراء مرة أخرى."
+
+#: classes/payment.php:409
+msgid "Pay"
+msgstr "دفع"
+
+#: classes/payment.php:415 classes/payment.php:467 classes/payment.php:478
+msgid "Thank you. Your order has been received."
+msgstr "شكرا. تم استلام طلبك."
+
+#: classes/payment.php:420
+msgid "Order number:"
+msgstr "رقم الطلب:"
+
+#: classes/payment.php:425
+msgid "Date:"
+msgstr "التاريخ:"
+
+#: classes/payment.php:431
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: classes/payment.php:437
+msgid "Total:"
+msgstr "المجموع:"
+
+#: classes/payment.php:443
+msgid "Payment method:"
+msgstr "طريقة الدفع:"
+
+#: classes/payment.php:473 inc/options-init.php:796
+msgid "Thank You For Your Order"
+msgstr "شكرا لطلبك"
+
+#: classes/payment.php:474
+msgid "Continue"
+msgstr "استمر"
+
+#: classes/phone-verification.php:29
+msgid ""
+"Please go to edit profile and update valid phone number "
+"+CountrycodePhonenumber."
+msgstr ""
+"يرجى الذهاب إلى تحرير الملف الشخصي وتحديث رقم الهاتف صالحه + القطرية "
+"الهاتفية."
+
+#: classes/phone-verification.php:41 classes/phone-verification.php:69
+msgid "You can't resend the verification code before"
+msgstr "لا يمكنك أعاده إرسال رمز التحقق قبل"
+
+#: classes/phone-verification.php:41 classes/phone-verification.php:69
+msgid "seconds."
+msgstr "ثواني."
+
+#: classes/phone-verification.php:56
+msgid "Verification code has been sent."
+msgstr "تم إرسال رمز التحقق."
+
+#: classes/phone-verification.php:59
+msgid "Server not responding."
+msgstr "الملقم لا يستجيب."
+
+#: classes/phone-verification.php:102
+msgid "Code not found."
+msgstr "لم يتم العثور علي التعليمات البرمجية."
+
+#: classes/phone-verification.php:108
+msgid "Phone number has been verified."
+msgstr "تم التحقق من رقم الهاتف"
+
+#: classes/phone-verification.php:111
+msgid "Invalid code that you entered."
+msgstr "الكود المدخل غير صالح"
+
+#: classes/phone-verification.php:136
+msgid "Your verification code is"
+msgstr "رمز التحقق الخاص بك هو:"
+
+#: classes/phone-verification.php:146 classes/phone-verification.php:149
+msgid "Something went wrong please check later"
+msgstr "حدث خطا ما ، يرجى التحقق لاحقا"
+
+#: classes/posts.php:104 classes/settings.php:357 inc/options-init.php:826
+msgid "Blog"
+msgstr "المدونة"
+
+#: classes/posts.php:108 classes/reviews.php:96 classes/reviews.php:190
+msgid "Post your comments here"
+msgstr "انشر تعليقاتك هنا"
+
+#: classes/posts.php:109 classes/reviews.php:97 classes/reviews.php:191
+msgid "Your comment here"
+msgstr "اكتب تعليقك هنا"
+
+#: classes/posts.php:110 classes/reviews.php:98 classes/reviews.php:192
+msgid "Post Comment"
+msgstr "أضف تعليقا"
+
+#: classes/posts.php:111 classes/reviews.php:99 classes/reviews.php:193
+msgid "Cancel Comment"
+msgstr "إلغاء التعليق"
+
+#: classes/posts.php:178 classes/reviews.php:173
+msgid "Comment are closed"
+msgstr "التعليق مغلق"
+
+#: classes/posts.php:180 classes/reviews.php:175
+msgid "No Comment Found"
+msgstr "أضف تعليقا"
+
+#: classes/posts.php:187 classes/reviews.php:182
+msgid "Blog Details"
+msgstr "تفاصيل المدونة"
+
+#: classes/posts.php:191
+msgid "Your Comment"
+msgstr "تعليقك"
+
+#: classes/posts.php:192
+msgid "Post your comment"
+msgstr "انشر تعليقك"
+
+#: classes/posts.php:198
+msgid "Post your reply"
+msgstr "أضف ردك"
+
+#: classes/posts.php:200
+msgid "Please login first to post comment."
+msgstr "يرجى تسجيل الدخول أولا لنشر التعليق."
+
+#: classes/posts.php:201
+msgid "Please write something."
+msgstr "الرجاء كتابة شيء."
+
+#: classes/posts.php:390
+msgid "Comment Posted Successfully."
+msgstr "تم نشر التعليق بنجاح."
+
+#: classes/posts.php:392
+msgid "Comment sent for approval."
+msgstr "تم إرسال التعليق للموافقة عليه."
+
+#: classes/posts.php:397
+msgid "Some Error Ocuured While Posting Ad"
+msgstr "بعض الخطا في حين نشر الإعلان"
+
+#: classes/posts.php:399
+msgid "You are posting too fast. Please slow down."
+msgstr "كنت نشر سريع جدا. أرجوك تمهلي"
+
+#: classes/profile.php:37 classes/profile.php:154
+msgid "Something went wrong while uploading image."
+msgstr "حدث خطا ما اثناء تحميل الصورة."
+
+#: classes/profile.php:48 classes/profile.php:99
+msgid "Profile image updated successfully"
+msgstr "تم تحديث صوره ملف التعريف بنجاح"
+
+#: classes/profile.php:51
+msgid "You must be login to update the profile image."
+msgstr "يجب ان تكون تسجيل الدخول لتحديث صوره الملف الشخصي."
+
+#: classes/profile.php:160
+msgid "Store image updated successfully"
+msgstr "تم تحديث صورة المتجر بنجاح"
+
+#: classes/profile.php:163
+msgid "You must be login to update the Store image."
+msgstr "يجب أن تكون تسجيل الدخول لتحديث صورة المتجر."
+
+#: classes/profile.php:217 classes/register.php:35
+msgid "Please enter name."
+msgstr "يرجى إدخال اسم"
+
+#: classes/profile.php:221
+msgid "Please enter phone number."
+msgstr "الرجاء إدخال رقم الهاتف."
+
+#: classes/profile.php:283 classes/profile.php:519 classes/profile.php:539
+#: classes/profile.php:571 classes/profile.php:1745
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: classes/profile.php:284
+msgid "Profile Updated."
+msgstr "تم تحديث ملف التعريف."
+
+#: classes/profile.php:317
+msgid "Editing Not Allowed In Demo"
+msgstr "تحرير لا alloded في العرض التوضيحي"
+
+#: classes/profile.php:327
+msgid "Please enter current password"
+msgstr "الرجاء إدخال كلمه المرور الحالية"
+
+#: classes/profile.php:331
+msgid "Please enter new password"
+msgstr "الرجاء إدخال كلمه المرور الجديدة"
+
+#: classes/profile.php:335
+msgid "Password confirm password mismatched"
+msgstr "كلمه السر تاكيد كلمه السر غير متطابقة"
+
+#: classes/profile.php:341
+msgid "Password successfully chnaged"
+msgstr "كلمه المرور بنجاح chnaged"
+
+#: classes/profile.php:344
+msgid "Invalid old password"
+msgstr "كلمه مرور قديمه غير صالحه"
+
+#: classes/profile.php:410
+msgid "Enter Email"
+msgstr "أدخل البريد الإلكتروني"
+
+#: classes/profile.php:411
+msgid "Enter Name"
+msgstr "أدخال الاسم"
+
+#: classes/profile.php:412
+msgid "Enter phone number"
+msgstr "أدخل رقم الهاتف"
+
+#: classes/profile.php:413
+msgid "Enter address"
+msgstr "ادخل العنوان"
+
+#: classes/profile.php:427
+msgid "Dealer's Detail"
+msgstr "تفاصيل الموزع"
+
+#: classes/profile.php:428
+msgid "Company Name"
+msgstr "اسم الشركة"
+
+#: classes/profile.php:429
+msgid "Website URL"
+msgstr "رابط الموقع"
+
+#: classes/profile.php:430
+msgid "License No.  (For Admin Only)"
+msgstr "رقم الترخيص  (للمشرف فقط)"
+
+#: classes/profile.php:430
+msgid "License No."
+msgstr "رقم الترخيص"
+
+#: classes/profile.php:431
+msgid "Opening Hours"
+msgstr "ساعات العمل"
+
+#: classes/profile.php:437
+msgid "Store Front Image"
+msgstr "صورة أمامية للتخزين"
+
+#: classes/profile.php:438
+msgid "About Yourself"
+msgstr "عن نفسك"
+
+#: classes/profile.php:439
+msgid "Facebook Link"
+msgstr "فيسبوك"
+
+#: classes/profile.php:440
+msgid "Twitter Link"
+msgstr "رابط تويتر"
+
+#: classes/profile.php:441
+msgid "LinkedIn Profile"
+msgstr "حساب لينكد إن"
+
+#: classes/profile.php:442
+msgid "Youtube Channel"
+msgstr "قناة يوتوب"
+
+#: classes/profile.php:460 functions.php:613 functions.php:1416
+#: functions.php:1438 inc/options-init.php:1739
+msgid "Free"
+msgstr "مجاني"
+
+#: classes/profile.php:460
+msgid "Paid"
+msgstr "مدفوع"
+
+#: classes/profile.php:461
+msgid "Package Type"
+msgstr "نوع الحزمة"
+
+#: classes/profile.php:462
+msgid "Account Type"
+msgstr "نوع الحساب"
+
+#: classes/profile.php:464 inc/categories-images.php:44
+#: inc/categories-images.php:58 inc/categories-images.php:136
+msgid "Image"
+msgstr "صوره"
+
+#: classes/profile.php:470 classes/settings.php:130
+msgid "Never"
+msgstr "أبدا"
+
+#: classes/profile.php:471
+msgid "Expiry date"
+msgstr "تاريخ الانتهاء"
+
+#: classes/profile.php:473
+msgid "Blocked Users"
+msgstr "المستخدمون المحظورون"
+
+#: classes/profile.php:473
+msgid "Click Here"
+msgstr "اضغط هنا."
+
+#: classes/profile.php:476 classes/profile.php:481 classes/profile.php:486
+#: classes/woo-commerce.php:42
+msgid "Unlimited"
+msgstr "غير محدود"
+
+#: classes/profile.php:477 classes/profile.php:1732 inc/options-init.php:1147
+msgid "Simple Ads"
+msgstr "إعلانات عادية"
+
+#: classes/profile.php:496
+msgid "Bump Ads"
+msgstr "نتوء الإعلانات"
+
+#: classes/profile.php:509 classes/profile.php:538 classes/profile.php:1710
+msgid "My Profile"
+msgstr "ملفي الشخصي"
+
+#: classes/profile.php:511
+msgid "My"
+msgstr "لي"
+
+#: classes/profile.php:512 classes/profile.php:1536 functions.php:215
+msgid "Active"
+msgstr "نشط"
+
+#: classes/profile.php:513
+msgid "Pendind"
+msgstr "بندند"
+
+#: classes/profile.php:514 classes/profile.php:1537 functions.php:217
+msgid "Expired"
+msgstr "منتهي"
+
+#: classes/profile.php:516 classes/profile.php:1538 functions.php:219
+msgid "Sold"
+msgstr "مباع"
+
+#: classes/profile.php:517
+msgid "Favourite"
+msgstr "الإعلانات المفضلة"
+
+#: classes/profile.php:520
+msgid "Update"
+msgstr "تحديث"
+
+#: classes/profile.php:522
+msgid "Are you sure ?"
+msgstr "هل أنت واثق ؟"
+
+#: classes/profile.php:523 classes/settings.php:57
+msgid "Ok"
+msgstr "موافق"
+
+#: classes/profile.php:524
+msgid "Select Image"
+msgstr "اختيار صورة"
+
+#: classes/profile.php:525
+msgid "Forgot your password"
+msgstr "نسيت كلمة المرور"
+
+#: classes/profile.php:526
+msgid "Change Password?"
+msgstr "تغيير كلمه المرور ؟"
+
+#: classes/profile.php:527
+msgid "Old Password"
+msgstr "كلمة السر القديمة"
+
+#: classes/profile.php:528
+msgid "New Password"
+msgstr "كلمة المرور الجديدة"
+
+#: classes/profile.php:529
+msgid "Confirm New Password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: classes/profile.php:530
+msgid "Password Not Matched"
+msgstr "كلمة المرور غير متطابقة."
+
+#: classes/profile.php:532
+msgid "Add Photo!"
+msgstr "أضف صورة بروفيل"
+
+#: classes/profile.php:533
+msgid "Take Photo"
+msgstr "اخذ صورة"
+
+#: classes/profile.php:534
+msgid "Choose From Gallery"
+msgstr "تحميل صورة"
+
+#: classes/profile.php:536
+msgid "camera Not Available"
+msgstr "الإصدار المتوفر:"
+
+#: classes/profile.php:548
+msgid "Verify Your Code"
+msgstr "تحقق من التعليمات البرمجية"
+
+#: classes/profile.php:551
+msgid "Resend"
+msgstr "ارسال"
+
+#: classes/profile.php:555
+msgid "Send SMS verification code."
+msgstr "إرسال رمز التحقق من الرسائل القصيرة."
+
+#: classes/profile.php:557
+msgid "Cancel."
+msgstr "اللغاء"
+
+#: classes/profile.php:564
+msgid "Delete Account?"
+msgstr "هل ستحذف الحساب ؟"
+
+#: classes/profile.php:565
+msgid "Are you sure you want to delete the account."
+msgstr "هل تريد بالتاكيد حذف هذا الحساب؟"
+
+#: classes/profile.php:570 classes/settings.php:345 classes/settings.php:346
+#: inc/options-init.php:816
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: classes/profile.php:573 classes/profile.php:1341
+msgid "My Ads"
+msgstr "اعلاناتي"
+
+#: classes/profile.php:574
+msgid "Pending Ads"
+msgstr "الإعلانات قيد المراجعة"
+
+#: classes/profile.php:575
+msgid "Favorite Ads"
+msgstr "الإعلانات المفضلة"
+
+#: classes/profile.php:576 classes/profile.php:1408 classes/profile.php:1416
+#: classes/profile.php:1725
+msgid "Expired Ads"
+msgstr "الإعلانات منتهية الصلاحية"
+
+#: classes/profile.php:577 classes/profile.php:1433 classes/profile.php:1440
+#: classes/profile.php:1722
+msgid "Sold Ads"
+msgstr "الإعلانات المباعة"
+
+#: classes/profile.php:612
+msgid "User does not exists"
+msgstr "المستخدم غير موجود"
+
+#: classes/profile.php:655 classes/profile.php:674 classes/profile.php:764
+#: inc/options-init.php:2285
+msgid "Contact"
+msgstr "اتصال"
+
+#: classes/profile.php:666 functions.php:2511
+msgid "Facebook"
+msgstr "فيسبوك "
+
+#: classes/profile.php:667 functions.php:2512
+msgid "Twitter"
+msgstr "تويتر"
+
+#: classes/profile.php:668 functions.php:2513
+msgid "Linkedin"
+msgstr "لينكدن"
+
+#: classes/profile.php:669
+msgid "Youtube"
+msgstr "يوتيوب"
+
+#: classes/profile.php:700 classes/profile.php:702
+msgid "Rating Average"
+msgstr "معدل التصنيف"
+
+#: classes/profile.php:705
+msgid "Ratings"
+msgstr "التقييمات"
+
+#: classes/profile.php:707
+msgid "Member Since"
+msgstr "عضو منذ"
+
+#: classes/profile.php:709
+msgid "Working Hours"
+msgstr "ساعات"
+
+#: classes/profile.php:718
+msgid "No inventory found."
+msgstr "لم يتم العثور على أي مخزون."
+
+#: classes/profile.php:737
+msgid "No Review Found"
+msgstr "لم يتم العثور علي تعليق"
+
+#: classes/profile.php:750
+msgid "Review Title"
+msgstr "مراجعة العنوان"
+
+#: classes/profile.php:753
+msgid "Yes"
+msgstr "نعم"
+
+#: classes/profile.php:754
+msgid "No"
+msgstr "لا"
+
+#: classes/profile.php:756
+msgid "Will you Recommend this vendor?"
+msgstr "هل تنصح بهذا البائع؟"
+
+#: classes/profile.php:758
+msgid "Submit Review"
+msgstr "أرسل تقييمك"
+
+#: classes/profile.php:762 inc/options-init.php:2273
+msgid "Inventory"
+msgstr "المخزون"
+
+#: classes/profile.php:763 classes/settings.php:361 inc/options-init.php:822
+#: inc/options-init.php:2279
+msgid "Review"
+msgstr "مراجعة"
+
+#: classes/profile.php:808
+msgid "Dealer Ratings"
+msgstr "تصنيفات الوكلاء"
+
+#: classes/profile.php:817
+msgid "No Rating Found"
+msgstr "لم يتم العثور علي تصنيف."
+
+#: classes/profile.php:877
+msgid "Recommended"
+msgstr "موصى به"
+
+#: classes/profile.php:877
+msgid "Not Recommended"
+msgstr "غير موصى به"
+
+#: classes/profile.php:878
+msgid "Has"
+msgstr "هاس(Has)"
+
+#: classes/profile.php:879
+msgid "this vendor on"
+msgstr "هذا المورد على"
+
+#: classes/profile.php:912
+msgid "Dealer Reply"
+msgstr "رد الوكيل"
+
+#: classes/profile.php:970
+msgid "You have been contacted via profile on "
+msgstr "لقد تم الاتصال بك عبر الملف الشخصي على"
+
+#: classes/profile.php:971 classes/settings.php:449
+msgid "Someone has contacted you over "
+msgstr "شخص ما اتصل بك"
+
+#: classes/profile.php:991
+msgid "Email sent to dealer successfully."
+msgstr "إرسال البريد الإلكتروني إلى الوكيل بنجاح."
+
+#: classes/profile.php:1027 classes/profile.php:2051
+msgid "You can't rate yourself."
+msgstr "لا يمكنك تقييم نفسك."
+
+#: classes/profile.php:1068
+msgid "New Rating"
+msgstr "تصنيف جديد البريد الكتروني"
+
+#: classes/profile.php:1070
+msgid "Got new Rating"
+msgstr "حصلت إعلان جديد"
+
+#: classes/profile.php:1090 classes/profile.php:2101
+msgid "You've rated this user."
+msgstr "لقد قمت بتقييم هذا المعلن مسبقا."
+
+#: classes/profile.php:1098
+msgid "You must be login to submit review"
+msgstr "يجب ان يكون تسجيل الدخول لتقديم مراجعه"
+
+#: classes/profile.php:1155 classes/profile.php:1347 classes/profile.php:1372
+#: classes/profile.php:1397 classes/profile.php:1422 classes/profile.php:1446
+#: classes/profile.php:1473 classes/profile.php:1520 classes/profile.php:1888
+#: classes/profile.php:2200
+msgid "No ad found"
+msgstr "لم يتم العثور علي إعلان."
+
+#: classes/profile.php:1366 classes/profile.php:1719
+msgid "Inactive Ads"
+msgstr "إعلانات غير نشطة"
+
+#: classes/profile.php:1388
+msgid "Active Ads"
+msgstr "العقارات المفعلة"
+
+#: classes/profile.php:1492
+msgid "Ad removed successfully."
+msgstr "تمت أزاله الإعلان بنجاح."
+
+#: classes/profile.php:1494
+msgid "There'is some problem, please try again later."
+msgstr "هناك بعض المشاكل، يرجى إعادة المحاولة لاحقاً."
+
+#: classes/profile.php:1504 classes/profile.php:1512
+msgid "Favourite Ads"
+msgstr "الإعلانات المفضلة"
+
+#: classes/profile.php:1539 classes/profile.php:1545
+msgid "Edit"
+msgstr "تعديل"
+
+#: classes/profile.php:1540 classes/profile.php:1546
+msgid "Delete"
+msgstr "حذف"
+
+#: classes/profile.php:1570
+msgid "Ad Status Updated"
+msgstr "تم تحديث حاله الإعلان"
+
+#: classes/profile.php:1572 classes/profile.php:1613
+msgid "Some error occured."
+msgstr "حدث خطا ما."
+
+#: classes/profile.php:1575 classes/profile.php:1616 classes/profile.php:1650
+msgid "Invalid Post Id"
+msgstr "' معرف آخر غير صالح '"
+
+#: classes/profile.php:1601
+msgid "You can't delete this ad."
+msgstr "لا يمكنك حذف هذا الإعلان."
+
+#: classes/profile.php:1611
+msgid "Ad Deleted Successfully"
+msgstr "تم حذف الإعلان بنجاح"
+
+#: classes/profile.php:1645
+msgid "Added To Favourites"
+msgstr "أضافه إلى المفضلة"
+
+#: classes/profile.php:1647
+msgid "Already Added To Favourites"
+msgstr "تمت اضافتها بالفعل إلى المفضلة"
+
+#: classes/profile.php:1682 classes/profile.php:1711
+msgid "View Profile"
+msgstr "عرض الصفحة الشخصية"
+
+#: classes/profile.php:1716
+msgid "All Ads"
+msgstr "كل الاعلانات"
+
+#: classes/profile.php:1731
+msgid "Expiry Ads"
+msgstr "إعلانات انتهاء الصلاحية"
+
+#: classes/profile.php:1738 classes/profile.php:1740
+msgid "Package Expire"
+msgstr "تاريخ الانتهاء "
+
+#: classes/profile.php:1738
+msgid "Never Expire"
+msgstr "لا تنتهى أبداً"
+
+#: classes/profile.php:1743
+msgid "View My Profile"
+msgstr "ملفي الشخصي"
+
+#: classes/profile.php:1746
+msgid "Manage your "
+msgstr "أداره"
+
+#: classes/profile.php:1747
+msgid "account settings"
+msgstr "إعدادت الحساب"
+
+#: classes/profile.php:1754
+msgid "Not Verified"
+msgstr "غير محقق"
+
+#: classes/profile.php:1758
+msgid "Verified"
+msgstr "التحقق"
+
+#: classes/profile.php:1786 classes/profile.php:2373 classes/register.php:192
+msgid "Individual"
+msgstr "فرد"
+
+#: classes/profile.php:1995 classes/profile.php:2000
+msgid "Be the first one to rate this user."
+msgstr "كن أول من يقيم هذا الإعلان"
+
+#: classes/profile.php:1995 classes/profile.php:2000
+msgid "Currently no rating available.."
+msgstr "حاليا لا يوجد تصنيف المتاحة.."
+
+#: classes/profile.php:2004
+msgid "User Rating"
+msgstr "تقييم الاعضاء"
+
+#: classes/profile.php:2007
+msgid "Rate Here"
+msgstr "قيّم هنا"
+
+#: classes/profile.php:2008
+msgid "Rating"
+msgstr "تقييم"
+
+#: classes/profile.php:2061
+msgid "You already replied to this user."
+msgstr "لقد قمت بالرد على هذا المعلن مؤخراً."
+
+#: classes/profile.php:2067
+msgid "You're reply has been posted."
+msgstr "لقد تم نشر ردك."
+
+#: classes/profile.php:2103
+msgid "You already rated this user."
+msgstr "لقد قمت بتقييم هذا المعلن مسبقا."
+
+#: classes/profile.php:2161
+msgid "Nearby option turned on"
+msgstr "تم تشغيل الخيار القريب"
+
+#: classes/profile.php:2161
+msgid "Nearby option turned of"
+msgstr "تم تشغيل الخيار القريب"
+
+#: classes/profile.php:2194
+msgid "Near By ads"
+msgstr "بالقرب من الإعلانات"
+
+#: classes/profile.php:2232
+msgid "Order #"
+msgstr "الطلب #"
+
+#: classes/profile.php:2233
+msgid "Package(s)"
+msgstr "الباقة"
+
+#: classes/profile.php:2234
+msgid "Status"
+msgstr "الحالة"
+
+#: classes/profile.php:2235 functions.php:752
+msgid "Date"
+msgstr "التاريخ"
+
+#: classes/profile.php:2236
+msgid "Order total"
+msgstr "قيمة إجمالي الطلبات"
+
+#: classes/profile.php:2260
+msgid "No Order Found"
+msgstr "لم يتم العثور علي طلب"
+
+#: classes/profile.php:2262
+msgid "Packages History"
+msgstr "الحزم التاريخ"
+
+#: classes/profile.php:2301
+msgid "Admin can not delete his account from here."
+msgstr "المشرف لا يمكن حذف حسابه من هنا."
+
+#: classes/profile.php:2308
+msgid "You account has been delete successfully."
+msgstr "تم حذف الحساب بنجاح."
+
+#: classes/profile.php:2367 classes/profile.php:2372
+msgid "Please select your user type"
+msgstr "الرجاء تحديد نوع المستخدم"
+
+#: classes/profile.php:2368
+msgid ""
+"NOTE: Please note that you cannot change it later so please make it sure if "
+"you are a dealer or individual"
+msgstr ""
+"ملاحظة: يرجى ملاحظة أنه لا يمكنك تغييره في وقت لاحق لذا يرجى التأكد مما إذا "
+"كنت تاجر أو فرد"
+
+#: classes/profile.php:2374 classes/register.php:193
+msgid "Dealer"
+msgstr "تاجر"
+
+#: classes/profile.php:2378
+msgid "Save"
+msgstr "حفظ الاعلان"
+
+#: classes/profile.php:2379
+msgid "Are you sure you want to save?"
+msgstr "هل تريد بالتاكيد الحفظ ؟"
+
+#: classes/register.php:22
+msgid "Please fill out all fields."
+msgstr "يرجى ملء جميع الحقول"
+
+#: classes/register.php:39
+msgid "Please enter email."
+msgstr "يرجى إدخال بريدك الإلكتروني"
+
+#: classes/register.php:43
+msgid "Please enter password."
+msgstr "فضلاً ادخل كلمة المرور."
+
+#: classes/register.php:47 classes/register.php:168
+msgid "Please select user type."
+msgstr "الرجاء اختيار نوع المستخدم ."
+
+#: classes/register.php:52
+msgid "Email Already Exists."
+msgstr "البريد الكتروني موجود بالفعل."
+
+#: classes/register.php:103
+msgid "Registered successfully."
+msgstr "تم التسجيل بنجاح."
+
+#: classes/register.php:110
+msgid "Registered successfully. Please verify your email address."
+msgstr "تم التسجيل بنجاح. الرجاء التحقق من عنوان بريدك الكتروني."
+
+#: classes/register.php:119
+msgid " Verification Email sent. Please verify your email address to login."
+msgstr ""
+"تم إرسال رسالة التحقق من البريد الكتروني. يرجى التحقق من عنوان البريد "
+"الكتروني الخاص بك لتسجيل الدخول."
+
+#: classes/register.php:163
+msgid "User Type Updated Successfully. Need to changed after verify"
+msgstr "تم تحديث نوع المستخدم بنجاح. تحتاج إلى تغيير بعد التحقق"
+
+#: classes/register.php:166
+msgid "User Type Updated Successfully"
+msgstr "تم تحديث نوع المستخدم بنجاح"
+
+#: classes/register.php:184 classes/settings.php:54
+msgid "Register With Us!"
+msgstr "سجل معنا!"
+
+#: classes/register.php:185
+msgid "Full Name"
+msgstr "الاسم بالكامل"
+
+#: classes/register.php:186 classes/register.php:237
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: classes/register.php:188
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: classes/register.php:191
+msgid "Select User Type"
+msgstr "تحديد نوع المستخدم"
+
+#: classes/register.php:195
+msgid "User Type"
+msgstr "نوع المستخدم"
+
+#: classes/register.php:198 inc/options-init.php:829
+msgid "Register"
+msgstr "تسجيل"
+
+#: classes/register.php:202
+msgid "Already Have Account? Login Here"
+msgstr "هل لديك حساب بالفعل ؟ الدخول هنا"
+
+#: classes/register.php:209
+msgid "Agree With Our Term and Conditions."
+msgstr "أوافق علي الشروط والاحكام."
+
+#: classes/register.php:235
+msgid "Forgot Password?"
+msgstr "نسيت كلمة السر؟"
+
+#: classes/register.php:236
+msgid "Please enter your email address below."
+msgstr "الرجاء إدخال عنوان بريدك الكتروني أدناه."
+
+#: classes/register.php:252
+msgid "Set your password"
+msgstr "تعيين كلمة المرور"
+
+#: classes/register.php:253
+msgid "Enter current password"
+msgstr "ادخل كلمه المرور الحالية"
+
+#: classes/register.php:254
+msgid "Enter New password"
+msgstr "ادخل كلمه السر الجديدة"
+
+#: classes/register.php:255
+msgid "Confirm new password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: classes/register.php:256
+msgid "Change password"
+msgstr "تغيير كلمة المرور"
+
+#: classes/reviews.php:92
+msgid "Reviews"
+msgstr "التقييمات"
+
+#: classes/reviews.php:185
+msgid "Gallery"
+msgstr "المعرض"
+
+#: classes/reviews.php:186
+msgid "Verdict"
+msgstr "الحكم"
+
+#: classes/reviews.php:187
+msgid "video review"
+msgstr "استعراض الفيديو"
+
+#: classes/reviews.php:188
+msgid "summary"
+msgstr "موجز"
+
+#: classes/settings.php:55
+msgid "Error"
+msgstr "خطأ"
+
+#: classes/settings.php:56
+msgid "Internet not found"
+msgstr "غير موجود"
+
+#: classes/settings.php:60
+msgid "Are you sure you want to do this?"
+msgstr "هل أنت متأكد أنك تريد القيام بهذا؟"
+
+#: classes/settings.php:61
+msgid "Alert!"
+msgstr "تنبيه!"
+
+#: classes/settings.php:66
+msgid "Please wait!"
+msgstr "يرجى الانتظار!"
+
+#: classes/settings.php:94
+msgid "Are you sure you want to do this."
+msgstr "هل أنت متأكد أنك تريد القيام بهذا؟"
+
+#: classes/settings.php:99
+msgid "Please login first."
+msgstr "الرجاء تسجيل الدخول أولاً."
+
+#: classes/settings.php:111
+msgid "Select distance in (KM)"
+msgstr "اختر المسافة في (كم)"
+
+#: classes/settings.php:113
+msgid "Clear"
+msgstr "مسح"
+
+#: classes/settings.php:118
+msgid "GPS Settings"
+msgstr "ضبط نظام تحديد المواقع"
+
+#: classes/settings.php:119
+msgid "GPS is not enabled. Do you want to go to settings menu?"
+msgstr "لم يتم تمكين GPS. هل تريد الانتقال إلى قائمه الإعدادات ؟"
+
+#: classes/settings.php:120
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: classes/settings.php:125 inc/options-init.php:227
+msgid "App Store Rating"
+msgstr "تقييم تطبيق ستور"
+
+#: classes/settings.php:129
+msgid "Maybe Later"
+msgstr "ربما في وقت لاحق"
+
+#: classes/settings.php:169 inc/options-init.php:2441
+msgid "Select Your Language"
+msgstr "اختر لغتك"
+
+#: classes/settings.php:233
+msgid "Select or Search Language"
+msgstr "تحديد لغة أو البحث عنها"
+
+#: classes/settings.php:234
+msgid "Close"
+msgstr "إغلاق"
+
+#: classes/settings.php:259
+msgid "Select Date"
+msgstr "أختار التاريخ"
+
+#: classes/settings.php:328 inc/options-init.php:815
+msgid "Home"
+msgstr "الرئيسية"
+
+#: classes/settings.php:347
+msgid "Advanced Search"
+msgstr "بحث متقدم"
+
+#: classes/settings.php:348
+msgid "Advanced Search Result"
+msgstr "نتيجة بحث متقدمة"
+
+#: classes/settings.php:349
+msgid "Support"
+msgstr "الدعم"
+
+#: classes/settings.php:350
+msgid "Inbox"
+msgstr "صندوق الوارد"
+
+#: classes/settings.php:351
+msgid "Offers"
+msgstr "العروض"
+
+#: classes/settings.php:352
+msgid "Chat"
+msgstr "دردشة"
+
+#: classes/settings.php:353
+msgid "Sell"
+msgstr "بيع"
+
+#: classes/settings.php:354
+msgid "Edit Ad"
+msgstr "تحرير الاعلان"
+
+#: classes/settings.php:355
+msgid "Ad Detail"
+msgstr "تفاصيل الاعلان"
+
+#: classes/settings.php:356 classes/woo-commerce.php:144
+#: inc/options-init.php:821
+msgid "Packages"
+msgstr "الباقات"
+
+#: classes/settings.php:358
+msgid "Blog Detail"
+msgstr "تفاصيل المدونة"
+
+#: classes/settings.php:359
+msgid "Camparison Search"
+msgstr "كامباريسون البحث"
+
+#: classes/settings.php:360
+msgid "Comparison Detail"
+msgstr "تفاصيل المقارنة"
+
+#: classes/settings.php:362
+msgid "Review Detail"
+msgstr "تفاصيل المراجعة"
+
+#: classes/settings.php:363 inc/options-init.php:276 inc/options-init.php:285
+#: inc/options-init.php:823
+msgid "About Us"
+msgstr "معلومات عنا"
+
+#: classes/settings.php:364 classes/settings.php:402 classes/settings.php:418
+#: inc/options-init.php:824
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: classes/settings.php:403
+msgid "Please use the contact form below to contact us."
+msgstr "يرجى استخدام نموذج الاتصال أدناه للاتصال بنا."
+
+#: classes/settings.php:416 inc/options-init.php:257
+msgid "Subject"
+msgstr "الموضوع"
+
+#: classes/settings.php:448
+msgid "You have been contacted via contact form "
+msgstr "تم الاتصال بك عن طريق نموذج التواصل"
+
+#: classes/settings.php:467
+msgid "Message sent successfully"
+msgstr "تم ارسال الرسالة بنجاح"
+
+#: classes/settings.php:474
+msgid "Something went wrong please try again."
+msgstr "حدث خطأ ما، يرجى المحاولة مرة أخرى."
+
+#: classes/users.php:148
+msgid "Unblock"
+msgstr "فك الحظر"
+
+#: classes/users.php:155
+msgid "Blocked Users List"
+msgstr "قائمه المستخدمين المحظورين"
+
+#: classes/users.php:158
+msgid "No user in block list"
+msgstr "لا يوجد مستخدم في قائمه الحظر"
+
+#: classes/users.php:189
+msgid "User blocked successfully. You can unblock this user from profile."
+msgstr "تم حظر المستخدم بنجاح. يمكنك إلغاء حظر هذا المستخدم من ملف التعريف."
+
+#: classes/users.php:192
+msgid "Something went wrong or user already in blok list."
+msgstr "حدث شيء خاطئ أو المستخدم بالفعل في قائمه بلوك."
+
+#: classes/users.php:196
+msgid "You can not block yourself."
+msgstr "لا يمكنك منع نفسك."
+
+#: classes/users.php:229
+msgid "User unblocked successfully."
+msgstr "تم إلغاء حجب المستخدم بنجاح."
+
+#: classes/users.php:232
+msgid "Something went wrong or user already unbloked."
+msgstr "حدث شيء خاطئ أو المستخدم بالفعل unbloked."
+
+#: classes/woo-commerce.php:46
+msgid "Validity"
+msgstr "الصلاحية"
+
+#: classes/woo-commerce.php:49
+msgid "Lifetime"
+msgstr "الفترة الزمنية"
+
+#: classes/woo-commerce.php:51
+msgid "Days"
+msgstr "أيام"
+
+#: classes/woo-commerce.php:53
+msgid "Regular Listings"
+msgstr "عدد الوحدات العادية"
+
+#: classes/woo-commerce.php:76
+msgid "Bump up Ads"
+msgstr "الإعلانات المتبقية:"
+
+#: classes/woo-commerce.php:100
+msgid "Select Plan"
+msgstr "اختر خطة"
+
+#: classes/woo-commerce.php:106
+msgid "InApp purchase not available for this product."
+msgstr "inapp شراء غير متوفرة لهذا المنتج."
+
+#: classes/woo-commerce.php:113 classes/woo-commerce.php:117
+#: classes/woo-commerce.php:121
+msgid "No Product Found"
+msgstr "لم يتم العثور علي منتج"
+
+#: classes/woo-commerce.php:146
+msgid "something went wrong while billing your account."
+msgstr "حدث خطا في حين الفواتير حسابك."
+
+#: classes/woo-commerce.php:172 classes/woo-commerce.php:183
+msgid "InApp Purchases"
+msgstr "المشتريات inapp"
+
+#: classes/woo-commerce.php:175
+msgid "Play Market app is not installed."
+msgstr "تشغيل تطبيق السوق غير مثبت."
+
+#: classes/woo-commerce.php:176
+msgid "One Time Purchase not Supported on your Device."
+msgstr "شراء مره واحده غير معتمد علي جهازك."
+
+#: classes/woo-commerce.php:284
+msgid "InApp Purchase Settings For Android and IOS Apps"
+msgstr "inapp إعدادات الشراء لالروبوت ودائره الرقابة الخارجية تطبيقات"
+
+#: classes/woo-commerce.php:294
+msgid "Android Product Code"
+msgstr "الروبوت رمز المنتج"
+
+#: classes/woo-commerce.php:296
+msgid "Enter you android product code here."
+msgstr "ادخل رمز المنتج الروبوت هنا."
+
+#: classes/woo-commerce.php:300
+msgid ""
+"Please enter product code for the andrid product. Leave empty if you dont't "
+"have any. Only enter in case you have bought android app."
+msgstr ""
+"الرجاء إدخال رمز المنتج للمنتج andrid. ترك فارغه إذا كان لديك اي don't't. "
+"فقط ادخل في حال كنت قد اشتريت الروبوت التطبيق."
+
+#: classes/woo-commerce.php:303
+msgid "IOS Product Code"
+msgstr "رمز المنتج IOS"
+
+#: classes/woo-commerce.php:305
+msgid "Enter you ios product code here."
+msgstr "ادخل لك رمز المنتج ios هنا."
+
+#: classes/woo-commerce.php:308
+msgid ""
+"Please enter product code for the andrid product. Leave empty if you dont't "
+"have any. Only enter in case you have bought ios app."
+msgstr ""
+"الرجاء إدخال رمز المنتج للمنتج andrid. ترك فارغه إذا كان لديك اي don't't. "
+"فقط ادخل في حال كنت قد اشتريت دائره الرقابة التطبيقية التطبيق."
+
+#: classes/woo-commerce.php:311
+msgid ""
+"Please make sure you have created the **** product while create packages in "
+"AppStore/PlayStore accounts."
+msgstr ""
+"يرجى التاكد من انك قد إنشات المنتج * * * * اثناء إنشاء الحزم في ابستور/"
+"playstore الحسابات."
+
+#: functions.php:608
+msgid "Price On Call"
+msgstr "عند الاتصال"
+
+#: functions.php:1004 functions.php:1085
+msgid "No ads found"
+msgstr "لا توجد إعلانات."
+
+#: functions.php:1274
+msgid "Last Login:"
+msgstr "آخر تسجيل دخول:"
+
+#: functions.php:1411 functions.php:1433 inc/options-init.php:1735
+msgid "Fixed"
+msgstr "ثابت"
+
+#: functions.php:1413 functions.php:1435 inc/options-init.php:1736
+msgid "Negotiable"
+msgstr "قابل للتفاوض"
+
+#: functions.php:1414 functions.php:1436 inc/options-init.php:1737
+msgid "Price on call"
+msgstr "السعر عند الاتصال"
+
+#: functions.php:1415 functions.php:1437
+msgid "Auction"
+msgstr "مزاد علني"
+
+#: functions.php:1417 functions.php:1439 inc/options-init.php:1740
+msgid "No price"
+msgstr "سعر غير محدد"
+
+#: functions.php:2034
+msgid "second"
+msgstr "ثانية"
+
+#: functions.php:2035
+msgid "minute"
+msgstr "دقيقة"
+
+#: functions.php:2036
+msgid "hour"
+msgstr "ساعة"
+
+#: functions.php:2037
+msgid "day"
+msgstr "يوم"
+
+#: functions.php:2038
+msgid "month"
+msgstr "شهر"
+
+#: functions.php:2039
+msgid "year"
+msgstr "سنة"
+
+#: functions.php:2052
+msgid "(s) ago"
+msgstr "مضت"
+
+#: functions.php:2183
+msgid "Please subscribe package for ad posting."
+msgstr "يرجى الاشتراك في احد الفورفيات المتاحة لنشر الإعلان."
+
+#: functions.php:2514
+msgid "Google+"
+msgstr "جوجل بلس"
+
+#: functions.php:2534
+msgid "Stripe"
+msgstr "شريط"
+
+#: functions.php:2535
+msgid "PayPal"
+msgstr "باي بال"
+
+#: functions.php:2536
+msgid "Bank Transfer"
+msgstr "تحويل بنكي"
+
+#: functions.php:2537
+msgid "Cash On Delivery"
+msgstr "الدفع عن الإستلام"
+
+#: functions.php:2538
+msgid "Payment By Check"
+msgstr "الدفع عن طريق التحقق"
+
+#: functions.php:2540
+msgid "InApp Purchase"
+msgstr "inapp شراء"
+
+#: functions.php:2717 functions.php:2750
+msgid "InApp Code (Android)"
+msgstr "رمز InApp (الروبوت)"
+
+#: functions.php:2719 functions.php:2754
+msgid ""
+"Put your android inapp product code for innapp purchase for Category Based "
+"Procing"
+msgstr ""
+"وضع الروبوت الخاص بك inapp رمز المنتج لشراء innapp ل Proing الفئة القائمة"
+
+#: functions.php:2723 functions.php:2762
+msgid "InApp Code (ios)"
+msgstr "رمز InApp (ios)"
+
+#: functions.php:2725 functions.php:2766
+msgid ""
+"Put your ios inapp product code for innapp purchase for Category Based "
+"Procing"
+msgstr ""
+"وضع رمز المنتج لنظام التشغيل ios الخاص بك لشراء innapp للحصول علي الفئة "
+"القائمة علي Procing"
+
+#: inc/categories-images.php:47 inc/categories-images.php:58
+#: inc/categories-images.php:123
+msgid "Upload/Add image"
+msgstr "تحميل / إضافة صورة"
+
+#: inc/categories-images.php:58 inc/categories-images.php:124
+msgid "Remove image"
+msgstr "إزالة الصورة"
+
+#: inc/categories-images.php:145
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: inc/cpt.php:6
+msgctxt "Post Type General Name"
+msgid "App Pages"
+msgstr "صفحات التطبيق"
+
+#: inc/cpt.php:7
+msgctxt "Post Type Singular Name"
+msgid "App Page"
+msgstr "صفحه التطبيق"
+
+#: inc/cpt.php:8 inc/options-init.php:193
+msgid "App Pages"
+msgstr "صفحات التطبيق"
+
+#: inc/cpt.php:9 inc/cpt.php:35
+msgid "App Page"
+msgstr "صفحه التطبيق"
+
+#: inc/cpt.php:10
+msgid "Item Archives"
+msgstr "أرشيفات العنصر"
+
+#: inc/cpt.php:11
+msgid "Item Attributes"
+msgstr "سمات العنصر"
+
+#: inc/cpt.php:12
+msgid "Parent Item:"
+msgstr "العنصر الأصل:"
+
+#: inc/cpt.php:13
+msgid "All Items"
+msgstr "جميع العناصر"
+
+#: inc/cpt.php:14
+msgid "Add New Item"
+msgstr "اضافة جديد"
+
+#: inc/cpt.php:15
+msgid "Add New"
+msgstr "اضف جديد"
+
+#: inc/cpt.php:16
+msgid "New Item"
+msgstr "عنصر جديد"
+
+#: inc/cpt.php:17
+msgid "Edit Item"
+msgstr "تحرير العنصر"
+
+#: inc/cpt.php:18
+msgid "Update Item"
+msgstr "به روز رسانی مورد"
+
+#: inc/cpt.php:19
+msgid "View Item"
+msgstr "مشاهدة العناصر"
+
+#: inc/cpt.php:20
+msgid "View Items"
+msgstr "الرسائل"
+
+#: inc/cpt.php:21
+msgid "Search Item"
+msgstr "عنصر البحث"
+
+#: inc/cpt.php:22 inc/notifications.php:90
+msgid "Not found"
+msgstr "غير موجود"
+
+#: inc/cpt.php:23 inc/notifications.php:91
+msgid "Not found in Trash"
+msgstr "غير %s متوفر بالسلة"
+
+#: inc/cpt.php:24 inc/notifications.php:92
+msgid "Featured Image"
+msgstr "صورة مميزة"
+
+#: inc/cpt.php:25 inc/notifications.php:93
+msgid "Set featured image"
+msgstr "حدد الصورة البارزة"
+
+#: inc/cpt.php:26 inc/notifications.php:94
+msgid "Remove featured image"
+msgstr "احذف الصورة البارزة"
+
+#: inc/cpt.php:27 inc/notifications.php:95
+msgid "Use as featured image"
+msgstr "استخدم كصورة مميزة"
+
+#: inc/cpt.php:28
+msgid "Insert into item"
+msgstr "إدراج في العنصر"
+
+#: inc/cpt.php:29 inc/notifications.php:97
+msgid "Uploaded to this item"
+msgstr "تم تحميلها على هذا العنصر"
+
+#: inc/cpt.php:30
+msgid "Items list"
+msgstr "قائمة العناصر"
+
+#: inc/cpt.php:31
+msgid "Items list navigation"
+msgstr "قائمة عناصر التنقل"
+
+#: inc/cpt.php:32
+msgid "Filter items list"
+msgstr "تصفية قائمة العناصر"
+
+#: inc/cpt.php:36
+msgid "App Page is design to set the app layouts"
+msgstr "التطبيق الصفحة هو تصميم لتعيين تخطيطات التطبيق"
+
+#: inc/email-templates.php:10
+msgid "New Ad"
+msgstr "إعلان جديد"
+
+#: inc/email-templates.php:11
+msgid "Got new ad"
+msgstr "حصلت إعلان جديد"
+
+#: inc/email-templates.php:66
+msgid "New Message"
+msgstr "رسالة جديدة"
+
+#: inc/email-templates.php:68
+msgid "Got new message on ad"
+msgstr "حصلت علي رسالة جديده علي الإعلان"
+
+#: inc/email-templates.php:96
+msgid "Ad Reported"
+msgstr "تم الإبلاغ عن الإعلان"
+
+#: inc/email-templates.php:97
+msgid "Users reported this ad, please check it. "
+msgstr "وذكر المستخدمون هذا الإعلان ، يرجى التحقق من ذلك."
+
+#: inc/email-templates.php:196
+msgid "Password reset sent, check your email inbox"
+msgstr ""
+"إعادة تعيين كلمة المرور المرسلة، تحقق من البريد الوارد للبريد الإلكتروني"
+
+#: inc/email-templates.php:199 inc/email-templates.php:251
+msgid "Email server not responding"
+msgstr "ملقم البريد الكتروني لا يستجيب"
+
+#: inc/email-templates.php:222
+msgid "Your new password"
+msgstr "كلمة المرور الجديدة"
+
+#: inc/email-templates.php:223
+msgid "Your new password is: "
+msgstr "كلمه السر الجديدة هي:"
+
+#: inc/email-templates.php:247
+msgid "Email sent"
+msgstr "تمّ إرسال البريد الإلكتروني "
+
+#: inc/notifications.php:74
+msgctxt "Post Type General Name"
+msgid "Notifications"
+msgstr "الإشعارات"
+
+#: inc/notifications.php:75
+msgctxt "Post Type Singular Name"
+msgid "Notification"
+msgstr "إشعارات"
+
+#: inc/notifications.php:76
+msgid "Push Notifications"
+msgstr "الإشعارات الفورية"
+
+#: inc/notifications.php:77
+msgid "Push Notification"
+msgstr "الإشعارات الفورية"
+
+#: inc/notifications.php:78
+msgid "Notifications Archives"
+msgstr "أرشيف الإخطارات"
+
+#: inc/notifications.php:79
+msgid "Notification Attributes"
+msgstr "سمات الاعلام"
+
+#: inc/notifications.php:80
+msgid "Parent Notification:"
+msgstr "اشعار الوالدين:"
+
+#: inc/notifications.php:81
+msgid "All Notifications"
+msgstr "كل الإشعارات"
+
+#: inc/notifications.php:82 inc/notifications.php:83
+msgid "Add New Notification"
+msgstr "إضافة إشعار الجديد"
+
+#: inc/notifications.php:84
+msgid "New Notification"
+msgstr "إضافة إشعار جديد"
+
+#: inc/notifications.php:85
+msgid "Edit Notification"
+msgstr "تعديل الإشْعار"
+
+#: inc/notifications.php:86
+msgid "Update Notification"
+msgstr "تحديث الاعلام"
+
+#: inc/notifications.php:87
+msgid "View Notification"
+msgstr "عرض التنبيه"
+
+#: inc/notifications.php:88
+msgid "View Notifications"
+msgstr "عرض الإشعارات"
+
+#: inc/notifications.php:89
+msgid "Search Notification"
+msgstr "اعلام البحث"
+
+#: inc/notifications.php:96
+msgid "Insert into Notification"
+msgstr "ادراج في الاعلام"
+
+#: inc/notifications.php:98
+msgid "Notifications list"
+msgstr "قائمه الاعلامات"
+
+#: inc/notifications.php:99
+msgid "Notifications list navigation"
+msgstr "الملاحة قائمه الإخطارات"
+
+#: inc/notifications.php:100
+msgid "Filter Notifications list"
+msgstr "قائمه اعلامات التصفية"
+
+#: inc/notifications.php:103
+msgid "Notification"
+msgstr "إشعارات"
+
+#: inc/notifications.php:104
+msgid "Notification Type Description"
+msgstr "وصف نوع الاعلام"
+
+#: inc/notifications.php:297
+msgid "Are you Sure you want to send push notifications"
+msgstr "هل تريد بالتاكيد إرسال اعلامات دفع"
+
+#: inc/options-init.php:12 inc/options-init.php:14
+msgid "Carspot Apps API Options"
+msgstr "خيارات API لتطبيقات carspot"
+
+#: inc/options-init.php:18
+msgid "Apps API Options"
+msgstr "خيارات API لتطبيقات carspot"
+
+#: inc/options-init.php:51
+msgid "Like us on Facebook"
+msgstr "الإعجاب بصفحتنا على الفيسبوك"
+
+#: inc/options-init.php:59
+msgid "App Settings"
+msgstr "إعدادات التطبيق"
+
+#: inc/options-init.php:67
+msgid "Make App Open"
+msgstr "جعل التطبيق مفتوحا"
+
+#: inc/options-init.php:68
+msgid "Make App Open For Public"
+msgstr "جعل التطبيق مفتوحا للجمهور"
+
+#: inc/options-init.php:75
+msgid "Logo"
+msgstr "الشعار"
+
+#: inc/options-init.php:77
+msgid "Site Logo image for the site."
+msgstr "صوره شعار الموقع للموقع."
+
+#: inc/options-init.php:78
+msgid "Dimensions: 230 x 40"
+msgstr "الابعاد: 230 x 40"
+
+#: inc/options-init.php:85
+msgid "Language and Color"
+msgstr "اللغة واللون"
+
+#: inc/options-init.php:93
+msgid "RTL"
+msgstr "العربية RTL"
+
+#: inc/options-init.php:94
+msgid "Make app RTL"
+msgstr "جعل التطبيق RTL"
+
+#: inc/options-init.php:100
+msgid "App Language"
+msgstr "لغة التطبيق"
+
+#: inc/options-init.php:101
+msgid "List of available languages."
+msgstr "قائمه باللغات المتاحة"
+
+#: inc/options-init.php:101
+msgid "If you have selected RTL put language code here like for arabic ar"
+msgstr "إذا كنت قد حددت ار تي ال وضع رمز اللغة هنا مثل للعربية ar"
+
+#: inc/options-init.php:108
+msgid "Select App Colour"
+msgstr "اختر لون التطبيق"
+
+#: inc/options-init.php:109
+msgid "Pick a title color for the app (default: #fb236a)."
+msgstr "اختر لون عنوان للتطبيق (الافتراضي: #fb236a)."
+
+#: inc/options-init.php:117
+msgid "Social Login Settings"
+msgstr "إعدادات تسجيل الدخول الاجتماعي"
+
+#: inc/options-init.php:125
+msgid "Facebook Login/Register"
+msgstr "الفيسبوك تسجيل الدخول/تسجيل"
+
+#: inc/options-init.php:126 inc/options-init.php:133
+msgid "Show or hide google button."
+msgstr "إظهار أو إخفاء زر google."
+
+#: inc/options-init.php:132
+msgid "Google Login/Register"
+msgstr "جوجل تسجيل الدخول/تسجيل"
+
+#: inc/options-init.php:139
+msgid "Apple Login/Register"
+msgstr "تسجيل الدخول إلى Apple/ التسجيل"
+
+#: inc/options-init.php:140
+msgid "Show or hide Apple button."
+msgstr "إظهار زر التفاح أو إخفاؤه."
+
+#: inc/options-init.php:146
+msgid "Tagline"
+msgstr "(الشعار) الخط"
+
+#: inc/options-init.php:147
+msgid "Show or hide register tagline."
+msgstr "إظهار أو إخفاء خط التسجيل."
+
+#: inc/options-init.php:148
+msgid "Over 25000 classified ads listing."
+msgstr "أكثر من 25000 الإعلانات المبوبة القائمة."
+
+#: inc/options-init.php:153
+msgid "Enable Social Profiles"
+msgstr "تمكين الملامح الاجتماعية"
+
+#: inc/options-init.php:154
+msgid "for display"
+msgstr "للعرض"
+
+#: inc/options-init.php:161
+msgid "Slider Settings"
+msgstr "اعدادت عرض الشرائح"
+
+#: inc/options-init.php:169
+msgid "Enable Scroll On Featured Ads"
+msgstr "تمكين التمرير علي الإعلانات المميزة"
+
+#: inc/options-init.php:170
+msgid "Turn on/off auto scroll on the featured ads slider"
+msgstr "تشغيل/إيقاف التمرير التلقائي علي شريط التمرير الإعلانات المميزة"
+
+#: inc/options-init.php:176
+msgid "Slider Scroll Speed"
+msgstr "سرعه تمرير المنزلق"
+
+#: inc/options-init.php:179
+msgid "Enter value in milisecons 1000 is 1 second"
+msgstr "ادخل قيمه في ميليسيكونس 1000 هو 1 ثانيه"
+
+#: inc/options-init.php:184
+msgid "Slider Loop scroll"
+msgstr "تمرير حلقه المنزلق"
+
+#: inc/options-init.php:187
+msgid ""
+"Enter value in milisecons 1000 is 1 second. Once end starts again after X "
+"number of seconds"
+msgstr ""
+"ادخل قيمه في ميليسيكونس 1000 هو 1 ثانيه. مره واحده تنتهي يبدا مره أخرى بعد X "
+"عدد من الثواني"
+
+#: inc/options-init.php:204
+msgid "Select Pages"
+msgstr "تحديد الصفحات"
+
+#: inc/options-init.php:211
+msgid "App Share/Rating"
+msgstr "التطبيق حصة/التقييم"
+
+#: inc/options-init.php:219
+msgid "App Rating"
+msgstr "تقييم التطبيق"
+
+#: inc/options-init.php:220
+msgid "Show app rating icon on the top."
+msgstr "إظهار رمز تصنيف التطبيق في الأعلى."
+
+#: inc/options-init.php:226
+msgid "Rating Title"
+msgstr "عنوان التصنيف"
+
+#: inc/options-init.php:229
+msgid "Rating title in the popup."
+msgstr "عنوان التصنيف في المنبثقة."
+
+#: inc/options-init.php:234
+msgid "App URL"
+msgstr "عنوان URL للتطبيق"
+
+#: inc/options-init.php:237
+msgid "Enter app URL for app rating. URL is required"
+msgstr "ادخل عنوان URL للتطبيق لتصنيف التطبيق. مطلوب URL"
+
+#: inc/options-init.php:242
+msgid "App Share"
+msgstr "مشاركه التطبيق"
+
+#: inc/options-init.php:243
+msgid "Show app share icon on the top."
+msgstr "إظهار أيقونه مشاركه التطبيق في الجزء العلوي."
+
+#: inc/options-init.php:249
+msgid "Share Popup Title"
+msgstr "مشاركه العنوان المنبثق"
+
+#: inc/options-init.php:252
+msgid "title in the popup."
+msgstr "العنوان في المنبثقة."
+
+#: inc/options-init.php:260
+msgid "App share subject. Not required."
+msgstr "موضوع مشاركه التطبيق. غير مطلوب."
+
+#: inc/options-init.php:265
+msgid "App Share URL"
+msgstr "عنوان URL لمشاركه التطبيقات"
+
+#: inc/options-init.php:268
+msgid "Enter app share URL for app sharing. URL is required."
+msgstr "ادخل عنوان URL لمشاركه التطبيق لمشاركه التطبيق. مطلوب URL."
+
+#: inc/options-init.php:284
+msgid "Main Title"
+msgstr "العنوان الرئيسي"
+
+#: inc/options-init.php:295
+msgid "Show Accordians "
+msgstr "إظهار أكواديون "
+
+#: inc/options-init.php:296
+msgid "This show accordians on your app about us page."
+msgstr "هذا تظهر أكاديانس على التطبيق الخاص بك عن صفحة لنا."
+
+#: inc/options-init.php:304
+msgid "Slides Options"
+msgstr "خيارات السلايدر"
+
+#: inc/options-init.php:305
+msgid "Unlimited slides with drag and drop sortings."
+msgstr "شرائح غير محدودة مع ترتيبات سحب وافلات."
+
+#: inc/options-init.php:306
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+"هذا الحقل سيتم تخزين جميع الشرائح القيم في صفيف متعددة الأبعاد استخدامها في "
+"حلقة foreach."
+
+#: inc/options-init.php:309
+msgid "This is a title"
+msgstr "هذا هو عنوان."
+
+#: inc/options-init.php:310
+msgid "Description Here"
+msgstr "الوصف هنا"
+
+#: inc/options-init.php:311
+msgid "Give us a link!"
+msgstr "تعطينا وصلة!"
+
+#: inc/options-init.php:438
+msgid "Analytics Settings"
+msgstr "إعدادات التحليلات"
+
+#: inc/options-init.php:447
+msgid "App Analytics"
+msgstr "تحليلات التطبيقات"
+
+#: inc/options-init.php:448
+msgid "Below you can setup analytics for the app."
+msgstr "أدناه يمكنك اعداد التحليلات للتطبيق."
+
+#: inc/options-init.php:453
+msgid "Make Analytics"
+msgstr "جعل التحليلات"
+
+#: inc/options-init.php:454
+msgid "Trun ads on or off."
+msgstr "Trun الإعلانات أو إيقاف تشغيلها."
+
+#: inc/options-init.php:460
+msgid "Analytics ID"
+msgstr "معرف التحليلات"
+
+#: inc/options-init.php:463
+msgid "Put analytics id here i.e."
+msgstr "وضع التحليلات معرف هنا اي."
+
+#: inc/options-init.php:468
+msgid "Firebase Settings"
+msgstr "إعدادات قاعده الاحتراق"
+
+#: inc/options-init.php:477
+msgid "Puch Nofifications"
+msgstr "puch nofifications"
+
+#: inc/options-init.php:478
+msgid "Below you can setup Puch Nofifications for the app."
+msgstr "أدناه يمكنك اعداد puch nofifications للتطبيق."
+
+#: inc/options-init.php:483
+msgid "Firebase API KEY"
+msgstr "مفتاح API firebase"
+
+#: inc/options-init.php:485
+msgid "Put firebase api key"
+msgstr "وضع مفتاح api firebase"
+
+#: inc/options-init.php:492
+msgid "App Key Settings"
+msgstr "إعدادات مفتاح التطبيق"
+
+#: inc/options-init.php:500
+msgid "Android Key Settings"
+msgstr "إعدادات مفتاح الروبوت"
+
+#: inc/options-init.php:511 inc/options-init.php:537 inc/options-init.php:548
+#: inc/options-init.php:586 inc/options-init.php:597 inc/options-init.php:608
+#: inc/options-init.php:638 inc/options-init.php:649 inc/options-init.php:680
+#: inc/options-init.php:691 inc/options-init.php:758 inc/options-init.php:777
+msgid "Alert"
+msgstr "تنبيه"
+
+#: inc/options-init.php:512
+msgid ""
+"Once added be carefull editing next time. Those Key Should Be Same In App "
+"Header."
+msgstr ""
+"وأضاف مره واحده ان متان التحرير في المرة القادمة. يجب ان يكون المفتاح نفسه "
+"في راس التطبيق."
+
+#: inc/options-init.php:519 inc/options-init.php:568 inc/options-init.php:628
+#: inc/options-init.php:747
+msgid "Info"
+msgstr "معلومات"
+
+#: inc/options-init.php:520
+msgid ""
+"Below section is only for if you have purchased Android App. Then turn it on "
+"and enter the purchase code in below text field that will appears."
+msgstr ""
+"أدناه الباب هو فقط لأنه إذا كنت قد اشتريت الروبوت التطبيق. ثم تشغيله وادخل "
+"رمز الشراء في حقل النص أدناه التي ستظهر."
+
+#: inc/options-init.php:525
+msgid "For Android App"
+msgstr "لتطبيق اندرويد"
+
+#: inc/options-init.php:527 inc/options-init.php:739
+msgid "If you have purchased the android app."
+msgstr "إذا كنت قد اشتريت التطبيق الروبوت."
+
+#: inc/options-init.php:533
+msgid "Enter You Android Purchase Code Here"
+msgstr "ادخل لك رمز الشراء الروبوت هنا"
+
+#: inc/options-init.php:535
+msgid ""
+"Your android item purchase code got from codecanyon. You have purchased the "
+"item seprately."
+msgstr ""
+"حصلت علي البند الخاص بك الروبوت شراء رمز من codecanyon. لقد قمت بشراء الصنف "
+"بالفطرة."
+
+#: inc/options-init.php:538 inc/options-init.php:549 inc/options-init.php:587
+#: inc/options-init.php:598 inc/options-init.php:609 inc/options-init.php:639
+#: inc/options-init.php:650 inc/options-init.php:681 inc/options-init.php:692
+msgid ""
+"Once added be carefull editing next time. This key Should be same in app "
+"header."
+msgstr ""
+"وأضاف مره واحده ان متان التحرير في المرة القادمة. يجب ان يكون هذا المفتاح "
+"نفسه في راس التطبيق."
+
+#: inc/options-init.php:545
+msgid "Enter Your Android Secret Code Here"
+msgstr "ادخل رمز الروبوت السري الخاص بك هنا"
+
+#: inc/options-init.php:551 inc/options-init.php:600
+msgid "Just a random number generated by you for app security."
+msgstr "مجرد عدد عشوائي التي تم إنشاؤها من قبلك لأمن التطبيق."
+
+#: inc/options-init.php:557
+msgid "IOS Key Settings"
+msgstr "إعدادات مفتاح IOS"
+
+#: inc/options-init.php:569
+msgid ""
+"Below section is only for if you have purchased IOS App. Then turn it on and "
+"enter the purchase code in below text field that will appears."
+msgstr ""
+"القسم أدناه هو فقط إذا كنت قد اشتريت IOS App. ثم تشغيله وادخل رمز الشراء في "
+"حقل النص أدناه التي ستظهر."
+
+#: inc/options-init.php:574
+msgid "For IOS App"
+msgstr "لتطبيق Ios"
+
+#: inc/options-init.php:576
+msgid "If you have purchased the ios app."
+msgstr "إذا كنت قد اشتريت التطبيق ios."
+
+#: inc/options-init.php:582
+msgid "Enter You IOS Purchase Code Here"
+msgstr "ادخل لك قانون الشراء IOS هنا"
+
+#: inc/options-init.php:584
+msgid ""
+"Your IOS item purchase code got from codecanyon. You have purchased the item "
+"seprately."
+msgstr ""
+"حصلت علي البند الخاص IOS شراء رمز من codecanyon. لقد قمت بشراء الصنف بالفطرة."
+
+#: inc/options-init.php:594
+msgid "Enter Your IOS Secret Code Here"
+msgstr "ادخل رمز IOS السري هنا"
+
+#: inc/options-init.php:605
+msgid "Enter Your Youtube Key"
+msgstr "ادخل مفتاح Youtube"
+
+#: inc/options-init.php:617
+msgid "Stripe Settings"
+msgstr "إعدادات Stripe"
+
+#: inc/options-init.php:629
+msgid "Below section is Other API and Payment settings"
+msgstr "أسفل القسم هو API الأخرى وإعدادات الدفع"
+
+#: inc/options-init.php:634
+msgid "Enter Your Stripe Publishable key Here"
+msgstr "ادخل مفتاح الشريط الخاص بك الشريطية هنا"
+
+#: inc/options-init.php:636
+msgid "This will use in app"
+msgstr "هذا وسوف تستخدم في التطبيق"
+
+#: inc/options-init.php:645
+msgid "Enter Your Stripe Secret key Here"
+msgstr "ادخل مفتاح الشريط السري هنا"
+
+#: inc/options-init.php:647
+msgid "This will use at server for varification"
+msgstr "هذا وسوف تستخدم في خادم لvarification التي"
+
+#: inc/options-init.php:658
+msgid "Paypal Settings"
+msgstr "إعدادات Paypal"
+
+#: inc/options-init.php:667
+msgid "Paypal Mode"
+msgstr "بأي بال الوضع"
+
+#: inc/options-init.php:669
+msgid "Live"
+msgstr "مباشر"
+
+#: inc/options-init.php:670
+msgid "Sandbox"
+msgstr "وضع الحماية"
+
+#: inc/options-init.php:677
+msgid "Enter Your Paypal Key"
+msgstr "ادخل مفتاح Paypal الخاص بك"
+
+#: inc/options-init.php:683
+msgid "Enter you paypal client id here"
+msgstr "ادخل معرف العميل الخاص بك بأي بال هنا"
+
+#: inc/options-init.php:688
+msgid "Enter Your Paypal Secret"
+msgstr "ادخل السرية الخاصة بك بأي بال"
+
+#: inc/options-init.php:694
+msgid "Enter you paypal Secret id here"
+msgstr "ادخل الهوية السرية الخاصة بك بأي بال هنا"
+
+#: inc/options-init.php:699
+msgid "Merchant Name"
+msgstr "اسم التاجر"
+
+#: inc/options-init.php:701
+msgid "Enter the merchant name"
+msgstr "يرجى إدخال اسم"
+
+#: inc/options-init.php:706
+msgid "Account Currency"
+msgstr "عمله الحساب"
+
+#: inc/options-init.php:708
+msgid "Currency name i.e. USD Supported currency list here: "
+msgstr "اسم العملة اي بالدولار الأمريكي قائمه العملات المدعومة هنا:"
+
+#: inc/options-init.php:713
+msgid "Privecy Url"
+msgstr "الشاغل Url"
+
+#: inc/options-init.php:715 inc/options-init.php:722
+msgid "Example link "
+msgstr "مثال علي الرابط"
+
+#: inc/options-init.php:720
+msgid "Agreement Url"
+msgstr "عنوان الاتفاقية"
+
+#: inc/options-init.php:728
+msgid "InApp Purchase Settings"
+msgstr "إعدادات الشراء في inapp"
+
+#: inc/options-init.php:737
+msgid "Android InApp Purchase"
+msgstr "الروبوت inapp شراء"
+
+#: inc/options-init.php:748
+msgid ""
+"Go to Application then you will see Development tools option on the left "
+"side of menu. Click this option now navigate to Services &APIs. Now you will "
+"Licensing & in-app billing section copy the key from here."
+msgstr ""
+"انتقل إلى التطبيق ثم ستري خيار أدوات التطوير علي الجانب الأيسر من القائمة. "
+"انقر فوق هذا الخيار الآن انتقل إلى الخدمات وواجات برمجه التطبيقات. الآن سوف "
+"الترخيص & في التطبيق قسم الفوترة نسخ المفتاح من هنا."
+
+#: inc/options-init.php:754
+msgid "Your Android InApp Secret Code Here"
+msgstr "الروبوت الخاص بك inapp السرية القانون هنا"
+
+#: inc/options-init.php:756 inc/options-init.php:775
+msgid ""
+"Enter the secret code you got from store. While copy paste please make sure "
+"there is no white space."
+msgstr ""
+"ادخل الرمز السري الذي حصلت عليه من المتجر. في حين لصق نسخ الرجاء التاكد من "
+"عدم وجود مساحة بيضاء."
+
+#: inc/options-init.php:759 inc/options-init.php:778
+msgid "Once added be carefull editing next time."
+msgstr "وأضاف مره واحده ان متان التحرير في المرة القادمة."
+
+#: inc/options-init.php:765
+msgid "AppStore InApp Purchase"
+msgstr "AppStore inapp شراء"
+
+#: inc/options-init.php:767
+msgid "If you have purchased the AppStore app."
+msgstr "إذا كنت قد اشتريت التطبيق AppStore."
+
+#: inc/options-init.php:773
+msgid "Your AppStore InApp Secret Code Here"
+msgstr "الخاص AppStore السرية inapp القانون هنا"
+
+#: inc/options-init.php:786
+msgid "Thank You Settings"
+msgstr "شكرا لك إعدادات"
+
+#: inc/options-init.php:795
+msgid "Thank You Title"
+msgstr "شكرا لك العنوان"
+
+#: inc/options-init.php:803
+msgid "Menu Settings"
+msgstr "إعدادات القائمة"
+
+#: inc/options-init.php:811
+msgid "Menu Title Control"
+msgstr "عنصر تحكم عنوان القائمة"
+
+#: inc/options-init.php:812
+msgid ""
+"Chnage menu title to what you want. If you want to hide any menu item make "
+"it empty."
+msgstr ""
+"كنج عنوان القائمة إلى ما تريد. إذا كنت ترغب في إخفاء اي عنصر القائمة جعله "
+"فارغا."
+
+#: inc/options-init.php:817
+msgid "Advance Search"
+msgstr "بحث متقدم"
+
+#: inc/options-init.php:818
+msgid "Inbox List"
+msgstr "قائمه البريد الوارد"
+
+#: inc/options-init.php:819
+msgid "Sell Your Car"
+msgstr "بيع سيارتك"
+
+#: inc/options-init.php:820
+msgid "Comparison Search"
+msgstr "بحث مقارنه"
+
+#: inc/options-init.php:825
+msgid "Dynamic Pages"
+msgstr "الصفحات الديناميكية"
+
+#: inc/options-init.php:827
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: inc/options-init.php:828
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: inc/options-init.php:830
+msgid "Select Language"
+msgstr "اختيار اللغة"
+
+#: inc/options-init.php:839
+msgid "Select Dynamic Page"
+msgstr "تحديد الصفحة الديناميكية"
+
+#: inc/options-init.php:840
+msgid "Select/sort Pages"
+msgstr "تحديد/فرز الصفحات"
+
+#: inc/options-init.php:841
+msgid "It will replace the Dynamic Pages from above menu"
+msgstr "فانه سيتم استبدال الصفحات الديناميكية من القائمة أعلاه"
+
+#: inc/options-init.php:846
+msgid "Show Message Count"
+msgstr "إظهار عدد الرسائل"
+
+#: inc/options-init.php:848
+msgid "Turn on/off Show Message Count in menu."
+msgstr "تشغيل/إيقاف إظهار عدد الرسائل في القائمة."
+
+#: inc/options-init.php:857
+msgid "Home Screen Themes"
+msgstr "ثيمات الشاشة الرئيسية"
+
+#: inc/options-init.php:863
+msgid "Home theme main title"
+msgstr "العنوان الرئيسي لسمة الصفحة الرئيسية"
+
+#: inc/options-init.php:869
+msgid "Home theme sub title"
+msgstr "العنوان الفرعي لسمة الصفحة الرئيسية"
+
+#: inc/options-init.php:875
+msgid "Nomber of used cars in your area"
+msgstr "نمبر من السيارات المستعملة في منطقتك"
+
+#: inc/options-init.php:881
+msgid "User cars in your Town"
+msgstr "سيارات المستخدم في بلدتك"
+
+#: inc/options-init.php:888
+msgid "Home theme banner image"
+msgstr "صورة شعار السمة الرئيسية"
+
+#: inc/options-init.php:895
+msgid "Select Home Theme"
+msgstr "حدد موضوع المنزل"
+
+#: inc/options-init.php:896
+msgid "Select your home screen."
+msgstr "حدد الشاشة الرئيسية."
+
+#: inc/options-init.php:897
+msgid "Only Home Screen 1 work with sortable options."
+msgstr "تعمل الشاشة الرئيسية 1 فقط مع خيارات قابلة للفرز."
+
+#: inc/options-init.php:900
+msgid "Home Screen 0"
+msgstr "الشاشة الرئيسية 0"
+
+#: inc/options-init.php:904
+msgid "Home Screen 1"
+msgstr "الشاشة الرئيسية 1"
+
+#: inc/options-init.php:908
+msgid "Home Screen 2"
+msgstr "الشاشة الرئيسية 2"
+
+#: inc/options-init.php:912
+msgid "Home Screen 3"
+msgstr "الشاشة الرئيسية 3"
+
+#: inc/options-init.php:916
+msgid "Home Screen 4"
+msgstr "الشاشة الرئيسية 4"
+
+#: inc/options-init.php:920
+msgid "Home Screen 5"
+msgstr "الشاشة الرئيسية 5"
+
+#: inc/options-init.php:924
+msgid "Home Screen 6"
+msgstr "الشاشة الرئيسية 6"
+
+#: inc/options-init.php:928
+msgid "Home Screen 7"
+msgstr "الشاشة الرئيسية 7"
+
+#: inc/options-init.php:932
+msgid "Home Screen 8"
+msgstr "الشاشة الرئيسية 8"
+
+#: inc/options-init.php:936
+msgid "Home Screen 9"
+msgstr "الشاشة الرئيسية 9"
+
+#: inc/options-init.php:940
+msgid "Home Screen 10"
+msgstr "الشاشة الرئيسية 10"
+
+#: inc/options-init.php:950
+msgid "Body Type Section Views"
+msgstr "طرق عرض قسم نوع الجسم"
+
+#: inc/options-init.php:957
+msgid "Choose view for Body Type Section"
+msgstr "اختيار طريقة العرض لقسم نوع الجسم"
+
+#: inc/options-init.php:958
+msgid "Body Type Section View"
+msgstr "عرض قسم نوع الجسم"
+
+#: inc/options-init.php:961
+msgid "Body Type View 1"
+msgstr "عرض نوع الجسم 1"
+
+#: inc/options-init.php:965
+msgid "Body Type View 2"
+msgstr "عرض نوع الجسم 2"
+
+#: inc/options-init.php:969
+msgid "Body Type View 3"
+msgstr "عرض نوع الجسم 3"
+
+#: inc/options-init.php:973
+msgid "Body Type View 4"
+msgstr "عرض نوع الجسم 4"
+
+#: inc/options-init.php:977
+msgid "Body Type View 5"
+msgstr "عرض نوع الجسم 5"
+
+#: inc/options-init.php:981
+msgid "Body Type View 6"
+msgstr "عرض نوع الجسم 6"
+
+#: inc/options-init.php:985
+msgid "Body Type View 7"
+msgstr "عرض نوع الجسم 7"
+
+#: inc/options-init.php:995
+msgid "Feature Listing Section Views"
+msgstr "طرق عرض قسم سرد الميزات"
+
+#: inc/options-init.php:1002
+msgid "Choose view for Feature Listing Section"
+msgstr "اختيار طريقة العرض لقسم قائمة الميزات"
+
+#: inc/options-init.php:1003
+msgid "Feature Listing Section View"
+msgstr "عرض قسم قائمة الميزات"
+
+#: inc/options-init.php:1006
+msgid "Feature Listing View 1"
+msgstr "يجب ان تكون صاحب القائمة لجعله ميزه"
+
+#: inc/options-init.php:1010
+msgid "Feature Listing View 2"
+msgstr "عرض قائمة الميزات 2"
+
+#: inc/options-init.php:1014
+msgid "Feature Listing View 3"
+msgstr "يجب ان تكون صاحب القائمة لجعله ميزه"
+
+#: inc/options-init.php:1018
+msgid "Feature Listing View 4"
+msgstr "يجب ان تكون صاحب القائمة لجعله ميزه"
+
+#: inc/options-init.php:1022
+msgid "Feature Listing View 5"
+msgstr "يجب ان تكون صاحب القائمة لجعله ميزه"
+
+#: inc/options-init.php:1026
+msgid "Feature Listing View 6"
+msgstr "يجب ان تكون صاحب القائمة لجعله ميزه"
+
+#: inc/options-init.php:1036
+msgid "Body Make Section Views"
+msgstr "عنوان قسم نوع الجسم"
+
+#: inc/options-init.php:1043
+msgid "Choose view for Body Make Section"
+msgstr "اختيار طريقة العرض لقسم جعل الجسم"
+
+#: inc/options-init.php:1044
+msgid "Body Make Section View"
+msgstr "نص جعل عرض المقطع"
+
+#: inc/options-init.php:1047
+msgid "Body Make View 1"
+msgstr "الجسم جعل عرض 1"
+
+#: inc/options-init.php:1051
+msgid "Body Make View 2"
+msgstr "لدينا عرض الخدمات المتاحة 2"
+
+#: inc/options-init.php:1055
+msgid "Body Make View 3"
+msgstr "الجسم جعل عرض 3"
+
+#: inc/options-init.php:1077
+msgid "Screen Title"
+msgstr "عنوان الشاشة"
+
+#: inc/options-init.php:1079
+msgid "Set the title for homescreen"
+msgstr "تعيين عنوان الشاشة المنزلية"
+
+#: inc/options-init.php:1085
+msgid "Home screen Background"
+msgstr "خلفيه الشاشة الرئيسية"
+
+#: inc/options-init.php:1087
+msgid "Image for Home screen"
+msgstr "صوره للشاشة الرئيسية"
+
+#: inc/options-init.php:1088
+msgid "Dimensions: 800 x 800"
+msgstr "الابعاد: 100 x 100"
+
+#: inc/options-init.php:1094
+msgid "Home screen Tagline"
+msgstr "الشاشة الرئيسية Tagline"
+
+#: inc/options-init.php:1095
+msgid "Find Adds"
+msgstr "كيف اكتشفتِ ذلك؟"
+
+#: inc/options-init.php:1100
+msgid "Home screen Headline"
+msgstr "عنوان الشاشة الرئيسية"
+
+#: inc/options-init.php:1101
+msgid "Search From 1500+ Adds"
+msgstr "البحث من 1500 + يضيف"
+
+#: inc/options-init.php:1106
+msgid "Home screen Place Holder"
+msgstr "الشاشة الرئيسية مكان حامل"
+
+#: inc/options-init.php:1107
+msgid "Search Keywords..."
+msgstr "البحث مع الكلمات الرئيسية..."
+
+#: inc/options-init.php:1112
+msgid "Home screen below search bar text"
+msgstr "الشاشة الرئيسية أدناه نص شريط البحث"
+
+#: inc/options-init.php:1113
+msgid "Advance search"
+msgstr "بحث متقدم"
+
+#: inc/options-init.php:1119
+msgid "Sort Home Screen Options"
+msgstr "خيارات فرز الشاشة الرئيسية"
+
+#: inc/options-init.php:1124
+msgid "Home Sortable"
+msgstr "الصفحة الرئيسية sortable"
+
+#: inc/options-init.php:1126
+msgid "Sort home sections here"
+msgstr "فرز الأقسام الرئيسية هنا"
+
+#: inc/options-init.php:1133
+msgid "Sortable Sections"
+msgstr "الأقسام القابلة للفرز"
+
+#: inc/options-init.php:1134
+msgid "Only Home Screen 1 work with this sortable options."
+msgstr "تعمل الشاشة الرئيسية 1 فقط مع هذه الخيارات القابلة للفرز."
+
+#: inc/options-init.php:1135
+msgid "Sort section layouts on homescreen"
+msgstr "فرز تخطيطات المقطع علي الشاشة المنزلية"
+
+#: inc/options-init.php:1137
+msgid "Body Types"
+msgstr "أنواع الجسم"
+
+#: inc/options-init.php:1138 inc/options-init.php:1146
+msgid "Category Icons"
+msgstr "أيقونات الفئة"
+
+#: inc/options-init.php:1140 inc/options-init.php:1326
+#: inc/options-init.php:1342 inc/options-init.php:1365
+msgid "Latest Ads"
+msgstr "اخر الاعلانات"
+
+#: inc/options-init.php:1141
+msgid "Locations Icons"
+msgstr "أيقونات المواقع"
+
+#: inc/options-init.php:1169
+msgid "Show body type slider"
+msgstr "إظهار شريط تمرير نوع النص"
+
+#: inc/options-init.php:1175
+msgid "Body Type Section Title"
+msgstr "عنوان قسم نوع الجسم"
+
+#: inc/options-init.php:1176
+msgid "Separate string with sign like Featured|Types"
+msgstr "سلسله منفصلة مع علامة مثل مميزه | انواع"
+
+#: inc/options-init.php:1177
+msgid "Featured|Types"
+msgstr "المميز | انواع"
+
+#: inc/options-init.php:1191
+msgid "Body Type Multi Select Option"
+msgstr "خيار تحديد نوع الجسم المتعدد"
+
+#: inc/options-init.php:1192
+msgid "This is the description field, again good for additional info."
+msgstr "هذا هو حقل الوصف ، ومرة أخرى جيد للحصول على معلومات إضافية."
+
+#: inc/options-init.php:1198
+msgid "Ad Post Button Title"
+msgstr "عنوان زر نشر الإعلان"
+
+#: inc/options-init.php:1199
+msgid "sell you car button text below the body type boxes."
+msgstr "بيع لك نص زر السيارة تحت مربعات نوع الجسم."
+
+#: inc/options-init.php:1200
+msgid "Sell your car"
+msgstr "بيع سيارتك"
+
+#: inc/options-init.php:1209 inc/options-init.php:1218
+msgid "Featured Makes"
+msgstr "المميز يجعل"
+
+#: inc/options-init.php:1220
+msgid "Show featured makes slider"
+msgstr "إظهار المميز يجعل المنزلق"
+
+#: inc/options-init.php:1226
+msgid "Makes Section Title"
+msgstr "يجعل عنوان القسم"
+
+#: inc/options-init.php:1227
+msgid "Featured|Makes"
+msgstr "المميز | يجعل"
+
+#: inc/options-init.php:1228 inc/options-init.php:1286
+#: inc/options-init.php:1351
+msgid "Separate string with sign like Featured|Makes"
+msgstr "سلسله منفصلة مع علامة مثل مميزه | يجعل"
+
+#: inc/options-init.php:1234
+msgid "Makes Section View All"
+msgstr "يجعل المقطع عرض الكل"
+
+#: inc/options-init.php:1235
+msgid "View All Makes"
+msgstr "عرض جميع الماركات"
+
+#: inc/options-init.php:1241
+msgid "Makes Columns"
+msgstr "جعل الاعمده"
+
+#: inc/options-init.php:1242
+msgid "Select number of info columns"
+msgstr "تحديد عدد أعمده المعلومات"
+
+#: inc/options-init.php:1244
+msgid "3 Column"
+msgstr "العمود 3"
+
+#: inc/options-init.php:1245
+msgid "4 Columns"
+msgstr "4 اعمدة"
+
+#: inc/options-init.php:1256
+msgid "Makes Multi Select Option"
+msgstr "يجعل خيار التحديد المتعدد"
+
+#: inc/options-init.php:1257
+msgid "Select makes you want to show"
+msgstr "تحديد يجعلك تريد إظهار"
+
+#: inc/options-init.php:1279
+msgid "Show featured ads slider"
+msgstr "إظهار منزلق الإعلانات المميزة"
+
+#: inc/options-init.php:1285 inc/options-init.php:2028
+msgid "Featured Ads Section Title"
+msgstr "عنوان قسم الإعلانات المميزة"
+
+#: inc/options-init.php:1293
+msgid "Featured Ads View All Title"
+msgstr "الإعلانات المميزة عرض الكل عنوان"
+
+#: inc/options-init.php:1300 inc/options-init.php:2035
+msgid "Featured Posts"
+msgstr "المشاركات المميزة"
+
+#: inc/options-init.php:1301 inc/options-init.php:1366
+#: inc/options-init.php:1540
+msgid "On homepage"
+msgstr "علي الصفحة الرئيسية"
+
+#: inc/options-init.php:1302 inc/options-init.php:2037
+msgid "Select Number of featured posts"
+msgstr "المشاركات المميزة"
+
+#: inc/options-init.php:1312
+msgid "Featured Ads Position"
+msgstr "الإعلانات المميزة المتبقية: غير محدود"
+
+#: inc/options-init.php:1314 inc/options-init.php:2316
+msgid "Top"
+msgstr "أعلى"
+
+#: inc/options-init.php:1315
+msgid "Middle"
+msgstr "وسط"
+
+#: inc/options-init.php:1316 inc/options-init.php:2317
+msgid "Bottom"
+msgstr "اسفل"
+
+#: inc/options-init.php:1336
+msgid "Latest Ads Section"
+msgstr "أحدث قسم الإعلانات"
+
+#: inc/options-init.php:1344
+msgid "Show latest ads slider"
+msgstr "عرض أحدث منزلق للإعلانات"
+
+#: inc/options-init.php:1350
+msgid "Latest Ads Section Title"
+msgstr "عنوان قسم الإعلانات الأخير"
+
+#: inc/options-init.php:1358
+msgid "Latest Ads View All Title"
+msgstr "أحدث الإعلانات عرض الكل العنوان"
+
+#: inc/options-init.php:1367
+msgid "Select Number of latest ads"
+msgstr "حدد عدد الإعلانات الاخيره"
+
+#: inc/options-init.php:1379
+msgid "Ads Locations"
+msgstr "أماكن الإعلانات"
+
+#: inc/options-init.php:1389
+msgid "Locations icons Section"
+msgstr "رموز المواقع المقطع"
+
+#: inc/options-init.php:1397
+msgid "Show Location on home page"
+msgstr "إظهار الموقع علي الصفحة الرئيسية"
+
+#: inc/options-init.php:1404
+msgid "Location Section Title"
+msgstr "عنوان قسم الموقع"
+
+#: inc/options-init.php:1405
+msgid "Separate string with sign like Explore|city"
+msgstr "سلسله منفصلة مع علامة مثل استكشاف | المدينة"
+
+#: inc/options-init.php:1406
+msgid "Explore|city"
+msgstr "استكشف | المدينة"
+
+#: inc/options-init.php:1420
+msgid "Select Locations Categories"
+msgstr "تحديد فئات المواقع"
+
+#: inc/options-init.php:1421
+msgid "Select locations you want to show"
+msgstr "حدد المواقع التي تريد إظهارها"
+
+#: inc/options-init.php:1438
+msgid "Comparison section. (You must on Home Sortable to show comparison)"
+msgstr "قسم المقارنة. (يجب علي الصفحة الرئيسية Sortable لإظهار المقارنة)"
+
+#: inc/options-init.php:1446
+msgid "Show Comparison"
+msgstr "إظهار المقارنة"
+
+#: inc/options-init.php:1452
+msgid "Comparison Section Title"
+msgstr "عنوان قسم المقارنة"
+
+#: inc/options-init.php:1454
+msgid "Separate string with sign like Top|Comparison"
+msgstr "سلسله منفصلة مع علامة مثل Top | المقارنه"
+
+#: inc/options-init.php:1460
+msgid "Comparison Section View All"
+msgstr "قسم المقارنة عرض الكل"
+
+#: inc/options-init.php:1467
+msgid "Comparison V/s text"
+msgstr "المقارنة بين نص V/s"
+
+#: inc/options-init.php:1468
+msgid "V/S"
+msgstr "V/S"
+
+#: inc/options-init.php:1477
+msgid "Comparison Cars"
+msgstr "مقارنه السيارات"
+
+#: inc/options-init.php:1478
+msgid "Select 1st car for comparison"
+msgstr "اختر السيارة الاولي للمقارنة"
+
+#: inc/options-init.php:1487
+msgid "Comparison V/S Car"
+msgstr "مقارنه السيارات V/S"
+
+#: inc/options-init.php:1488
+msgid "Select second car for comparison"
+msgstr "اختر السيارة الثانية للمقارنة"
+
+#: inc/options-init.php:1504
+msgid "Blog and news section. (You must on Home Sortable to show blogs)"
+msgstr "بلوق وقسم الاخبار. (يجب عليك علي الصفحة الرئيسية sortable لإظهار بلوق)"
+
+#: inc/options-init.php:1510
+msgid "News/Blog"
+msgstr "الاخبار/المدونة"
+
+#: inc/options-init.php:1512
+msgid "Show News/Blog ads slider"
+msgstr "عرض الاخبار/مدونه الإعلانات المنزلق"
+
+#: inc/options-init.php:1518
+msgid "Blog/News Setion Title"
+msgstr "بلوق/عنوان الاخبار setion"
+
+#: inc/options-init.php:1532
+msgid "Select Categories"
+msgstr "اختار فئة"
+
+#: inc/options-init.php:1533
+msgid ""
+"Select categories to show in the blog/news section. Leave empty if you want "
+"to show from all."
+msgstr ""
+"حدد الفئات التي سيتم عرضها في قسم المدونة/الاخبار. ترك فارغه إذا كنت تريد ان "
+"تظهر من الجميع."
+
+#: inc/options-init.php:1539
+msgid "Number of Posts"
+msgstr "عدد المنشورات"
+
+#: inc/options-init.php:1541
+msgid "Select max number of Posts to show"
+msgstr "حدد الحد الأقصى لعدد المشاركات لإظهار"
+
+#: inc/options-init.php:1556
+msgid "Ad's General Settings"
+msgstr "الإعدادات العامة للإعلان"
+
+#: inc/options-init.php:1564
+msgid "Package Mode"
+msgstr "وضع الحزمة"
+
+#: inc/options-init.php:1565
+msgid ""
+"You can select only one package type at a time. Changing package type will "
+"conflict your previous settings."
+msgstr ""
+"يمكنك تحديد نوع حزمه واحد فقط في كل مره. سيؤدي تغيير نوع الحزمة إلى تعارض "
+"الإعدادات السابقة."
+
+#: inc/options-init.php:1567
+msgid "Category Based"
+msgstr "الفئة استنادا"
+
+#: inc/options-init.php:1568
+msgid "Packages Based"
+msgstr "الحزم القائمة"
+
+#: inc/options-init.php:1575
+msgid "Report ad Options"
+msgstr "خيارات تبليغ عن إعلان"
+
+#: inc/options-init.php:1581
+msgid "Ad Report Limit"
+msgstr "خيارات تبليغ عن إعلان"
+
+#: inc/options-init.php:1582
+msgid "Only integer value without spaces."
+msgstr "قيمه العدد الصحيح فقط بدون مسافات."
+
+#: inc/options-init.php:1588
+msgid "Action on Ad Report Limit"
+msgstr "العمل علي حد تقرير الإعلان"
+
+#: inc/options-init.php:1596
+msgid "Email where you want to get notify."
+msgstr "البريد الإلكتروني الذي تريد أن تتلقى الإشعارات عليه."
+
+#: inc/options-init.php:1604
+msgid "Default Image"
+msgstr "تحوم الصورة الافتراضية"
+
+#: inc/options-init.php:1606
+msgid "If there is no image of ad then this will be show."
+msgstr "إذا لم يكن هناك صوره من الإعلان ثم وهذا سيكون العرض."
+
+#: inc/options-init.php:1607
+msgid "Dimensions: 300 x 225"
+msgstr "الابعاد: 300 x 225"
+
+#: inc/options-init.php:1613
+msgid "Set Image Sizes for listings"
+msgstr "تعيين احجام الصور للقوائم"
+
+#: inc/options-init.php:1615 inc/options-init.php:1629
+msgid "Default"
+msgstr "افتراضي"
+
+#: inc/options-init.php:1616 inc/options-init.php:1630
+msgid "Size 2"
+msgstr "حجم 2"
+
+#: inc/options-init.php:1617
+msgid "Size 3"
+msgstr "المقاس 3"
+
+#: inc/options-init.php:1618
+msgid "Size 4"
+msgstr "المقاس 4"
+
+#: inc/options-init.php:1619
+msgid "Size 5"
+msgstr "المقاس 5"
+
+#: inc/options-init.php:1622 inc/options-init.php:1633
+msgid "Change with caution we only recommend default."
+msgstr "التغيير بحذر نوصي فقط الافتراضي."
+
+#: inc/options-init.php:1627
+msgid "Set Image Sizes for Ad Details"
+msgstr "تعيين احجام الصور لتفاصيل الإعلان"
+
+#: inc/options-init.php:1638
+msgid "Message Settings"
+msgstr "إعدادات الرسالة"
+
+#: inc/options-init.php:1639
+msgid ""
+"Send message notification through firebase when receive new message on ad."
+msgstr ""
+"إرسال رسالة اعلام من خلال قاعده النيران عند تلقي رسالة جديده في الإعلان."
+
+#: inc/options-init.php:1646
+msgid "Ad Post Settings"
+msgstr "إعدادات مشاركه الإعلانات"
+
+#: inc/options-init.php:1655
+msgid "Turn On Category Template"
+msgstr "تشغيل قالب الفئة"
+
+#: inc/options-init.php:1661
+msgid "Strict image mode"
+msgstr "وضع الصورة الصارمة"
+
+#: inc/options-init.php:1662
+msgid "Not allowed less than 760x410"
+msgstr "غير مسموح به أقل من 760x410"
+
+#: inc/options-init.php:1668
+msgid "Ad image set limit"
+msgstr "تحديد صورة"
+
+#: inc/options-init.php:1700
+msgid "Ad image max size"
+msgstr "حجم الإعلان صوره الحد الأقصى"
+
+#: inc/options-init.php:1728
+msgid "Display Price type option."
+msgstr "خيار عرض نوع السعر."
+
+#: inc/options-init.php:1744
+msgid "Price Types"
+msgstr "أنواع الأسعار"
+
+#: inc/options-init.php:1757
+msgid "Update Ad Notice"
+msgstr "تحديث إشعار الإعلان"
+
+#: inc/options-init.php:1763
+msgid "Allow make featured ad"
+msgstr "السماح بعمل إعلان مميز"
+
+#: inc/options-init.php:1764 inc/options-init.php:1771
+msgid "on ad post."
+msgstr "علي وظيفة الإعلان."
+
+#: inc/options-init.php:1770
+msgid "Featured ad description"
+msgstr "وصف الإعلان المميز"
+
+#: inc/options-init.php:1779
+msgid "Allow Pdf Brochure on ad"
+msgstr "السماح لكتيب Pdf على الإعلان"
+
+#: inc/options-init.php:1780
+msgid "Pdf Brochure on ad post."
+msgstr "Pdf كتيب على وظيفة إعلانية."
+
+#: inc/options-init.php:1786
+msgid "Brochure limit in MB"
+msgstr "حد الكتيب في MB"
+
+#: inc/options-init.php:1812
+msgid "Brochure Upload limit"
+msgstr "حد تحميل الكتيب"
+
+#: inc/options-init.php:1813 inc/options-init.php:1849
+#: inc/options-init.php:1857 inc/options-init.php:1865
+msgid "Only numeric value"
+msgstr "القيمة الرقمية فقط"
+
+#: inc/options-init.php:1821
+msgid "Select Brochure"
+msgstr "حدد الكتيب"
+
+#: inc/options-init.php:1827
+msgid "Message for Brochure size"
+msgstr "رسالة لحجم الكتيب"
+
+#: inc/options-init.php:1834
+msgid "Title of Advertise an ad"
+msgstr "عنوان الإعلان عن إعلان"
+
+#: inc/options-init.php:1835
+msgid "Advertise an ad"
+msgstr "الإعلان عن إعلان"
+
+#: inc/options-init.php:1841
+msgid "Allow Video on ad"
+msgstr "السماح بفيديو على الإعلان"
+
+#: inc/options-init.php:1842
+msgid "video on ad post."
+msgstr "فيديو على نشر الإعلان."
+
+#: inc/options-init.php:1848
+msgid "Video limit in MB"
+msgstr "حد الفيديو في MB"
+
+#: inc/options-init.php:1856
+msgid "Video duration in seconds"
+msgstr "مدة الفيديو بالثواني"
+
+#: inc/options-init.php:1864
+msgid "Video Upload Limit"
+msgstr "حد تحميل الفيديو"
+
+#: inc/options-init.php:1872
+msgid "Title of select video"
+msgstr "عنوان فيديو محدد"
+
+#: inc/options-init.php:1879
+msgid "Title of Upload video"
+msgstr "عنوان تحميل الفيديو"
+
+#: inc/options-init.php:1886
+msgid "Message for video size"
+msgstr "رسالة لحجم الفيديو"
+
+#: inc/options-init.php:1893
+msgid "Message for video duration"
+msgstr "رسالة لمدة الفيديو"
+
+#: inc/options-init.php:1894
+msgid "Maximum duration should be 60 seconds"
+msgstr "يجب أن تكون المدة القصوى 60 ثانية"
+
+#: inc/options-init.php:1900
+msgid "Allowed video Quality"
+msgstr "جودة الفيديو المسموح بها"
+
+#: inc/options-init.php:1914
+msgid "Message for video format"
+msgstr "رسالة لتنسيق الفيديو"
+
+#: inc/options-init.php:1915
+msgid "only mp4 format supported"
+msgstr "فقط mp4 تنسيق معتمد"
+
+#: inc/options-init.php:1921
+msgid "Allow Video Trim"
+msgstr "السماح بتقطع الفيديو"
+
+#: inc/options-init.php:1922
+msgid "video Trim Yes/No."
+msgstr "فيديو تقليم نعم / لا."
+
+#: inc/options-init.php:1929
+msgid "Allow Video compress"
+msgstr "السماح بضغط الفيديو"
+
+#: inc/options-init.php:1930
+msgid "video compress Yes/No."
+msgstr "ضغط الفيديو نعم/لا."
+
+#: inc/options-init.php:1937
+msgid "Select Compression Level"
+msgstr "تحديد مستوى الضغط"
+
+#: inc/options-init.php:1939
+msgid "Low"
+msgstr "منخفض"
+
+#: inc/options-init.php:1940
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/options-init.php:1948
+msgid "Message for video uploading"
+msgstr "رسالة لتحميل الفيديو"
+
+#: inc/options-init.php:1949
+msgid "Please wait video uploading is in progress"
+msgstr "الرجاء الانتظار تحميل الفيديو قيد التقدم"
+
+#: inc/options-init.php:1956
+msgid "Allow immatriculationapi"
+msgstr "السماح immatriculationapi"
+
+#: inc/options-init.php:1957
+msgid "Allow search from immatriculationapi.com"
+msgstr "السماح بالبحث من immatriculationapi.com"
+
+#: inc/options-init.php:1963
+msgid "User name for API"
+msgstr "اسم المستخدم لـ API"
+
+#: inc/options-init.php:1964
+msgid "tomberapic"
+msgstr "tomberapic"
+
+#: inc/options-init.php:1970
+msgid "Allow Registration Field"
+msgstr "السماح حقل التسجيل"
+
+#: inc/options-init.php:1971
+msgid "Show Registration Field Yes/No."
+msgstr "إظهار حقل التسجيل نعم/لا."
+
+#: inc/options-init.php:1978
+msgid "Placeholder for API field"
+msgstr "عنصر نائب لحقل API"
+
+#: inc/options-init.php:1979
+msgid "AA-123-BB ou 1234AA75"
+msgstr "AA-123-BB ou 1234AA75"
+
+#: inc/options-init.php:1986
+msgid "Ad View Settings"
+msgstr "إعدادات عرض الإعلانات"
+
+#: inc/options-init.php:1996 inc/options-init.php:2004
+msgid "Advertisement"
+msgstr "إعلانات"
+
+#: inc/options-init.php:1997 inc/options-init.php:2005
+msgid "720 x 90"
+msgstr "720 x 90"
+
+#: inc/options-init.php:1998
+msgid "Above the Ad description"
+msgstr "أعلاه وصف الإعلان"
+
+#: inc/options-init.php:2006
+msgid "Below the Ad description"
+msgstr "وصف الإعلان المميز"
+
+#: inc/options-init.php:2012
+msgid "Ad Search Settings"
+msgstr "إعدادات البحث عن الإعلانات"
+
+#: inc/options-init.php:2036
+msgid "On ad details page"
+msgstr "في صفحه تفاصيل الإعلان"
+
+#: inc/options-init.php:2047
+msgid "Provide search page price slider min. value"
+msgstr "توفير سعر صفحة البحث شريط التمرير دقيقة القيمة"
+
+#: inc/options-init.php:2048 inc/options-init.php:2056
+msgid "This must be numeric without any comma or full stop."
+msgstr "يجب أن يكون هذا رقميًا بدون أي فاصلة أو إيقاف كامل."
+
+#: inc/options-init.php:2055
+msgid "Provide search page price slider max. value"
+msgstr "توفير الحد الأقصى لشريط تمرير سعر صفحة البحث. قيمه"
+
+#: inc/options-init.php:2065
+msgid "Ad Rating Settings"
+msgstr "تنظیمات امتیاز دهی پروفایل"
+
+#: inc/options-init.php:2074
+msgid "Rating on ad"
+msgstr "امتیازدهی"
+
+#: inc/options-init.php:2080
+msgid "Allow update the rating"
+msgstr "السماح بتحديث التصنيف"
+
+#: inc/options-init.php:2087
+msgid "Rating section title"
+msgstr "عنوان قسم التصنيف"
+
+#: inc/options-init.php:2094
+msgid "Email to Author on rating"
+msgstr "البريد الكتروني إلى الكاتب علي تصنيف"
+
+#: inc/options-init.php:2101
+msgid "Email to Author on reply"
+msgstr "البريد الإلكتروني إلى الكاتب على الرد"
+
+#: inc/options-init.php:2108
+msgid "Rating show at most"
+msgstr "عرض التقييم علي الأكثر"
+
+#: inc/options-init.php:2121
+msgid "Woo Products"
+msgstr "وو المنتجات"
+
+#: inc/options-init.php:2136
+msgid "Select Products"
+msgstr "اختر منتجات"
+
+#: inc/options-init.php:2141
+msgid "Select Payment Packages"
+msgstr "الباقات"
+
+#: inc/options-init.php:2149
+msgid "Payment Methods For Android App"
+msgstr "طرق الدفع لالروبوت التطبيق"
+
+#: inc/options-init.php:2150
+msgid "Select the payment methods you want to add."
+msgstr "حدد طرق الدفع التي تريد اضافتها."
+
+#: inc/options-init.php:2160
+msgid "Payment Methods IOS App"
+msgstr "تطبيق طرق الدفع IOS"
+
+#: inc/options-init.php:2161
+msgid "Note ios only uses InApp Purchase"
+msgstr "ملاحظه ios يستخدم فقط شراء inapp"
+
+#: inc/options-init.php:2171
+msgid "Users"
+msgstr "المستخدمين"
+
+#: inc/options-init.php:2179
+msgid "Phone verfication"
+msgstr "الهاتف"
+
+#: inc/options-init.php:2181
+msgid ""
+"If phone verification is on then system put verified batch to ad details on "
+"number so other can see this number is verified."
+msgstr ""
+"إذا كان التحقق من الهاتف علي ثم وضع النظام دفعه التحقق منها لتفاصيل الإعلان "
+"علي عدد بحيث يمكن رؤية الآخرين هذا الرقم يتم التحقق."
+
+#: inc/options-init.php:2186
+msgid "Resend security code"
+msgstr "أعاده إرسال رمز الأمان"
+
+#: inc/options-init.php:2187
+msgid "In seconds"
+msgstr "في ثواني"
+
+#: inc/options-init.php:2188
+msgid "Only integer value without spaces, 30 means 30-seconds"
+msgstr "قيمه العدد الصحيح فقط بدون مسافات ، 30 يعني 30 ثانيه"
+
+#: inc/options-init.php:2195
+msgid "Change phone number while ad posting."
+msgstr "تغيير رقم الهاتف اثناء نشر الإعلان."
+
+#: inc/options-init.php:2196
+msgid ""
+"If off then only user profile number will be display and can not be "
+"changeable."
+msgstr ""
+"إذا إيقاف ثم فقط سيتم عرض رقم ملف تعريف المستخدم ولا يمكن ان تكون قابله "
+"للتغيير."
+
+#: inc/options-init.php:2202
+msgid "Welcome Email to User"
+msgstr "مرحبا بالبريد الكتروني للمستخدم"
+
+#: inc/options-init.php:2208
+msgid "New user email verification"
+msgstr "التحقق من البريد الكتروني مستخدم جديد"
+
+#: inc/options-init.php:2210
+msgid ""
+"If verfication on then please update your new user email template by "
+"verification link."
+msgstr ""
+"إذا الإسهاب علي ثم الرجاء تحديث قالب البريد الكتروني المستخدم الجديد عن طريق "
+"التحقق من الارتباط."
+
+#: inc/options-init.php:2218
+msgid "Select Page"
+msgstr "اختر صفحة"
+
+#: inc/options-init.php:2219
+msgid "Terms and Conditions"
+msgstr "الأحكام والشروط"
+
+#: inc/options-init.php:2220
+msgid "Specially for General Data Protection Regulation (GDPR)"
+msgstr "خصيصا لنظام حماية البيانات العامة (gdpr)"
+
+#: inc/options-init.php:2225
+msgid "Term and Condition Text"
+msgstr "نص المصطلح والشرط"
+
+#: inc/options-init.php:2227
+msgid ""
+"Terms and Condition text next to checkbox. Leave empty if you want to show "
+"default text"
+msgstr ""
+"نص الشروط والاحكام بجوار مربع الاختيار. ترك فارغا إذا كنت تريد إظهار النص "
+"الافتراضي"
+
+#: inc/options-init.php:2232
+msgid "Show Delete button"
+msgstr "زر إظهار الحذف"
+
+#: inc/options-init.php:2234
+msgid ""
+"Show delete button on user profile. Due to General Data Protection "
+"Regulation (GDPR) policy. Note: This will delete the entire data from the "
+"database and can not be recovered."
+msgstr ""
+"إظهار زر الحذف في ملف تعريف المستخدم. بسبب سياسة التنظيم العام لحماية "
+"البيانات. ملاحظه: هذا سيتم حذف البيانات بأكملها من قاعده البيانات ولا يمكن "
+"استردادها."
+
+#: inc/options-init.php:2240
+msgid "Delete Popup Text"
+msgstr "حذف نص منبثق"
+
+#: inc/options-init.php:2242
+msgid "Popup text after delete link clicked."
+msgstr "النقر فوق النص المنبثق بعد حذف الارتباط."
+
+#: inc/options-init.php:2249
+msgid "Allow users to block anyone and stop seeing his ads."
+msgstr "السماح للمستخدمين بمنع اي شخص والتوقف عن رؤية إعلاناته."
+
+#: inc/options-init.php:2255
+msgid "Default user picture"
+msgstr "صورة المستخدم الإفتراضية"
+
+#: inc/options-init.php:2257 inc/options-init.php:2266
+msgid "Dimensions: 200 x 200"
+msgstr "الأبعاد: 200 × 200"
+
+#: inc/options-init.php:2264
+msgid "Default guest picture"
+msgstr "صوره الضيف الافتراضية"
+
+#: inc/options-init.php:2272
+msgid "User profile tab one text"
+msgstr "علامة تبويب ملف تعريف المستخدم نص واحد"
+
+#: inc/options-init.php:2278
+msgid "User profile tab two text"
+msgstr "علامة تبويب ملف تعريف المستخدم نصان"
+
+#: inc/options-init.php:2284
+msgid "User profile tab three text"
+msgstr "علامة تبويب ملف تعريف المستخدم ثلاثة نص"
+
+#: inc/options-init.php:2290
+msgid "Show address field in Profile"
+msgstr "إظهار حقل العنوان في ملف التعريف"
+
+#: inc/options-init.php:2292
+msgid "Show address field in profile for individual user."
+msgstr "إظهار حقل العنوان في ملف التعريف للمستخدم الفردي."
+
+#: inc/options-init.php:2297
+msgid "Admob Settings"
+msgstr "إعدادات Admob"
+
+#: inc/options-init.php:2305
+msgid "Want to turn on AdMob banners"
+msgstr "تريد تشغيل لافتات AdMob"
+
+#: inc/options-init.php:2307 inc/options-init.php:2335
+msgid "YES"
+msgstr "نعم"
+
+#: inc/options-init.php:2308 inc/options-init.php:2336
+msgid "NO"
+msgstr "لا"
+
+#: inc/options-init.php:2309 inc/options-init.php:2337
+msgid "When you turn this on you have to provide more detail"
+msgstr "عند تشغيل هذا عليك ان توفر المزيد من التفاصيل"
+
+#: inc/options-init.php:2314
+msgid "Select Banner Postion"
+msgstr "اختر شعار الإعلان"
+
+#: inc/options-init.php:2325
+msgid "Banner ad ID"
+msgstr "معرف إعلان البانر"
+
+#: inc/options-init.php:2328
+msgid "Please provide Banner id"
+msgstr "الرجاء تقديم معرف الشعار"
+
+#: inc/options-init.php:2333
+msgid "Want to turn on interstitial ads"
+msgstr "تريد تشغيل الإعلانات البينية"
+
+#: inc/options-init.php:2342
+msgid "Interstitial ad interval"
+msgstr "فاصل الإعلانات البينية"
+
+#: inc/options-init.php:2344
+msgid ""
+"Please provide interstitial ads interval in miliseconds eg. 1000 "
+"milliseconds  = 1 second"
+msgstr ""
+"يرجى تقديم الفاصل الزمني للإعلانات الخلالي في ملليثانيه eg. 1000 مللي ثانيه "
+"= 1 ثانيه"
+
+#: inc/options-init.php:2349
+msgid "Interstitial ad ID"
+msgstr "معرف الإعلان البيني"
+
+#: inc/options-init.php:2352
+msgid "Please provide Interstitial ad id"
+msgstr "يرجى تقديم معرف الإعلان البيني"
+
+#: inc/options-init.php:2358
+msgid "Email Templates"
+msgstr "قالب البريد"
+
+#: inc/options-init.php:2366
+msgid "App Contact Form"
+msgstr "نموذج الاتصال بالتطبيق"
+
+#: inc/options-init.php:2375
+msgid "Contact App Subject"
+msgstr "الاتصال بموضوع التطبيق"
+
+#: inc/options-init.php:2376
+msgid "%site_name% , %app_name% will be translated accordingly."
+msgstr "%site_name%,% app_name% سيترجم وفقا لذلك."
+
+#: inc/options-init.php:2377
+msgid "A New Contact Email Reveived - "
+msgstr "بريد الكتروني جديد لجهة الاتصال ريفيفيد- "
+
+#: inc/options-init.php:2382
+msgid "Contact App FROM"
+msgstr "الاتصال بالتطبيق من"
+
+#: inc/options-init.php:2383
+msgid "NAME valid@email.com is compulsory as we gave in default."
+msgstr "اسم valid@email.com إلزامي كما أعطينا في التقصير."
+
+#: inc/options-init.php:2389
+msgid "Contact Email Receive On"
+msgstr "الاتصال بالبريد الكتروني تلقي علي"
+
+#: inc/options-init.php:2390
+msgid ""
+"Send the contact email on custom select email. If no email is enter then it "
+"will send to site admin."
+msgstr ""
+"إرسال البريد الكتروني جهة الاتصال علي تحديد البريد الكتروني المخصص. إذا لم "
+"يتم إدخال البريد الكتروني ثم فانه سيتم إرسالها إلى موقع المشرف."
+
+#: inc/options-init.php:2395
+msgid "Contact App Email"
+msgstr "اتصل بالبريد الكتروني التطبيق"
+
+#: inc/options-init.php:2396
+msgid ""
+"%site_name% , %app_name%, %sender_name%, %sender_email%, %sender_subject%, "
+"%sender_desc%  will be translated accordingly."
+msgstr ""
+"%site_name%,% app_name%, %sender_name%, %sender_email%, %sender_subject%, "
+"%sender_desc% سيتم ترجمته وفقا لذلك."
+
+#: inc/options-init.php:2408
+msgid "WPML Settings"
+msgstr "إعدادات الرابطة"
+
+#: inc/options-init.php:2416
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/options-init.php:2424
+msgid "Enable WPML"
+msgstr "تمكين WPML"
+
+#: inc/options-init.php:2425 inc/options-init.php:2432
+msgid "Note: Before enable this switch WPML plugin must be active."
+msgstr "ملاحظه: قبل تمكين هذا التبديل يجب ان تكون نشطه المساعد W.PBE."
+
+#: inc/options-init.php:2431
+msgid "Display Languages in Menu"
+msgstr "عرض اللغات في القائمة"
+
+#: inc/options-init.php:2439
+msgid "Select Your Language Title"
+msgstr "اختر عنوان لغتك"
+
+#: inc/options-init.php:2440
+msgid "Set the title for Select Your Language"
+msgstr "تعيين العنوان لتحديد لغتك"
+
+#: inc/options-init.php:2448
+msgid "Languages"
+msgstr "اللغات"
+
+#: inc/options-init.php:2457
+msgid "Duplicate"
+msgstr "تكرار"
+
+#: inc/options-init.php:2458
+msgid ""
+"Enable this option to duplicate post in all other languages after successful "
+"publish."
+msgstr "تمكين هذا الخيار لتكرار النشر بكافة اللغات الأخرى بعد النشر الناجح."
+
+#: inc/options-init.php:2459
+msgid "Note: Disable means the posts publish only in the current language."
+msgstr "ملاحظه: التعطيل يعني نشر المشاركات فقط باللغة الحالية."
+
+#: inc/options-init.php:2466
+msgid "Display Posts)"
+msgstr "عرض المشاركات"
+
+#: inc/options-init.php:2467
+msgid ""
+"Enable this option to display all other languages post in current language."
+msgstr "تمكين هذا الخيار لعرض كافة اللغات الأخرى المنشورة باللغة الحالية."
+
+#: inc/options-init.php:2468
+msgid "Note: Disable means to display only current language post."
+msgstr "ملاحظه: تعطيل الوسائل لعرض وظيفة اللغة الحالية فقط."
+
+#: inc/options-init.php:2476
+msgid "WPML logo"
+msgstr "شعار WPML"
+
+#: inc/options-init.php:2478
+msgid "Upload WPML logo for your App."
+msgstr "تحميل شعار الرابطة للتطبيق الخاص بك."
+
+#. Plugin Name of the plugin/theme
+msgid "Carspot Apps API"
+msgstr "تطبيقات carspot API"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://codecanyon.net/user/scriptsbundle"
+msgstr "https://codecanyon.net/user/scriptsbundle"
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the Carspot android and ios apps."
+msgstr "هذا المساعد ضروري لتطبيقات Carspot الروبوت ودائره الرقابة الخارجية."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "حزمه مخطوطات"

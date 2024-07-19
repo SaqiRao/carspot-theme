@@ -1,0 +1,2502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Carspot Elementor Widgets\n"
+"POT-Creation-Date: 2022-04-19 12:05+0500\n"
+"PO-Revision-Date: 2022-04-19 12:05+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: carspot-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: carspot-elementor.php:58
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "\"%1$s\" nécessite \"%2$s\" pour être installé et activé."
+
+#: carspot-elementor.php:59 carspot-elementor.php:71
+msgid "Carspot Elementor Widgets "
+msgstr "Carspot Elementor Widgets"
+
+#: carspot-elementor.php:60 carspot-elementor.php:84
+msgid "Elementor "
+msgstr "Elementor"
+
+#: carspot-elementor.php:70 carspot-elementor.php:83
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"%1$s\" requiers \"%2$s\" en version %3$s ou supérieure."
+
+#: carspot-elementor.php:72
+msgid "Elementor"
+msgstr "Elementor"
+
+#: carspot-elementor.php:85
+msgid "PHP"
+msgstr "PHP"
+
+#: plugin.php:124
+msgid "Carspot Widgets"
+msgstr "Carspot Elementor Widgets"
+
+#: shortcodes-html.php:27 shortcodes-html.php:29 shortcodes-html.php:124
+#: shortcodes-html.php:180 shortcodes-html.php:182 shortcodes-html.php:2369
+#: shortcodes-html.php:2375 shortcodes-html.php:2641 shortcodes-html.php:2643
+#: shortcodes-html.php:2761 shortcodes-html.php:2762 shortcodes-html.php:3854
+#: shortcodes-html.php:6259 shortcodes-html.php:6261 shortcodes-html.php:6460
+#: shortcodes-html.php:6463
+msgid "Image Not Found"
+msgstr "Image non trouvée"
+
+#: shortcodes-html.php:540
+msgid "Do you want to make this ad <strong> featured </strong>!"
+msgstr "Voulez-vous mettre cette annonce en <strong> PREMIUM </strong>!"
+
+#: shortcodes-html.php:552
+msgid "This is a FREE ad. You may upgrade it now! See our PACKAGES"
+msgstr ""
+"Il s'agit d'une annonce gratuite. Vous pouvez le mettre à jour maintenant ! "
+"Voir nos forfaits"
+
+#: shortcodes-html.php:554 shortcodes-html.php:562
+msgid "Packages. "
+msgstr "Forfaits. "
+
+#: shortcodes-html.php:560
+msgid ""
+"If you want to make it <strong>Featured</strong> then please have a look on"
+msgstr ""
+"Si vous voulez le faire en <strong>Premium</strong> alors s'il vous plaît "
+"avoir un coup d'oeil sur"
+
+#: shortcodes-html.php:569
+msgid "This ad is already FEATURED"
+msgstr "Cette annonce est déjà en PREMIUM"
+
+#: shortcodes-html.php:579
+msgid "Bump it up on the top of the list!"
+msgstr "Remonter les annonces!"
+
+#: shortcodes-html.php:592
+msgid "Select Your Country"
+msgstr "Sélectionnez votre pays"
+
+#: shortcodes-html.php:593
+msgid "Select Your State"
+msgstr "Sélectionnez votre région"
+
+#: shortcodes-html.php:594
+msgid "Select Your City"
+msgstr "Sélectionnez votre ville"
+
+#: shortcodes-html.php:595
+msgid "Select Your Town"
+msgstr "Sélectionnez votre ville"
+
+#: shortcodes-html.php:627
+msgid "PDF Brochure:"
+msgstr "Brochure PDF"
+
+#: shortcodes-html.php:627 shortcodes-html.php:1002
+msgid "You can upload "
+msgstr "vous pouvez télécharger"
+
+#: shortcodes-html.php:627
+msgid " pdf brochures with size "
+msgstr " brochures pdf avec taille "
+
+#: shortcodes-html.php:654
+msgid "Price Type"
+msgstr "Type de prix"
+
+#: shortcodes-html.php:656
+msgid "None"
+msgstr "Aucun"
+
+#: shortcodes-html.php:657
+msgid "Fixed"
+msgstr "Fixé"
+
+#: shortcodes-html.php:658
+msgid "Negotiable"
+msgstr "Négociable"
+
+#: shortcodes-html.php:659
+msgid "Price on call"
+msgstr "Prix ​​sur appel"
+
+#: shortcodes-html.php:660
+msgid "Free"
+msgstr "Gratuit"
+
+#: shortcodes-html.php:661
+msgid "No price"
+msgstr "Pas de prix"
+
+#: shortcodes-html.php:669
+msgid "Price"
+msgstr "Prix"
+
+#: shortcodes-html.php:669
+msgid "only"
+msgstr "seulement"
+
+#: shortcodes-html.php:670
+msgid "Can't be empty and only integers allowed."
+msgstr "Ne peut pas être vide et seuls les nombres entiers sont autorisés."
+
+#: shortcodes-html.php:679
+msgid "Photos for your ad"
+msgstr "Photos pour votre annonce"
+
+#: shortcodes-html.php:679
+msgid "Only allowed jpg, png and jpeg and max file will not more than"
+msgstr ""
+"Autoriser uniquement les fichiers jpg, png et jpeg et max ne dépassera pas"
+
+#: shortcodes-html.php:685
+msgid "Youtube Video Link"
+msgstr "Lien vidéo Youtube"
+
+#: shortcodes-html.php:691
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: shortcodes-html.php:691
+msgid "Comma(,) sepataed"
+msgstr "Séparés par des virgules"
+
+#: shortcodes-html.php:716 shortcodes-html.php:892 shortcodes-html.php:917
+#: shortcodes-html.php:942 shortcodes-html.php:953 shortcodes-html.php:1070
+#: shortcodes-html.php:1079 shortcodes-html.php:1136 shortcodes-html.php:1140
+msgid "This field is required."
+msgstr "Ce champ est requis."
+
+#: shortcodes-html.php:773
+msgid "Drag pin for your pin-point location."
+msgstr "Faites glisser la broche pour votre emplacement précis."
+
+#: shortcodes-html.php:882 widgets/ads_google_map.php:98
+msgid "Latitude"
+msgstr "Latitude"
+
+#: shortcodes-html.php:886 widgets/ads_google_map.php:107
+msgid "Longitude"
+msgstr "Longitude"
+
+#: shortcodes-html.php:914
+msgid "ON"
+msgstr "ON"
+
+#: shortcodes-html.php:915
+msgid "OFF"
+msgstr "OFF"
+
+#: shortcodes-html.php:941 widgets/contact_us.php:61
+msgid "Address"
+msgstr "Adresse"
+
+#: shortcodes-html.php:942
+msgid "Search Location"
+msgstr "Rechercher"
+
+#: shortcodes-html.php:1002
+msgid "Upload Video: "
+msgstr "Télécharger la vidéo: "
+
+#: shortcodes-html.php:1002
+msgid " videos (mp4, ogg, webm) with size "
+msgstr " vidéos (mp4, ogg, webm) avec la taille "
+
+#: shortcodes-html.php:1004
+msgid "Drop video here or click to upload"
+msgstr "Déposez la vidéo ici ou cliquez pour télécharger"
+
+#: shortcodes-html.php:1020
+msgid "VIN Number"
+msgstr "Imatriculation"
+
+#: shortcodes-html.php:1041
+msgid "Choose Stamp"
+msgstr "Poster le commentaire"
+
+#: shortcodes-html.php:1069 widgets/about-us-fancy.php:175
+#: widgets/ad_post.php:106 widgets/apps-classic.php:122
+#: widgets/apps-classic.php:155 widgets/apps-simple.php:70
+#: widgets/apps-simple.php:103 widgets/apps-simple.php:136
+#: widgets/call_to_action.php:53 widgets/call_to_action_two.php:53
+#: widgets/fun_facts.php:95 widgets/process_cycle.php:105
+#: widgets/process_cycle.php:139 widgets/process_cycle.php:173
+#: widgets/testimonial.php:99 widgets/testimonial_two.php:99
+#: widgets/why_us.php:99
+msgid "Title"
+msgstr "Titre"
+
+#: shortcodes-html.php:1070
+msgid "Enter title"
+msgstr "Saisir le titre de l'annonce"
+
+#: shortcodes-html.php:1078
+msgid "Select suitable category for your ad"
+msgstr "Sélectionnez la catégorie appropriée pour votre annonce"
+
+#: shortcodes-html.php:1080 shortcodes-html.php:4842
+msgid "Select Option"
+msgstr "sélectionner une option"
+
+#: shortcodes-html.php:1116
+msgid "Ad Description"
+msgstr "Description de l'annonce"
+
+#: shortcodes-html.php:1116
+msgid "Enter long description for your project"
+msgstr "Entrez une description détaillée de votre projet"
+
+#: shortcodes-html.php:1128
+msgid "User Information"
+msgstr "informations de l'utilisateur"
+
+#: shortcodes-html.php:1135
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: shortcodes-html.php:1139
+msgid "Mobile Number"
+msgstr "Numéro de portable"
+
+#: shortcodes-html.php:1151
+msgid "Post My Ad"
+msgstr "Publier mon annonce"
+
+#: shortcodes-html.php:1175
+msgid "Drop files here to upload"
+msgstr "Glissez/déposez vos fichiers ici"
+
+#: shortcodes-html.php:1176
+msgid "Your browser does not support drag'n'drop file uploads."
+msgstr ""
+"Votre navigateur ne supporte pas le téléchargement par glisser-déposer."
+
+#: shortcodes-html.php:1177
+msgid ""
+"Please use the fallback form below to upload your files like in the olden "
+"days."
+msgstr ""
+"Veuillez utiliser le formulaire ci-dessous pour télécharger vos fichiers "
+"comme l’ancienne méthode."
+
+#: shortcodes-html.php:1178
+msgid ""
+"File is too big ({{ filesize }}MiB). Max filesize: {{ maxFilesize }}MiB."
+msgstr ""
+"Le fichier est trop grand ({{filesize}}MiB). Taille maximale du fichier : "
+"{{maxFilesize}}MiB"
+
+#: shortcodes-html.php:1179
+msgid "You can't upload files of this type."
+msgstr "Vous ne pouvez pas envoyer des fichiers de ce type."
+
+#: shortcodes-html.php:1180
+msgid "Server responded with {{ statusCode }} code."
+msgstr "Le serveur a répondu avec le code {{statusCode}}"
+
+#: shortcodes-html.php:1181
+msgid "Cancel upload"
+msgstr "Annuler le téléchargement"
+
+#: shortcodes-html.php:1182
+msgid "Are you sure you want to cancel this upload?"
+msgstr "Êtes-vous certain(e) de vouloir annuler ce téléchargement ?"
+
+#: shortcodes-html.php:1183
+msgid "Remove file"
+msgstr "Supprimer le fichier"
+
+#: shortcodes-html.php:1184
+msgid "You can not upload any more files."
+msgstr "Vous ne pouvez pas télécharger d'autres fichiers."
+
+#: shortcodes-html.php:1185
+msgid "Images are required."
+msgstr "Des images sont requises."
+
+#: shortcodes-html.php:1186
+msgid "Logo is required."
+msgstr "Le logo est requis."
+
+#: shortcodes-html.php:1192
+msgid "Videos are required."
+msgstr "Des vidéos sont nécessaires."
+
+#: shortcodes-html.php:1694
+msgid "Featured"
+msgstr "En Premium"
+
+#: shortcodes-html.php:1806
+msgid "Previous point on map"
+msgstr "Point précédent sur la carte"
+
+#: shortcodes-html.php:1806
+msgid "Prev"
+msgstr "Précédent"
+
+#: shortcodes-html.php:1807
+msgid "Next point on map"
+msgstr "Prochain point sur la carte"
+
+#: shortcodes-html.php:1807
+msgid "Next"
+msgstr "Suivant"
+
+#: shortcodes-html.php:2069
+msgid "app image"
+msgstr "image de l'application"
+
+#: shortcodes-html.php:2199
+msgid "Avatar"
+msgstr "Avatar"
+
+#: shortcodes-html.php:2209
+msgid "comments"
+msgstr "commentaires"
+
+#: shortcodes-html.php:2214
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: shortcodes-html.php:2554 shortcodes-html.php:2556 shortcodes-html.php:2562
+#: shortcodes-html.php:2564
+msgid "car image"
+msgstr "image de voiture"
+
+#: shortcodes-html.php:2836
+msgid "View All"
+msgstr "Afficher tout"
+
+#: shortcodes-html.php:2957 shortcodes-html.php:2961
+msgid "clients"
+msgstr "clients"
+
+#: shortcodes-html.php:3067 shortcodes-html.php:3077
+msgid "imag not found"
+msgstr "image introuvable"
+
+#: shortcodes-html.php:3074
+msgid "vs"
+msgstr "vs"
+
+#: shortcodes-html.php:3519 shortcodes-html.php:3521 shortcodes-html.php:3643
+#: shortcodes-html.php:3645
+msgid "Package Validity"
+msgstr "Validité du Pack"
+
+#: shortcodes-html.php:3519 shortcodes-html.php:3643
+msgid "Lifetime"
+msgstr "Durée de vie"
+
+#: shortcodes-html.php:3521 shortcodes-html.php:3645
+msgid "Days"
+msgstr "Journées"
+
+#: shortcodes-html.php:3525 shortcodes-html.php:3530 shortcodes-html.php:3535
+#: shortcodes-html.php:3649 shortcodes-html.php:3654 shortcodes-html.php:3659
+msgid "Unlimited"
+msgstr "Illimité"
+
+#: shortcodes-html.php:3526 shortcodes-html.php:3650 widgets/ads.php:98
+#: widgets/ads_google_map.php:58 widgets/ads_slider.php:103
+msgid "Simple Ads"
+msgstr "Annonces Simples"
+
+#: shortcodes-html.php:3531 shortcodes-html.php:3655 widgets/ads.php:97
+#: widgets/ads_google_map.php:57 widgets/ads_slider.php:102
+msgid "Featured Ads"
+msgstr "Annonces en vedette"
+
+#: shortcodes-html.php:3536 shortcodes-html.php:3660
+msgid "Bump-up Ads"
+msgstr "Remonter les annonces"
+
+#: shortcodes-html.php:3579 shortcodes-html.php:3679
+msgid "Select Plan"
+msgstr "Sélectionnez le plan"
+
+#: shortcodes-html.php:4130 shortcodes-html.php:4132 shortcodes-html.php:4644
+#: shortcodes-html.php:4646 widgets/search_bar_minimal.php:72
+#: widgets/search_fancy.php:110 widgets/search_modern.php:73
+msgid "Select Make"
+msgstr "Sélectionner la Marque"
+
+#: shortcodes-html.php:4139 shortcodes-html.php:4141 shortcodes-html.php:4654
+#: shortcodes-html.php:4656
+msgid "Select Year"
+msgstr "Sélectionner l'année"
+
+#: shortcodes-html.php:4148 widgets/search_bar_minimal.php:150
+#: widgets/search_bar_minimal.php:159 widgets/search_tab_advance.php:132
+#: widgets/search_tab_advance.php:141
+msgid "Body Type"
+msgstr "Carrosserie"
+
+#: shortcodes-html.php:4150 shortcodes-html.php:5312
+#: widgets/search_bar_minimal.php:167 widgets/search_tab_advance.php:163
+msgid "Select Body Type"
+msgstr "Selectionner la carrosserie"
+
+#: shortcodes-html.php:4158 shortcodes-html.php:4664 shortcodes-html.php:4857
+#: shortcodes-html.php:5180 shortcodes-html.php:5903
+msgid "Search Now"
+msgstr "Rechercher maintenant"
+
+#: shortcodes-html.php:4199 shortcodes-html.php:4639 shortcodes-html.php:4835
+msgid "What Are You Looking For..."
+msgstr "Que cherchez vous…."
+
+#: shortcodes-html.php:4326 shortcodes-html.php:4967 shortcodes-html.php:5166
+#: shortcodes-html.php:5168 shortcodes-html.php:5276
+msgid "Select Make : Any make"
+msgstr "Selectionner Marque : Toutes les Marques"
+
+#: shortcodes-html.php:4331
+msgid "Audi A4 For Sale...."
+msgstr "Audi A4 à vendre...."
+
+#: shortcodes-html.php:4335 shortcodes-html.php:4976 shortcodes-html.php:5175
+msgid "Select Year : Any Year"
+msgstr "Sélectionner l’année : Toutes Années"
+
+#: shortcodes-html.php:4340 shortcodes-html.php:4465 shortcodes-html.php:4981
+msgid "Search"
+msgstr "Rechercher"
+
+#: shortcodes-html.php:4428
+msgid "image"
+msgstr "image"
+
+#: shortcodes-html.php:4455 widgets/ad_by_make.php:127 widgets/ads.php:202
+#: widgets/ads_google_map.php:147 widgets/ads_slider.php:149
+#: widgets/cat_classic.php:111 widgets/cats_fancy.php:128
+#: widgets/expert_reviews.php:111 widgets/reviews.php:107
+#: widgets/search_bar_minimal.php:92 widgets/search_tab_classified.php:167
+msgid "Select Category"
+msgstr "Sélectionner une catégorie"
+
+#: shortcodes-html.php:4461
+msgid "Eg Honda Civic , Audi , Ford..."
+msgstr "Ex. Seat Leon , Audi , BMW , Mercedes,..."
+
+#: shortcodes-html.php:4624
+msgid "Search Car In Details"
+msgstr "Recherche voiture en detail"
+
+#: shortcodes-html.php:4627
+msgid "Search Car By Type"
+msgstr "Recherche par type"
+
+#: shortcodes-html.php:4638 shortcodes-html.php:5162 shortcodes-html.php:5878
+#: widgets/search_bar_minimal.php:46 widgets/search_creative.php:46
+#: widgets/search_simple.php:46
+msgid "Keyword"
+msgstr "Mot-clé"
+
+#: shortcodes-html.php:5154 shortcodes-html.php:5870 shortcodes-html.php:5961
+#: shortcodes-html.php:6192 shortcodes-html.php:6557
+msgid "image not found"
+msgstr "image non trouvée"
+
+#: shortcodes-html.php:5163 shortcodes-html.php:5879
+msgid "What are you looking for..."
+msgstr "Qu'est-ce que tu cherches..."
+
+#: shortcodes-html.php:5173 shortcodes-html.php:5282
+msgid "Select Manufacturing Year"
+msgstr "Sélectionner l'année de fabrication"
+
+#: shortcodes-html.php:5185 shortcodes-html.php:5908
+msgid "Image not found"
+msgstr "Image introuvable"
+
+#: shortcodes-html.php:5288
+msgid "Select Condition"
+msgstr "Sélectionnez la condition"
+
+#: shortcodes-html.php:5294
+msgid "Select Tag"
+msgstr "Sélectionner un tag"
+
+#: shortcodes-html.php:5300
+msgid "Select Ad Type"
+msgstr "Selectionner le type d'annonce"
+
+#: shortcodes-html.php:5306
+msgid "Select Warranty"
+msgstr "Sélectionnez la garantie"
+
+#: shortcodes-html.php:5318
+msgid "Select Transmission"
+msgstr "Sélectionnez Transmission"
+
+#: shortcodes-html.php:5324
+msgid "Select Engine Size"
+msgstr "Sélectionnez taille du moteur"
+
+#: shortcodes-html.php:5330
+msgid "Select Engine Type"
+msgstr "Sélectionnez Type de moteur"
+
+#: shortcodes-html.php:5336
+msgid "Select Assemble"
+msgstr "Sélectionnez Assembler"
+
+#: shortcodes-html.php:5342
+msgid "Select Color"
+msgstr "Sélectionnez la couleur"
+
+#: shortcodes-html.php:5348
+msgid "Select Insurance"
+msgstr "Sélectionnez Assurance"
+
+#: shortcodes-html.php:5354
+msgid "Select Feature"
+msgstr "Sélectionner une fonction"
+
+#: shortcodes-html.php:5360
+msgid "Select Country"
+msgstr "Sélectionnez un pays"
+
+#: shortcodes-html.php:5366
+msgid "Choose Price"
+msgstr "Choisissez un prix libre conscient"
+
+#: shortcodes-html.php:5372
+msgid "Choose Location With Radius"
+msgstr "Choisissez l’emplacement avec radius"
+
+#: shortcodes-html.php:5378 widgets/search_side_form_two.php:619
+msgid "KM"
+msgstr "KM"
+
+#: shortcodes-html.php:5380 widgets/search_side_form_two.php:618
+msgid "Miles"
+msgstr "Miles"
+
+#: shortcodes-html.php:5427
+msgid "From"
+msgstr "De"
+
+#: shortcodes-html.php:5429
+msgid "Year From"
+msgstr "Année De"
+
+#: shortcodes-html.php:5432
+msgid "To"
+msgstr "À"
+
+#: shortcodes-html.php:5434
+msgid "Year To"
+msgstr "Année à"
+
+#: shortcodes-html.php:5811
+msgid "Search location"
+msgstr "Rechercher une destination"
+
+#: shortcodes-html.php:5812
+msgid "Select Radius"
+msgstr "Chercher dans un rayon de…"
+
+#: shortcodes-html.php:5814
+msgid "5"
+msgstr "5"
+
+#: shortcodes-html.php:5815
+msgid "10"
+msgstr "10"
+
+#: shortcodes-html.php:5816
+msgid "15"
+msgstr "15"
+
+#: shortcodes-html.php:5817
+msgid "20"
+msgstr "20"
+
+#: shortcodes-html.php:5818
+msgid "25"
+msgstr "25"
+
+#: shortcodes-html.php:5819
+msgid "35"
+msgstr "35"
+
+#: shortcodes-html.php:5820
+msgid "50"
+msgstr "50"
+
+#: shortcodes-html.php:5821
+msgid "100"
+msgstr "100"
+
+#: shortcodes-html.php:5822
+msgid "150"
+msgstr "150"
+
+#: shortcodes-html.php:5823
+msgid "200"
+msgstr "200"
+
+#: shortcodes-html.php:5824
+msgid "300"
+msgstr "300"
+
+#: shortcodes-html.php:5825
+msgid "500"
+msgstr "500"
+
+#: shortcodes-html.php:5826
+msgid "1000"
+msgstr "1000"
+
+#: shortcodes-html.php:6009 shortcodes-html.php:6132 shortcodes-html.php:6371
+msgid "Image Not Available"
+msgstr "Image non disponible"
+
+#: shortcodes-html.php:6738 shortcodes-html.php:6905 shortcodes-html.php:7074
+msgid "Reviews"
+msgstr "Comptes rendus"
+
+#: shortcodes-html.php:7129
+msgid "Sign in with Facebook"
+msgstr "Se connecter avec Facebook"
+
+#: shortcodes-html.php:7133 shortcodes-html.php:7220
+msgid "Google logo"
+msgstr "Logo Google"
+
+#: shortcodes-html.php:7133
+msgid "Sign in with Google"
+msgstr "Se connecter avec Google"
+
+#: shortcodes-html.php:7140 shortcodes-html.php:7228
+msgid "OR"
+msgstr "OU"
+
+#: shortcodes-html.php:7170
+msgid "Forgot Your Password ?"
+msgstr "Mot de passe oublié?"
+
+#: shortcodes-html.php:7216
+msgid "Sign up with Facebook"
+msgstr "S'inscrire avec Facebook"
+
+#: shortcodes-html.php:7220
+msgid "Sign up with Google"
+msgstr "S'inscrire avec Google"
+
+#: shortcodes-html.php:7245
+msgid "You did not get the e-mail? RESEND NOW"
+msgstr "Vous n'avez pas eu l'e-mail ? RETENTEZ MAINTENANT"
+
+#: shortcodes-html.php:7245
+msgid "Resend now."
+msgstr "Renvoyer maintenant."
+
+#: shortcodes-html.php:7251
+msgid "You still haven’t received the e-mail? Contact the Administrator"
+msgstr "Vous n'avez toujours pas reçu l'e-mail? Contactez l'administrateur"
+
+#: shortcodes-html.php:7251
+msgid "You still haven’t received the e-mail? Contact the Administrator."
+msgstr "Vous n'avez toujours pas reçu l'e-mail ? Contactez l'administrateur."
+
+#: widgets/about-us-fancy.php:17
+msgid "About Us Modern/Fancy"
+msgstr "À propos de Us Modern/Fancy"
+
+#: widgets/about-us-fancy.php:46 widgets/about-us-simple.php:46
+#: widgets/about-us.php:46
+msgid "About Us"
+msgstr "A propos de nous"
+
+#: widgets/about-us-fancy.php:54 widgets/about-us-simple.php:71
+#: widgets/about-us.php:83 widgets/buy_sell.php:103 widgets/buy_sell.php:176
+#: widgets/call_to_action_three.php:124 widgets/call_to_action_three.php:196
+#: widgets/car_inspection.php:154 widgets/quote.php:61
+#: widgets/search_fancy.php:81 widgets/search_tab_advance.php:150
+#: widgets/search_tab_classified.php:176 widgets/services_classic.php:78
+msgid "Image"
+msgstr "Image"
+
+#: widgets/about-us-fancy.php:56 widgets/about-us-simple.php:73
+#: widgets/about-us.php:85 widgets/our_team.php:125
+msgid "Recommended Size For Image should be 555x296.png"
+msgstr "La taille recommandée pour l’image devrait être 555x296.png"
+
+#: widgets/about-us-fancy.php:68 widgets/about-us-simple.php:53
+#: widgets/about-us.php:54 widgets/ad_by_location.php:79
+#: widgets/ad_by_make.php:78 widgets/ads.php:66 widgets/ads_slider.php:66
+#: widgets/advertisement_72-_90.php:66 widgets/apps-classic.php:73
+#: widgets/apps-simple.php:53 widgets/blog.php:66 widgets/buy_salse_hero.php:53
+#: widgets/buy_salse_hero.php:116 widgets/cat_classic.php:66
+#: widgets/cats_fancy.php:67 widgets/compare_posts.php:66
+#: widgets/expert_reviews.php:66 widgets/faq.php:66 widgets/faq.php:139
+#: widgets/our_team.php:73 widgets/packages.php:66
+#: widgets/packages_style_two.php:73 widgets/popular_cats.php:66
+#: widgets/process_cycle.php:66 widgets/reviews.php:66
+#: widgets/search_creative.php:53 widgets/search_fancy.php:53
+#: widgets/search_make_models.php:53 widgets/search_modern.php:53
+#: widgets/search_modern_two.php:62 widgets/search_side_form.php:53
+#: widgets/search_side_form_two.php:53 widgets/search_simple.php:53
+#: widgets/search_tab_advance.php:53 widgets/services.php:66
+#: widgets/services_classic.php:61 widgets/services_modern.php:87
+#: widgets/services_simple.php:66 widgets/services_three.php:66
+#: widgets/services_two.php:66 widgets/services_with_facts.php:66
+#: widgets/shop_products.php:66 widgets/shop_slider.php:66
+#: widgets/shop_tabs.php:66 widgets/testimonial.php:66
+#: widgets/testimonial_two.php:66 widgets/textblock.php:66
+#: widgets/why_us.php:66
+msgid "Section Title"
+msgstr "Titre de la section"
+
+#: widgets/about-us-fancy.php:71 widgets/about-us-simple.php:55
+#: widgets/about-us.php:56
+msgid "About Car Spot Dealership"
+msgstr "À propos de Car Spot Dealership"
+
+#: widgets/about-us-fancy.php:72 widgets/about-us-simple.php:56
+#: widgets/about-us.php:57
+msgid "About Carspot Dealership"
+msgstr "À propos de Carspot Dealership"
+
+#: widgets/about-us-fancy.php:79 widgets/about-us-simple.php:63
+#: widgets/about-us.php:74 widgets/ad_by_location.php:88
+#: widgets/ad_by_make.php:87 widgets/ads.php:74 widgets/ads_slider.php:77
+#: widgets/advertisement_72-_90.php:77 widgets/blog.php:77
+#: widgets/buy_salse_hero.php:61 widgets/buy_salse_hero.php:124
+#: widgets/buy_sell.php:95 widgets/buy_sell.php:168
+#: widgets/car_inspection.php:69 widgets/car_inspection_two.php:69
+#: widgets/cat_classic.php:77 widgets/cats_fancy.php:78
+#: widgets/compare_posts.php:77 widgets/expert_reviews.php:77
+#: widgets/faq.php:77 widgets/faq.php:147 widgets/our_team.php:84
+#: widgets/packages.php:77 widgets/packages_style_two.php:84
+#: widgets/popular_cats.php:77 widgets/process_cycle.php:77
+#: widgets/reviews.php:77 widgets/services.php:77
+#: widgets/services_classic.php:70 widgets/services_modern.php:96
+#: widgets/services_simple.php:77 widgets/services_three.php:77
+#: widgets/services_two.php:77 widgets/services_with_facts.php:77
+#: widgets/shop_products.php:77 widgets/shop_slider.php:77
+#: widgets/shop_tabs.php:77 widgets/testimonial.php:77
+#: widgets/testimonial_two.php:77 widgets/textblock.php:77
+#: widgets/why_us.php:77
+msgid "Section Description"
+msgstr "Description de section"
+
+#: widgets/about-us-fancy.php:90 widgets/services_three.php:91
+msgid "Service"
+msgstr "Service"
+
+#: widgets/about-us-fancy.php:99 widgets/services.php:17
+#: widgets/services_classic.php:46 widgets/services_modern.php:80
+msgid "Services"
+msgstr "Services"
+
+#: widgets/about-us-fancy.php:105
+msgid "Extend the life of the car"
+msgstr "Prolonger la durée de vie de la voiture"
+
+#: widgets/about-us-fancy.php:116 widgets/about-us-fancy.php:123
+#: widgets/about-us-fancy.php:125 widgets/textblock.php:91
+msgid "Content"
+msgstr "Contenu"
+
+#: widgets/about-us-fancy.php:127
+msgid "Your Content here"
+msgstr "Votre contenu ici"
+
+#: widgets/about-us-fancy.php:135 widgets/about-us-fancy.php:195
+#: widgets/fun_facts.php:17 widgets/fun_facts.php:69
+#: widgets/services_with_facts.php:168
+msgid "Fun Facts"
+msgstr "Faits amusants"
+
+#: widgets/about-us-fancy.php:142 widgets/fun_facts.php:53
+msgid "Column"
+msgstr "Colonne"
+
+#: widgets/about-us-fancy.php:146 widgets/fun_facts.php:58
+msgid "3 Col"
+msgstr "3 Col"
+
+#: widgets/about-us-fancy.php:147 widgets/fun_facts.php:59
+msgid "4 Col"
+msgstr "4 Col"
+
+#: widgets/about-us-fancy.php:156 widgets/about-us.php:120
+#: widgets/services_classic.php:113
+msgid "Icon"
+msgstr "Icône"
+
+#: widgets/about-us-fancy.php:165 widgets/fun_facts.php:87
+msgid "Numbers"
+msgstr "Nombres"
+
+#: widgets/about-us-fancy.php:168
+msgid "Eter only numeric"
+msgstr "Eter seulement numérique"
+
+#: widgets/about-us-fancy.php:177
+msgid "Some Title"
+msgstr "Un titre"
+
+#: widgets/about-us-fancy.php:178
+msgid "Enter Title here."
+msgstr "Entrez le titre ici."
+
+#: widgets/about-us-fancy.php:185 widgets/about-us-fancy.php:187
+#: widgets/fun_facts.php:103
+msgid "Color Title"
+msgstr "Titre Couleur"
+
+#: widgets/about-us-fancy.php:188
+msgid "Enter Color Title"
+msgstr "Entrez le titre de couleur"
+
+#: widgets/about-us-fancy.php:202
+msgid "Your Title"
+msgstr "Votre titre"
+
+#: widgets/about-us-fancy.php:203
+msgid "Your Color Title"
+msgstr "Votre titre de couleur"
+
+#: widgets/about-us-simple.php:17
+msgid "About Us Simple"
+msgstr "À propos de nous simple"
+
+#: widgets/about-us-simple.php:84 widgets/about-us.php:97
+#: widgets/car_inspection.php:142 widgets/car_inspection_two.php:144
+#: widgets/services_classic.php:90 widgets/services_modern.php:117
+msgid "Select Image Position"
+msgstr "Sélectionnez la position de l'image"
+
+#: widgets/about-us-simple.php:88 widgets/call_to_action_three.php:140
+#: widgets/car_inspection.php:145 widgets/car_inspection_two.php:148
+#: widgets/compare_posts.php:128 widgets/services_classic.php:95
+#: widgets/services_modern.php:122
+msgid "Right Side"
+msgstr "Coté droit"
+
+#: widgets/about-us-simple.php:89 widgets/call_to_action_three.php:68
+#: widgets/car_inspection.php:146 widgets/car_inspection_two.php:149
+#: widgets/compare_posts.php:127 widgets/services_classic.php:94
+#: widgets/services_modern.php:121
+msgid "Left Side"
+msgstr "Côté gauche"
+
+#: widgets/about-us-simple.php:100 widgets/about-us.php:160
+#: widgets/car_inspection.php:169 widgets/car_inspection_two.php:186
+#: widgets/services_classic.php:156
+msgid "Animation"
+msgstr "Animation"
+
+#: widgets/about-us-simple.php:107 widgets/about-us.php:167
+#: widgets/buy_sell.php:61 widgets/buy_sell.php:134
+#: widgets/car_inspection.php:176 widgets/car_inspection_two.php:193
+#: widgets/services.php:214 widgets/services_classic.php:163
+#: widgets/services_simple.php:210 widgets/services_two.php:214
+#: widgets/services_with_facts.php:175
+msgid "Animation Effects"
+msgstr "Effets d’animation"
+
+#: widgets/about-us.php:17
+msgid "About Us Classic"
+msgstr "À propos de nous Classic"
+
+#: widgets/about-us.php:65 widgets/buy_sell.php:53 widgets/buy_sell.php:126
+#: widgets/car_inspection.php:53 widgets/car_inspection_two.php:53
+#: widgets/clients_slider.php:53 widgets/services_classic.php:53
+msgid "Your Tagline"
+msgstr "Votre slogan"
+
+#: widgets/about-us.php:101
+msgid "Right"
+msgstr "Droite"
+
+#: widgets/about-us.php:102
+msgid "Left"
+msgstr "Gauche"
+
+#: widgets/about-us.php:113
+msgid "What We Do"
+msgstr "Ce que nous faisons"
+
+#: widgets/about-us.php:127 widgets/services.php:99 widgets/services.php:151
+#: widgets/services_classic.php:123 widgets/services_modern.php:176
+#: widgets/services_simple.php:99 widgets/services_simple.php:149
+#: widgets/services_two.php:99 widgets/services_two.php:151
+#: widgets/services_with_facts.php:133
+msgid "Title Of Service"
+msgstr "Titre du service"
+
+#: widgets/about-us.php:135 widgets/call_to_action_three.php:91
+#: widgets/call_to_action_three.php:163 widgets/call_to_action_two.php:61
+#: widgets/process_cycle.php:113 widgets/process_cycle.php:147
+#: widgets/process_cycle.php:181 widgets/services.php:107
+#: widgets/services.php:159 widgets/services_classic.php:131
+#: widgets/services_modern.php:184 widgets/services_simple.php:107
+#: widgets/services_simple.php:157 widgets/services_three.php:119
+#: widgets/services_two.php:107 widgets/services_two.php:159
+#: widgets/services_with_facts.php:141 widgets/testimonial.php:107
+#: widgets/testimonial_two.php:107 widgets/why_us.php:107
+msgid "Description"
+msgstr "La description"
+
+#: widgets/about-us.php:143 widgets/ad_post.php:148
+msgid "Items"
+msgstr "Articles"
+
+#: widgets/about-us.php:150
+msgid "Some Description"
+msgstr "Quelques descriptions"
+
+#: widgets/about-us.php:151
+msgid ""
+"We have the right caring, experience and dedicated professional for you."
+msgstr ""
+"Nous avons la bonne compassion, l’expérience et professionnel dévoué pour "
+"vous."
+
+#: widgets/ad_by_location.php:17
+msgid "Ads By Location"
+msgstr "Annonces par emplacement"
+
+#: widgets/ad_by_location.php:46 widgets/ad_by_make.php:46 widgets/ads.php:46
+#: widgets/ads_slider.php:46 widgets/advertisement_72-_90.php:46
+#: widgets/apps-classic.php:46 widgets/apps-simple.php:46 widgets/blog.php:46
+#: widgets/cat_classic.php:46 widgets/cats_fancy.php:46
+#: widgets/clients_slider.php:46 widgets/compare_posts.php:46
+#: widgets/contact_us.php:46 widgets/expert_reviews.php:46 widgets/faq.php:46
+#: widgets/fun_facts.php:46 widgets/our_team.php:53 widgets/packages.php:46
+#: widgets/packages_style_two.php:53 widgets/popular_cats.php:46
+#: widgets/process_cycle.php:46 widgets/quote.php:46 widgets/reviews.php:46
+#: widgets/search_bar_simple.php:46 widgets/search_fancy.php:46
+#: widgets/search_make_models.php:46 widgets/search_modern.php:46
+#: widgets/search_modern_two.php:46 widgets/search_side_form.php:46
+#: widgets/search_side_form_two.php:46 widgets/search_tab_classified.php:46
+#: widgets/services.php:46 widgets/services_simple.php:46
+#: widgets/services_three.php:46 widgets/services_two.php:46
+#: widgets/services_with_facts.php:46 widgets/shop_products.php:46
+#: widgets/shop_slider.php:46 widgets/shop_tabs.php:46 widgets/signin.php:46
+#: widgets/signup.php:46 widgets/testimonial.php:46
+#: widgets/testimonial_two.php:46 widgets/textblock.php:46
+#: widgets/why_us.php:46
+msgid "Basic"
+msgstr "Basique"
+
+#: widgets/ad_by_location.php:53 widgets/ad_by_make.php:53
+#: widgets/cats_fancy.php:103
+msgid "Category link Page"
+msgstr "Lien de la catégorie"
+
+#: widgets/ad_by_location.php:57 widgets/ad_by_make.php:57
+#: widgets/cats_fancy.php:108
+msgid "Search Page"
+msgstr "Page de recherche"
+
+#: widgets/ad_by_location.php:58 widgets/ad_by_make.php:58
+#: widgets/cats_fancy.php:109
+msgid "Category Page"
+msgstr "Page Catégorie"
+
+#: widgets/ad_by_location.php:65 widgets/ad_by_make.php:65 widgets/ads.php:53
+#: widgets/ads_slider.php:53 widgets/advertisement_72-_90.php:53
+#: widgets/blog.php:53 widgets/cat_classic.php:53 widgets/cats_fancy.php:54
+#: widgets/compare_posts.php:53 widgets/expert_reviews.php:53
+#: widgets/faq.php:53 widgets/our_team.php:60 widgets/packages.php:53
+#: widgets/packages_style_two.php:60 widgets/popular_cats.php:53
+#: widgets/process_cycle.php:53 widgets/reviews.php:53 widgets/services.php:53
+#: widgets/services_simple.php:53 widgets/services_three.php:53
+#: widgets/services_two.php:53 widgets/services_with_facts.php:53
+#: widgets/shop_products.php:53 widgets/shop_slider.php:53
+#: widgets/shop_tabs.php:53 widgets/testimonial.php:53
+#: widgets/testimonial_two.php:53 widgets/textblock.php:53
+#: widgets/why_us.php:53
+msgid "Header Style"
+msgstr "Style d’en-tête"
+
+#: widgets/ad_by_location.php:69
+msgid "Section Header Style"
+msgstr "Style d’en-tête de section"
+
+#: widgets/ad_by_location.php:70 widgets/ad_by_make.php:69 widgets/ads.php:57
+#: widgets/ads_slider.php:57 widgets/advertisement_72-_90.php:57
+#: widgets/blog.php:57 widgets/cat_classic.php:57 widgets/cats_fancy.php:58
+#: widgets/compare_posts.php:57 widgets/expert_reviews.php:57
+#: widgets/faq.php:57 widgets/our_team.php:64 widgets/packages.php:57
+#: widgets/packages_style_two.php:64 widgets/popular_cats.php:57
+#: widgets/process_cycle.php:57 widgets/reviews.php:57 widgets/services.php:57
+#: widgets/services_simple.php:57 widgets/services_three.php:57
+#: widgets/services_two.php:57 widgets/services_with_facts.php:57
+#: widgets/shop_products.php:57 widgets/shop_slider.php:57
+#: widgets/shop_tabs.php:57 widgets/testimonial.php:57
+#: widgets/testimonial_two.php:57 widgets/textblock.php:57
+#: widgets/why_us.php:57
+msgid "No Header"
+msgstr "Pas d’en-tête"
+
+#: widgets/ad_by_location.php:71 widgets/ad_by_make.php:70 widgets/ads.php:58
+#: widgets/ads_slider.php:58 widgets/advertisement_72-_90.php:58
+#: widgets/blog.php:58 widgets/cat_classic.php:58 widgets/cats_fancy.php:59
+#: widgets/compare_posts.php:58 widgets/expert_reviews.php:58
+#: widgets/faq.php:58 widgets/our_team.php:65 widgets/packages.php:58
+#: widgets/packages_style_two.php:65 widgets/popular_cats.php:58
+#: widgets/process_cycle.php:58 widgets/reviews.php:58 widgets/services.php:58
+#: widgets/services_simple.php:58 widgets/services_three.php:58
+#: widgets/services_two.php:58 widgets/services_with_facts.php:58
+#: widgets/shop_products.php:58 widgets/shop_slider.php:58
+#: widgets/shop_tabs.php:58 widgets/testimonial.php:58
+#: widgets/testimonial_two.php:58 widgets/textblock.php:58
+#: widgets/why_us.php:58
+msgid "Classic"
+msgstr "Classique"
+
+#: widgets/ad_by_location.php:72 widgets/ad_by_make.php:71 widgets/ads.php:59
+#: widgets/ads_slider.php:59 widgets/advertisement_72-_90.php:59
+#: widgets/blog.php:59 widgets/cat_classic.php:59 widgets/cats_fancy.php:60
+#: widgets/compare_posts.php:59 widgets/expert_reviews.php:59
+#: widgets/faq.php:59 widgets/our_team.php:66 widgets/packages.php:59
+#: widgets/packages_style_two.php:66 widgets/popular_cats.php:59
+#: widgets/process_cycle.php:59 widgets/reviews.php:59 widgets/services.php:59
+#: widgets/services_simple.php:59 widgets/services_three.php:59
+#: widgets/services_two.php:59 widgets/services_with_facts.php:59
+#: widgets/shop_products.php:59 widgets/shop_slider.php:59
+#: widgets/shop_tabs.php:59 widgets/testimonial.php:59
+#: widgets/testimonial_two.php:59 widgets/textblock.php:59
+#: widgets/why_us.php:59
+msgid "Regular"
+msgstr "Normal"
+
+#: widgets/ad_by_location.php:82 widgets/ad_by_make.php:81
+msgid "Put your title here"
+msgstr "Mettez votre titre ici"
+
+#: widgets/ad_by_location.php:91 widgets/ad_by_make.php:90
+msgid "Put your description here"
+msgstr "Mettez votre description ici"
+
+#: widgets/ad_by_location.php:100
+msgid "Location"
+msgstr "Emplacement"
+
+#: widgets/ad_by_location.php:108
+msgid "Location Name"
+msgstr "Nom du lieu"
+
+#: widgets/ad_by_location.php:117
+msgid "Location Background Image"
+msgstr "Image de fond pour localisation"
+
+#: widgets/ad_by_location.php:129
+msgid "Select Locations"
+msgstr "Choisir les villes"
+
+#: widgets/ad_by_make.php:17
+msgid "Ads By Make(New)"
+msgstr "Annonces par marque Nouveau"
+
+#: widgets/ad_by_make.php:98 widgets/ads.php:181 widgets/ads.php:211
+#: widgets/ads_google_map.php:118 widgets/ads_slider.php:141
+#: widgets/ads_slider.php:158 widgets/blog.php:127 widgets/cat_classic.php:103
+#: widgets/cat_classic.php:128 widgets/cats_fancy.php:120
+#: widgets/cats_fancy.php:150 widgets/expert_reviews.php:103
+#: widgets/expert_reviews.php:120 widgets/faq.php:115
+#: widgets/popular_cats.php:91 widgets/reviews.php:99 widgets/reviews.php:116
+#: widgets/search_bar_minimal.php:101 widgets/search_side_form.php:172
+#: widgets/search_tab_classified.php:190 widgets/shop_products.php:152
+#: widgets/shop_slider.php:152 widgets/shop_tabs.php:152
+msgid "Categories"
+msgstr "Les catégories"
+
+#: widgets/ad_by_make.php:106 widgets/ads_google_map.php:126
+#: widgets/blog.php:135 widgets/popular_cats.php:99
+#: widgets/search_fancy.php:130 widgets/search_make_models.php:73
+#: widgets/search_make_models.php:81 widgets/search_modern.php:93
+#: widgets/search_side_form.php:192 widgets/search_tab_advance.php:74
+#: widgets/search_tab_classified.php:108 widgets/shop_products.php:160
+#: widgets/shop_slider.php:160 widgets/shop_tabs.php:160
+msgid "Category"
+msgstr "Catégorie"
+
+#: widgets/ad_by_make.php:115 widgets/ads_google_map.php:135
+#: widgets/cats_fancy.php:137
+msgid "Category Image"
+msgstr "Catégorie d'image"
+
+#: widgets/ad_post.php:19 widgets/ad_post.php:55
+msgid "Ad Post Form Type"
+msgstr "Type de formulaire de publication d'annonce"
+
+#: widgets/ad_post.php:48 widgets/call_to_action.php:46
+#: widgets/call_to_action_three.php:46 widgets/call_to_action_two.php:46
+#: widgets/car_images.php:46 widgets/car_inspection.php:46
+#: widgets/car_inspection_two.php:46
+msgid "General"
+msgstr "Général"
+
+#: widgets/ad_post.php:59
+msgid "Select Post Form"
+msgstr "Sélectionner un formulaire"
+
+#: widgets/ad_post.php:60
+msgid "Default Form"
+msgstr "Formulaire par Défaut"
+
+#: widgets/ad_post.php:61
+msgid "Categories Based Form"
+msgstr "Formulaire basé sur les catégories"
+
+#: widgets/ad_post.php:69
+msgid "Extra Fields Section Title"
+msgstr "Section des titres des champs supplémentaires"
+
+#: widgets/ad_post.php:77
+msgid "Tip Section Title"
+msgstr "Titre de la section astuce"
+
+#: widgets/ad_post.php:80
+msgid "Safety Tips for Buyers"
+msgstr "Conseils de sécurité pour les acheteurs"
+
+#: widgets/ad_post.php:81
+msgid "Put safety tip section title"
+msgstr "Mettre le titre de la section conseils de sécurité"
+
+#: widgets/ad_post.php:87
+msgid "Tips Description"
+msgstr "Conseils Description"
+
+#: widgets/ad_post.php:98
+msgid "Extra Fileds"
+msgstr "Champs supplémentaires"
+
+#: widgets/ad_post.php:114
+msgid "Slug"
+msgstr "Identifiant"
+
+#: widgets/ad_post.php:117
+msgid ""
+"This should be unique and if you change it the pervious data of this field "
+"will be lost"
+msgstr ""
+"Cela doit être unique et si vous la changez les données précédentes de ce "
+"champ seront perdues"
+
+#: widgets/ad_post.php:123
+msgid "Type"
+msgstr "Type"
+
+#: widgets/ad_post.php:127
+msgid "Please select"
+msgstr "Veuillez sélectionner"
+
+#: widgets/ad_post.php:128
+msgid "Textfield"
+msgstr "Champ de texte"
+
+#: widgets/ad_post.php:129
+msgid "Select/List"
+msgstr "Sélection de la disposition des listes"
+
+#: widgets/ad_post.php:136
+msgid "Values for Select/List"
+msgstr "Valeurs pour Sélection/Liste"
+
+#: widgets/ad_post.php:139
+msgid "Like: value1,value2,value3"
+msgstr "Exemple: valeur1, valeur2, valeur3"
+
+#: widgets/ad_post.php:167
+msgid "Safety Tips"
+msgstr "Conseils de sécurité"
+
+#: widgets/ad_post.php:175
+msgid "Add Tips"
+msgstr "Ajouter des conseils"
+
+#: widgets/ad_post.php:183 widgets/faq.php:164
+msgid "Tips"
+msgstr "Astuces"
+
+#: widgets/ad_post.php:188
+msgid "Use a safe location to meet seller"
+msgstr "Utilisez un endroit sûr pour rencontrer le vendeur"
+
+#: widgets/ads.php:17
+msgid "ADS Carspot"
+msgstr "ADS Carspot"
+
+#: widgets/ads.php:85 widgets/ads_slider.php:90
+msgid "Ads Settings"
+msgstr "Paramètres des annonces"
+
+#: widgets/ads.php:92 widgets/ads_google_map.php:53 widgets/ads_slider.php:97
+msgid "Ads Type"
+msgstr "Type d’annonces"
+
+#: widgets/ads.php:96 widgets/ads_slider.php:101
+msgid "Select Ads Type"
+msgstr "Sélectionnez le type d'annonce"
+
+#: widgets/ads.php:105 widgets/shop_products.php:110
+#: widgets/shop_slider.php:110 widgets/shop_tabs.php:110
+msgid "Order By"
+msgstr "Trier par"
+
+#: widgets/ads.php:109 widgets/shop_products.php:114
+#: widgets/shop_slider.php:114 widgets/shop_tabs.php:114
+msgid "Select Ads order"
+msgstr "Sélectionnez l'ordre des annonces"
+
+#: widgets/ads.php:110 widgets/shop_products.php:115
+#: widgets/shop_slider.php:115 widgets/shop_tabs.php:115
+msgid "Oldest"
+msgstr "Le plus ancien"
+
+#: widgets/ads.php:111 widgets/shop_products.php:116
+#: widgets/shop_slider.php:116 widgets/shop_tabs.php:116
+msgid "Latest"
+msgstr "Dernier"
+
+#: widgets/ads.php:112 widgets/shop_products.php:117
+#: widgets/shop_slider.php:117 widgets/shop_tabs.php:117
+msgid "Random"
+msgstr "Aléatoire"
+
+#: widgets/ads.php:120 widgets/ads_slider.php:110
+msgid "Layout Type"
+msgstr "Type de mise en page"
+
+#: widgets/ads.php:124 widgets/ads.php:192 widgets/ads_slider.php:114
+msgid "Select Layout Type"
+msgstr "Sélectionnez le type de mise en page"
+
+#: widgets/ads.php:125 widgets/ads_slider.php:115
+msgid "Grid 1"
+msgstr "Grille 1"
+
+#: widgets/ads.php:126 widgets/ads_slider.php:116
+msgid "Grid 2"
+msgstr "Grille 2"
+
+#: widgets/ads.php:127 widgets/ads_slider.php:117
+msgid "Grid 3"
+msgstr "Grille 3"
+
+#: widgets/ads.php:128 widgets/ads_slider.php:118
+msgid "Grid 4"
+msgstr "Grille 4"
+
+#: widgets/ads.php:129 widgets/ads_slider.php:119
+msgid "Grid 5"
+msgstr "Grille 5"
+
+#: widgets/ads.php:130
+msgid "Grid 6"
+msgstr "Grille 6"
+
+#: widgets/ads.php:131
+msgid "Grid 7"
+msgstr "Grille 7"
+
+#: widgets/ads.php:132 widgets/car_inspection.php:120
+#: widgets/car_inspection_two.php:121 widgets/search_side_form.php:71
+#: widgets/search_side_form_two.php:71
+msgid "List"
+msgstr "Liste"
+
+#: widgets/ads.php:133
+msgid "List 4"
+msgstr "Liste 4"
+
+#: widgets/ads.php:141 widgets/ads_google_map.php:65 widgets/ads_slider.php:127
+#: widgets/blog.php:88 widgets/shop_products.php:98 widgets/shop_slider.php:98
+#: widgets/shop_tabs.php:98
+msgid "Number fo Ads"
+msgstr "Nombre d'annonces"
+
+#: widgets/ads.php:153 widgets/blog.php:100 widgets/buy_salse_hero.php:69
+#: widgets/buy_salse_hero.php:132 widgets/buy_sell.php:70
+#: widgets/buy_sell.php:143 widgets/call_to_action.php:61
+#: widgets/call_to_action_three.php:99 widgets/call_to_action_three.php:171
+#: widgets/call_to_action_two.php:69 widgets/call_to_action_two.php:94
+#: widgets/car_inspection.php:77 widgets/car_inspection_two.php:77
+#: widgets/compare_posts.php:88 widgets/search_creative.php:70
+#: widgets/search_modern_two.php:82 widgets/search_side_form.php:92
+#: widgets/search_side_form_two.php:92 widgets/shop_products.php:124
+#: widgets/shop_slider.php:124 widgets/shop_tabs.php:124 widgets/why_us.php:115
+msgid "Button Title"
+msgstr "Titre du bouton"
+
+#: widgets/ads.php:156 widgets/blog.php:102 widgets/buy_salse_hero.php:71
+#: widgets/buy_salse_hero.php:134 widgets/buy_sell.php:72
+#: widgets/buy_sell.php:145 widgets/call_to_action.php:63
+#: widgets/call_to_action_three.php:101 widgets/call_to_action_three.php:173
+#: widgets/call_to_action_two.php:71 widgets/call_to_action_two.php:96
+#: widgets/car_inspection.php:79 widgets/car_inspection_two.php:79
+#: widgets/compare_posts.php:90 widgets/search_creative.php:73
+#: widgets/search_modern_two.php:85 widgets/search_side_form.php:95
+#: widgets/search_side_form_two.php:94 widgets/shop_products.php:127
+#: widgets/shop_slider.php:126 widgets/shop_tabs.php:126 widgets/signup.php:56
+#: widgets/why_us.php:118
+msgid "Button title here"
+msgstr "Titre du bouton ici"
+
+#: widgets/ads.php:163 widgets/blog.php:103 widgets/blog.php:110
+#: widgets/buy_salse_hero.php:72 widgets/buy_salse_hero.php:79
+#: widgets/buy_salse_hero.php:135 widgets/buy_salse_hero.php:142
+#: widgets/buy_sell.php:73 widgets/buy_sell.php:80 widgets/buy_sell.php:146
+#: widgets/buy_sell.php:153 widgets/call_to_action.php:64
+#: widgets/call_to_action.php:71 widgets/call_to_action_three.php:102
+#: widgets/call_to_action_three.php:109 widgets/call_to_action_three.php:174
+#: widgets/call_to_action_three.php:181 widgets/call_to_action_two.php:72
+#: widgets/call_to_action_two.php:79 widgets/call_to_action_two.php:97
+#: widgets/call_to_action_two.php:104 widgets/car_inspection.php:80
+#: widgets/car_inspection.php:87 widgets/car_inspection_two.php:80
+#: widgets/car_inspection_two.php:87 widgets/compare_posts.php:91
+#: widgets/compare_posts.php:98 widgets/search_creative.php:74
+#: widgets/search_creative.php:81 widgets/search_modern_two.php:86
+#: widgets/search_modern_two.php:93 widgets/search_side_form.php:96
+#: widgets/search_side_form.php:103 widgets/search_side_form_two.php:95
+#: widgets/search_side_form_two.php:102 widgets/shop_products.php:128
+#: widgets/shop_products.php:134 widgets/shop_slider.php:127
+#: widgets/shop_slider.php:134 widgets/shop_tabs.php:127
+#: widgets/shop_tabs.php:134 widgets/signup.php:64 widgets/why_us.php:119
+#: widgets/why_us.php:126
+msgid "Button Link"
+msgstr "Lien du bouton"
+
+#: widgets/ads.php:166 widgets/blog.php:112 widgets/buy_salse_hero.php:81
+#: widgets/buy_salse_hero.php:145 widgets/buy_sell.php:83
+#: widgets/buy_sell.php:155 widgets/call_to_action.php:73
+#: widgets/call_to_action_three.php:111 widgets/call_to_action_three.php:183
+#: widgets/call_to_action_two.php:81 widgets/call_to_action_two.php:106
+#: widgets/car_inspection.php:90 widgets/car_inspection_two.php:89
+#: widgets/compare_posts.php:101 widgets/search_creative.php:84
+#: widgets/search_modern_two.php:96 widgets/search_side_form.php:106
+#: widgets/search_side_form_two.php:105 widgets/shop_products.php:137
+#: widgets/shop_slider.php:137 widgets/shop_tabs.php:137 widgets/signup.php:67
+#: widgets/why_us.php:129
+msgid "https://your-link.com"
+msgstr "https://votre-lien.com"
+
+#: widgets/ads.php:188
+msgid "Want to show ads fom all categories?"
+msgstr "Vous souhaitez diffuser des annonces pour toutes les catégories?"
+
+#: widgets/ads.php:193 widgets/cats_fancy.php:94
+#: widgets/search_side_form_two.php:170 widgets/search_side_form_two.php:197
+#: widgets/search_side_form_two.php:224 widgets/search_side_form_two.php:251
+#: widgets/search_side_form_two.php:278 widgets/search_side_form_two.php:305
+#: widgets/search_side_form_two.php:332 widgets/search_side_form_two.php:359
+#: widgets/search_side_form_two.php:386 widgets/search_side_form_two.php:413
+#: widgets/search_side_form_two.php:440 widgets/search_side_form_two.php:468
+#: widgets/search_side_form_two.php:495 widgets/search_side_form_two.php:522
+#: widgets/search_side_form_two.php:549 widgets/search_side_form_two.php:576
+#: widgets/search_side_form_two.php:603 widgets/services_with_facts.php:179
+msgid "Yes"
+msgstr "Oui"
+
+#: widgets/ads.php:194 widgets/cats_fancy.php:95
+#: widgets/search_side_form_two.php:171 widgets/search_side_form_two.php:198
+#: widgets/search_side_form_two.php:225 widgets/search_side_form_two.php:252
+#: widgets/search_side_form_two.php:279 widgets/search_side_form_two.php:306
+#: widgets/search_side_form_two.php:333 widgets/search_side_form_two.php:360
+#: widgets/search_side_form_two.php:387 widgets/search_side_form_two.php:414
+#: widgets/search_side_form_two.php:441 widgets/search_side_form_two.php:469
+#: widgets/search_side_form_two.php:496 widgets/search_side_form_two.php:523
+#: widgets/search_side_form_two.php:550 widgets/search_side_form_two.php:577
+#: widgets/search_side_form_two.php:604 widgets/services_with_facts.php:180
+msgid "No"
+msgstr "Non"
+
+#: widgets/ads_google_map.php:17
+msgid "ADs - Google Map"
+msgstr "Annonces - Google Map"
+
+#: widgets/ads_google_map.php:46
+msgid "Ads Setting"
+msgstr "Paramètre d’Annonces"
+
+#: widgets/ads_google_map.php:79
+msgid "Map"
+msgstr "Carte"
+
+#: widgets/ads_google_map.php:86
+msgid "Map Zoom"
+msgstr "Zoom de la carte"
+
+#: widgets/ads_google_map.php:101
+msgid "Put your latitude here"
+msgstr "Mettez votre latitude ici"
+
+#: widgets/ads_google_map.php:110
+msgid "Put your longitude here"
+msgstr "Mettez votre longitude ici"
+
+#: widgets/ads_slider.php:17
+msgid "ADs - Slider"
+msgstr "Afficher les annonces mise en avant dans le slider"
+
+#: widgets/ads_with_tabs.php:17
+msgid "ADs - With Tabs"
+msgstr "ADs-avec onglets"
+
+#: widgets/advertisement_72-_90.php:17 widgets/advertisement_72-_90.php:90
+msgid "Advertisement"
+msgstr "Publicité"
+
+#: widgets/advertisement_72-_90.php:97
+msgid "Banner Ad 720x90"
+msgstr "Bannière publicitaire 720 x 90"
+
+#: widgets/apps-classic.php:17
+msgid "Apps - Classic"
+msgstr "Apps - Classic"
+
+#: widgets/apps-classic.php:53 widgets/car_inspection_two.php:157
+msgid "Main Image"
+msgstr "Image principale"
+
+#: widgets/apps-classic.php:65 widgets/search_creative.php:62
+#: widgets/search_fancy.php:61 widgets/search_make_models.php:61
+#: widgets/search_modern.php:62 widgets/search_modern_two.php:53
+#: widgets/search_side_form.php:61 widgets/search_side_form_two.php:61
+#: widgets/search_simple.php:62
+msgid "Section Tagline"
+msgstr "Slogan de la section"
+
+#: widgets/apps-classic.php:84
+msgid "Key Points"
+msgstr "Points Clés"
+
+#: widgets/apps-classic.php:92
+msgid "Points"
+msgstr "Points"
+
+#: widgets/apps-classic.php:100
+msgid "Add Points"
+msgstr "Ajouter des points"
+
+#: widgets/apps-classic.php:115 widgets/apps-simple.php:63
+msgid "Android"
+msgstr "Android"
+
+#: widgets/apps-classic.php:130 widgets/apps-classic.php:163
+#: widgets/apps-simple.php:78 widgets/apps-simple.php:111
+#: widgets/apps-simple.php:144
+msgid "Tag Line"
+msgstr "Mots-clés"
+
+#: widgets/apps-classic.php:138 widgets/apps-classic.php:171
+#: widgets/apps-simple.php:86 widgets/apps-simple.php:119
+#: widgets/apps-simple.php:152
+msgid "Download Link"
+msgstr "Lien de téléchargement"
+
+#: widgets/apps-classic.php:148 widgets/apps-simple.php:96
+msgid "IOS"
+msgstr "IOS"
+
+#: widgets/apps-simple.php:17
+msgid "Apps - Simple"
+msgstr "Apps - Simple"
+
+#: widgets/apps-simple.php:129
+msgid "Window"
+msgstr "Fenêtre"
+
+#: widgets/blog.php:17
+msgid "Blog Posts"
+msgstr "Articles de blog"
+
+#: widgets/blog.php:144 widgets/popular_cats.php:116
+#: widgets/shop_products.php:169 widgets/shop_slider.php:169
+#: widgets/shop_tabs.php:169
+msgid "Select Categories"
+msgstr "Sélectionnez les catégories"
+
+#: widgets/buy_salse_hero.php:17
+msgid "Buy Or Sale Main Banner"
+msgstr "Bannière principale Acheter ou vendre"
+
+#: widgets/buy_salse_hero.php:46
+msgid "Looking For"
+msgstr "En train de rechercher"
+
+#: widgets/buy_salse_hero.php:94 widgets/buy_salse_hero.php:157
+#: widgets/call_to_action_three.php:53 widgets/search_side_form.php:130
+#: widgets/services_with_facts.php:88
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: widgets/buy_salse_hero.php:109
+msgid "Want To Hire"
+msgstr "Vous voulez embaucher "
+
+#: widgets/buy_sell.php:17
+msgid "Car Buy & Sell"
+msgstr "Vendre & Acheter un Véhicules"
+
+#: widgets/buy_sell.php:46
+msgid "Buy Section"
+msgstr "Section - Achat"
+
+#: widgets/buy_sell.php:106 widgets/buy_sell.php:179
+msgid "Recommended image size should be 715x215 .png "
+msgstr "La taille d'image recommandée doit être 715x215. png "
+
+#: widgets/buy_sell.php:119
+msgid "Sell Section"
+msgstr "Section - Vente"
+
+#: widgets/call_to_action.php:17
+msgid "Call to Action"
+msgstr "Appel à Action"
+
+#: widgets/call_to_action_three.php:17
+msgid "Call to Action Three"
+msgstr "Appel à l’action trois"
+
+#: widgets/call_to_action_three.php:56 widgets/call_to_action_three.php:127
+#: widgets/call_to_action_three.php:199 widgets/search_side_form.php:133
+msgid "Recommended Size For Image should be 1280x800.png"
+msgstr "La taille recommandée pour l’image devrait être 1280x800.png"
+
+#: widgets/call_to_action_three.php:75
+msgid "Left Side Tagline"
+msgstr "Slogan côté gauche"
+
+#: widgets/call_to_action_three.php:83
+msgid "Left Side Title"
+msgstr "Titre côté gauche"
+
+#: widgets/call_to_action_three.php:147
+msgid "Right Side Tagline"
+msgstr "Slogan côté droit"
+
+#: widgets/call_to_action_three.php:155
+msgid "Right Side Title"
+msgstr "Titre côté droit"
+
+#: widgets/call_to_action_two.php:17
+msgid "Call to Action Two"
+msgstr "Appel à l’action 2"
+
+#: widgets/car_images.php:17 widgets/car_inspection.php:17
+msgid "Car Inspection"
+msgstr "Inspection du Véhicule"
+
+#: widgets/car_inspection.php:61 widgets/car_inspection_two.php:61
+#: widgets/clients_slider.php:61
+msgid "Your Heading"
+msgstr "Votre rubrique"
+
+#: widgets/car_inspection.php:104 widgets/car_inspection_two.php:105
+msgid "Inspection List"
+msgstr "Liste d'inspection"
+
+#: widgets/car_inspection.php:112 widgets/car_inspection_two.php:113
+msgid "Add Inspection List"
+msgstr "Ajouter une liste d'inspection"
+
+#: widgets/car_inspection.php:135 widgets/car_inspection_two.php:137
+msgid "Inspection Image"
+msgstr "Inspection de l'image"
+
+#: widgets/car_inspection.php:156 widgets/car_inspection_two.php:159
+msgid "Recommended Size For Image should be 685x429.png"
+msgstr "La taille recommandée pour l’image doit être 685x429.png"
+
+#: widgets/car_inspection_two.php:17
+msgid "Car Inspection Two"
+msgstr "Inspection de voiture deux"
+
+#: widgets/car_inspection_two.php:170
+msgid "Small Image"
+msgstr "Petite image"
+
+#: widgets/car_inspection_two.php:173
+msgid "Recommended Size For Image should be small"
+msgstr "La taille recommandée pour l’image doit être petite"
+
+#: widgets/cat_classic.php:17
+msgid "Categories - Classic"
+msgstr "Catégories - Classic"
+
+#: widgets/cat_classic.php:88
+msgid "Sub cats limit"
+msgstr "Limite de sous catégories"
+
+#: widgets/cat_classic.php:120 widgets/fun_facts.php:77
+#: widgets/popular_cats.php:108 widgets/process_cycle.php:97
+#: widgets/process_cycle.php:131 widgets/process_cycle.php:165
+#: widgets/services.php:115 widgets/services.php:167
+#: widgets/services_modern.php:158 widgets/services_simple.php:115
+#: widgets/services_simple.php:165 widgets/services_two.php:115
+#: widgets/services_two.php:167
+msgid "Icons"
+msgstr "Icônes"
+
+#: widgets/cats_fancy.php:17
+msgid "Ads By Make"
+msgstr "Annonces par Marques"
+
+#: widgets/cats_fancy.php:89
+msgid "Enable hover animation"
+msgstr "Activer l'animation de survol"
+
+#: widgets/cats_fancy.php:93 widgets/cats_fancy.php:107
+msgid "Select an option"
+msgstr "Sélectionnez une option"
+
+#: widgets/cats_fancy.php:140
+msgid "Image size must be 94x90 px"
+msgstr "La taille de l’image doit être 94x90 px"
+
+#: widgets/clients_slider.php:17
+msgid "Clients or Partners Slider"
+msgstr "Curseur clients ou partenaires"
+
+#: widgets/clients_slider.php:71
+msgid "Clients Or Partner"
+msgstr "Clients ou partenaires"
+
+#: widgets/clients_slider.php:79
+msgid "Client URL"
+msgstr "URL du Client"
+
+#: widgets/clients_slider.php:87
+msgid "Client logo"
+msgstr "Logo du client"
+
+#: widgets/clients_slider.php:90
+msgid "Image size must be 200x130 px"
+msgstr "La taille de l’image doit être 200x130 px"
+
+#: widgets/clients_slider.php:100
+msgid "Add Clients"
+msgstr "Ajouter des clients"
+
+#: widgets/compare_posts.php:17
+msgid "Comparison Post"
+msgstr "Poste de comparaison"
+
+#: widgets/compare_posts.php:116
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: widgets/compare_posts.php:123
+msgid "Sidebar Postion"
+msgstr "Position de la barre latérale"
+
+#: widgets/compare_posts.php:129
+msgid "No Side"
+msgstr "Pas de côté"
+
+#: widgets/compare_posts.php:139
+msgid "Make Comparison"
+msgstr "Faire la comparaison"
+
+#: widgets/compare_posts.php:147
+msgid "First Car"
+msgstr "Premier Véhicule"
+
+#: widgets/compare_posts.php:156
+msgid "Second Car"
+msgstr "Second Véhicule"
+
+#: widgets/compare_posts.php:165
+msgid "Comparison"
+msgstr "Comparaison"
+
+#: widgets/contact_us.php:17
+msgid "Contact Us"
+msgstr "Contacter nous"
+
+#: widgets/contact_us.php:53
+msgid "Contact form 7 shortcode"
+msgstr "Shortcode Contact Form 7"
+
+#: widgets/contact_us.php:69
+msgid "Phone"
+msgstr "Téléphone"
+
+#: widgets/contact_us.php:77
+msgid "Email"
+msgstr "Email"
+
+#: widgets/expert_reviews.php:17
+msgid "Expert Reviews"
+msgstr "Avis des experts"
+
+#: widgets/expert_reviews.php:88
+msgid "Number of Ads Want To Show"
+msgstr "Nombre d'annonces que vous souhaitez afficher"
+
+#: widgets/faq.php:17 widgets/faq.php:91
+msgid "FAQ"
+msgstr "FAQ"
+
+#: widgets/faq.php:99
+msgid "Question"
+msgstr "Question"
+
+#: widgets/faq.php:107
+msgid "Answer"
+msgstr "Réponse"
+
+#: widgets/faq.php:132
+msgid "Saftey Tips"
+msgstr "Conseils de sécurité"
+
+#: widgets/faq.php:156
+msgid "Add Tip"
+msgstr "Ajouter une astuce"
+
+#: widgets/fun_facts.php:57
+msgid "Select Col"
+msgstr "Sélectionnez le Col"
+
+#: widgets/fun_facts.php:111
+msgid "Fun Fact"
+msgstr "Fait amusant"
+
+#: widgets/our_team.php:20
+msgid "Team Members"
+msgstr "Membres de l'équipe"
+
+#: widgets/our_team.php:98
+msgid "Add Team"
+msgstr "Ajouter une équipe"
+
+#: widgets/our_team.php:106
+msgid "Name Of Member"
+msgstr "Nom du membre"
+
+#: widgets/our_team.php:114
+msgid "Desgination Of Member"
+msgstr "Desgination des membres"
+
+#: widgets/our_team.php:122
+msgid "Team MemberImage"
+msgstr "Team Member Image"
+
+#: widgets/our_team.php:135
+msgid "Facebook Link"
+msgstr "Lien Facebook"
+
+#: widgets/our_team.php:143
+msgid "Twitter Link"
+msgstr "Lien Twitter"
+
+#: widgets/our_team.php:151
+msgid "Google Plus Link"
+msgstr "Lien Google Plus"
+
+#: widgets/our_team.php:159
+msgid "LinkedIn Link"
+msgstr "Lien Linkedin"
+
+#: widgets/our_team.php:167
+msgid "Add Team Members"
+msgstr "Ajouter des membres de l'équipe"
+
+#: widgets/packages.php:17 widgets/packages.php:91 widgets/packages.php:108
+#: widgets/packages_style_two.php:98
+msgid "Packages"
+msgstr "Forfaits"
+
+#: widgets/packages.php:99 widgets/packages_style_two.php:106
+#: widgets/packages_style_two.php:115
+msgid "Select package"
+msgstr "Sélectionnez un forfait"
+
+#: widgets/packages_style_two.php:20
+msgid "Packages Style 2"
+msgstr "Forfaits style 2"
+
+#: widgets/popular_cats.php:17
+msgid "Popular - Categories"
+msgstr "Catégories populaires"
+
+#: widgets/process_cycle.php:17
+msgid "Process Cycle"
+msgstr "Cycle de processus"
+
+#: widgets/process_cycle.php:90 widgets/process_cycle.php:158
+msgid "Step 1"
+msgstr "Étape 1"
+
+#: widgets/process_cycle.php:124
+msgid "Step 2"
+msgstr "Étape 2"
+
+#: widgets/profile.php:17 widgets/profile.php:46
+msgid "User Profile"
+msgstr "Profil de l'utilisateur"
+
+#: widgets/profile.php:53
+msgid "Prolfile Layout"
+msgstr "Disposition du profil"
+
+#: widgets/profile.php:57
+msgid "Profile 1"
+msgstr "Profil 1"
+
+#: widgets/quote.php:17
+msgid "Quote From"
+msgstr "Citation de"
+
+#: widgets/quote.php:53
+msgid "Quote Form shortcode"
+msgstr "Shortcode de formulaire de devis"
+
+#: widgets/reviews.php:17
+msgid "Reviews Post"
+msgstr "Avis post"
+
+#: widgets/reviews.php:88
+msgid "No Of Reviews Per Page"
+msgstr "Nombre de commentaires par page"
+
+#: widgets/search_bar_minimal.php:17
+msgid "Minimal Search Bar"
+msgstr "Barre de recherche minimale"
+
+#: widgets/search_bar_minimal.php:53
+msgid "Field Heading"
+msgstr "Rubrique champ"
+
+#: widgets/search_bar_minimal.php:61
+msgid "Placeholder Title"
+msgstr "Titre de l'espace réservé"
+
+#: widgets/search_bar_minimal.php:79 widgets/search_fancy.php:117
+#: widgets/search_modern.php:80 widgets/search_side_form.php:179
+#: widgets/search_tab_advance.php:61
+msgid "Do you want to show?"
+msgstr "Voulez-vous montrer"
+
+#: widgets/search_bar_minimal.php:83 widgets/search_fancy.php:121
+#: widgets/search_modern.php:84 widgets/search_side_form.php:183
+#: widgets/search_tab_advance.php:65 widgets/search_tab_classified.php:99
+msgid "yes"
+msgstr "oui"
+
+#: widgets/search_bar_minimal.php:84 widgets/search_fancy.php:122
+#: widgets/search_modern.php:85 widgets/search_side_form.php:184
+#: widgets/search_tab_advance.php:66 widgets/search_tab_classified.php:100
+msgid "no"
+msgstr "non"
+
+#: widgets/search_bar_minimal.php:117 widgets/search_bar_minimal.php:134
+#: widgets/search_make_models.php:106 widgets/search_make_models.php:123
+#: widgets/search_modern.php:118 widgets/search_modern.php:135
+#: widgets/search_side_form.php:217 widgets/search_side_form.php:233
+#: widgets/search_tab_advance.php:99 widgets/search_tab_advance.php:116
+msgid "Years"
+msgstr "Années"
+
+#: widgets/search_bar_minimal.php:125 widgets/search_make_models.php:114
+#: widgets/search_modern.php:126 widgets/search_side_form.php:225
+#: widgets/search_tab_advance.php:107
+msgid "Select Years"
+msgstr "Sélectionner les années"
+
+#: widgets/search_bar_simple.php:17
+msgid "Simple Search Bar"
+msgstr "Barre de recherche simple"
+
+#: widgets/search_creative.php:17
+msgid "Home - Hero Section"
+msgstr "Accueil - Section Hero"
+
+#: widgets/search_creative.php:56 widgets/search_fancy.php:64
+#: widgets/search_make_models.php:64 widgets/search_modern.php:56
+#: widgets/search_modern_two.php:56 widgets/search_simple.php:56
+#, php-format
+msgid "%count% for total ads."
+msgstr "%count% pour annonces totales."
+
+#: widgets/search_fancy.php:17
+msgid "Search - Fancy"
+msgstr "Recherche - Fantaisie"
+
+#: widgets/search_fancy.php:73
+msgid "Slider"
+msgstr "Slider"
+
+#: widgets/search_fancy.php:84
+msgid "Recommended Size For Image should be 1280x600.png"
+msgstr "La taille recommandée pour l’image devrait être 1280x600.png"
+
+#: widgets/search_fancy.php:94
+msgid "Add Slider Image"
+msgstr "Ajouter une nouvelle image au slider"
+
+#: widgets/search_fancy.php:139 widgets/search_make_models.php:90
+#: widgets/search_modern.php:102 widgets/search_side_form.php:201
+#: widgets/search_tab_advance.php:83 widgets/search_tab_classified.php:117
+msgid "Select Make ( All or Selective )"
+msgstr "Sélectionner Marque ( tout ou sélection)"
+
+#: widgets/search_make_models.php:17
+msgid "Search with Make Model & Years"
+msgstr "Recherche par Marques , Modèles & Années"
+
+#: widgets/search_modern.php:17
+msgid "Search - Modern"
+msgstr "Recherche - moderne"
+
+#: widgets/search_modern_two.php:17
+msgid "Home - Search Modern Two"
+msgstr "Accueil - Search Modern Two"
+
+#: widgets/search_modern_two.php:70
+msgid "Bottom car image"
+msgstr "Image de fond de voiture"
+
+#: widgets/search_side_form.php:17
+msgid "Search Side Form"
+msgstr "Formulaire latéral de recherche"
+
+#: widgets/search_side_form.php:64 widgets/search_side_form_two.php:64
+msgid "Text below the main heading."
+msgstr "Texte sous l'en-tête principal."
+
+#: widgets/search_side_form.php:79 widgets/search_side_form_two.php:79
+msgid "Features List"
+msgstr "Liste des fonctionnalités"
+
+#: widgets/search_side_form.php:118 widgets/search_side_form_two.php:117
+msgid "Floating car image"
+msgstr "Image flottante de voiture"
+
+#: widgets/search_side_form.php:146 widgets/search_side_form.php:161
+#: widgets/search_side_form_two.php:132 widgets/search_side_form_two.php:147
+msgid "Form Detail"
+msgstr "Détail du formulaire"
+
+#: widgets/search_side_form.php:153 widgets/search_side_form_two.php:139
+msgid "No of posts"
+msgstr "Articles similaires"
+
+#: widgets/search_side_form_two.php:17
+msgid "Search Side Form Two"
+msgstr "Recherche Side Form Two"
+
+#: widgets/search_side_form_two.php:158
+msgid "Filters"
+msgstr "Filtres"
+
+#: widgets/search_side_form_two.php:166
+msgid "Do you want to show Category on Form?"
+msgstr "Voulez-vous afficher la catégorie sur formulaire? "
+
+#: widgets/search_side_form_two.php:181
+msgid "Label for Category Field"
+msgstr "Étiquette pour champ de catégorie"
+
+#: widgets/search_side_form_two.php:193
+msgid "Do you want to show Year on Form?"
+msgstr "Voulez-vous montrer Année sur formulaire? "
+
+#: widgets/search_side_form_two.php:208
+msgid "Label for Year Field"
+msgstr "Label pour year field"
+
+#: widgets/search_side_form_two.php:220
+msgid "Do you want to show Tags on Form?"
+msgstr "Voulez-vous afficher des balises sur formulaire? "
+
+#: widgets/search_side_form_two.php:235
+msgid "Label for Tag Field"
+msgstr "Étiquette pour Tag Field"
+
+#: widgets/search_side_form_two.php:247
+msgid "Do you want to show Condition on Form?"
+msgstr "Voulez-vous montrer l’état sur la forme? "
+
+#: widgets/search_side_form_two.php:262
+msgid "Label for Condition Field"
+msgstr "Étiquette pour champ d’état"
+
+#: widgets/search_side_form_two.php:274
+msgid "Do you want to show Type on Form?"
+msgstr "Voulez-vous afficher type sur formulaire? "
+
+#: widgets/search_side_form_two.php:289
+msgid "Label for Type Field"
+msgstr "Étiquette pour type champ"
+
+#: widgets/search_side_form_two.php:301
+msgid "Do you want to show Warranty on Form?"
+msgstr "Voulez-vous afficher la garantie sur formulaire? "
+
+#: widgets/search_side_form_two.php:316
+msgid "Label for Warranty Field"
+msgstr "Étiquette pour warranty field"
+
+#: widgets/search_side_form_two.php:328
+msgid "Do you want to show Body Type on Form?"
+msgstr "Voulez-vous montrer Body Type sur formulaire? "
+
+#: widgets/search_side_form_two.php:343
+msgid "Label for Body Type Field"
+msgstr "Étiquette pour champ de type de corps"
+
+#: widgets/search_side_form_two.php:355
+msgid "Do you want to show Transmission on Form?"
+msgstr "Voulez-vous afficher la transmission sur formulaire? "
+
+#: widgets/search_side_form_two.php:370
+msgid "Label for Transmission Field"
+msgstr "Étiquette pour champ de transmission"
+
+#: widgets/search_side_form_two.php:382
+msgid "Do you want to show Engine size on Form?"
+msgstr "Voulez-vous afficher la taille du moteur sur formulaire? "
+
+#: widgets/search_side_form_two.php:397
+msgid "Label for Engine size Field"
+msgstr "Étiquette pour champ de taille moteur"
+
+#: widgets/search_side_form_two.php:409
+msgid "Do you want to show Engine Type on Form?"
+msgstr "Voulez-vous afficher le type de moteur sur formulaire? "
+
+#: widgets/search_side_form_two.php:424
+msgid "Label for Engine Type Field"
+msgstr "Étiquette pour champ de type moteur"
+
+#: widgets/search_side_form_two.php:436
+msgid "Do you want to show Assembly on Form?"
+msgstr "Voulez-vous montrer l’Assemblée sur formulaire? "
+
+#: widgets/search_side_form_two.php:451
+msgid "Label for Assembly Field"
+msgstr "Étiquette pour champ d’assemblage"
+
+#: widgets/search_side_form_two.php:464
+msgid "Do you want to show Color on Form?"
+msgstr "Voulez-vous montrer la couleur sur la forme? "
+
+#: widgets/search_side_form_two.php:479
+msgid "Label for Color Field"
+msgstr "Étiquette pour champ de couleur"
+
+#: widgets/search_side_form_two.php:491
+msgid "Do you want to show Insurance on Form?"
+msgstr "Voulez-vous afficher l’assurance sur formulaire? "
+
+#: widgets/search_side_form_two.php:506
+msgid "Label for Insurance Field"
+msgstr "Label pour le domaine de l’assurance"
+
+#: widgets/search_side_form_two.php:518
+msgid "Do you want to show Features on Form?"
+msgstr "Voulez-vous afficher des fonctionnalités sur le formulaire? "
+
+#: widgets/search_side_form_two.php:533
+msgid "Label for Features Field"
+msgstr "Étiquette pour champ de fonctionnalités"
+
+#: widgets/search_side_form_two.php:545
+msgid "Do you want to show Countires on Form?"
+msgstr "Voulez-vous montrer Countires sur formulaire? "
+
+#: widgets/search_side_form_two.php:560
+msgid "Label for Countires Field"
+msgstr "Étiquette pour Countires Field"
+
+#: widgets/search_side_form_two.php:572
+msgid "Do you want to show Price Range on Form?"
+msgstr "Voulez-vous afficher la gamme de prix sur formulaire? "
+
+#: widgets/search_side_form_two.php:587
+msgid "Label for Price Range Field"
+msgstr "Étiquette pour champ de gamme de prix"
+
+#: widgets/search_side_form_two.php:599 widgets/search_side_form_two.php:614
+msgid "Do you want to show Radius on Form?"
+msgstr "Voulez-vous montrer Radius sur le formulaire? "
+
+#: widgets/search_side_form_two.php:632
+msgid "Label for Radius Field"
+msgstr "Étiquette pour Radius Field"
+
+#: widgets/search_simple.php:17
+msgid "Search - Simple"
+msgstr "Recherche - Simple"
+
+#: widgets/search_tab_advance.php:17
+msgid "Advance Search - Tabs"
+msgstr "Recherche avancé"
+
+#: widgets/search_tab_advance.php:46
+msgid "Car By Detail"
+msgstr "Voiture par detail"
+
+#: widgets/search_tab_advance.php:153 widgets/search_tab_classified.php:179
+msgid "Recommended Size For Image should be 250x112.png"
+msgstr "La taille recommandée pour l’image devrait être 250x112.png"
+
+#: widgets/search_tab_classified.php:17
+msgid "Classifed Search - Tabs"
+msgstr "Recherche classifée-onglets"
+
+#: widgets/search_tab_classified.php:53
+msgid "First Tab Heading"
+msgstr "Premier onglet"
+
+#: widgets/search_tab_classified.php:61
+msgid "Second Tab Heading"
+msgstr "Deuxième onglet"
+
+#: widgets/search_tab_classified.php:72
+msgid "General Tab"
+msgstr "Général"
+
+#: widgets/search_tab_classified.php:79
+msgid "Keyword Field Title"
+msgstr "Titre du champ de mot clé"
+
+#: widgets/search_tab_classified.php:87
+msgid "Category Field Title"
+msgstr "Titre du champ catégorie"
+
+#: widgets/search_tab_classified.php:95
+msgid "Show category with their childs?"
+msgstr "Voulez-vous montrer la catégorie avec leurs Childs?"
+
+#: widgets/search_tab_classified.php:130
+msgid "Price Field Title"
+msgstr "Titre du champ de prix"
+
+#: widgets/search_tab_classified.php:138
+msgid "Minimum Price"
+msgstr "Prix Minimum"
+
+#: widgets/search_tab_classified.php:141
+msgid "0"
+msgstr "0"
+
+#: widgets/search_tab_classified.php:147
+msgid "Maximum Price"
+msgstr "Prix Max"
+
+#: widgets/search_tab_classified.php:150
+msgid "999999999"
+msgstr "999999999"
+
+#: widgets/search_tab_classified.php:159
+msgid "Category Tab"
+msgstr "Catégorie d’onglet"
+
+#: widgets/services.php:91 widgets/services_simple.php:91
+#: widgets/services_two.php:91
+msgid "Service Left"
+msgstr "Service à gauche"
+
+#: widgets/services.php:125 widgets/services.php:177
+#: widgets/services_classic.php:139 widgets/services_modern.php:192
+#: widgets/services_simple.php:123 widgets/services_simple.php:173
+#: widgets/services_three.php:127 widgets/services_two.php:125
+#: widgets/services_two.php:177 widgets/services_with_facts.php:149
+#: widgets/services_with_facts.php:212
+msgid "Select Services"
+msgstr "Sélectionnez services"
+
+#: widgets/services.php:143 widgets/services_simple.php:141
+#: widgets/services_two.php:143
+msgid "Service Right"
+msgstr "Droit de service"
+
+#: widgets/services.php:195 widgets/services.php:202
+#: widgets/services_simple.php:191 widgets/services_simple.php:198
+#: widgets/services_three.php:99 widgets/services_two.php:195
+#: widgets/services_two.php:202
+msgid "Service Image"
+msgstr "Service Image"
+
+#: widgets/services_classic.php:17
+msgid "Services Classic"
+msgstr "Services Classic"
+
+#: widgets/services_classic.php:64
+msgid "For color "
+msgstr "Pour la couleur "
+
+#: widgets/services_classic.php:64
+msgid "warp text within this tag"
+msgstr "déformer le texte dans cette balise"
+
+#: widgets/services_classic.php:105 widgets/services_with_facts.php:104
+msgid "Services We Offer"
+msgstr "Services Web"
+
+#: widgets/services_modern.php:17
+msgid "Services Modern"
+msgstr "Services Moderne"
+
+#: widgets/services_modern.php:46
+msgid "Background Images"
+msgstr "Images de fond"
+
+#: widgets/services_modern.php:53
+msgid "Background Image Left Side"
+msgstr "Image de fond côté gauche"
+
+#: widgets/services_modern.php:65
+msgid "Background Image Right Side"
+msgstr "Image de fond côté droit"
+
+#: widgets/services_modern.php:90
+msgid "For color {color}warp text within this tag{/color}"
+msgstr "Pour la couleur {color}warp texte dans cette balise{/couleur}"
+
+#: widgets/services_modern.php:104
+msgid "Car Image"
+msgstr "Image du véhicule"
+
+#: widgets/services_modern.php:107
+msgid "Recommended Size For Image should be 715x215.png"
+msgstr "Taille recommandée pour l'image doit être 715x215. png"
+
+#: widgets/services_modern.php:129
+msgid "Car Animation Effects"
+msgstr "Effets d'animation de voiture"
+
+#: widgets/services_modern.php:138
+msgid "Services Box Animation"
+msgstr "Animation Box services"
+
+#: widgets/services_modern.php:150
+msgid "Services List"
+msgstr "Liste des services"
+
+#: widgets/services_modern.php:168
+msgid "Count"
+msgstr "Nombre"
+
+#: widgets/services_simple.php:17
+msgid "Services Simple"
+msgstr "Services simples"
+
+#: widgets/services_three.php:17
+msgid "Services Style 3"
+msgstr "Style de services 3"
+
+#: widgets/services_three.php:111
+msgid "Service Title"
+msgstr "Titre du service"
+
+#: widgets/services_two.php:17
+msgid "Services Style 2"
+msgstr "Services style 2"
+
+#: widgets/services_with_facts.php:17
+msgid "Services With Facts"
+msgstr "Services avec faits"
+
+#: widgets/services_with_facts.php:91
+msgid "Recommended Size For Image should be 1920x717.png"
+msgstr "Taille recommandée pour l’image devrait être 1920x717.png"
+
+#: widgets/services_with_facts.php:112
+msgid "Icon Image"
+msgstr "Image d’icône"
+
+#: widgets/services_with_facts.php:115
+msgid "Image size must be 64x64 px"
+msgstr "La taille de l’image doit être 64X64 px"
+
+#: widgets/services_with_facts.php:125
+msgid "Services Count"
+msgstr "Nombre de services"
+
+#: widgets/services_with_facts.php:188
+msgid "Total Numbers in counter"
+msgstr "Nombre total dans le compteur"
+
+#: widgets/services_with_facts.php:196
+msgid "Text below the numbers"
+msgstr "Texte ci-dessous les chiffres"
+
+#: widgets/services_with_facts.php:204
+msgid "Colored Text"
+msgstr "Texte coloré "
+
+#: widgets/shop_products.php:17
+msgid "Shop Products"
+msgstr "Produits de la boutique"
+
+#: widgets/shop_products.php:91 widgets/shop_slider.php:91
+msgid "Products"
+msgstr "Produits"
+
+#: widgets/shop_slider.php:17
+msgid "Shop Products Slider"
+msgstr "Boutique produits Slider"
+
+#: widgets/shop_tabs.php:17
+msgid "Shop Tabs"
+msgstr "Onglets boutique"
+
+#: widgets/shop_tabs.php:91
+msgid "Products Settings"
+msgstr "Paramètres des produits"
+
+#: widgets/signin.php:17
+msgid "Sign In"
+msgstr "Se connecter"
+
+#: widgets/signup.php:17
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+#: widgets/signup.php:53
+msgid "Term and Condition"
+msgstr "Terme et condition texte"
+
+#: widgets/signup.php:57
+msgid "Terms & Condition"
+msgstr "Termes et conditions"
+
+#: widgets/signup.php:79
+msgid "Terms & Condition Title"
+msgstr "Titre Termes et conditions"
+
+#: widgets/signup.php:87
+msgid "Capcha Code"
+msgstr "Capcha"
+
+#: widgets/signup.php:91
+msgid "Without Capcha"
+msgstr "Sans Capcha"
+
+#: widgets/signup.php:92
+msgid "With Capcha"
+msgstr "Capcha"
+
+#: widgets/testimonial.php:17 widgets/testimonial.php:91
+#: widgets/testimonial.php:160 widgets/testimonial_two.php:160
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: widgets/testimonial.php:115 widgets/testimonial_two.php:115
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+#: widgets/testimonial.php:123 widgets/testimonial_two.php:123
+msgid "User Desgination"
+msgstr "Désignation de l’utilisateur"
+
+#: widgets/testimonial.php:131 widgets/testimonial_two.php:131
+msgid "Rating"
+msgstr "Évaluation"
+
+#: widgets/testimonial.php:135 widgets/testimonial_two.php:135
+msgid "Select Rating"
+msgstr "Sélectionner le classement"
+
+#: widgets/testimonial.php:136 widgets/testimonial_two.php:136
+msgid "1 Star"
+msgstr "1 étoile"
+
+#: widgets/testimonial.php:137 widgets/testimonial_two.php:137
+msgid "2 Star"
+msgstr "2 Étoiles"
+
+#: widgets/testimonial.php:138 widgets/testimonial_two.php:138
+msgid "3 Star"
+msgstr "3 étoiles"
+
+#: widgets/testimonial.php:139 widgets/testimonial_two.php:139
+msgid "4 Star"
+msgstr "4 étoiles"
+
+#: widgets/testimonial.php:140 widgets/testimonial_two.php:140
+msgid "5 Star"
+msgstr "5 étoiles"
+
+#: widgets/testimonial.php:147 widgets/testimonial_two.php:147
+msgid "User Image"
+msgstr "Image de l’utilisateur"
+
+#: widgets/testimonial.php:150 widgets/testimonial_two.php:150
+msgid "Recommended Size For Image should be 90x90.png"
+msgstr "Taille recommandée pour l’image doit être 90x90.png"
+
+#: widgets/testimonial_two.php:17 widgets/testimonial_two.php:91
+msgid "Testimonials Two"
+msgstr "Témoignages Deux"
+
+#: widgets/textblock.php:17
+msgid "Text Block"
+msgstr "Bloc de texte"
+
+#: widgets/textblock.php:98
+msgid "Contents"
+msgstr "Contenus"
+
+#: widgets/textblock.php:101
+msgid "Default description"
+msgstr "Description par défaut "
+
+#: widgets/textblock.php:102
+msgid "Type your description here"
+msgstr "Saisir la description ici"
+
+#: widgets/why_us.php:17
+msgid "Why Us"
+msgstr "Pourquoi nous choisir"
+
+#: widgets/why_us.php:91
+msgid "Facts"
+msgstr "Faits"
+
+#: widgets/why_us.php:141
+msgid "Select Facts"
+msgstr "Sélectionner les faits"
+
+#. Plugin Name of the plugin/theme
+msgid "Carspot Elementor Widgets"
+msgstr "Carspot Elementor Widgets"
+
+#. Theme URI of the plugin/theme
+msgid "http://carspot.scriptsbundle.com/demos/"
+msgstr "http://carspot.scriptsbundle.com/Demos/"
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr "Ce plugin est essentiel pour le bon fonctionnement du thème."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "Scripts Bundle"
+
+#. Author URI of the plugin/theme
+msgid "http://scriptsbundle.com/"
+msgstr "http://scriptsbundle.com/"
